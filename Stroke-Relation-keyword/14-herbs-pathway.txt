@@ -1,0 +1,2561 @@
+Entity1ID	Entity1	Entity2ID	Entity2	PMID:keyword
+Herb185	Huang-Wan	Pathway9021	insulin	26817897:Liu-Wei-Di-Huang-Wan
+Herb381	Xi-Xin	Pathway18719	Xin	31348992:null
+Herb243	Niu-Huang	Pathway2197	Bcl-2	24690773:protects
+Herb243	Niu-Huang	Pathway2166	Bax	24690773:protects
+Herb243	Niu-Huang	Pathway3092	caspase-3	24690773:protects
+Herb84	Deng-Zhan-Xi-Xin	Pathway18719	Xin	31348992:null
+Herb88	Di-Huang	Pathway9021	insulin	26817897:Liu-Wei-Di-Huang-Wan
+Herb76	Da-Huang	Pathway9021	insulin	26817897:null
+Herb82	Dan-Shen	Pathway9021	insulin	26817897:null
+Herb177	Huang-Lian	Pathway9365	Jasminoidin	28894512:null
+Herb177	Huang-Lian	Pathway10289	MAPK	23811213:induced
+Herb177	Huang-Lian	Pathway11353	mTOR	23811213:induced
+Herb177	Huang-Lian	Pathway7924	HLJDT	23628154:null
+Herb216	Liu-Wei-Di-Huang-Wan	Pathway9021	insulin	26817897:Liu-Wei-Di-Huang-Wan
+Herb399	Yu-Li	Pathway18782	ZHANG	25335266:null
+Herb179	Huang-Lian-Jie-Du-Tang	Pathway7924	HLJDT	23628154:null
+Herb376	Xin-Fa	Pathway18784	Zhi	18619256:null
+Herb376	Xin-Fa	Pathway18719	Xin	18619256:null
+Herb378	Xiong	Pathway17497	TMP	27380043:null
+Herb175	Huang-Li	Pathway9365	Jasminoidin	28894512:null
+Herb175	Huang-Li	Pathway10289	MAPK	23811213:induced
+Herb175	Huang-Li	Pathway11353	mTOR	23811213:induced
+Herb175	Huang-Li	Pathway7924	HLJDT	23628154:null
+Herb212	lichen	Pathway14893	recombinant Cheonggukjang kinase	21554139:null
+Herb212	lichen	Pathway3544	CGK	21554139:null
+Herb212	lichen	Pathway6043	fibrin	21554139:null
+Herb291	sanqi	Pathway13034	Panax notoginseng saponins	29896951:null
+Herb163	Honghua	Pathway7625	herb Danshen	29383171:null
+Herb78	Danggui	Pathway12766	p	29844404:null
+Herb78	Danggui	Pathway12766	p	29844404:used
+Herb78	Danggui	Pathway12766	p	29844404:treat
+Herb78	Danggui	Pathway5031	DSS	26236546:null
+Herb138	Gualou	Pathway6772	GLGZG	25815607:null
+Herb138	Gualou	Pathway6772	GLGZG	25815607:examine
+Herb138	Gualou	Pathway13109	PARP-1	31792665:null
+Herb138	Gualou	Pathway762	AIF	31792665:null
+Herb138	Gualou	Pathway13061	PAR	31792665:null
+Herb229	mapi	Pathway12872	p38	26273189:null
+Herb229	mapi	Pathway11035	mitogen-activated protein kinase	26273189:null
+Herb229	mapi	Pathway10289	MAPK	26273189:null
+Herb229	mapi	Pathway10289	MAPK	26273189:targets
+Herb229	mapi	Pathway10304	MAPKs	26273189:targets
+Herb229	mapi	Pathway12872	p38	26273189:thought
+Herb229	mapi	Pathway12872	p38	26273189:counteract
+Herb229	mapi	Pathway10289	MAPK	26273189:thought
+Herb229	mapi	Pathway10289	MAPK	26273189:counteract
+Herb229	mapi	Pathway10304	MAPKs	26273189:thought
+Herb229	mapi	Pathway10304	MAPKs	26273189:counteract
+Herb229	mapi	Pathway10304	MAPKs	26273189:null
+Herb161	hongfen	Pathway18775	ZFG	30518742:null
+Herb305	Shengma	Pathway16025	Shengmai San	16883630:null
+Herb48	Chaihu	Pathway17374	Tianma Gouteng yin	25204193:null
+Herb97	ercha	Pathway2166	Bax	22056880:interchangeable
+Herb97	ercha	Pathway2148	Bak	22056880:interchangeable
+Herb97	ercha	Pathway1554	Apo E-2	8767617:null
+Herb97	ercha	Pathway1553	Apo E sequences	8767617:null
+Herb97	ercha	Pathway17228	TFIIB	1557390:interchangeable
+Herb97	ercha	Pathway6474	GAL4	1557390:interchangeable
+Herb97	ercha	Pathway18574	VP16	1557390:interchangeable
+Herb97	ercha	Pathway14157	PRC2	27783950:associated
+Herb97	ercha	Pathway7348	H3K27	27783950:associated
+Herb97	ercha	Pathway7349	H3K27me2	27783950:associated
+Herb97	ercha	Pathway7350	H3K27me3	27783950:associated
+Herb233	Muji	Pathway17178	TENS	20046171:null
+Herb233	Muji	Pathway18244	UST	20046171:null
+Herb233	Muji	Pathway18173	ultrasonic therapy	20046171:null
+Herb142	guiding	Pathway2523	BNP	21804778:null
+Herb142	guiding	Pathway4760	D-dimer proteins	21804778:null
+Herb142	guiding	Pathway13605	PITX2	21804778:null
+Herb142	guiding	Pathway18778	ZFHX3 genes	21804778:null
+Herb142	guiding	Pathway8762	IL-1	28895072:null
+Herb142	guiding	Pathway8818	IL-18	28895072:null
+Herb380	xixin	Pathway11956	neurotrophins	24012966:upregulate
+Herb143	Guizhi	Pathway6772	GLGZG	25815607:null
+Herb143	Guizhi	Pathway6772	GLGZG	25815607:examine
+Herb143	Guizhi	Pathway13109	PARP-1	31792665:null
+Herb143	Guizhi	Pathway762	AIF	31792665:null
+Herb143	Guizhi	Pathway13061	PAR	31792665:null
+Herb310	Shexiang	Pathway3399	CD54	16688995:null
+Herb242	Niuhuang	Pathway6155	fMRI	22438174:null
+Herb242	Niuhuang	Pathway1353	ANP	25587341:null
+Herb210	Lianqiao	Pathway3066	caspase	16360928:blocked
+Herb210	Lianqiao	Pathway3092	caspase-3	16360928:blocked
+Herb290	Sanger	Pathway3267	CCM1	28645800:null
+Herb290	Sanger	Pathway9613	KRIT1	28645800:null
+Herb290	Sanger	Pathway3274	CCM2	28645800:null
+Herb290	Sanger	Pathway3281	CCM3	28645800:null
+Herb290	Sanger	Pathway13187	PDCD10	28645800:null
+Herb290	Sanger	Pathway13984	POLG	31425757:null
+Herb290	Sanger	Pathway13984	POLG	31425757:harboring
+Herb290	Sanger	Pathway16027	SHH	28640243:null
+Herb290	Sanger	Pathway18785	ZIC2	28640243:null
+Herb290	Sanger	Pathway16192	SIX3	28640243:null
+Herb290	Sanger	Pathway17291	TGIF	28640243:null
+Herb290	Sanger	Pathway1059	ALS	23475517:null
+Herb290	Sanger	Pathway10645	MGMT	28148826:null
+Herb290	Sanger	Pathway14565	pTERT	28148826:null
+Herb290	Sanger	Pathway8622	IDH1	28148826:null
+Herb290	Sanger	Pathway18355	VASP	25457586:null
+Herb366	wuli	Pathway18751	yin	24843962:null
+Herb366	Wuli	Pathway17933	TSPO	27063986:prevents
+Herb366	Wuli	Pathway17933	TSPO	27063986:focused
+Herb366	Wuli	Pathway17933	TSPO	27063986:altered
+Herb203	JUPI	Pathway16726	Statins	28450350:null
+Herb203	JUPI	Pathway9535	KIF6	21493817:effective
+Herb203	JUPI	Pathway16726	Statins	20026779:null
+Herb387	Yangyi	Pathway18751	yin	25951630:null
+Herb83	Dengzhanxixin	Pathway11956	neurotrophins	24012966:upregulate
+Herb379	Xixian	Pathway576	ADAMTS1	31359683:promote
+Herb379	Xixian	Pathway6141	FLT1	31359683:promote
+Herb379	Xixian	Pathway9512	KDR	31359683:promote
+Herb379	Xixian	Pathway18404	VEGFA	31359683:promote
+Herb379	Xixian	Pathway18418	VEGFR2	31359683:promote
+Herb379	Xixian	Pathway2932	CAMK2 AA	31359683:promote
+Herb379	Xixian	Pathway10443	MDM2	31359683:promote
+Herb379	Xixian	Pathway10295	MAPK1	31359683:promote
+Herb379	Xixian	Pathway10298	MAPK3	31359683:promote
+Herb379	Xixian	Pathway3446	CDK5	31359683:promote
+Herb379	Xixian	Pathway10296	MAPK10	31359683:promote
+Herb379	Xixian	Pathway13554	PI3 K	31359683:promote
+Herb379	Xixian	Pathway781	Akt	31359683:promote
+Herb379	Xixian	Pathway5657	ESR1	31359683:regulating
+Herb379	Xixian	Pathway12423	NR1 H3	31359683:regulating
+Herb379	Xixian	Pathway14096	PPARA	31359683:regulating
+Herb379	Xixian	Pathway14102	PPARG	31359683:regulating
+Herb379	Xixian	Pathway9306	ITGA2 B	31359683:prevent
+Herb379	Xixian	Pathway803	ALB	31359683:prevent
+Herb379	Xixian	Pathway10075	LTA4 H	31359726:null
+Herb379	Xixian	Pathway9998	LOX	31359726:null
+Herb379	Xixian	Pathway4073	COX-2	31359726:showed
+Herb379	Xixian	Pathway10075	LTA4 H	31359726:showed
+Herb379	Xixian	Pathway9998	LOX	31359726:showed
+Herb379	Xixian	Pathway9998	LOX	31359726:acting
+Herb379	Xixian	Pathway17289	TGFR-1	31359663:null
+Herb379	Xixian	Pathway18419	VEGFR-2	31359663:null
+Herb379	Xixian	Pathway12390	NPC1 L1	31090302:null
+Herb379	Xixian	Pathway7938	HMG-CoA reductase	31090302:null
+Herb379	Xixian	Pathway16622	SQS	31090302:null
+Herb379	Xixian	Pathway11365	MTP	31090302:null
+Herb379	Xixian	Pathway3520	CETP	31090302:null
+Herb87	Dihuang	Pathway8196	Hua	30641630:null
+Herb87	Dihuang	Pathway17374	Tianma Gouteng yin	25204193:null
+Herb87	Dihuang	Pathway17464	TLR4	29234386:null
+Herb87	Dihuang	Pathway11474	MyD88	29234386:null
+Herb87	Dihuang	Pathway11976	NF	29234386:null
+Herb172	huaitong	Pathway9021	insulin	25532381:null
+Herb30	Banxia	Pathway17374	Tianma Gouteng yin	25204193:null
+Herb61	chuanxiong	Pathway13035	Panax pseudo-ginseng	31359663:null
+Herb61	chuanxiong	Pathway12390	NPC1 L1	31090302:null
+Herb61	chuanxiong	Pathway7938	HMG-CoA reductase	31090302:null
+Herb61	chuanxiong	Pathway16622	SQS	31090302:null
+Herb61	chuanxiong	Pathway17024	target NPC1 L1	31090302:null
+Herb61	chuanxiong	Pathway17464	TLR4	29193143:null
+Herb61	chuanxiong	Pathway11474	MyD88	29193143:null
+Herb61	chuanxiong	Pathway10289	MAPK	29193143:null
+Herb61	chuanxiong	Pathway18320	vascular epithelial growth factor	16608086:null
+Herb61	Chuanxiong	Pathway4073	COX-2	31359726:taken
+Herb61	Chuanxiong	Pathway10075	LTA4 H	31359726:taken
+Herb61	Chuanxiong	Pathway9998	LOX	31359726:taken
+Herb61	Chuanxiong	Pathway4073	COX-2	31359726:null
+Herb61	Chuanxiong	Pathway10075	LTA4 H	31359726:null
+Herb61	Chuanxiong	Pathway9998	LOX	31359726:null
+Herb61	Chuanxiong	Pathway9998	LOX	31359726:acting
+Herb61	Chuanxiong	Pathway10550	Meta	30347928:achieve
+Herb314	Shouwuteng	Pathway3066	caspase	16360928:blocked
+Herb314	Shouwuteng	Pathway3092	caspase-3	16360928:blocked
+Herb63	cigu	Pathway7316	guanylate cyclase	26520063:null
+Herb375	Xijiao	Pathway17464	TLR4	29234386:null
+Herb375	Xijiao	Pathway11474	MyD88	29234386:null
+Herb375	Xijiao	Pathway11976	NF	29234386:null
+Herb169	HUAFEN	Pathway15950	serum triiodothyroidoglobulin	10073023:observed
+Herb182	Huangqin	Pathway14509	PSD	15185839:showed
+Herb182	Huangqin	Pathway13254	PDZ2	15185839:showed
+Herb182	Huangqin	Pathway14514	PSD-95	15185839:showed
+Herb182	Huangqin	Pathway8197	Huangqin	15185839:null
+Herb182	Huangqin	Pathway13250	PDZ	15185839:showed
+Herb347	Tianma	Pathway17374	Tianma Gouteng yin	25204193:null
+Herb347	Tianma	Pathway17374	Tianma Gouteng Yin	22696374:null
+Herb217	Longgu	Pathway17374	Tianma Gouteng yin	25204193:null
+Herb180	Huangqi	Pathway14509	PSD	15185839:showed
+Herb180	Huangqi	Pathway13254	PDZ2	15185839:showed
+Herb180	Huangqi	Pathway14514	PSD-95	15185839:showed
+Herb180	Huangqi	Pathway8197	Huangqin	15185839:null
+Herb180	Huangqi	Pathway13250	PDZ	15185839:showed
+Herb81	danshen	Pathway4828	DHI	23921303:null
+Herb81	Danshen	Pathway3611	CHM	30192890:null
+Herb81	Danshen	Pathway10190	Ma Zi Ren Wan	30192890:null
+Herb81	Danshen	Pathway10550	Meta	30347928:achieve
+Herb81	Danshen	Pathway10550	Meta	30347928:safe
+Herb81	Danshen	Pathway10066	LST	26806573:combined
+Herb81	Danshen	Pathway17004	tanshinone IIA	26806573:null
+Herb81	Danshen	Pathway17000	Tan IIA	26806573:null
+Herb81	Danshen	Pathway15608	SA-B	26806573:null
+Herb81	Danshen	Pathway4455	CYP3A4	26806573:speed
+Herb81	Danshen	Pathway4436	CYP2C9	26806573:speed
+Herb81	Danshen	Pathway17000	Tan IIA	26806573:speed
+Herb81	Danshen	Pathway15608	SA-B	26806573:have
+Herb81	Danshen	Pathway17003	Tanshinone I	24760430:null
+Herb81	Danshen	Pathway17908	TsI	24760430:null
+Herb81	Danshen	Pathway13396	PgP	17504224:null
+Herb81	Danshen	Pathway11240	Mrp1	17504224:null
+Herb81	Danshen	Pathway11240	MRP1	17504224:null
+Herb81	Danshen	Pathway13392	P-glycoprotein	17504222:null
+Herb81	Danshen	Pathway13397	P-gp	17504222:null
+Herb81	Danshen	Pathway17901	TSA	17504222:null
+Herb81	Danshen	Pathway7933	HMGB1	17339485:attenuated
+Herb81	Danshen	Pathway12188	NMDA receptor	15830837:null
+Herb81	Danshen	Pathway12183	NMDA	15830837:null
+Herb81	Danshen	Pathway12183	NMDA	15830837:evoked
+Herb81	Danshen	Pathway7625	herb Danshen	29383171:null
+Herb28	Baizhu	Pathway17374	Tianma Gouteng yin	25204193:null
+Herb134	Gouteng	Pathway17374	Tianma Gouteng yin	25204193:null
+Herb134	Gouteng	Pathway17374	Tianma Gouteng Yin	22696374:null
+Herb368	Wuzhuyu	Pathway12766	p	29844404:null
+Herb368	Wuzhuyu	Pathway12766	p	29844404:used
+Herb368	Wuzhuyu	Pathway12766	p	29844404:treat
+Herb192	jiang	Pathway407	ACE2	30342552:null
+Herb192	jiang	Pathway3900	COL4A2	31214923:null
+Herb192	jiang	Pathway18720	Xinjiang Han	31214923:null
+Herb192	jiang	Pathway3901	COL4A2 gene	31214923:null
+Herb192	jiang	Pathway13174	PCSK9 gene	25266949:null
+Herb192	jiang	Pathway18720	Xinjiang Han	25266949:null
+Herb192	jiang	Pathway15457	rs556621 but Not rs11984041	25307434:null
+Herb192	jiang	Pathway16988	Tag	28873081:null
+Herb192	jiang	Pathway3254	CCL11	28873081:null
+Herb192	jiang	Pathway18720	Xinjiang Han	28873081:null
+Herb192	jiang	Pathway3255	CCL11 gene	28873081:null
+Herb299	shanzhi	Pathway11755	ND01	24823762:null
+Herb320	shuyu	Pathway12766	p	29844404:null
+Herb320	shuyu	Pathway12766	p	29844404:used
+Herb320	shuyu	Pathway12766	p	29844404:treat
+Herb301	Shaoyao	Pathway5031	DSS	26236546:null
+Herb374	XIFEN	Pathway15950	serum triiodothyroidoglobulin	10073023:observed
+Herb374	xifen	Pathway16705	STAR	19105706:null
+Herb374	xifen	Pathway9777	L-DOPA	17116309:null
+Herb374	xifen	Pathway16805	striatal protein kinase C	17116309:lesioned
+Herb374	xifen	Pathway13619	PKC	17116309:lesioned
+Herb374	xifen	Pathway13619	PKC	17116309:null
+Herb374	xifen	Pathway9777	L-DOPA	17116309:lesioned
+Herb374	xifen	Pathway9777	L-DOPA	17116309:prevented
+Herb374	xifen	Pathway9777	L-DOPA	17116309:induced
+Herb374	xifen	Pathway1988	ATF6	27217380:null
+Herb374	xifen	Pathway15654	sATF6	27217380:null
+Herb374	xifen	Pathway1989	ATF6 UPR	27217380:null
+Herb374	xifen	Pathway9525	KI	27217380:null
+Herb374	xifen	Pathway10443	Mdm2	29267372:null
+Herb374	xifen	Pathway17931	Tspan12 allele	30354230:null
+Herb374	xifen	Pathway3441	Cdh5-CreERT2 driver	30354230:null
+Herb374	xifen	Pathway17930	Tspan12	30354230:null
+Herb374	xifen	Pathway18024	Txnrd2	26199228:used
+Herb374	xifen	Pathway12327	Notch2	29853569:delete
+Herb374	xifen	Pathway13237	Pdgfrb-gene	26435273:null
+Herb374	xifen	Pathway5666	Estrogen Receptor	27389095:null
+Herb374	xifen	Pathway7075	GPER	27389095:relaxed
+Herb374	xifen	Pathway11	[G protein-coupled ER	27389095:relaxed
+Herb374	xifen	Pathway7075	GPER	27389095:null
+Herb374	xifen	Pathway11	[G protein-coupled ER	27389095:null
+Herb374	xifen	Pathway9628	Kv	27389095:null
+Herb374	xifen	Pathway7075	GPER	27389095:receptors;
+Herb374	xifen	Pathway9628	Kv	27389095:receptors;
+Herb374	xifen	Pathway7103	GPR17	28594400:become
+Herb374	xifen	Pathway7103	GPR17	28594400:expressing
+Herb374	xifen	Pathway12606	oestrogen receptor	31127971:null
+Herb374	xifen	Pathway12606	oestrogen receptor	31127971:modulating
+Herb374	xifen	Pathway10289	MAPK	31127971:modulating
+Herb374	xifen	Pathway5623	ERK1	31127971:modulating
+Herb374	xifen	Pathway5666	estrogen receptor	28479229:null
+Herb374	Xifen	Pathway17374	Tianma Gouteng yin	25204193:null
+Herb312	Shouwu	Pathway3066	caspase	16360928:blocked
+Herb312	Shouwu	Pathway3092	caspase-3	16360928:blocked
+Herb355	tusi	Pathway1769	AQP4	24817288:null
+Herb355	tusi	Pathway17865	TRPM7 mRNAs	24817288:null
+Herb355	tusi	Pathway1769	AQP4	24817288:isolated
+Herb355	tusi	Pathway17865	TRPM7 mRNAs	24817288:isolated
+Herb355	tusi	Pathway1769	AQP4	24817288:decreased
+Herb355	tusi	Pathway1769	AQP4	24817288:decreasing
+Herb355	tusi	Pathway17865	TRPM7 mRNAs	24817288:decreasing
+Herb355	tusi	Pathway15722	SCI	20599974:null
+Herb355	tusi	Pathway5647	erythropoietin	18313052:null
+Herb355	tusi	Pathway4726	darbepoetin	18313052:null
+Herb355	tusi	Pathway15722	SCI	18313052:null
+Herb355	tusi	Pathway3202	CBF	1506882:null
+Herb355	tusi	Pathway7378	HAL	2166617:used
+Herb355	tusi	Pathway885	alpha 1 NE receptors	2166617:null
+Herb355	tusi	Pathway7378	HAL	2166617:null
+Herb355	tusi	Pathway14153	PRAZ	2166617:null
+Herb355	tusi	Pathway11725	NBP	28359729:attenuated
+Herb355	tusi	Pathway4525	cytochrome c	28359729:null
+Herb355	tusi	Pathway11725	NBP	28359729:null
+Herb355	tusi	Pathway3092	caspase-3	25725354:pro-apototic
+Herb355	tusi	Pathway15722	SCI	28599602:null
+Herb355	tusi	Pathway15145	RhoA	24297045:measured
+Herb355	tusi	Pathway15245	ROCK	24297045:measured
+Herb300	shao	Pathway15263	ROS	30347921:decreases
+Herb300	shao	Pathway16447	SOD	30347921:showed
+Herb300	shao	Pathway7243	GSH	30347921:showed
+Herb300	shao	Pathway7247	GSH-PX	30347921:showed
+Herb300	shao	Pathway2197	Bcl-2	30347921:up-regulated
+Herb300	shao	Pathway2166	Bax	30347921:down-regulate
+Herb300	shao	Pathway3069	caspase 3	30347921:down-regulate
+Herb300	Shao	Pathway5031	DSS	26236546:null
+Herb417	zhuyu	Pathway12766	p	29844404:null
+Herb417	zhuyu	Pathway12766	p	29844404:used
+Herb417	zhuyu	Pathway12766	p	29844404:treat
+Herb315	shuai	Pathway9021	insulin	25532381:null
+Herb155	hepi	Pathway13736	plasma protein	1653072:decreased
+Herb155	hepi	Pathway142	5-HT receptor	1653072:involved
+Herb335	taifa	Pathway5980	ferroportin	25672910:results
+Herb335	taifa	Pathway5980	Ferroportin	25672910:null
+Herb335	taifa	Pathway6231	Fpn	25672910:null
+Herb289	sang	Pathway6043	fibrin	21440088:null
+Herb289	sang	Pathway261	A2	21440088:null
+Herb289	sang	Pathway5421	endothelin-A receptor gene	9072350:null
+Herb289	sang	Pathway5387	endothelin (ET) receptor	9072350:null
+Herb289	sang	Pathway5700	ET-A receptor	9072350:null
+Herb289	sang	Pathway5706	ET-AR	9072350:null
+Herb289	sang	Pathway5712	ET-B receptor	9072350:null
+Herb289	sang	Pathway5715	ET-BR	9072350:null
+Herb289	sang	Pathway5706	ET-AR	9072350:expressed
+Herb289	sang	Pathway5708	ET-AR mRNA	9072350:null
+Herb289	sang	Pathway5716	ET-BR mRNA	9072350:null
+Herb289	sang	Pathway5706	ET-AR	9072350:augmented
+Herb289	sang	Pathway5707	ET-AR gene	9072350:augmented
+Herb289	sang	Pathway6090	FII G20210A	18627609:consanguineous
+Herb289	sang	Pathway6371	G20210A	18627609:consanguineous
+Herb289	sang	Pathway18143	UCP2	23297375:null
+Herb289	sang	Pathway18145	UCP2 gene	23297375:null
+Herb289	sang	Pathway1961	AT2	9314417:null
+Herb289	sang	Pathway1963	AT2 receptor	9314417:null
+Herb289	sang	Pathway10539	mesangial AT2-receptor	9314417:null
+Herb289	sang	Pathway13984	POLG	31425757:null
+Herb289	sang	Pathway2991	CAPN3	31498126:detect
+Herb289	sang	Pathway2992	CAPN3 gene	31498126:detect
+Herb289	sang	Pathway3912	collagen	16723697:null
+Herb289	sang	Pathway414	ACE2 mutant	16723697:null
+Herb289	sang	Pathway407	ACE2	16723697:null
+Herb289	sang	Pathway5987	FEZF1	25192046:null
+Herb289	sang	Pathway7694	HGF	10454454:null
+Herb289	sang	Pathway1196	angiotensin (Ang) II	10454454:null
+Herb289	sang	Pathway2741	C3	23713944:null
+Herb289	sang	Pathway14701	RAB3GAP1 mutations	27081543:null
+Herb289	sang	Pathway14700	RAB3GAP1	27081543:null
+Herb289	sang	Pathway12663	Orai1	29363325:null
+Herb289	sang	Pathway5386	Endothelin	9072359:null
+Herb289	sang	Pathway11040	mitogen-activated protein kinases	9072359:null
+Herb289	sang	Pathway11477	myelin basic protein	9072359:null
+Herb289	sang	Pathway10392	MBP	9072359:null
+Herb289	sang	Pathway5697	ET-3	9072359:null
+Herb289	sang	Pathway10394	MBP kinase	9072359:null
+Herb289	sang	Pathway5689	ET-1	9072359:null
+Herb289	sang	Pathway5681	ET	9072359:null
+Herb289	sang	Pathway10289	MAPK	9072359:null
+Herb289	sang	Pathway5681	ET	9072359:have
+Herb289	Sang	Pathway16627	SR	18981568:null
+Herb289	Sang	Pathway3267	CCM1	28645800:null
+Herb289	Sang	Pathway9613	KRIT1	28645800:null
+Herb289	Sang	Pathway3274	CCM2	28645800:null
+Herb289	Sang	Pathway3281	CCM3	28645800:null
+Herb289	Sang	Pathway13187	PDCD10	28645800:null
+Herb289	Sang	Pathway13984	POLG	31425757:null
+Herb289	Sang	Pathway13984	POLG	31425757:harboring
+Herb289	Sang	Pathway16027	SHH	28640243:null
+Herb289	Sang	Pathway18785	ZIC2	28640243:null
+Herb289	Sang	Pathway16192	SIX3	28640243:null
+Herb289	Sang	Pathway17291	TGIF	28640243:null
+Herb289	Sang	Pathway1059	ALS	23475517:null
+Herb289	Sang	Pathway10645	MGMT	28148826:null
+Herb289	Sang	Pathway14565	pTERT	28148826:null
+Herb289	Sang	Pathway8622	IDH1	28148826:null
+Herb289	Sang	Pathway18355	VASP	25457586:null
+Herb221	lucan	Pathway375	ACAT	18645343:new
+Herb148	hama	Pathway18446	VHL disease	18813354:null
+Herb148	hama	Pathway18444	VHL	18813354:null
+Herb152	Hegu	Pathway9382	Jin	21793387:null
+Herb162	Honghu	Pathway7625	herb Danshen	29383171:null
+Herb346	TIANLONG	Pathway15950	serum triiodothyroidoglobulin	10073023:observed
+Herb367	Wuling	Pathway17933	TSPO	27063986:prevents
+Herb367	Wuling	Pathway17933	TSPO	27063986:focused
+Herb367	Wuling	Pathway17933	TSPO	27063986:altered
+Herb12	Angelica	Pathway4073	COX-2	31359726:taken
+Herb12	Angelica	Pathway10075	LTA4 H	31359726:taken
+Herb12	Angelica	Pathway9998	LOX	31359726:taken
+Herb12	Angelica	Pathway9998	LOX	31359726:acting
+Herb12	Angelica	Pathway13035	Panax pseudo-ginseng	31359663:null
+Herb12	Angelica	Pathway9865	LIG	19571521:null
+Herb12	Angelica	Pathway9865	LIG	21398513:shown
+Herb281	Rhubarb	Pathway11702	Nao Mai Tong formula	27632784:null
+Herb281	Rhubarb	Pathway12221	NMT	27632784:null
+Herb123	Garlic	Pathway9768	LDL-cholesterol	10483684:reduces
+Herb123	Garlic	Pathway7516	HDL-cholesterol	10483684:reduces
+Herb123	Garlic	Pathway6045	fibrinogen	10483684:reduces
+Herb123	Garlic	Pathway9750	LDL	10483684:reduces
+Herb123	Garlic	Pathway7503	HDL	10483684:reduces
+Herb38	Borneol	Pathway15620	Sal B	30411995:associated
+Herb257	Pericarp	Pathway12234	nobiletin	23265538:containing
+Herb257	Pericarp	Pathway17002	tangeretin	23265538:containing
+Herb360	Undaria pinnatifida	Pathway13557	PI3K	27153123:prevents
+Herb360	Undaria pinnatifida	Pathway781	Akt	27153123:prevents
+Herb360	Undaria pinnatifida	Pathway5450	eNOS	27153123:prevents
+Herb360	Undaria pinnatifida	Pathway5450	eNOS	27153123:null
+Herb352	Tomato	Pathway8577	Iba1	31392691:null
+Herb352	Tomato	Pathway763	Aif1	31392691:null
+Herb352	Tomato	Pathway6583	GCaMP5G	31392691:null
+Herb352	Tomato	Pathway14961	red fluorescent protein	31392691:null
+Herb137	Grub	Pathway1420	Anti-human FXI antibody	15545266:null
+Herb132	Glucose	Pathway13613	PKA	30708047:Activating
+Herb132	Glucose	Pathway4127	CREB	30708047:Activating
+Herb132	Glucose	Pathway11825	Neprilysin	29525327:null
+Herb132	Glucose	Pathway9021	Insulin	28606340:Diabetes
+Herb132	Glucose	Pathway15135	Rho	27380043:null
+Herb132	Glucose	Pathway15162	Rho-kinase	27380043:null
+Herb132	Glucose	Pathway4850	Dipeptidyl Peptidase	27390996:null
+Herb132	Glucose	Pathway9021	insulin	17434094:null
+Herb132	Glucose	Pathway18167	UK Glucose Insulin	17434094:null
+Herb132	Glucose	Pathway9021	insulin	17877135:focused
+Herb132	Glucose	Pathway9021	insulin	12482794:null
+Herb132	Glucose	Pathway9021	insulin	3538938:null
+Herb132	Glucose	Pathway15388	rs2295490	27793583:null
+Herb132	Glucose	Pathway3878	Cofilin	25526862:null
+Herb132	Glucose	Pathway5512	EphA2	23308246:induced
+Herb132	Glucose	Pathway18666	WT	23308246:induced
+Herb132	Glucose	Pathway10491	MELAS	25086207:null
+Herb132	Glucose	Pathway3499	Cerebral Ischemic Rats	30919283:null
+Herb132	Glucose	Pathway17032	Targeting Glucose 6-Phosphate Dehydrogenase	30919283:null
+Herb132	Glucose	Pathway10825	miR-155	30587668:Regulating
+Herb132	Glucose	Pathway12371	NOXA	31041561:activated
+Herb132	Glucose	Pathway17464	TLR4	29234386:null
+Herb132	Glucose	Pathway11474	MyD88	29234386:null
+Herb132	Glucose	Pathway11976	NF	29234386:null
+Herb132	Glucose	Pathway17904	TSC2	31654225:Inducing
+Herb132	Glucose	Pathway11353	mTOR	31654225:Inducing
+Herb132	Glucose	Pathway15145	RhoA	31187440:Induces
+Herb132	Glucose	Pathway15252	ROCK2	31187440:Induces
+Herb132	Glucose	Pathway15245	ROCK	31187440:Induces
+Herb132	Glucose	Pathway14662	R	31187440:null
+Herb132	Glucose	Pathway14662	R	31187440:Induces
+Herb132	Glucose	Pathway9668	Lactate Metabolism	30833588:null
+Herb132	Glucose	Pathway11573	Myosin IIA	30666520:null
+Herb132	Glucose	Pathway17387	Tight	30666520:null
+Herb132	Glucose	Pathway17464	TLR4	30666520:null
+Herb132	Glucose	Pathway13557	PI3K	30666520:null
+Herb132	Glucose	Pathway781	Akt	30666520:null
+Herb132	Glucose	Pathway9408	JNK1	30666520:null
+Herb132	Glucose	Pathway11105	MMP9	30666520:null
+Herb132	Glucose	Pathway17434	Tissue Plasminogen Activator	30552546:null
+Herb132	Glucose	Pathway12457	Nrf-2	30008229:null
+Herb132	Glucose	Pathway8118	HSP70	26212861:null
+Herb132	Glucose	Pathway10289	MAPK	26212861:null
+Herb132	Glucose	Pathway8090	HSF1	26212861:null
+Herb132	Glucose	Pathway6832	Glucose transporter 1	23955489:null
+Herb132	Glucose	Pathway6877	Glut1	23955489:null
+Herb132	Glucose	Pathway6877	Glut1	23955489:improve
+Herb132	Glucose	Pathway11913	Neuron-specific class III beta-tubulin	23955489:null
+Herb132	Glucose	Pathway17960	Tuj1	23955489:null
+Herb132	Glucose	Pathway17960	Tuj1	23955489:improve
+Herb132	Glucose	Pathway6694	GFAP	23955489:improve
+Herb132	Glucose	Pathway15645	SARA	23440543:regulated
+Herb132	Glucose	Pathway7666	hexose-monophosphate-shunt	3156435:pronounced
+Herb245	Oat	Pathway16449	SOD1	10698074:produced
+Herb245	Oat	Pathway17246	Tg	10698074:produced
+Herb245	Oat	Pathway16447	SOD	10698074:produced
+Herb245	Oat	Pathway11727	N-cadherin	16580782:promoted
+Herb245	Oat	Pathway17154	telomerase	16580782:decreased
+Herb245	Oat	Pathway2386	beta-catenin mRNA	16580782:promoted
+Herb245	Oat	Pathway2858	cadherin	16580782:promoted
+Herb245	Oat	Pathway6780	glial fibrillary acidic protein	16580782:decreased
+Herb245	Oat	Pathway11878	Neurogenin 1	16580782:increased
+Herb245	Oat	Pathway6781	glial fibrillary acidic protein mRNA	16580782:decreased
+Herb245	Oat	Pathway11727	N-cadherin	16580782:null
+Herb245	Oat	Pathway2386	beta-catenin mRNA	16580782:null
+Herb245	Oat	Pathway1436	Anti-N	16580782:null
+Herb245	Oat	Pathway2858	cadherin	16580782:null
+Herb245	Oat	Pathway11727	N-cadherin	16580782:appear
+Herb245	Oat	Pathway2858	cadherin	16580782:appear
+Herb245	Oat	Pathway2385	beta-catenin gene	16580782:appear
+Herb245	Oat	Pathway5854	factor Neurogenin	16580782:appear
+Herb153	Hen	Pathway17610	t-PA	30828062:null
+Herb153	Hen	Pathway1675	apolipoprotein E	28578514:tries
+Herb153	Hen	Pathway1596	ApoE	28578514:tries
+Herb153	Hen	Pathway10368	matrix metalloproteinases	28578514:tries
+Herb153	Hen	Pathway11117	MMPs	28578514:tries
+Herb153	Hen	Pathway5363	endothelial nitric oxide synthase	28578514:tries
+Herb153	Hen	Pathway5450	eNOS	28578514:tries
+Herb153	Hen	Pathway13168	PCS	26894874:null
+Herb153	Hen	Pathway714	AF	26481149:needs
+Herb153	Hen	Pathway8582	ICA	26679678:null
+Herb153	Hen	Pathway16720	statin	24727470:null
+Herb153	Hen	Pathway14120	PPI	24159780:null
+Herb153	Hen	Pathway18468	VIP	15721392:using
+Herb153	Hen	Pathway11889	neurokinin-1	7536309:blocking
+Herb153	Hen	Pathway11891	neurokinin-1 receptor	7536309:blocking
+Herb153	Hen	Pathway13549	Pi	3814627:maintain
+Herb153	Hen	Pathway13549	Pi	3814627:null
+Herb153	Hen	Pathway13549	Pi	3814627:visible
+Herb153	Hen	Pathway8118	HSP70	15992611:be
+Herb153	Hen	Pathway8143	HSP70-2	15992611:be
+Herb153	Hen	Pathway11231	MRI	12181136:null
+Herb153	Hen	Pathway8595	ICE	9143219:null
+Herb153	Hen	Pathway2626	BReVI	26594154:provide
+Herb153	Hen	Pathway3244	CCK	26594154:provide
+Herb153	Hen	Pathway9242	IRES	26594154:provide
+Herb153	Hen	Pathway4116	Cre	26594154:provide
+Herb153	Hen	Pathway12286	NOS2A	11702222:play
+Herb153	Hen	Pathway12287	NOS2A gene	11702222:play
+Herb153	Hen	Pathway12758	oxytocin	18088359:coupled;
+Herb153	Hen	Pathway18343	vasopressin	18088359:coupled;
+Herb153	Hen	Pathway13198	PDE4	25224348:studied
+Herb153	Hen	Pathway13198	PDE4	25224348:using
+Herb153	Hen	Pathway6567	Gb3	24886109:null
+Herb153	Hen	Pathway7933	HMGB1	25813710:targeting
+Herb153	Hen	Pathway14739	RAGE	25813710:targeting
+Herb153	Hen	Pathway8602	ICH	25813710:help
+Herb153	Hen	Pathway5017	Drp1	23848310:exploit
+Herb153	Hen	Pathway10411	MCEMP1	31104315:aims
+Herb153	Hen	Pathway10790	miR-1247-3p	30779911:protect
+Herb153	Hen	Pathway10789	miR-1247	30779911:protect
+Herb153	Hen	Pathway12051	NGB	24622090:prevents
+Herb153	Hen	Pathway17370	TIA	21112179:have
+Herb153	Hen	Pathway17370	TIA	21112179:null
+Herb153	Hen	Pathway12456	Nrf2	26461277:impaired
+Herb153	Hen	Pathway7968	HO-1	26461277:null
+Herb153	Hen	Pathway3364	CD36	26461277:impaired
+Herb153	Hen	Pathway14964	redox	26461277:impaired
+Herb153	Hen	Pathway13763	plasmin	28686706:confers
+Herb153	Hen	Pathway13924	Plg-A622T mutation	28686706:modify
+Herb153	Hen	Pathway13923	Plg-A622T	28686706:modify
+Herb153	Hen	Pathway18695	XBP1	19669932:null
+Herb153	Hen	Pathway15769	SEH	19435785:protects
+Herb153	Hen	Pathway16641	Src	24412374:null
+Herb153	Hen	Pathway18742	Y418	24412374:null
+Herb153	Hen	Pathway16657	Src Y418	24412374:null
+Herb153	Hen	Pathway781	Akt	29480936:pretreated
+Herb153	Hen	Pathway2252	BDNF	29480936:pretreated
+Herb153	Hen	Pathway18019	TXAS	27488919:purified
+Herb153	Hen	Pathway4063	COX-1	27488919:purified
+Herb153	Hen	Pathway4184	CsA in EBI	24508908:explore
+Herb153	Hen	Pathway15614	SAH	24508908:designed
+Herb153	Hen	Pathway4183	CsA	24508908:explore
+Herb153	Hen	Pathway13763	plasmin	22262761:modulates
+Herb153	Hen	Pathway13200	PDE4D	21796302:proposed
+Herb153	Hen	Pathway867	ALOX5AP	21796302:proposed
+Herb153	Hen	Pathway4073	COX-2	15990700:combining
+Herb153	Hen	Pathway5238	EH	30092118:urgent
+Herb153	Hen	Pathway14113	PPARs	22731403:targeting
+Herb18	Baicalin	Pathway9365	Jasminoidin	28894512:null
+Herb18	Baicalin	Pathway18382	VEGF	20851810:increases
+Herb18	Baicalin	Pathway6907	glutamate transporter	29171427:protects
+Herb18	Baicalin	Pathway6908	glutamate transporter 1	29171427:protects
+Herb18	Baicalin	Pathway13491	phosphoinositide 3-kinase	29171427:protects
+Herb18	Baicalin	Pathway14374	protein kinase B	29171427:protects
+Herb18	Baicalin	Pathway6907	glutamate transporter	29171427:upregulated
+Herb18	Baicalin	Pathway13015	p-Akt	29171427:upregulated
+Herb18	Baicalin	Pathway6908	glutamate transporter 1	29171427:upregulated
+Herb18	Baicalin	Pathway781	Akt	29171427:upregulated
+Herb18	Baicalin	Pathway9003	iNOS	20859668:decreased
+Herb18	Baicalin	Pathway4073	COX-2	20859668:decreased
+Herb18	Baicalin	Pathway1099	AMPK	28743390:attenuates
+Herb18	Baicalin	Pathway5055	dynamin-related protein 1	28743390:null
+Herb18	Baicalin	Pathway5018	Drp-1	28743390:null
+Herb18	Baicalin	Pathway5018	Drp-1	28743390:increased
+Herb18	Baicalin	Pathway11026	mitofusin-2	28743390:increased
+Herb18	Baicalin	Pathway10616	MFN2	28743390:increased
+Herb32	Basil	Pathway5666	Estrogen Receptor	27389095:null
+Herb32	Basil	Pathway2840	CAD	9713838:impaired
+Herb130	Ginseng	Pathway11702	Nao Mai Tong formula	27632784:null
+Herb130	Ginseng	Pathway12221	NMT	27632784:null
+Herb130	Ginseng	Pathway12456	Nrf2	31494826:null
+Herb324	Snail	Pathway11727	N-cadherin	29844404:null
+Herb324	Snail	Pathway16369	Snail	29844404:null
+Herb324	Snail	Pathway16266	Slug	29844404:null
+Herb324	Snail	Pathway18466	vimentin	29844404:null
+Herb324	Snail	Pathway16285	Smad2	29844404:null
+Herb324	Snail	Pathway4180	CS components	30236600:null
+Herb324	Snail	Pathway15263	ROS	30236600:null
+Herb324	Snail	Pathway12872	p38	30236600:null
+Herb324	Snail	Pathway12879	p38 MAPK	30236600:null
+Herb324	Snail	Pathway5623	ERK1	30236600:null
+Herb324	Snail	Pathway5287	EMT	30236600:null
+Herb324	Snail	Pathway18466	vimentin	25215881:null
+Herb324	Snail	Pathway6068	fibroblast activation protein	25215881:null
+Herb324	Snail	Pathway5913	FAP	25215881:null
+Herb324	Snail	Pathway3912	collagen	25215881:null
+Herb324	Snail	Pathway5294	EndMT	25215881:suggesting
+Herb324	Snail	Pathway13216	PDGF	30150753:null
+Herb324	Snail	Pathway18382	VEGF	30150753:reduces
+Herb324	Snail	Pathway18419	VEGFR-2	30150753:reduces
+Herb324	Snail	Pathway16369	Snail	30150753:null
+Herb324	Snail	Pathway18414	VEGFR	30150753:reduces
+Herb74	Cumin	Pathway17596	Topoisomerase I	27113744:null
+Herb74	Cumin	Pathway17154	Telomerase	27113744:null
+Herb74	Cumin	Pathway8358	Human Lung Adenocarcinoma A549 Cells	27113744:null
+Herb251	Peach	Pathway1626	ApoE knockout Mice	30669336:Reduces
+Herb101	Ethanol	Pathway781	Akt	25489491:null
+Herb101	Ethanol	Pathway13619	PKC	25489491:null
+Herb101	Ethanol	Pathway1893	ASIC1a	30120732:Promotes
+Herb101	Ethanol	Pathway13619	PKC	11299216:null
+Herb101	Ethanol	Pathway13571	PI3Ks	11299216:null
+Herb101	Ethanol	Pathway13628	PKC-alpha	11299216:null
+Herb101	Ethanol	Pathway2410	betaI	11299216:null
+Herb167	Horseradish	Pathway8011	Horseradish peroxidase	8873872:null
+Herb343	Thorowax	Pathway11209	MPLR	27762458:null
+Herb45	Carp	Pathway6163	Fo Ben	22550762:null
+Herb252	Peach Kernel	Pathway1626	ApoE knockout Mice	30669336:Reduces
+Herb357	Tween 80	Pathway12874	p38 alpha	15454858:null
+Herb357	Tween 80	Pathway12872	p38	15454858:null
+Herb357	Tween 80	Pathway923	alpha MAP kinase	15454858:null
+Herb357	Tween 80	Pathway10275	MAP kinase	15454858:null
+Herb287	Salt	Pathway384	ACE	1662504:cosegregated
+Herb287	Salt	Pathway16520	SP.WKYGla2k	17938382:lower
+Herb287	Salt	Pathway16519	SP.WKYGla2c*	17938382:null
+Herb282	rice	Pathway17778	tricellulin	27957611:null
+Herb282	rice	Pathway1448	anti-protein C	21159706:null
+Herb282	rice	Pathway14409	protein S	21159706:null
+Herb282	rice	Pathway14424	protein Z autoantibodies	21159706:null
+Herb282	rice	Pathway10008	Lp(a)	20806416:null
+Herb282	rice	Pathway10007	Lp	20806416:null
+Herb282	rice	Pathway3912	Collagen	16820568:null
+Herb282	rice	Pathway4046	cortexin	18193579:null
+Herb282	rice	Pathway8195	HU	15121034:null
+Herb282	rice	Pathway15925	serum lactic dehydrogenase	8952859:null
+Herb282	rice	Pathway806	albumin	3239449:circulating
+Herb282	rice	Pathway17708	transferrin	3239449:circulating
+Herb282	rice	Pathway14166	prealbumin	3239449:circulating
+Herb282	rice	Pathway7007	GNE	25182749:null
+Herb282	rice	Pathway15107	RGC	26563826:used
+Herb282	rice	Pathway15224	RNA polymerase III	28783042:null
+Herb282	rice	Pathway17945	tTG	29481819:null
+Herb282	rice	Pathway3912	collagen	29481819:null
+Herb282	rice	Pathway15609	SAC	29107696:null
+Herb282	rice	Pathway16530	SPARC	23467362:null
+Herb282	rice	Pathway14658	quercetin	14715446:increased
+Herb282	rice	Pathway6104	fisetin	14715446:increased
+Herb282	rice	Pathway10106	luteolin	14715446:increased
+Herb282	rice	Pathway17076	taxifolin did not	14715446:did
+Herb282	rice	Pathway5450	eNOS	31130510:ameliorated
+Herb282	rice	Pathway12227	NO	31130510:ameliorated
+Herb282	rice	Pathway5450	eNOS	31130510:null
+Herb282	rice	Pathway12227	NO	31130510:null
+Herb282	rice	Pathway5450	eNOS	31130510:decreased
+Herb282	rice	Pathway12227	NO	31130510:decreased
+Herb282	rice	Pathway781	Akt	31130510:decreased
+Herb282	rice	Pathway781	Akt	31130510:combined
+Herb282	rice	Pathway12456	Nrf2	31130510:decreased
+Herb282	rice	Pathway12456	Nrf2	31130510:combined
+Herb282	rice	Pathway781	Akt	31130510:abrogated
+Herb282	rice	Pathway12456	Nrf2	31130510:abrogated
+Herb282	rice	Pathway5450	eNOS	31130510:showed
+Herb282	rice	Pathway781	Akt	31130510:showed
+Herb282	rice	Pathway12456	Nrf2	31130510:showed
+Herb282	rice	Pathway12456	Nrf2	27171848:ameliorates
+Herb282	rice	Pathway16096	SHSY5Y	27171848:attenuated
+Herb282	rice	Pathway12456	Nrf2	27171848:reversed
+Herb282	rice	Pathway7968	HO-1	27171848:increased
+Herb282	rice	Pathway431	acetylcholinesterase	12081663:was
+Herb282	rice	Pathway14656	quadriceps	11050026:null
+Herb282	rice	Pathway14656	quadriceps	11050026:reduced
+Herb282	rice	Pathway8011	horseradish peroxidase	8873872:labeled
+Herb282	rice	Pathway8061	HRP	8873872:labeled
+Herb329	Stephania tetrandra	Pathway12183	NMDA	12624526:null
+Herb361	Valerian	Pathway18534	VLP	29924526:null
+Herb349	Timothy	Pathway2831	CACNA1C	22106044:null
+Herb349	Timothy	Pathway17894	TS	22106044:null
+Herb326	Soybean	Pathway12300	Notch	19763033:augmented
+Herb326	Soybean	Pathway12323	Notch1	19763033:augmented
+Herb326	Soybean	Pathway7646	Hes5	19763033:augmented
+Herb326	Soybean	Pathway10409	MCAO	19763033:augmented
+Herb331	sucrose	Pathway17902	TSB	19356045:null
+Herb331	sucrose	Pathway13397	P-gp	19356045:increased
+Herb331	sucrose	Pathway11240	Mrp1	19356045:increased
+Herb331	sucrose	Pathway6829	glucosaminidase	9731289:null
+Herb331	sucrose	Pathway10608	MetS	24838371:null
+Herb331	sucrose	Pathway16187	sitagliptin	24838371:null
+Herb279	Red Ginseng	Pathway12456	Nrf2	31494826:null
+Herb359	Undaria	Pathway13557	PI3K	27153123:prevents
+Herb359	Undaria	Pathway781	Akt	27153123:prevents
+Herb359	Undaria	Pathway5450	eNOS	27153123:prevents
+Herb359	Undaria	Pathway5450	eNOS	27153123:null
+Herb12	angelica	Pathway4073	COX-2	31359726:taken
+Herb12	angelica	Pathway10075	LTA4 H	31359726:taken
+Herb12	angelica	Pathway9998	LOX	31359726:taken
+Herb57	chlorogenic acid	Pathway15638	saponins	24012531:separated;
+Herb57	chlorogenic acid	Pathway10106	luteolin	24012531:null
+Herb57	chlorogenic acid	Pathway11072	MMP	29595191:targeting
+Herb328	starch	Pathway13168	PCS	26894874:null
+Herb328	starch	Pathway806	albumin	17438457:null
+Herb328	starch	Pathway7639	HES	17438457:null
+Herb328	starch	Pathway806	albumin	6190616:null
+Herb328	starch	Pathway803	ALB	6190616:null
+Herb328	starch	Pathway8019	Hp	18691072:null
+Herb281	rhubarb	Pathway9665	lactate dehydrogenase	25936269:decreased
+Herb281	rhubarb	Pathway9665	lactate dehydrogenase	25936269:exhibited
+Herb281	rhubarb	Pathway15263	ROS	25936269:null
+Herb281	rhubarb	Pathway10344	matrix metalloproteinase	18664349:null
+Herb129	ginkgo leaf	Pathway3092	caspase-3	22641427:null
+Herb129	ginkgo leaf	Pathway3101	caspase-3 protein	22641427:null
+Herb263	propolis	Pathway13592	Pinocembrin	22989295:null
+Herb123	garlic	Pathway12430	NR2A	23600691:exhibits
+Herb123	garlic	Pathway12433	NR2B	23600691:exhibits
+Herb123	garlic	Pathway12434	NR2B receptors	23600691:exhibits
+Herb123	garlic	Pathway6588	GCE	23578652:null
+Herb123	garlic	Pathway7239	GSE	23578652:null
+Herb123	garlic	Pathway4373	cyclooxygenase-2	21850441:attenuates
+Herb123	garlic	Pathway4373	cyclooxygenase-2	21850441:null
+Herb123	garlic	Pathway4073	COX-2	21850441:null
+Herb123	garlic	Pathway858	alliinase	10234740:null
+Herb123	garlic	Pathway5474	enzyme alliinase	10234740:null
+Herb123	garlic	Pathway9750	LDL	10483684:dragees
+Herb123	garlic	Pathway7503	HDL	10483684:dragees
+Herb286	saffron	Pathway7243	GSH	17215084:suppress
+Herb286	saffron	Pathway16570	sphingomyelinase	17215084:suppress
+Herb286	saffron	Pathway12492	nSMase	17215084:suppress
+Herb286	saffron	Pathway7243	GSH	17215084:examined
+Herb286	saffron	Pathway7243	GSH	17215084:promotes
+Herb38	borneol	Pathway6729	GGB-LPs	29385087:null
+Herb38	borneol	Pathway6729	GGB-LPs	29385087:enhance
+Herb38	borneol	Pathway9425	Jun	30411995:null
+Herb38	borneol	Pathway16032	Shi	30411995:null
+Herb38	borneol	Pathway15620	Sal B	30411995:null
+Herb38	borneol	Pathway15620	Sal B	30411995:push
+Herb38	borneol	Pathway12129	nitric oxide synthase	28808202:reducing
+Herb38	borneol	Pathway9003	iNOS	28808202:reducing
+Herb38	borneol	Pathway17984	tumor necrosis factor-alpha	28808202:reducing
+Herb327	soybean oil	Pathway16067	SHRSP	16364530:null
+Herb327	soybean oil	Pathway16067	SHRSP	14678230:null
+Herb327	soybean oil	Pathway15664	SBP	14678230:promote
+Herb327	soybean oil	Pathway16930	Systolic blood pressure	14678230:promote
+Herb327	soybean oil	Pathway16067	SHRSP	14678230:promote
+Herb327	soybean oil	Pathway15664	SBP	14678230:null
+Herb352	tomato	Pathway3294	CCR2	30613272:null
+Herb352	tomato	Pathway3294	CCR2	30613272:lower
+Herb352	tomato	Pathway17609	tPA	25440368:null
+Herb352	tomato	Pathway17615	tPA group	25440368:null
+Herb285	safflower	Pathway4073	COX-2	31359726:taken
+Herb285	safflower	Pathway10075	LTA4 H	31359726:taken
+Herb285	safflower	Pathway9998	LOX	31359726:taken
+Herb285	safflower	Pathway4073	COX-2	31359726:null
+Herb285	safflower	Pathway10075	LTA4 H	31359726:null
+Herb285	safflower	Pathway9998	LOX	31359726:acting
+Herb188	human placenta	Pathway6816	glucocerebrosidase	8729108:null
+Herb188	human placenta	Pathway6391	G9a	28455378:null
+Herb188	human placenta	Pathway3340	CD200	29328072:null
+Herb188	human placenta	Pathway12456	Nrf2	20028456:null
+Herb188	human placenta	Pathway1811	ARE	20028456:null
+Herb54	chicken	Pathway6691	GF1	31048033:null
+Herb54	chicken	Pathway5824	FA	29542054:demonstrated
+Herb54	chicken	Pathway4186	CSC	19454301:undermine
+Herb54	chicken	Pathway15545	S1	11294651:null
+Herb54	chicken	Pathway14817	rat myosin gene	8769415:null
+Herb54	chicken	Pathway3591	chicken muscle myosin cDNA	8769415:null
+Herb54	chicken	Pathway1019	alpha-gal A	12624185:null
+Herb54	chicken	Pathway8232	human alpha-gal A	12624185:null
+Herb54	chicken	Pathway3590	chicken beta-actin	12624185:null
+Herb54	chicken	Pathway2860	CAG	12624185:null
+Herb54	chicken	Pathway8487	huPA	23960123:producing
+Herb54	chicken	Pathway8487	huPA	23960123:null
+Herb54	chicken	Pathway14927	Recombinant huPA gene	23960123:null
+Herb54	chicken	Pathway8488	huPA gene	23960123:null
+Herb54	chicken	Pathway8487	huPA	23960123:higher
+Herb54	chicken	Pathway8489	huPA protein	23960123:higher
+Herb54	chicken	Pathway8490	huPA transgenic chickens	23960123:null
+Herb54	chicken	Pathway8487	huPA	23960123:expressing
+Herb54	chicken	Pathway11548	myosin	17900617:null
+Herb54	chicken	Pathway3592	chicken myosin II	17900617:null
+Herb54	chicken	Pathway11571	myosin I	17900617:null
+Herb136	green tea	Pathway5370	endothelial NO synthase	11058418:reflect
+Herb136	green tea	Pathway5543	Epigallocatechin	16356650:null
+Herb136	green tea	Pathway5215	EGCG	28042007:null
+Herb136	green tea	Pathway5215	EGCG	24193141:demonstrated
+Herb13	anise	Pathway1478	anti-VLA-4 antibody	15549357:null
+Herb13	anise	Pathway7622	HER2	16907652:null
+Herb13	anise	Pathway7622	HER2	16907652:improves
+Herb13	anise	Pathway7622	HER2	16907652:reduces
+Herb13	anise	Pathway5480	enzyme glyceraldehyde-3-phosphate dehydrogenase	16721606:compared
+Herb13	anise	Pathway6530	GAPDH	16721606:compared
+Herb13	anise	Pathway17208	tetraspanins	18795891:null
+Herb13	anise	Pathway17204	tetraspanin	18795891:null
+Herb13	anise	Pathway17204	tetraspanin	18795891:recruiting
+Herb292	savin	Pathway16726	statins	25444455:null
+Herb292	savin	Pathway5464	enoxaparin	21159705:null
+Herb292	savin	Pathway9021	insulin	21061114:attributable
+Herb292	savin	Pathway12594	OC	8324603:null
+Herb292	savin	Pathway17370	TIA	19835525:null
+Herb292	savin	Pathway17609	tPA	19775424:null
+Herb7	alum	Pathway321	ABCB1	31572128:examined
+Herb7	alum	Pathway329	ABCC1	31572128:examined
+Herb7	alum	Pathway321	ABCB1	31572128:null
+Herb7	alum	Pathway329	ABCC1	31572128:null
+Herb7	alum	Pathway3972	combined ABCB1	31572128:null
+Herb7	alum	Pathway1064	alteplase	23963368:null
+Herb7	alum	Pathway4881	DME	21213399:null
+Herb7	alum	Pathway16044	SHR	7670652:perfused
+Herb7	alum	Pathway6611	GDNF	11493030:null
+Herb7	alum	Pathway3837	CNTF	11493030:null
+Herb7	alum	Pathway630	adenoviral GDNF	11493030:null
+Herb7	alum	Pathway12277	NOS	18485279:responsible
+Herb7	alum	Pathway4108	CPS	10894177:null
+Herb7	alum	Pathway11255	MSC	25426026:null
+Herb7	alum	Pathway15535	RYR1	15269663:null
+Herb7	alum	Pathway18484	vitamin K epoxide reductase	17049586:null
+Herb7	alum	Pathway6513	gamma-glutamyl carboxylase	17049586:null
+Herb7	alum	Pathway4546	cytochrome P450 2C9	17049586:null
+Herb7	alum	Pathway18505	VKORC1	17049586:null
+Herb7	alum	Pathway6730	GGCX	17049586:null
+Herb7	alum	Pathway4436	CYP2C9	17049586:null
+Herb7	alum	Pathway7950	hMSCs	16998918:infused
+Herb7	alum	Pathway6611	GDNF	16998918:infused
+Herb7	alum	Pathway4713	DAG	2561989:did
+Herb7	alum	Pathway6337	G protein	2561989:did
+Herb7	alum	Pathway13502	phospholipase C	2561989:did
+Herb7	alum	Pathway2193	bcl	18278458:null
+Herb7	alum	Pathway7949	hMSC	19094989:null
+Herb7	alum	Pathway1136	Ang	19094989:null
+Herb7	alum	Pathway7950	hMSCs	19094989:null
+Herb7	alum	Pathway18382	VEGF	19094989:null
+Herb7	alum	Pathway8810	IL-17	30181299:null
+Herb7	alum	Pathway5085	E2	28479229:distributed
+Herb7	alum	Pathway199	90min	27425638:null
+Herb7	alum	Pathway8705	IgG	23396088:null
+Herb132	glucose	Pathway4850	dipeptidyl peptidase	31379119:null
+Herb132	glucose	Pathway6812	glucagon	31379119:null
+Herb132	glucose	Pathway13296	peptide-1 receptor	31379119:null
+Herb132	glucose	Pathway6801	GLP-1RA	31379119:null
+Herb132	glucose	Pathway6801	GLP-1RA	31379119:likely
+Herb132	glucose	Pathway16463	sodium glucose cotransporter 2 inhibitors	31841369:null
+Herb132	glucose	Pathway7424	HbA1c	31844422:null
+Herb132	glucose	Pathway6794	GLP-1	31141838:null
+Herb132	glucose	Pathway16468	sodium-glucose cotransporter 2 inhibitor	31334145:null
+Herb132	glucose	Pathway16008	SGLT2i	31334145:null
+Herb132	glucose	Pathway16005	SGLT-2	31334145:null
+Herb132	glucose	Pathway3727	CK2	29944965:null
+Herb132	glucose	Pathway3727	CK2	29944965:subjected
+Herb132	glucose	Pathway4964	DPP4	30759373:null
+Herb132	glucose	Pathway6812	glucagon	30759373:null
+Herb132	glucose	Pathway9038	insulinotropic polypeptide	30759373:null
+Herb132	glucose	Pathway6749	GIP	30759373:null
+Herb132	glucose	Pathway5837	factor 1	30759373:null
+Herb132	glucose	Pathway15740	SDF-1	30759373:null
+Herb132	glucose	Pathway4287	CXCL12	30759373:null
+Herb132	glucose	Pathway4853	dipeptidyl peptidase-4	31161759:null
+Herb132	glucose	Pathway6812	glucagon	31161759:null
+Herb132	glucose	Pathway13613	PKA	30708047:led
+Herb132	glucose	Pathway4127	CREB	30708047:decreased
+Herb132	glucose	Pathway10913	miR-9	30539420:reduced
+Herb132	glucose	Pathway10913	miR-9	30539420:enhanced
+Herb132	glucose	Pathway16013	SH	30539420:null
+Herb132	glucose	Pathway16854	superoxide dismutase	30815818:detected
+Herb132	glucose	Pathway16447	SOD	30815818:detected
+Herb132	glucose	Pathway12766	p	30815818:null
+Herb132	glucose	Pathway12766	p	30815818:detected
+Herb132	glucose	Pathway15263	ROS	30815818:detected
+Herb132	glucose	Pathway9939	L-NBP	30629983:null
+Herb132	glucose	Pathway12576	NXT	30660824:null
+Herb132	glucose	Pathway9021	insulin	30660824:null
+Herb132	glucose	Pathway18775	ZFG	30518742:null
+Herb132	glucose	Pathway18775	ZFG	30518742:protect
+Herb132	glucose	Pathway9021	insulin	30626912:null
+Herb132	glucose	Pathway6812	glucagon	31442511:null
+Herb132	glucose	Pathway16004	SGLT2	31442511:null
+Herb132	glucose	Pathway5824	FA	29542054:null
+Herb132	glucose	Pathway5824	FA	29542054:measuring
+Herb132	glucose	Pathway2166	BAX	29542054:measuring
+Herb132	glucose	Pathway12013	NFE2L2	29542054:measuring
+Herb132	glucose	Pathway18382	VEGF	29542054:measuring
+Herb132	glucose	Pathway5545	EPO	29542054:measuring
+Herb132	glucose	Pathway8227	Human alpha 1	29857082:null
+Herb132	glucose	Pathway1473	antitrypsin	29857082:null
+Herb132	glucose	Pathway9180	interleukins	29857082:null
+Herb132	glucose	Pathway11825	neprilysin	29525327:null
+Herb132	glucose	Pathway16004	SGLT2	29525327:null
+Herb132	glucose	Pathway3466	CDNF	29966219:null
+Herb132	glucose	Pathway6812	glucagon	29807374:null
+Herb132	glucose	Pathway4850	dipeptidyl peptidase	29807374:null
+Herb132	glucose	Pathway15655	saxagliptin	29807374:null
+Herb132	glucose	Pathway861	alogliptin	29807374:null
+Herb132	glucose	Pathway10574	metformin monotherapy GLP-1-receptor	29807374:null
+Herb132	glucose	Pathway4965	DPP-4	29807374:null
+Herb132	glucose	Pathway6812	glucagon	29579035:null
+Herb132	glucose	Pathway16467	sodium-glucose cotransporter 2	29579035:null
+Herb132	glucose	Pathway16004	SGLT2	29579035:null
+Herb132	glucose	Pathway16004	SGLT2	29372664:null
+Herb132	glucose	Pathway4850	dipeptidyl peptidase	28771923:null
+Herb132	glucose	Pathway4853	dipeptidyl peptidase-4	29498023:null
+Herb132	glucose	Pathway5285	empagliflozin	28830955:null
+Herb132	glucose	Pathway8196	HUA	28830955:seem
+Herb132	glucose	Pathway7581	hemoglobin	28871349:null
+Herb132	glucose	Pathway7581	hemoglobin	28871349:reduce
+Herb132	glucose	Pathway6812	glucagon	28871349:reduce
+Herb132	glucose	Pathway6954	glycated hemoglobin	28871349:null
+Herb132	glucose	Pathway6954	glycated hemoglobin	28871349:reduce
+Herb132	glucose	Pathway16958	T2DM	28606340:tested
+Herb132	glucose	Pathway16958	T2DM	28606340:null
+Herb132	glucose	Pathway9021	insulin	31646121:work
+Herb132	glucose	Pathway16467	sodium-glucose cotransporter 2	28496330:null
+Herb132	glucose	Pathway5285	empagliflozin	28496330:null
+Herb132	glucose	Pathway12456	Nrf2	27573874:upregulating
+Herb132	glucose	Pathway7968	HO-1	27573874:upregulating
+Herb132	glucose	Pathway12420	NQO1	27573874:upregulating
+Herb132	glucose	Pathway12484	NSCs	27573874:null
+Herb132	glucose	Pathway9021	insulin	30609476:able
+Herb132	glucose	Pathway806	albumin	27077324:higher
+Herb132	glucose	Pathway8493	HUT1	27077324:prominent
+Herb132	glucose	Pathway8494	HUT3	27077324:prominent
+Herb132	glucose	Pathway2085	AVP	27107944:caused
+Herb132	glucose	Pathway6812	glucagon	27010644:null
+Herb132	glucose	Pathway4851	di-peptidyl peptidase	27010644:promised
+Herb132	glucose	Pathway3053	Case	26547662:null
+Herb132	glucose	Pathway9021	insulin	26547662:null
+Herb132	glucose	Pathway14093	PPAR	25438608:null
+Herb132	glucose	Pathway16005	SGLT-2	26677500:null
+Herb132	glucose	Pathway16003	SGLT-1	26677500:reabsorbed
+Herb132	glucose	Pathway16005	SGLT-2	26677500:reabsorbed
+Herb132	glucose	Pathway16006	SGLT-2 inhibitors	26677500:null
+Herb132	glucose	Pathway10325	MasR	26540167:reduced
+Herb132	glucose	Pathway10326	MasR antagonist	26540167:reduced
+Herb132	glucose	Pathway2083	AVE0991	26540167:null
+Herb132	glucose	Pathway10325	MasR	26540167:null
+Herb132	glucose	Pathway3759	classical MasR	26540167:null
+Herb132	glucose	Pathway9768	LDL-cholesterol	24214336:null
+Herb132	glucose	Pathway7516	HDL-cholesterol	24214336:null
+Herb132	glucose	Pathway6799	GLP-1R	24777909:null
+Herb132	glucose	Pathway6794	GLP-1	24777909:null
+Herb132	glucose	Pathway9021	insulin	24777909:null
+Herb132	glucose	Pathway6812	glucagon	24777909:suppresses
+Herb132	glucose	Pathway11781	NDPKA	24395206:null
+Herb132	glucose	Pathway12251	Nogo-A	24818251:null
+Herb132	glucose	Pathway12073	NgR	24818251:null
+Herb132	glucose	Pathway13034	Panax notoginseng saponins	24818251:null
+Herb132	glucose	Pathway12951	p75	24818251:null
+Herb132	glucose	Pathway5824	FA	24043256:null
+Herb132	glucose	Pathway9021	insulin	23137345:null
+Herb132	glucose	Pathway9021	insulin	23319869:stimulated
+Herb132	glucose	Pathway6812	glucagon	23319869:stimulated
+Herb132	glucose	Pathway9694	laminin receptor	22879598:null
+Herb132	glucose	Pathway14376	protein kinase C	22879598:null
+Herb132	glucose	Pathway6228	FP receptor	22709986:null
+Herb132	glucose	Pathway9021	insulin	22888312:dependent
+Herb132	glucose	Pathway9021	insulin	22888312:null
+Herb132	glucose	Pathway15762	Secretagogin	22888312:dependent
+Herb132	glucose	Pathway5752	extracellular insulin	22888312:null
+Herb132	glucose	Pathway14093	PPAR	22434581:null
+Herb132	glucose	Pathway9021	insulin	22434581:null
+Herb132	glucose	Pathway16958	T2DM	22519295:reduce
+Herb132	glucose	Pathway6794	GLP-1	22519295:null
+Herb132	glucose	Pathway5214	EGb761	22365091:dropped
+Herb132	glucose	Pathway7582	hemoglobin A1c	22027331:null
+Herb132	glucose	Pathway7424	HbA1c	22027331:null
+Herb132	glucose	Pathway9021	insulin	21713592:able
+Herb132	glucose	Pathway7474	HDAC	21966324:altered
+Herb132	glucose	Pathway9021	Insulin	21966327:null
+Herb132	glucose	Pathway14964	redox	20724835:null
+Herb132	glucose	Pathway1011	Alpha-blockers	20652659:null
+Herb132	glucose	Pathway9021	insulin	20513336:null
+Herb132	glucose	Pathway4111	CPT-1	19294446:null
+Herb132	glucose	Pathway13238	PDH	19294446:null
+Herb132	glucose	Pathway13244	PDK4	19294446:null
+Herb132	glucose	Pathway16617	SP-SHR	19938872:null
+Herb132	glucose	Pathway9021	insulin	19938872:fasting
+Herb132	glucose	Pathway16617	SP-SHR	19938872:ovariectomized
+Herb132	glucose	Pathway6840	glucose-6-phosphate dehydrogenase	19429815:null
+Herb132	glucose	Pathway11680	NADPH	19429815:null
+Herb132	glucose	Pathway11683	NADPH oxidase	19429815:plays
+Herb132	glucose	Pathway12355	Nox	19429815:plays
+Herb132	glucose	Pathway6384	G6PD	19429815:null
+Herb132	glucose	Pathway11680	NADPH	19429815:plays
+Herb132	glucose	Pathway1216	angiotensin converting enzyme	20165647:null
+Herb132	glucose	Pathway384	ACE	20165647:null
+Herb132	glucose	Pathway6812	glucagon	20409967:stimulating
+Herb132	glucose	Pathway6796	GLP-1 receptor	20409967:null
+Herb132	glucose	Pathway9021	insulin	20409967:stimulating
+Herb132	glucose	Pathway6794	GLP-1	20409967:null
+Herb132	glucose	Pathway14107	PPARgamma	19321784:null
+Herb132	glucose	Pathway13346	Peroxisome proliferator-activated receptors gamma	19321784:null
+Herb132	glucose	Pathway9021	insulin	19164583:null
+Herb132	glucose	Pathway7409	Hb	18975505:glycosylated
+Herb132	glucose	Pathway7505	HDL cholesterol	18773746:null
+Herb132	glucose	Pathway9021	insulin	17719327:null
+Herb132	glucose	Pathway6794	GLP-1	17719327:null
+Herb132	glucose	Pathway9021	insulin	17434094:null
+Herb132	glucose	Pathway9021	insulin	17434094:assigned
+Herb132	glucose	Pathway13331	peroxisome proliferator activated receptors	17416424:null
+Herb132	glucose	Pathway14113	PPARs	17416424:null
+Herb132	glucose	Pathway14093	PPAR	17416424:null
+Herb132	glucose	Pathway14108	PPAR-gamma	17416424:null
+Herb132	glucose	Pathway14110	PPAR-gamma isoform	17416424:null
+Herb132	glucose	Pathway13800	platelet activation;	17488145:null
+Herb132	glucose	Pathway15039	renin-angiotensin	17488145:null
+Herb132	glucose	Pathway9021	insulin	17488145:null
+Herb132	glucose	Pathway6534	Gas	17089323:null
+Herb132	glucose	Pathway9021	insulin	16503818:null
+Herb132	glucose	Pathway9021	insulin	16685123:null
+Herb132	glucose	Pathway9021	insulin	16685123:dropped
+Herb132	glucose	Pathway9021	insulin	16651823:null
+Herb132	glucose	Pathway806	albumin	16651823:induce
+Herb132	glucose	Pathway1088	AMPA receptor	16651823:albumin
+Herb132	glucose	Pathway3637	CHOP	16001425:null
+Herb132	glucose	Pathway2695	CEBP homologous protein	16001425:null
+Herb132	glucose	Pathway3476	CEBP homologous protein	16001425:null
+Herb132	glucose	Pathway9021	insulin	14694290:null
+Herb132	glucose	Pathway9021	insulin	14694290:treated;
+Herb132	glucose	Pathway9021	insulin	12482794:null
+Herb132	glucose	Pathway15502	RTP801	11884613:null
+Herb132	glucose	Pathway12188	NMDA receptor	11785917:null
+Herb132	glucose	Pathway8691	IGF-I	9745422:null
+Herb132	glucose	Pathway9021	Insulin	9745422:null
+Herb132	glucose	Pathway2681	C peptide	9745422:null
+Herb132	glucose	Pathway9021	insulin	9032099:null
+Herb132	glucose	Pathway16758	STH	8775858:null
+Herb132	glucose	Pathway9021	insulin	11850700:null
+Herb132	glucose	Pathway384	ACE	11850700:put
+Herb132	glucose	Pathway9021	insulin	8649135:null
+Herb132	glucose	Pathway9021	insulin	7787408:null
+Herb132	glucose	Pathway11005	mitochondrial superoxide dismutase	7910380:null
+Herb132	glucose	Pathway16447	SOD	7910380:null
+Herb132	glucose	Pathway6932	glutathione reductase	7910380:null
+Herb132	glucose	Pathway7150	GR	7910380:null
+Herb132	glucose	Pathway6838	glucose-6 phosphate dehydrogenase	7910380:null
+Herb132	glucose	Pathway6384	G6PD	7910380:null
+Herb132	glucose	Pathway11149	monoamine oxidase	7910380:null
+Herb132	glucose	Pathway10272	MAO	7910380:null
+Herb132	glucose	Pathway9021	insulin	8297536:null
+Herb132	glucose	Pathway4608	D1	8101981:used
+Herb132	glucose	Pathway4646	D2	8101981:used
+Herb132	glucose	Pathway4651	D2 dopamine receptor	8101981:used
+Herb132	glucose	Pathway4646	D2	8101981:null
+Herb132	glucose	Pathway4608	D1	8101981:null
+Herb132	glucose	Pathway4608	D1	8101981:exhibit
+Herb132	glucose	Pathway4615	D1 receptor	8101981:exhibit
+Herb132	glucose	Pathway9021	insulin	1911794:null
+Herb132	glucose	Pathway9021	insulin	2018054:null
+Herb132	glucose	Pathway14845	RBC Pi	2381302:administered
+Herb132	glucose	Pathway12769	P Pi	2381302:administered
+Herb132	glucose	Pathway14841	RBC ATP	2381302:administered
+Herb132	glucose	Pathway9021	insulin	2150640:null
+Herb132	glucose	Pathway3048	CAS	2683549:null
+Herb132	glucose	Pathway2810	CA1	3363578:null
+Herb132	glucose	Pathway9975	low density lipoprotein	2883879:associated
+Herb132	glucose	Pathway9021	insulin	3538938:null
+Herb132	glucose	Pathway9021	insulin	7039286:null
+Herb132	glucose	Pathway9021	insulin	7458472:null
+Herb132	glucose	Pathway18382	VEGF	28460604:increased
+Herb132	glucose	Pathway14882	receptor-gamma	16208315:essential
+Herb132	glucose	Pathway3144	catalase	16208315:essential
+Herb132	glucose	Pathway14107	PPARgamma	16208315:essential
+Herb132	glucose	Pathway10825	miR-155	25811992:used
+Herb132	glucose	Pathway360	ABL	25811992:used
+Herb132	glucose	Pathway13315	PERK	28644439:null
+Herb132	glucose	Pathway17609	tPA	28644439:null
+Herb132	glucose	Pathway7229	Grp78	28644439:null
+Herb132	glucose	Pathway5846	factor CHOP	28644439:promotes
+Herb132	glucose	Pathway7100	GPR120	30598514:investigated
+Herb132	glucose	Pathway11125	MnSOD	28552711:null
+Herb132	glucose	Pathway12456	Nrf2	31856386:null
+Herb132	glucose	Pathway12463	Nrf2 siRNA	31856386:null
+Herb132	glucose	Pathway880	ALP	31856386:null
+Herb132	glucose	Pathway9021	insulin	8621203:null
+Herb132	glucose	Pathway11746	NCX1	19164785:null
+Herb132	glucose	Pathway5647	erythropoietin	28423608:null
+Herb132	glucose	Pathway5545	EPO	28423608:null
+Herb132	glucose	Pathway13487	phosphoglycerate kinase 1	28423608:null
+Herb132	glucose	Pathway13390	PGK1	28423608:null
+Herb132	glucose	Pathway5388	endothelin 1	28423608:null
+Herb132	glucose	Pathway5188	EDN1	28423608:null
+Herb132	glucose	Pathway6832	glucose transporter 1	28423608:null
+Herb132	glucose	Pathway6877	GLUT1	28423608:null
+Herb132	glucose	Pathway9666	lactate dehydrogenase A	28423608:null
+Herb132	glucose	Pathway9748	LDHA	28423608:null
+Herb132	glucose	Pathway18306	vascular endothelial growth factor	28423608:null
+Herb132	glucose	Pathway18404	VEGFA	28423608:null
+Herb132	glucose	Pathway1596	APOE	9329691:null
+Herb132	glucose	Pathway1558	Apo E-4	8172944:null
+Herb132	glucose	Pathway5173	ECs	23840196:treated
+Herb132	glucose	Pathway6834	glucose transporter GLUT10	17935213:null
+Herb132	glucose	Pathway9021	insulin	30135132:null
+Herb132	glucose	Pathway6794	GLP-1	30135132:null
+Herb132	glucose	Pathway6812	glucagon	30135132:null
+Herb132	glucose	Pathway8452	human tribbles homolog 3	27793583:null
+Herb132	glucose	Pathway17776	TRIB3	27793583:null
+Herb132	glucose	Pathway15388	rs2295490	27793583:null
+Herb132	glucose	Pathway17776	TRIB3	27793583:exhibited
+Herb132	glucose	Pathway15388	rs2295490	27793583:exhibited
+Herb132	glucose	Pathway1703	apolipoprotein EE4	29390290:predicting
+Herb132	glucose	Pathway10815	miR-146a	25658319:null
+Herb132	glucose	Pathway41	146a	25658319:null
+Herb132	glucose	Pathway15405	rs2910164	25658319:null
+Herb132	glucose	Pathway10815	miR-146a	25658319:contribute
+Herb132	glucose	Pathway41	146a	25658319:contribute
+Herb132	glucose	Pathway15405	rs2910164	25658319:contribute
+Herb132	glucose	Pathway2461	biotin	15992682:null
+Herb132	glucose	Pathway2470	BIRC5	29039513:null
+Herb132	glucose	Pathway9021	insulin	28961383:null
+Herb132	glucose	Pathway8671	IGF1	28961383:null
+Herb132	glucose	Pathway8669	IGF	28961383:null
+Herb132	glucose	Pathway8669	IGF	28961383:involved
+Herb132	glucose	Pathway2166	bax	22302823:activated
+Herb132	glucose	Pathway3347	CD24	30231671:null
+Herb132	glucose	Pathway16044	SHR	11118030:null
+Herb132	glucose	Pathway16067	SHRSP	11118030:null
+Herb132	glucose	Pathway9021	insulin	11118030:null
+Herb132	glucose	Pathway9021	insulin	11118030:packed
+Herb132	glucose	Pathway16044	SHR	11118030:packed
+Herb132	glucose	Pathway16067	SHRSP	11118030:packed
+Herb132	glucose	Pathway7735	Hif1a	9436976:reduced
+Herb132	glucose	Pathway7746	HIF-1alpha subunit	9436976:reduced
+Herb132	glucose	Pathway7741	HIF-1alpha	9436976:reduced
+Herb132	glucose	Pathway14475	PrP	17149767:null
+Herb132	glucose	Pathway14476	PrP(C)	17149767:null
+Herb132	glucose	Pathway10491	MELAS	8750117:null
+Herb132	glucose	Pathway10491	MELAS	8750117:showing
+Herb132	glucose	Pathway10491	MELAS	8750117:characteristic
+Herb132	glucose	Pathway11686	NADPH oxidase activator 1	24072673:null
+Herb132	glucose	Pathway12122	NIP3-like protein X	24072673:null
+Herb132	glucose	Pathway6835	glucose transporter-1	24072673:null
+Herb132	glucose	Pathway3637	CHOP	26027784:null
+Herb132	glucose	Pathway3637	CHOP	26027784:assessed
+Herb132	glucose	Pathway3638	CHOP KO	26027784:null
+Herb132	glucose	Pathway6590	GCK	24101925:null
+Herb132	glucose	Pathway6590	GCK	24101925:glycated
+Herb132	glucose	Pathway11138	MODY	24101925:null
+Herb132	glucose	Pathway11138	MODY	24101925:glycated
+Herb132	glucose	Pathway7583	hemoglobin HbA1c	24101925:glycated
+Herb132	glucose	Pathway3808	Cmah	30281092:null
+Herb132	glucose	Pathway18147	Ucp3	30281092:null
+Herb132	glucose	Pathway4110	Cpt1	30281092:null
+Herb132	glucose	Pathway13243	Pdk1	30281092:null
+Herb132	glucose	Pathway13244	Pdk4	30281092:null
+Herb132	glucose	Pathway14096	Ppara	30281092:null
+Herb132	glucose	Pathway12484	NSCs	24284009:injured
+Herb132	glucose	Pathway12484	NSCs	24284009:investigate
+Herb132	glucose	Pathway3878	cofilin	25526862:null
+Herb132	glucose	Pathway17506	TNF	27384243:volumes
+Herb132	glucose	Pathway17506	TNF	27384243:null
+Herb132	glucose	Pathway14103	PPARg2	27420933:null
+Herb132	glucose	Pathway14093	PPAR	27420933:null
+Herb132	glucose	Pathway6369	g2	27420933:null
+Herb132	glucose	Pathway14105	PPARg2 Pro12Ala	27420933:null
+Herb132	glucose	Pathway6829	glucosaminidase	9731289:null
+Herb132	glucose	Pathway7633	Herp	22479592:intolerant
+Herb132	glucose	Pathway4802	Derlin-1	22479592:intolerant
+Herb132	glucose	Pathway7633	Herp	22479592:null
+Herb132	glucose	Pathway5593	ERAD	22479592:null
+Herb132	glucose	Pathway9341	Jagged1	27988406:null
+Herb132	glucose	Pathway9021	insulin	15078145:null
+Herb132	glucose	Pathway6962	glycogen synthase	15078145:null
+Herb132	glucose	Pathway18306	vascular endothelial growth factor	15613462:null
+Herb132	glucose	Pathway18382	VEGF	15613462:null
+Herb132	glucose	Pathway1179	angiopoietin 2	15613462:null
+Herb132	glucose	Pathway17377	tie-1	15613462:null
+Herb132	glucose	Pathway18393	VEGF receptor 2	15613462:null
+Herb132	glucose	Pathway11930	neuropilin-1	15613462:null
+Herb132	glucose	Pathway3603	Chk1	28928282:null
+Herb132	glucose	Pathway14835	Rb	28928282:null
+Herb132	glucose	Pathway3578	Checkpoint kinase 1	28928282:null
+Herb132	glucose	Pathway14836	Rb family	28928282:null
+Herb132	glucose	Pathway12456	Nrf2	28320085:up-regulating
+Herb132	glucose	Pathway1811	ARE	28320085:up-regulating
+Herb132	glucose	Pathway10809	miR-142-5p	28320085:null
+Herb132	glucose	Pathway14749	RAN	31885705:null
+Herb132	glucose	Pathway13345	Peroxisome proliferator-activated receptors	31147725:null
+Herb132	glucose	Pathway14113	PPARs	31147725:null
+Herb132	glucose	Pathway3598	ChIP-seq	26029158:null
+Herb132	glucose	Pathway7229	GRP78	21752197:null
+Herb132	glucose	Pathway3637	CHOP	21752197:null
+Herb132	glucose	Pathway6453	GADD153	21752197:null
+Herb132	glucose	Pathway3066	caspase	21752197:null
+Herb132	glucose	Pathway3087	caspase-12	21752197:null
+Herb132	glucose	Pathway1617	APOE epsilon4	11889238:null
+Herb132	glucose	Pathway8635	IEGs	18457920:examined
+Herb132	glucose	Pathway13557	PI3K	24265694:null
+Herb132	glucose	Pathway781	AKT	24265694:null
+Herb132	glucose	Pathway17187	terminal deoxynucleotidyl transferase	29075304:null
+Herb132	glucose	Pathway9021	insulin	30873501:null
+Herb132	glucose	Pathway9021	insulin	30873501:affects
+Herb132	glucose	Pathway9675	lacZ	23949634:null
+Herb132	glucose	Pathway7395	HAPN-1	23949634:null
+Herb132	glucose	Pathway13964	PN-1 KI	23949634:null
+Herb132	glucose	Pathway13962	PN-1	23949634:null
+Herb132	glucose	Pathway2166	bax	18220582:induced
+Herb132	glucose	Pathway3066	caspase	18220582:induced
+Herb132	glucose	Pathway7614	hepatocyte growth factor	18220582:induced
+Herb132	glucose	Pathway11683	NADPH oxidase	18220582:null
+Herb132	glucose	Pathway7938	HMG-CoA reductase	18220582:null
+Herb132	glucose	Pathway14712	Rac	18220582:null
+Herb132	glucose	Pathway16726	statins	18220582:null
+Herb132	glucose	Pathway14638	pyruvate dehydrogenase	2973643:oxidizes
+Herb132	glucose	Pathway14638	pyruvate dehydrogenase	2973643:null
+Herb132	glucose	Pathway9401	JNK	16949803:null
+Herb132	glucose	Pathway9417	JNKs	16949803:null
+Herb132	glucose	Pathway87	26S proteasome	22772755:null
+Herb132	glucose	Pathway7192	GRINA	31211943:null
+Herb132	glucose	Pathway5895	FAIM2	31211943:null
+Herb132	glucose	Pathway9021	insulin	14756693:null
+Herb132	glucose	Pathway15505	rt-PA	29929036:null
+Herb132	glucose	Pathway6530	GAPDH	29929036:null
+Herb132	glucose	Pathway8046	HPRT	29929036:null
+Herb132	glucose	Pathway18666	WT	23308246:null
+Herb132	glucose	Pathway9179	interleukin-9	28550144:null
+Herb132	glucose	Pathway8918	IL-9	28550144:null
+Herb132	glucose	Pathway9021	insulin	19631025:null
+Herb132	glucose	Pathway9021	insulin	19631025:present
+Herb132	glucose	Pathway16044	SHR	19631025:present
+Herb132	glucose	Pathway18586	VPS4B	24077878:null
+Herb132	glucose	Pathway6835	glucose transporter-1	16461188:null
+Herb132	glucose	Pathway1789	aquaporin-4	16461188:null
+Herb132	glucose	Pathway7424	HbA1c	11289053:null
+Herb132	glucose	Pathway5895	Faim2	21209208:null
+Herb132	glucose	Pathway3066	caspase	21209208:null
+Herb132	glucose	Pathway5964	FCPR03	30797872:null
+Herb132	glucose	Pathway6410	GABA(A) receptor	24513087:null
+Herb132	glucose	Pathway6419	GABA(A)R	24513087:null
+Herb132	glucose	Pathway6420	GABA(A)R subunits	24513087:null
+Herb132	glucose	Pathway6472	Gal-3	23246924:null
+Herb132	glucose	Pathway16486	solute carrier family 2	29708992:null
+Herb132	glucose	Pathway16242	SLC2A1	29708992:increased
+Herb132	glucose	Pathway9021	insulin	25498546:null
+Herb132	glucose	Pathway7980	HOMA-IR	25498546:null
+Herb132	glucose	Pathway85	25-hydroxyvitamin D	25498546:null
+Herb132	glucose	Pathway3364	Cd36	10377171:null
+Herb132	glucose	Pathway16044	SHR	10377171:null
+Herb132	glucose	Pathway2514	BN	10377171:null
+Herb132	glucose	Pathway8878	Il6	10377171:null
+Herb132	glucose	Pathway12413	Npy	10377171:null
+Herb132	glucose	Pathway2629	Brown Norway	10377171:null
+Herb132	glucose	Pathway18106	Ubc9	23094087:null
+Herb132	glucose	Pathway16850	SUMO-1	23094087:null
+Herb132	glucose	Pathway9021	insulin	25086207:null
+Herb132	glucose	Pathway9021	insulin	25086207:able
+Herb132	glucose	Pathway7076	GPER1	27113328:null
+Herb132	glucose	Pathway7398	Haptoglobin	24666344:null
+Herb132	glucose	Pathway6840	glucose-6-phosphate dehydrogenase	24666344:null
+Herb132	glucose	Pathway15675	SCA of alpha-thalassaemia	24666344:null
+Herb132	glucose	Pathway6384	G6PD	24666344:null
+Herb132	glucose	Pathway7492	HDAC9	26865248:null
+Herb132	glucose	Pathway7474	HDAC	26865248:null
+Herb132	glucose	Pathway12025	NF-kappaB	17873298:null
+Herb132	glucose	Pathway7606	Hepatic carboxylesterase 1	25285996:null
+Herb132	glucose	Pathway3516	CES1	25285996:null
+Herb132	glucose	Pathway9021	insulin	25285996:improves
+Herb132	glucose	Pathway7607	hepatic CES1	25285996:null
+Herb132	glucose	Pathway3516	CES1	25285996:induced
+Herb132	glucose	Pathway7607	hepatic CES1	25285996:induced
+Herb132	glucose	Pathway3516	CES1	25285996:stimulated
+Herb132	glucose	Pathway3516	CES1	25285996:increased
+Herb132	glucose	Pathway3519	CES1 promoter	25285996:stimulated
+Herb132	glucose	Pathway7844	histone 3	25285996:increased
+Herb132	glucose	Pathway7846	histone 4	25285996:increased
+Herb132	glucose	Pathway3517	CES1 chromatin	25285996:increased
+Herb132	glucose	Pathway7843	histone	25285996:increased
+Herb132	glucose	Pathway3517	CES1 chromatin	25285996:null
+Herb132	glucose	Pathway2046	ATP-citrate lyase	25285996:null
+Herb132	glucose	Pathway454	ACL	25285996:null
+Herb132	glucose	Pathway7843	histone	25285996:null
+Herb132	glucose	Pathway12534	nuclear factor kappa-B	17189875:stimulates
+Herb132	glucose	Pathway12534	nuclear factor kappa-B	17189875:null
+Herb132	glucose	Pathway8208	HuH7	17189875:null
+Herb132	glucose	Pathway17687	transcription factor nuclear factor kappa-B	17189875:null
+Herb132	glucose	Pathway12025	NF-kappaB	17189875:null
+Herb132	glucose	Pathway12025	NF-kappaB	17189875:enhanced
+Herb132	glucose	Pathway10090	luciferase	17189875:enhanced
+Herb132	glucose	Pathway9021	insulin	17189875:enhanced
+Herb132	glucose	Pathway9131	interleukin-1	17189875:null
+Herb132	glucose	Pathway17984	tumor necrosis factor-alpha	17189875:null
+Herb132	glucose	Pathway17527	TNF-alpha	17189875:null
+Herb132	glucose	Pathway17527	TNF-alpha	17189875:suggesting
+Herb132	glucose	Pathway12025	NF-kappaB	17189875:have
+Herb132	glucose	Pathway9021	insulin	17189875:enhance
+Herb132	glucose	Pathway5985	fetuin-A	23971757:null
+Herb132	glucose	Pathway7474	HDAC	23050648:promote
+Herb132	glucose	Pathway7474	HDAC	21411642:null
+Herb132	glucose	Pathway9021	insulin	11201732:null
+Herb132	glucose	Pathway15058	resistin	11201732:null
+Herb132	glucose	Pathway9021	Insulin	11201732:null
+Herb132	glucose	Pathway8106	Hsp20	20854253:unknown;To
+Herb132	glucose	Pathway8106	Hsp20	20854253:null
+Herb132	glucose	Pathway7518	hDPSCs	28105979:null
+Herb132	glucose	Pathway7439	hBM-MSCs	28105979:null
+Herb132	glucose	Pathway7433	hBM	28105979:null
+Herb132	glucose	Pathway11255	MSC	28105979:null
+Herb132	glucose	Pathway11562	myosin heavy chain	18566945:null
+Herb132	glucose	Pathway8498	Huwe1	26698301:null
+Herb132	glucose	Pathway6457	Gadd45b	26698301:null
+Herb132	glucose	Pathway8498	Huwe1	26698301:identified
+Herb132	glucose	Pathway6457	Gadd45b	26698301:involved
+Herb132	glucose	Pathway8498	Huwe1	30221657:null
+Herb132	glucose	Pathway12323	Notch1	30221657:null
+Herb132	glucose	Pathway11625	N	30221657:null
+Herb132	glucose	Pathway11472	Myc	30221657:null
+Herb132	glucose	Pathway9021	insulin	23279876:null
+Herb132	glucose	Pathway13482	phosphoenolpyruvate carboxykinase	23279876:null
+Herb132	glucose	Pathway6839	glucose-6-phosphatase	23279876:null
+Herb132	glucose	Pathway14084	PP2A	28652527:performed
+Herb132	glucose	Pathway15590	S6	26375300:deprivation
+Herb132	glucose	Pathway15282	rpS6	26375300:deprivation
+Herb132	glucose	Pathway15283	rpS6 kinase	26375300:deprivation
+Herb132	glucose	Pathway15595	S6K	26375300:deprivation
+Herb132	glucose	Pathway10920	miRNA	28744190:null
+Herb132	glucose	Pathway7728	HIF-1	21861815:null
+Herb132	glucose	Pathway5558	epoxygenase	15729289:null
+Herb132	glucose	Pathway98	2C11	15729289:null
+Herb132	glucose	Pathway7741	HIF-1alpha	15729289:null
+Herb132	glucose	Pathway12898	P450 epoxygenase	15729289:null
+Herb132	glucose	Pathway8043	HPC	15729289:null
+Herb132	glucose	Pathway8691	IGF-I	17592023:null
+Herb132	glucose	Pathway13076	Par-4	17592023:null
+Herb132	glucose	Pathway17609	tPA	20140248:null
+Herb132	glucose	Pathway13772	plasminogen activator inhibitor 1	20140248:null
+Herb132	glucose	Pathway12992	PAI-1	20140248:null
+Herb132	glucose	Pathway11255	MSC	20140248:null
+Herb132	glucose	Pathway9395	JMJD3	30028997:null
+Herb132	glucose	Pathway2894	calmodulin	30919283:null
+Herb132	glucose	Pathway14392	protein kinase II	30919283:null
+Herb132	glucose	Pathway2938	CaMKII	30919283:null
+Herb132	glucose	Pathway6830	glucose 6-phosphate dehydrogenase	30919283:null
+Herb132	glucose	Pathway6384	G6PD	30919283:null
+Herb132	glucose	Pathway13413	PHD	22061780:null
+Herb132	glucose	Pathway1806	ARC	27488634:null
+Herb132	glucose	Pathway9329	IVIg	25886362:treated
+Herb132	glucose	Pathway12208	NMDAR	23839940:null
+Herb132	glucose	Pathway6851	GluN2A	23839940:null
+Herb132	glucose	Pathway12183	NMDA	23839940:null
+Herb132	glucose	Pathway10608	MetS	27439768:related
+Herb132	glucose	Pathway9021	insulin	8817238:null
+Herb132	glucose	Pathway16067	SHRSP	14623828:null
+Herb132	glucose	Pathway16044	SHR	14623828:null
+Herb132	glucose	Pathway9332	Izm	14623828:null
+Herb132	glucose	Pathway9585	Klk1	14623828:null
+Herb132	glucose	Pathway4640	D1Rat116	14623828:null
+Herb132	glucose	Pathway9573	KLF11	23408111:null
+Herb132	glucose	Pathway9575	KLF11 genetic	23408111:null
+Herb132	glucose	Pathway12025	NF-kappaB	19023096:null
+Herb132	glucose	Pathway4139	c-Rel	19023096:null
+Herb132	glucose	Pathway9806	Leptin	19023096:null
+Herb132	glucose	Pathway4139	c-Rel	19023096:hampered
+Herb132	glucose	Pathway9860	LIF	18042242:null
+Herb132	glucose	Pathway10110	LXA4	26208392:null
+Herb132	glucose	Pathway10111	LXA4 ME	26208392:null
+Herb132	glucose	Pathway18193	unspliced X-box binding protein-1 mRNA	26208392:null
+Herb132	glucose	Pathway9021	insulin	29671019:null
+Herb132	glucose	Pathway9949	LncRNA-1810034E14Rik	30961627:null
+Herb132	glucose	Pathway6536	GAS5	29307821:null
+Herb132	glucose	Pathway10806	miR-137	29307821:null
+Herb132	glucose	Pathway17957	TUG1	28202414:null
+Herb132	glucose	Pathway9948	LncRNA TUG1	28202414:null
+Herb132	glucose	Pathway10470	MEG3	31656272:up-regulated
+Herb132	glucose	Pathway10470	MEG3	31656272:cleaved
+Herb132	glucose	Pathway9002	INK4 locus	29449542:null
+Herb132	glucose	Pathway1360	ANRIL	29449542:null
+Herb132	glucose	Pathway598	adenocarcinoma transcript 1	29449542:null
+Herb132	glucose	Pathway10234	MALAT1	29449542:null
+Herb132	glucose	Pathway6641	gene 3	29449542:null
+Herb132	glucose	Pathway10470	MEG3	29449542:null
+Herb132	glucose	Pathway7337	H19	29449542:null
+Herb132	glucose	Pathway2937	CaMK2D-associated transcript 1	29449542:null
+Herb132	glucose	Pathway2738	C2dat1	29449542:null
+Herb132	glucose	Pathway6194	Fos downstream transcript	29449542:null
+Herb132	glucose	Pathway6198	FosDT	29449542:null
+Herb132	glucose	Pathway6639	gene 1	29449542:null
+Herb132	glucose	Pathway17957	TUG1	29449542:null
+Herb132	glucose	Pathway10235	Malat1 GapmeR	28093478:null
+Herb132	glucose	Pathway9738	Lck	22623673:exhibited
+Herb132	glucose	Pathway9739	Lck kinase	22623673:exhibited
+Herb132	glucose	Pathway10738	MIF	21063426:null
+Herb132	glucose	Pathway10266	MANF	29050872:null
+Herb132	glucose	Pathway9021	insulin	7629239:null
+Herb132	glucose	Pathway9021	insulin	7629239:assessed
+Herb132	glucose	Pathway6874	GLUT 4	7629239:null
+Herb132	glucose	Pathway6833	glucose transporter GLUT 4	7629239:null
+Herb132	glucose	Pathway6904	glutamate release	31032919:(via
+Herb132	glucose	Pathway9021	insulin	30171523:null
+Herb132	glucose	Pathway1095	AMP-activated protein kinase	30362349:null
+Herb132	glucose	Pathway1099	AMPK	30362349:null
+Herb132	glucose	Pathway6835	glucose transporter-1	30362349:null
+Herb132	glucose	Pathway13358	PFKFB3	30362349:null
+Herb132	glucose	Pathway11680	NADPH	30362349:associated
+Herb132	glucose	Pathway12728	oxidase	30362349:associated
+Herb132	glucose	Pathway12355	NOX	30362349:associated
+Herb132	glucose	Pathway12093	nicotinamide adenine dinucleotide phosphate	30362349:associated
+Herb132	glucose	Pathway6878	GLUT-1	30362349:null
+Herb132	glucose	Pathway10787	miR-124	23754622:null
+Herb132	glucose	Pathway12456	Nrf2	31326116:null
+Herb132	glucose	Pathway1811	ARE	31326116:null
+Herb132	glucose	Pathway10821	miR-152-3p	31326116:null
+Herb132	glucose	Pathway10844	miR-194-5p	30232383:null
+Herb132	glucose	Pathway10900	miR-493	26929185:null
+Herb132	glucose	Pathway10738	MIF	26929185:null
+Herb132	glucose	Pathway10749	migration inhibitory factor	26929185:null
+Herb132	glucose	Pathway10839	miR-186-5p	30443183:null
+Herb132	glucose	Pathway18626	water channel protein aquaporin 4	30628716:null
+Herb132	glucose	Pathway1769	AQP4	30628716:null
+Herb132	glucose	Pathway12611	OGD	30628716:null
+Herb132	glucose	Pathway10874	miR-29a	27553862:null
+Herb132	glucose	Pathway2810	CA1	27553862:null
+Herb132	glucose	Pathway4823	DG	27553862:null
+Herb132	glucose	Pathway13557	PI3K	31870893:null
+Herb132	glucose	Pathway781	Akt	31870893:null
+Herb132	glucose	Pathway13189	PDCD4	31870893:null
+Herb132	glucose	Pathway10886	MiR-340-5p	31870893:null
+Herb132	glucose	Pathway10886	miR-340-5p	31870893:null
+Herb132	glucose	Pathway12612	OGDR	31870893:null
+Herb132	glucose	Pathway10889	miR-34a	29637443:upregulated
+Herb132	glucose	Pathway18356	VAT1	29637443:null
+Herb132	glucose	Pathway10889	miR-34a	29637443:null
+Herb132	glucose	Pathway6183	forkhead box protein P2	29637443:null
+Herb132	glucose	Pathway6223	FOXP2	29637443:null
+Herb132	glucose	Pathway12511	NTR	24573298:null
+Herb132	glucose	Pathway12951	p75	24573298:null
+Herb132	glucose	Pathway12511	NTR	24573298:observed
+Herb132	glucose	Pathway12951	p75	24573298:observed
+Herb132	glucose	Pathway14297	proNGF	24573298:observed
+Herb132	glucose	Pathway10887	miR-3473b	29317607:null
+Herb132	glucose	Pathway14277	pro-inflammatory factors	29317607:null
+Herb132	glucose	Pathway10888	miR-3473b antagomir	29317607:null
+Herb132	glucose	Pathway10491	MELAS	8063037:null
+Herb132	glucose	Pathway2466	BiP	18049481:null
+Herb132	glucose	Pathway2466	BiP	18049481:identified
+Herb132	glucose	Pathway8950	immunoglobulin heavy-chain	18049481:null
+Herb132	glucose	Pathway7229	GRP78	18049481:null
+Herb132	glucose	Pathway2468	BiP inducer X	18049481:identified
+Herb132	glucose	Pathway2474	BIX	18049481:identified
+Herb132	glucose	Pathway2457	binding protein	18049481:null
+Herb132	glucose	Pathway2474	BIX	18049481:null
+Herb132	glucose	Pathway7231	GRP94	18049481:null
+Herb132	glucose	Pathway2916	calreticulin	18049481:null
+Herb132	glucose	Pathway10431	MCT1 mRNA	15578721:similar
+Herb132	glucose	Pathway6832	glucose transporter 1	15578721:null
+Herb132	glucose	Pathway6877	GLUT1	15578721:null
+Herb132	glucose	Pathway7727	HIF1	15578721:similar
+Herb132	glucose	Pathway13934	PLP	25441836:null
+Herb132	glucose	Pathway12496	NSPCs	20339541:null
+Herb132	glucose	Pathway781	Akt	26374481:null
+Herb132	glucose	Pathway11784	NDRG2	27154863:null
+Herb132	glucose	Pathway11746	NCX1	19745171:null
+Herb132	glucose	Pathway11746	NCX1	23069678:associated
+Herb132	glucose	Pathway15062	REST	23069678:null
+Herb132	glucose	Pathway16013	SH	23069678:null
+Herb132	glucose	Pathway11784	NDRG2	23451161:null
+Herb132	glucose	Pathway12916	p53	23451161:null
+Herb132	glucose	Pathway6865	GluR6	19449206:null
+Herb132	glucose	Pathway14513	PSD95	19449206:null
+Herb132	glucose	Pathway6865	GluR6	19449206:shows
+Herb132	glucose	Pathway17045	Tat	19449206:shows
+Herb132	glucose	Pathway203	9c	19449206:shows
+Herb132	glucose	Pathway12474	NRG-1	16023588:null
+Herb132	glucose	Pathway12474	NRG-1	16023588:have
+Herb132	glucose	Pathway9860	LIF	30612292:null
+Herb132	glucose	Pathway11620	MZF-1	30612292:null
+Herb132	glucose	Pathway9665	lactate dehydrogenase	21185913:null
+Herb132	glucose	Pathway9744	LDH	21185913:null
+Herb132	glucose	Pathway12910	p50	19094066:subjected
+Herb132	glucose	Pathway12910	p50	19094066:associated
+Herb132	glucose	Pathway15001	RelA	19094066:subjected
+Herb132	glucose	Pathway15001	RelA	19094066:associated
+Herb132	glucose	Pathway4139	c-Rel	19094066:associated
+Herb132	glucose	Pathway14999	Rel	19094066:subjected
+Herb132	glucose	Pathway14999	Rel	19094066:associated
+Herb132	glucose	Pathway6883	Glut4 glucose transporter	24717514:decreased
+Herb132	glucose	Pathway6882	Glut4	24717514:decreased
+Herb132	glucose	Pathway12171	NLRP2	27693696:elevated
+Herb132	glucose	Pathway12173	NLRP2 protein	27693696:elevated
+Herb132	glucose	Pathway12171	NLRP2	27693696:null
+Herb132	glucose	Pathway12172	NLRP2 genes	27693696:null
+Herb132	glucose	Pathway12238	NOD2	25892960:null
+Herb132	glucose	Pathway12238	NOD2	25892960:used
+Herb132	glucose	Pathway12238	NOD2	25892960:explore
+Herb132	glucose	Pathway12300	Notch	21737799:null
+Herb132	glucose	Pathway7229	GRP78	15914903:null
+Herb132	glucose	Pathway7516	HDL-cholesterol	22103713:null
+Herb132	glucose	Pathway646	adiponectin	22103713:enhances
+Herb132	glucose	Pathway7605	hepatic adiponectin receptor	22103713:enhances
+Herb132	glucose	Pathway15217	RNA HECTD1	29938598:null
+Herb132	glucose	Pathway10808	MIR142	29938598:null
+Herb132	glucose	Pathway17412	TIPARP	29938598:null
+Herb132	glucose	Pathway17115	TCDD	29938598:null
+Herb132	glucose	Pathway3692	circHECTD1	29938598:null
+Herb132	glucose	Pathway12451	Nrdp1	28979191:null
+Herb132	glucose	Pathway12452	Nrdp1 gene	28979191:null
+Herb132	glucose	Pathway12456	Nrf2	28956063:null
+Herb132	glucose	Pathway2450	Bif-1	26253702:null
+Herb132	glucose	Pathway11025	Mitofusin2	28013092:null
+Herb132	glucose	Pathway12766	p	28013092:null
+Herb132	glucose	Pathway10616	Mfn2	28013092:null
+Herb132	glucose	Pathway13970	PNS	30587668:null
+Herb132	glucose	Pathway10825	miR-155	30587668:regulating
+Herb132	glucose	Pathway6812	glucagon	7988784:null
+Herb132	glucose	Pathway18695	XBP1	21337367:spliced
+Herb132	glucose	Pathway8954	immunoglobulin-binding protein	21337367:causes
+Herb132	glucose	Pathway7229	Grp78	21337367:causes
+Herb132	glucose	Pathway2466	BiP	21337367:causes
+Herb132	glucose	Pathway3637	CHOP	21337367:causes
+Herb132	glucose	Pathway16593	spliced X-box-binding protein 1	21337367:null
+Herb132	glucose	Pathway8954	immunoglobulin-binding protein	21337367:null
+Herb132	glucose	Pathway7229	Grp78	21337367:null
+Herb132	glucose	Pathway2466	BiP	21337367:null
+Herb132	glucose	Pathway3637	CHOP	21337367:null
+Herb132	glucose	Pathway8112	HSP27	29510140:null
+Herb132	glucose	Pathway6830	glucose 6-phosphate dehydrogenase	29510140:null
+Herb132	glucose	Pathway6384	G6PD	29510140:null
+Herb132	glucose	Pathway7531	heat shock protein 27	29510140:null
+Herb132	glucose	Pathway2013	ATM	29510140:mutated
+Herb132	glucose	Pathway1973	ataxia telangiectasia mutated	29510140:null
+Herb132	glucose	Pathway14127	PPP	29510140:null
+Herb132	glucose	Pathway18382	VEGF	25884837:resulted
+Herb132	glucose	Pathway18306	vascular endothelial growth factor	25884837:resulted
+Herb132	glucose	Pathway18089	tyrosine kinase Src	25884837:resulted
+Herb132	glucose	Pathway11028	mitogen activated protein kinase	25884837:resulted
+Herb132	glucose	Pathway13557	PI3K	25884837:resulted
+Herb132	glucose	Pathway781	Akt	25884837:resulted
+Herb132	glucose	Pathway9021	insulin	29032144:null
+Herb132	glucose	Pathway2182	BBB	23050645:maintained
+Herb132	glucose	Pathway6836	glucose transporter-1 mRNA	24766199:null
+Herb132	glucose	Pathway1618	APOE epsilon4 allele	19693485:null
+Herb132	glucose	Pathway14557	PTEN	20360540:null
+Herb132	glucose	Pathway14557	PTEN	20360540:reduced
+Herb132	glucose	Pathway13619	PKC	15295022:null
+Herb132	glucose	Pathway4791	deltaPKC	15295022:null
+Herb132	glucose	Pathway11353	mTOR	23861877:null
+Herb132	glucose	Pathway11362	mTORC1	23861877:null
+Herb132	glucose	Pathway11363	mTORC2	23861877:null
+Herb132	glucose	Pathway12380	Npas4	26661154:resulted
+Herb132	glucose	Pathway1765	AQP	17898873:null
+Herb132	glucose	Pathway1767	AQP1	17898873:null
+Herb132	glucose	Pathway9665	lactate dehydrogenase	17898873:measuring
+Herb132	glucose	Pathway9744	LDH	17898873:measuring
+Herb132	glucose	Pathway1765	AQP	17898873:provide
+Herb132	glucose	Pathway1767	AQP1	17898873:provide
+Herb132	glucose	Pathway9744	LDH	17898873:provide
+Herb132	glucose	Pathway3159	cathepsin B	17898873:provide
+Herb132	glucose	Pathway6880	GLUT-3 glucose transporter	10329982:null
+Herb132	glucose	Pathway16789	streptozotocin	10329982:null
+Herb132	glucose	Pathway6881	GLUT-3 mRNA	10329982:null
+Herb132	glucose	Pathway16789	streptozotocin	10329982:responsible
+Herb132	glucose	Pathway6881	GLUT-3 mRNA	10329982:responsible
+Herb132	glucose	Pathway1899	ASK1	28855861:null
+Herb132	glucose	Pathway18528	VLDL receptor gene	8603509:null
+Herb132	glucose	Pathway18527	VLDL receptor	8603509:null
+Herb132	glucose	Pathway11096	MMP-3	24840287:null
+Herb132	glucose	Pathway15055	Res	24840287:null
+Herb132	glucose	Pathway10361	matrix metalloproteinase-3	24840287:known
+Herb132	glucose	Pathway11096	MMP-3	24840287:known
+Herb132	glucose	Pathway15180	RIG-I	26379474:null
+Herb132	glucose	Pathway9665	lactate dehydrogenase	31469718:null
+Herb132	glucose	Pathway781	Akt	31469718:activating
+Herb132	glucose	Pathway14098	PPAR-alpha	18221086:null
+Herb132	glucose	Pathway7503	HDL	18221086:null
+Herb132	glucose	Pathway15560	S100A11	29844306:null
+Herb132	glucose	Pathway6840	glucose-6-phosphate dehydrogenase	24224700:null
+Herb132	glucose	Pathway16124	sigma-1 receptor	21278085:induced
+Herb132	glucose	Pathway16124	sigma-1 receptor	21278085:formation
+Herb132	glucose	Pathway481	actin	21278085:induced
+Herb132	glucose	Pathway16469	sodium-glucose transporter	24699226:null
+Herb132	glucose	Pathway16000	SGLT	24699226:null
+Herb132	glucose	Pathway16000	SGLT	24699226:bound
+Herb132	glucose	Pathway16009	SGLT-3	24699226:null
+Herb132	glucose	Pathway16009	SGLT-3	24699226:bound
+Herb132	glucose	Pathway16000	SGLT	24699226:affected
+Herb132	glucose	Pathway16009	SGLT-3	24699226:affected
+Herb132	glucose	Pathway16010	SGLT-3 siRNA	24699226:affected
+Herb132	glucose	Pathway16578	Sphk1	25797575:null
+Herb132	glucose	Pathway16577	Sphk	25797575:null
+Herb132	glucose	Pathway16692	ST2	28389473:null
+Herb132	glucose	Pathway16707	STAT	26174325:null
+Herb132	glucose	Pathway16716	STAT6	26174325:null
+Herb132	glucose	Pathway16167	siRNA	26174325:null
+Herb132	glucose	Pathway16717	STAT6 siRNA	26174325:null
+Herb132	glucose	Pathway9021	insulin	24088404:null
+Herb132	glucose	Pathway14162	PRDX4	30613272:null
+Herb132	glucose	Pathway10852	miR-200a	26466330:null
+Herb132	glucose	Pathway14350	protein 2	26466330:null
+Herb132	glucose	Pathway7171	Grb2	26466330:null
+Herb132	glucose	Pathway5536	epidermal growth factor receptor	26466330:null
+Herb132	glucose	Pathway5226	EGFR	26466330:null
+Herb132	glucose	Pathway14763	Ras	26466330:null
+Herb132	glucose	Pathway10472	MEK	26466330:null
+Herb132	glucose	Pathway5623	ERK1	26466330:null
+Herb132	glucose	Pathway3702	c-Jun	26466330:null
+Herb132	glucose	Pathway11477	myelin basic protein	26466330:null
+Herb132	glucose	Pathway10392	MBP	26466330:null
+Herb132	glucose	Pathway17179	tensin homolog	26466330:null
+Herb132	glucose	Pathway13448	phosphatidylinositol-3-kinase	26466330:null
+Herb132	glucose	Pathway13557	PI3K	26466330:null
+Herb132	glucose	Pathway781	AKT	26466330:null
+Herb132	glucose	Pathway12916	p53	26466330:null
+Herb132	glucose	Pathway9665	lactate dehydrogenase	26847382:null
+Herb132	glucose	Pathway9744	LDH	26847382:null
+Herb132	glucose	Pathway9744	LDH	26847382:reduced;
+Herb132	glucose	Pathway17461	TLR2 rs5743708	25590839:null
+Herb132	glucose	Pathway17576	Tollip	26011492:null
+Herb132	glucose	Pathway17576	Tollip	26011492:indicating
+Herb132	glucose	Pathway4306	CXCR4	23185548:null
+Herb132	glucose	Pathway559	Ad	23185548:null
+Herb132	glucose	Pathway5503	EPC	23185548:null
+Herb132	glucose	Pathway17323	thrombin	14705148:neuroprotective
+Herb132	glucose	Pathway8879	IL-6	25063351:null
+Herb132	glucose	Pathway15917	serum high sensitivity C-reactive Protein	25063351:null
+Herb132	glucose	Pathway8075	hsCRP	25063351:null
+Herb132	glucose	Pathway9021	insulin	25063351:null
+Herb132	glucose	Pathway5656	ESR	25063351:null
+Herb132	glucose	Pathway7980	HOMA-IR	25063351:null
+Herb132	glucose	Pathway9751	LDL cholesterol	25063351:null
+Herb132	glucose	Pathway18003	TWEAK	15385607:null
+Herb132	glucose	Pathway6159	Fn14	15385607:upregulated;
+Herb132	glucose	Pathway16789	streptozotocin	27207546:null
+Herb132	glucose	Pathway7673	HFD	27207546:null
+Herb132	glucose	Pathway16817	STZ	27207546:null
+Herb132	glucose	Pathway17506	TNF	27207546:null
+Herb132	glucose	Pathway8652	IFNAR1	28647375:null
+Herb132	glucose	Pathway18144	UCP-2	12858170:null
+Herb132	glucose	Pathway3092	caspase-3	12858170:null
+Herb132	glucose	Pathway10875	miR-29b	22094713:null
+Herb132	glucose	Pathway16013	SH	30597231:constructed
+Herb132	glucose	Pathway17464	TLR4	29234386:associated
+Herb132	glucose	Pathway11474	MyD88	29234386:associated
+Herb132	glucose	Pathway11976	NF	29234386:associated
+Herb132	glucose	Pathway6797	GLP-1 release	27129676:null
+Herb132	glucose	Pathway5623	ERK1	24376419:null
+Herb132	glucose	Pathway13522	phosphorylated protein kinase B	24376419:null
+Herb132	glucose	Pathway13618	PKB	24376419:null
+Herb132	glucose	Pathway781	Akt	24376419:null
+Herb132	glucose	Pathway18654	Wnt	31907363:null
+Herb132	glucose	Pathway17218	TFA	31227974:null
+Herb132	glucose	Pathway15211	RMST	31852624:null
+Herb132	glucose	Pathway18654	Wnt	31819940:activate
+Herb132	glucose	Pathway4345	CyclinD1	31819940:increase
+Herb132	glucose	Pathway12456	Nrf2	31812555:null
+Herb132	glucose	Pathway10913	miR-9	31500865:performed
+Herb132	glucose	Pathway4290	CXCL16	30945283:null
+Herb132	glucose	Pathway9355	Janus Kinases	31513843:volume
+Herb132	glucose	Pathway9349	JAKs	31513843:volume
+Herb132	glucose	Pathway16707	STAT	31513843:volume
+Herb132	glucose	Pathway9343	JAK	31513843:volume
+Herb132	glucose	Pathway2657	BV2 microglial	31513843:assessed
+Herb132	glucose	Pathway4819	DEX	31654225:null
+Herb132	glucose	Pathway4820	DEX + RAPA	31654225:null
+Herb132	glucose	Pathway14963	REDD1	31021470:null
+Herb132	glucose	Pathway11353	mTOR	31021470:suppressing
+Herb132	glucose	Pathway7434	HBMEC	31187440:null
+Herb132	glucose	Pathway12611	OGD	31187440:null
+Herb132	glucose	Pathway12611	OGD	31187440:mimic
+Herb132	glucose	Pathway14662	R	31187440:null
+Herb132	glucose	Pathway14662	R	31187440:mimic
+Herb132	glucose	Pathway14964	redox	31406177:preserve
+Herb132	glucose	Pathway13358	PFKFB3	31406177:null
+Herb132	glucose	Pathway14964	redox	31406177:null
+Herb132	glucose	Pathway2097	AZ67	31406177:null
+Herb132	glucose	Pathway15920	serum IGF1	31327319:emphasized
+Herb132	glucose	Pathway7994	Homer1a	30930751:null
+Herb132	glucose	Pathway7994	Homer1a	30930751:alleviated
+Herb132	glucose	Pathway9665	lactate dehydrogenase	30930751:alleviated
+Herb132	glucose	Pathway9744	LDH	30930751:alleviated
+Herb132	glucose	Pathway3427	CdA	30665003:present
+Herb132	glucose	Pathway10454	ME	30665003:resulted
+Herb132	glucose	Pathway16711	STAT3	30593877:null
+Herb132	glucose	Pathway4271	Cx43	30593877:null
+Herb132	glucose	Pathway17045	TAT	30593877:null
+Herb132	glucose	Pathway14537	pSTAT3	30593877:null
+Herb132	glucose	Pathway12219	NMMHC IIA	30666520:null
+Herb132	glucose	Pathway12218	NMMHC II	30666520:null
+Herb132	glucose	Pathway8813	IL-17A	30746745:null
+Herb132	glucose	Pathway5618	ERK	30550742:null
+Herb132	glucose	Pathway781	Akt	30550742:null
+Herb132	glucose	Pathway12456	Nrf2	30550742:null
+Herb132	glucose	Pathway17609	tPA	30552546:null
+Herb132	glucose	Pathway16027	Shh	30552546:null
+Herb132	glucose	Pathway9021	insulin	30626440:null
+Herb132	glucose	Pathway17060	Tat-NTS peptide	29769639:null
+Herb132	glucose	Pathway12916	p53	29769639:null
+Herb132	glucose	Pathway2448	Bid	29769639:null
+Herb132	glucose	Pathway3092	caspase-3	29769639:null
+Herb132	glucose	Pathway17045	Tat	29769639:null
+Herb132	glucose	Pathway12513	NTS	29769639:null
+Herb132	glucose	Pathway4819	Dex	30201260:null
+Herb132	glucose	Pathway8012	HOTTIP	30129112:null
+Herb132	glucose	Pathway10810	miR-143	30129112:modulating
+Herb132	glucose	Pathway7662	hexokinase 2	30129112:modulating
+Herb132	glucose	Pathway10810	miR-143	30129112:null
+Herb132	glucose	Pathway7662	hexokinase 2	30129112:null
+Herb132	glucose	Pathway7892	HK-2	30129112:null
+Herb132	glucose	Pathway10386	MBL	30354247:exposed
+Herb132	glucose	Pathway3066	caspase	30191592:null
+Herb132	glucose	Pathway10805	miR-134	30191592:null
+Herb132	glucose	Pathway3117	caspase-8	30191592:null
+Herb132	glucose	Pathway5515	EphA4	30186497:performed
+Herb132	glucose	Pathway5523	EphrinA1	30186497:performed
+Herb132	glucose	Pathway5507	Eph	30186497:performed
+Herb132	glucose	Pathway5520	Ephrin	30186497:performed
+Herb132	glucose	Pathway18109	UBIAD1	29663377:null
+Herb132	glucose	Pathway13557	PI3K	29663377:null
+Herb132	glucose	Pathway781	AKT	29663377:null
+Herb132	glucose	Pathway1099	AMPK	29787772:inducing
+Herb132	glucose	Pathway11353	mTOR	29787772:inducing
+Herb132	glucose	Pathway18171	ULK1	29787772:inducing
+Herb132	glucose	Pathway6746	Ginkgolide K	29787772:null
+Herb132	glucose	Pathway6758	GK	29787772:null
+Herb132	glucose	Pathway4266	Cx36	30016355:targeting
+Herb132	glucose	Pathway2938	CaMKII	30016355:targeting
+Herb132	glucose	Pathway2559	Box5	29510185:null
+Herb132	glucose	Pathway12663	Orai1	29363325:decreased
+Herb132	glucose	Pathway17797	TrkB	29480936:null
+Herb132	glucose	Pathway13448	phosphatidylinositol-3-kinase	29480936:null
+Herb132	glucose	Pathway781	Akt	29480936:null
+Herb132	glucose	Pathway17797	TrkB	29480936:increases
+Herb132	glucose	Pathway17837	tropomyosin receptor kinase B	29480936:increases
+Herb132	glucose	Pathway7620	hepcidin	29407213:null
+Herb132	glucose	Pathway5972	ferritin	29407213:null
+Herb132	glucose	Pathway4723	DAPK1	29571866:null
+Herb132	glucose	Pathway5618	ERK	29571866:null
+Herb132	glucose	Pathway9284	Iso	29454613:null
+Herb132	glucose	Pathway3467	CDP	29710464:null
+Herb132	glucose	Pathway15193	RIP1K	29102662:cultured
+Herb132	glucose	Pathway17179	tensin homolog	30116506:null
+Herb132	glucose	Pathway11842	Netrin-1	29321724:null
+Herb132	glucose	Pathway11842	netrin-1	29311781:null
+Herb132	glucose	Pathway15263	ROS	28961497:depends
+Herb132	glucose	Pathway12174	NLRP3	28961497:depends
+Herb132	glucose	Pathway12174	NLRP3	28961497:were
+Herb132	glucose	Pathway12174	NLRP3	28961497:used
+Herb132	glucose	Pathway12177	NLRP3-specifc siRNA	28961497:were
+Herb132	glucose	Pathway12456	Nrf2	29383122:null
+Herb132	glucose	Pathway8469	Humanin	29043002:null
+Herb132	glucose	Pathway9346	Jak2	29043002:reactivating
+Herb132	glucose	Pathway16711	Stat3	29043002:reactivating
+Herb132	glucose	Pathway13557	PI3K	29043002:reactivating
+Herb132	glucose	Pathway781	AKT	29043002:reactivating
+Herb132	glucose	Pathway8469	humanin	29043002:null
+Herb132	glucose	Pathway12300	Notch	28257582:null
+Herb132	glucose	Pathway12301	Notch 1	28257582:null
+Herb132	glucose	Pathway16176	Sirt3	28396174:null
+Herb132	glucose	Pathway5450	eNOS	28415790:reduced
+Herb132	glucose	Pathway781	Akt	28415790:reduced
+Herb132	glucose	Pathway13015	p-Akt	28415790:reduced
+Herb132	glucose	Pathway7690	HG	28415790:null
+Herb132	glucose	Pathway18382	VEGF	27772541:null
+Herb132	glucose	Pathway2252	BDNF	27772541:null
+Herb132	glucose	Pathway14374	protein kinase B	27772541:null
+Herb132	glucose	Pathway14757	rapamycin	27772541:null
+Herb132	glucose	Pathway781	AKT	27772541:null
+Herb132	glucose	Pathway11353	mTOR	27772541:null
+Herb132	glucose	Pathway6469	GAL	28203483:used
+Herb132	glucose	Pathway527	activin	27693962:null
+Herb132	glucose	Pathway15775	SEI	27524398:mimic
+Herb132	glucose	Pathway14727	Raf kinase	27698534:null
+Herb132	glucose	Pathway5618	ERK	27698534:null
+Herb132	glucose	Pathway5618	ERK	27698534:explored
+Herb132	glucose	Pathway15204	RKIP	27698534:responsible
+Herb132	glucose	Pathway15204	RKIP	27698534:explored
+Herb132	glucose	Pathway5448	ENOPH1	27630541:induced
+Herb132	glucose	Pathway9665	lactate dehydrogenase	27630541:induced
+Herb132	glucose	Pathway17323	thrombin	27033633:null
+Herb132	glucose	Pathway15607	SAB	27255374:used
+Herb132	glucose	Pathway16096	SHSY5Y	27171848:null
+Herb132	glucose	Pathway12456	Nrf2	27143001:null
+Herb132	glucose	Pathway6799	GLP-1R	26689204:null
+Herb132	glucose	Pathway9021	insulin	26689204:null
+Herb132	glucose	Pathway7207	group III mGlu receptor	26647070:null
+Herb132	glucose	Pathway458	ACPT-I	26647070:null
+Herb132	glucose	Pathway17609	tPA	26881424:adding
+Herb132	glucose	Pathway11072	MMP	26881424:induced
+Herb132	glucose	Pathway11085	MMP2	26881424:induced
+Herb132	glucose	Pathway6081	fibronectin	26881424:adding
+Herb132	glucose	Pathway6004	FGF10	26813160:null
+Herb132	glucose	Pathway6004	FGF10	26813160:unknown;
+Herb132	glucose	Pathway17609	tPA	26068590:null
+Herb132	glucose	Pathway11845	Neu	26188145:null
+Herb132	glucose	Pathway12782	P11	26188145:null
+Herb132	glucose	Pathway5069	DZ	26016889:null
+Herb132	glucose	Pathway781	Akt	26016889:studied
+Herb132	glucose	Pathway11353	mTOR	26016889:studied
+Herb132	glucose	Pathway15595	S6K	26016889:studied
+Herb132	glucose	Pathway8671	IGF1	25864625:activating
+Herb132	glucose	Pathway1596	APOE	26213471:null
+Herb132	glucose	Pathway12970	PACAP	25712659:null
+Herb132	glucose	Pathway18468	VIP	25712659:null
+Herb132	glucose	Pathway12970	PACAP	25712659:have
+Herb132	glucose	Pathway18468	VIP	25712659:have
+Herb132	glucose	Pathway7503	HDL	25601172:null
+Herb132	glucose	Pathway18822	ZO-1	24974727:null
+Herb132	glucose	Pathway10568	metalloproteinases	24930357:null
+Herb132	glucose	Pathway407	ACE2	24814023:null
+Herb132	glucose	Pathway1136	Ang	24814023:null
+Herb132	glucose	Pathway10312	Mas	24814023:null
+Herb132	glucose	Pathway1227	angiotensin II	24814023:null
+Herb132	glucose	Pathway17386	TIGAR	24872551:null
+Herb132	glucose	Pathway17386	TIGAR	24872551:upregulated
+Herb132	glucose	Pathway6830	glucose 6-phosphate dehydrogenase	24872551:null
+Herb132	glucose	Pathway13557	PI3K	24486437:related
+Herb132	glucose	Pathway781	Akt	24486437:related
+Herb132	glucose	Pathway12940	p65	24486437:related
+Herb132	glucose	Pathway12126	nitric oxide oxidase	24486437:related
+Herb132	glucose	Pathway12744	oxPPP	24414069:null
+Herb132	glucose	Pathway12744	oxPPP	24414069:mimicking
+Herb132	glucose	Pathway7728	HIF-1	24296245:null
+Herb132	glucose	Pathway5647	erythropoietin	24296245:null
+Herb132	glucose	Pathway5545	EPO	24296245:null
+Herb132	glucose	Pathway7959	hNPCs	24060818:null
+Herb132	glucose	Pathway8371	Human neural progenitor cells	24060818:null
+Herb132	glucose	Pathway5215	EGCG	24193141:null
+Herb132	glucose	Pathway7229	GRP78	24193141:null
+Herb132	glucose	Pathway3637	CHOP	24193141:null
+Herb132	glucose	Pathway2515	BNIP3	23692407:upregulated
+Herb132	glucose	Pathway2515	BNIP3	23692407:correlated
+Herb132	glucose	Pathway15645	SARA	23440543:null
+Herb132	glucose	Pathway18479	vitamin D hormone	23154302:null
+Herb132	glucose	Pathway18373	VDH	23154302:null
+Herb132	glucose	Pathway12886	P4	23154302:null
+Herb132	glucose	Pathway2656	BV2 microglia	23333598:null
+Herb132	glucose	Pathway13613	PKA	23000625:null
+Herb132	glucose	Pathway7229	GRP78	23000625:null
+Herb132	glucose	Pathway3637	CHOP	23000625:reduced
+Herb132	glucose	Pathway6841	glucose-regulated proteins 78	23000625:null
+Herb132	glucose	Pathway10344	matrix metalloproteinase	22710064:null
+Herb132	glucose	Pathway13198	PDE4	22245243:null
+Herb132	glucose	Pathway6858	GluR2	22537872:null
+Herb132	glucose	Pathway6530	GAPDH	22537872:null
+Herb132	glucose	Pathway14127	PPP	22260979:null
+Herb132	glucose	Pathway14127	PPP	22260979:activate
+Herb132	glucose	Pathway7443	HBP	22260979:activate
+Herb132	glucose	Pathway14127	PPP	22260979:reported
+Herb132	glucose	Pathway7443	HBP	22260979:null
+Herb132	glucose	Pathway6840	glucose-6-phosphate dehydrogenase	22260979:null
+Herb132	glucose	Pathway12456	Nrf2	22260979:null
+Herb132	glucose	Pathway12456	Nrf2	22260979:reported
+Herb132	glucose	Pathway14396	protein kinase RNA	22260979:reported
+Herb132	glucose	Pathway13638	PKR	22260979:reported
+Herb132	glucose	Pathway5589	ER kinase	22260979:reported
+Herb132	glucose	Pathway13315	PERK	22260979:reported
+Herb132	glucose	Pathway12540	nuclear factor-erythroid-2-related factor 2	22260979:null
+Herb132	glucose	Pathway781	Akt	20940001:null
+Herb132	glucose	Pathway3637	CHOP	20940001:null
+Herb132	glucose	Pathway3087	caspase-12	20940001:null
+Herb132	glucose	Pathway7229	GRP78	20940001:null
+Herb132	glucose	Pathway15822	Ser473	20940001:null
+Herb132	glucose	Pathway3066	caspase	20940001:null
+Herb132	glucose	Pathway16304	Small GTPase	20651275:null
+Herb132	glucose	Pathway15145	RhoA	20651275:null
+Herb132	glucose	Pathway15140	rho kinase	20651275:null
+Herb132	glucose	Pathway2730	C1q	20147536:null
+Herb132	glucose	Pathway11704	NAP	19619522:null
+Herb132	glucose	Pathway4525	cytochrome c	19619522:associated
+Herb132	glucose	Pathway4525	cytochrome c	19619522:null
+Herb132	glucose	Pathway12191	NMDA receptor dependent PGC-1alpha	19343277:null
+Herb132	glucose	Pathway13375	PGC-1alpha	19343277:null
+Herb132	glucose	Pathway12188	NMDA receptor	19343277:null
+Herb132	glucose	Pathway18382	VEGF	19228841:null
+Herb132	glucose	Pathway17779	Trichostatin A	19103266:null
+Herb132	glucose	Pathway12025	NF-kappaB	19103266:null
+Herb132	glucose	Pathway17901	TSA	19103266:null
+Herb132	glucose	Pathway12542	nuclear factor-kappaB	19103266:explore
+Herb132	glucose	Pathway110	30min	18606174:null
+Herb132	glucose	Pathway110	30min	18606174:promotes
+Herb132	glucose	Pathway695	Adrenomedullin	18498438:null
+Herb132	glucose	Pathway16368	SN	18079966:null
+Herb132	glucose	Pathway9021	insulin	18566944:null
+Herb132	glucose	Pathway6837	glucose via pyruvate dehydrogenase	16504342:null
+Herb132	glucose	Pathway14638	pyruvate dehydrogenase	16504342:null
+Herb132	glucose	Pathway17112	TCA cycle via pyruvate dehydrogenase	16504342:null
+Herb132	glucose	Pathway18246	UTP	16831297:null
+Herb132	glucose	Pathway6903	glutamate receptors	17017544:exert
+Herb132	glucose	Pathway12203	NMDA receptors	17017544:exert
+Herb132	glucose	Pathway4127	CREB	14667449:null
+Herb132	glucose	Pathway5618	ERK	14667449:null
+Herb132	glucose	Pathway18306	vascular endothelial growth factor	14713306:null
+Herb132	glucose	Pathway18382	VEGF	14713306:null
+Herb132	glucose	Pathway16013	SH	14713306:null
+Herb132	glucose	Pathway6045	fibrinogen	14509584:null
+Herb132	glucose	Pathway13766	plasminogen activator	14509584:null
+Herb132	glucose	Pathway3066	caspase	11742085:detected
+Herb132	glucose	Pathway3071	caspase 3 cleavage	11742085:detected
+Herb132	glucose	Pathway3069	caspase 3	11742085:detected
+Herb132	glucose	Pathway3066	caspase	11742085:null
+Herb132	glucose	Pathway3071	caspase 3 cleavage	11742085:null
+Herb132	glucose	Pathway3069	caspase 3	11742085:null
+Herb132	glucose	Pathway11552	myosin ATPase	3156435:null
+Herb132	glucose	Pathway11315	MTHFR (methylenetetrahydrofolate reductase) C677T CT	31865785:null
+Herb132	glucose	Pathway12050	NGAL	31574797:null
+Herb132	glucose	Pathway4057	cox	31574797:null
+Herb132	glucose	Pathway6812	glucagon	30223891:null
+Herb132	glucose	Pathway9577	KLF4	29203245:null
+Herb132	glucose	Pathway9619	Kruppel-like family of transcription factor 4	29203245:null
+Herb132	glucose	Pathway16958	T2DM	29952413:null
+Herb132	glucose	Pathway6879	GLUT3	29257220:null
+Herb132	glucose	Pathway6831	glucose transporter (GLUT)1	29257220:null
+Herb132	glucose	Pathway5524	ephrin-A1	28378105:null
+Herb132	glucose	Pathway9021	insulin	25276034:null
+Herb132	glucose	Pathway16170	SIRT1	20381504:null
+Herb132	glucose	Pathway16183	Sirtuin1	20381504:null
+Herb132	glucose	Pathway8582	ICA	20381504:null
+Herb132	glucose	Pathway9021	insulin	31382796:null
+Herb132	glucose	Pathway9021	insulin	23622737:null
+Herb132	glucose	Pathway3202	CBF	17691387:null
+Herb132	glucose	Pathway15734	SCS	17691387:null
+Herb18	baicalin	Pathway7924	HLJDT	23628154:null
+Herb18	baicalin	Pathway7924	HLJDT	23628154:characterised
+Herb18	baicalin	Pathway18382	VEGF	20851810:tested
+Herb18	baicalin	Pathway18382	VEGF	20851810:inducing
+Herb18	baicalin	Pathway13250	PDZ	15185839:account
+Herb18	baicalin	Pathway13251	PDZ domain	15185839:displayed
+Herb18	baicalin	Pathway13254	PDZ2	15185839:displayed
+Herb18	baicalin	Pathway13250	PDZ	15185839:displayed
+Herb18	baicalin	Pathway11072	MMP	29595191:targeting
+Herb18	baicalin	Pathway6907	glutamate transporter	29171427:null
+Herb18	baicalin	Pathway13015	p-Akt	29171427:null
+Herb18	baicalin	Pathway6908	glutamate transporter 1	29171427:null
+Herb18	baicalin	Pathway13491	phosphoinositide 3-kinase	29171427:null
+Herb18	baicalin	Pathway14374	protein kinase B	29171427:null
+Herb18	baicalin	Pathway13557	PI3K	29171427:null
+Herb18	baicalin	Pathway781	Akt	29171427:null
+Herb18	baicalin	Pathway6907	glutamate transporter	29171427:protect
+Herb18	baicalin	Pathway6908	glutamate transporter 1	29171427:protect
+Herb18	baicalin	Pathway13557	PI3K	29171427:protect
+Herb18	baicalin	Pathway781	Akt	29171427:protect
+Herb18	baicalin	Pathway1099	AMPK	28743390:null
+Herb18	baicalin	Pathway1099	AMPK	28743390:protected
+Herb255	pearl	Pathway9021	insulin	25532381:null
+Herb255	pearl	Pathway7422	HbA(1c)	18478734:setting
+Herb32	basil	Pathway1227	angiotensin II	30386989:null
+Herb32	basil	Pathway1159	AngII	30386989:null
+Herb32	basil	Pathway5618	ERK	28480040:null
+Herb32	basil	Pathway13190	PDE	21036126:null
+Herb32	basil	Pathway13193	PDE3	21036126:null
+Herb32	basil	Pathway13198	PDE4	21036126:null
+Herb32	basil	Pathway13211	PDE5	21036126:null
+Herb32	basil	Pathway5411	endothelin-1	12669187:null
+Herb32	basil	Pathway16370	SNAP	12669187:null
+Herb32	basil	Pathway17370	TIA	12661115:null
+Herb32	basil	Pathway2875	calcitonin gene-related peptide	1279255:null
+Herb32	basil	Pathway3551	CGRP	1279255:null
+Herb32	basil	Pathway16044	SHR	1279255:obtained
+Herb32	basil	Pathway16067	SHRSP	1279255:obtained
+Herb32	basil	Pathway16044	SHR	1279255:null
+Herb32	basil	Pathway3551	CGRP	1279255:associated
+Herb32	basil	Pathway16044	SHR	1279255:found
+Herb32	basil	Pathway16067	SHRSP	1279255:found
+Herb32	basil	Pathway2407	betahistine HC1	1092033:null
+Herb32	basil	Pathway10140	lysoPC	18154952:induced
+Herb32	basil	Pathway10140	lysoPC	18154952:explored
+Herb32	basil	Pathway10140	lysoPC	18154952:null
+Herb32	basil	Pathway1959	AT1-receptor	23988026:null
+Herb32	basil	Pathway5411	endothelin-1	23988026:null
+Herb32	basil	Pathway5689	ET-1	23988026:null
+Herb32	basil	Pathway5688	ET(B)-receptor	23988026:null
+Herb32	basil	Pathway53	17beta	15054117:null
+Herb32	basil	Pathway576	ADAMTS1	22173868:null
+Herb32	basil	Pathway18200	uPA proteins	22173868:null
+Herb32	basil	Pathway9657	L16P mutation	19069157:share
+Herb32	basil	Pathway14657	quantitative polymerase chain	27389095:used
+Herb32	basil	Pathway12872	p38	15118180:null
+Herb32	basil	Pathway17493	TMEM16A	31301303:null
+Herb32	basil	Pathway17493	TMEM16A	31301303:suppressed
+Herb32	basil	Pathway346	Abeta	12480734:null
+Herb32	basil	Pathway5411	endothelin-1	12480734:null
+Herb32	basil	Pathway13619	PKC	11299216:null
+Herb32	basil	Pathway13571	PI3Ks	11299216:null
+Herb32	basil	Pathway13628	PKC-alpha	11299216:null
+Herb32	basil	Pathway2410	betaI	11299216:null
+Herb32	basil	Pathway2840	CAD	9713838:act
+Herb32	basil	Pathway2840	CAD	9713838:null
+Herb32	basil	Pathway2840	CAD	9713838:exhibit
+Herb32	basil	Pathway2019	ATP	3388459:null
+Herb32	basil	Pathway17370	TIA	29723487:null
+Herb32	basil	Pathway17370	TIA	29723487:taken
+Herb32	basil	Pathway17731	transient ischemic attack	29723487:null
+Herb32	basil	Pathway18751	Yin	27288801:null
+Herb32	basil	Pathway18216	urokinase	15261240:obtained
+Herb342	taro	Pathway15105	RG	23240589:null
+Herb342	taro	Pathway8171	HT008-1	20148407:null
+Herb342	taro	Pathway17464	TLR4	23555560:null
+Herb342	taro	Pathway3880	COG1410	23219883:null
+Herb342	taro	Pathway10832	miR-181a	25433215:null
+Herb342	taro	Pathway17506	TNF	27144978:present
+Herb342	taro	Pathway9251	IRI	30230477:evaluated
+Herb130	ginseng	Pathway6691	GF1	31048033:isolated
+Herb130	ginseng	Pathway4073	COX-2	31359726:taken
+Herb130	ginseng	Pathway10075	LTA4 H	31359726:taken
+Herb130	ginseng	Pathway9998	LOX	31359726:taken
+Herb130	ginseng	Pathway9998	LOX	31359726:acting
+Herb130	ginseng	Pathway13035	Panax pseudo-ginseng	31359663:null
+Herb130	ginseng	Pathway12390	NPC1 L1	31090302:null
+Herb130	ginseng	Pathway7938	HMG-CoA reductase	31090302:null
+Herb130	ginseng	Pathway16622	SQS	31090302:null
+Herb130	ginseng	Pathway17024	target NPC1 L1	31090302:null
+Herb130	ginseng	Pathway6748	gintonin	29870296:null
+Herb130	ginseng	Pathway15638	saponins	29962950:null
+Herb130	ginseng	Pathway12251	Nogo-A	24818251:influencing
+Herb130	ginseng	Pathway12073	NgR	24818251:influencing
+Herb130	ginseng	Pathway12953	p75NGF	24818251:influencing
+Herb130	ginseng	Pathway13034	Panax notoginseng saponins	24818251:null
+Herb130	ginseng	Pathway12951	p75	24818251:influencing
+Herb130	ginseng	Pathway12251	Nogo-A	24818251:null
+Herb130	ginseng	Pathway12073	NgR	24818251:null
+Herb130	ginseng	Pathway12951	p75	24818251:null
+Herb130	ginseng	Pathway12251	Nogo-A	24818251:saponins
+Herb130	ginseng	Pathway12073	NgR	24818251:saponins
+Herb130	ginseng	Pathway12951	p75	24818251:saponins
+Herb130	ginseng	Pathway15105	RG	23240589:conditions
+Herb130	ginseng	Pathway15105	RG	23240589:null
+Herb130	ginseng	Pathway10373	matrix proteins and vasoactive factors	22566158:prevented
+Herb130	ginseng	Pathway8171	HT008-1	20148407:showed
+Herb130	ginseng	Pathway13960	PN	19305121:null
+Herb130	ginseng	Pathway3595	China	17031036:leaves
+Herb130	ginseng	Pathway3595	China	17031036:null
+Herb130	ginseng	Pathway15637	saponin	17031036:contained
+Herb130	ginseng	Pathway14141	PPT	17031036:contained
+Herb130	ginseng	Pathway16025	Shengmai San	16883630:null
+Herb130	ginseng	Pathway13034	Panax notoginseng saponins	17498496:null
+Herb130	ginseng	Pathway9133	interleukin-1 beta	17498496:saponins
+Herb130	ginseng	Pathway6747	Ginsenoside Rg1	30794781:null
+Herb130	ginseng	Pathway7236	GS Rg1	30794781:null
+Herb130	ginseng	Pathway12766	P	30794781:null
+Herb130	ginseng	Pathway10825	miR-155	30587668:Saponins
+Herb130	ginseng	Pathway13034	Panax notoginseng saponins	30587668:null
+Herb130	ginseng	Pathway13970	PNS	30587668:used
+Herb130	ginseng	Pathway7170	gRb(1)	16163298:null
+Herb130	ginseng	Pathway7264	GSRd	21811848:null
+Herb130	ginseng	Pathway13351	PF11	31756514:null
+Herb130	ginseng	Pathway7933	HMGB1	31547018:null
+Herb130	ginseng	Pathway10289	MAPK	31547018:null
+Herb130	ginseng	Pathway12456	Nrf2	31494826:assessed
+Herb130	ginseng	Pathway12456	Nrf2	31494826:null
+Herb130	ginseng	Pathway12456	Nrf2	31494826:reduced
+Herb130	ginseng	Pathway12456	Nrf2	31494826:confer
+Herb130	ginseng	Pathway13034	Panax notoginseng saponins	29130614:null
+Herb130	ginseng	Pathway13970	PNS	29130614:used
+Herb130	ginseng	Pathway13034	Panax notoginseng saponins	29896951:null
+Herb130	ginseng	Pathway13034	Panax notoginseng saponins	29896951:provide
+Herb230	matrine	Pathway17458	TLR2	20182634:downregulates
+Herb230	matrine	Pathway11474	MyD88	20182634:downregulates
+Herb230	matrine	Pathway12025	NF-kappaB	20182634:downregulates
+Herb230	matrine	Pathway17464	TLR4	20182634:downregulates
+Herb230	matrine	Pathway12025	NF-kappaB	20182634:be
+Herb230	matrine	Pathway12638	OMT	20182634:null
+Herb293	schist	Pathway17950	TTP	29437728:treated
+Herb324	snail	Pathway3532	c-fos	12955387:alters
+Herb324	snail	Pathway2197	bcl-2	12955387:alters
+Herb324	snail	Pathway6193	fos	12955387:alters
+Herb214	lime	Pathway8325	human granulocyte colony-stimulating factor	26207935:drops
+Herb214	lime	Pathway7692	hG-CSF	26207935:drops
+Herb214	lime	Pathway1411	anti-cytokine proteins	26370962:null
+Herb214	lime	Pathway17434	tissue plasminogen activator	23046519:likely
+Herb214	lime	Pathway9021	insulin	21653676:null
+Herb214	lime	Pathway17863	Trpm4	31704276:has
+Herb214	lime	Pathway17863	Trpm4	31704276:randomized
+Herb214	lime	Pathway17863	Trpm4	31704276:null
+Herb214	lime	Pathway17863	Trpm4	31704276:provide
+Herb214	lime	Pathway16873	Sur1	31704276:targeting
+Herb214	lime	Pathway17863	Trpm4	31704276:targeting
+Herb214	lime	Pathway9021	insulin	29671019:superior
+Herb214	lime	Pathway5450	eNOS	29671019:relieved
+Herb214	lime	Pathway16728	STATs	26738445:null
+Herb191	inga	Pathway11325	MTHFR C677T	19049547:null
+Herb191	inga	Pathway12288	NOS3	19049547:null
+Herb191	inga	Pathway10144	lysosomal cholesterol lipidosis	1324734:null
+Herb191	inga	Pathway16564	sphinganine kinase	1324734:null
+Herb191	inga	Pathway16564	sphinganine kinase	1324734:purified
+Herb191	inga	Pathway12977	PAD	21447605:null
+Herb191	inga	Pathway16160	Singapore	21447605:null
+Herb191	inga	Pathway16160	Singapore	18705915:null
+Herb74	cumin	Pathway7767	High bioavailability curcumin	28204864:null
+Herb74	cumin	Pathway16707	STAT	28204864:(e;g;
+Herb74	cumin	Pathway1489	AP-1	28204864:(e;g;
+Herb74	cumin	Pathway18143	UCP2	29163755:able
+Herb74	cumin	Pathway4253	curcumin	21498712:null
+Herb74	cumin	Pathway4253	curcumin	20806416:null
+Herb74	cumin	Pathway8585	ICAM-1	28849007:prevents
+Herb74	cumin	Pathway11106	MMP-9	28849007:prevents
+Herb74	cumin	Pathway3092	caspase-3	28849007:prevents
+Herb74	cumin	Pathway4253	curcumin	28849007:null
+Herb74	cumin	Pathway4253	curcumin	30145851:null
+Herb74	cumin	Pathway16184	sirtuin-1	30145851:shown
+Herb74	cumin	Pathway16170	SIRT1	30145851:shown
+Herb74	cumin	Pathway16170	SIRT1	30145851:null
+Herb74	cumin	Pathway4253	curcumin	30145851:noted
+Herb74	cumin	Pathway1099	AMPK	30145851:null
+Herb74	cumin	Pathway14163	Prdx6	28596967:null
+Herb74	cumin	Pathway14163	Prdx6	28596967:involve
+Herb74	cumin	Pathway4253	curcumin	31185140:null
+Herb74	cumin	Pathway1446	anti-oxidants curcumin	31571647:null
+Herb74	cumin	Pathway12766	p	29243061:null
+Herb74	cumin	Pathway12766	p	29243061:Mediating
+Herb74	cumin	Pathway4253	curcumin	29243061:null
+Herb74	cumin	Pathway12766	p	29243061:investigate
+Herb74	cumin	Pathway4253	curcumin	29243061:delivered
+Herb74	cumin	Pathway12766	p	29243061:delivered
+Herb74	cumin	Pathway781	Akt	29243061:improved
+Herb74	cumin	Pathway11353	mTOR	29243061:improved
+Herb74	cumin	Pathway17464	TLR4	29243061:downregulating
+Herb74	cumin	Pathway12872	p38	29243061:downregulating
+Herb74	cumin	Pathway13015	p-Akt	29243061:improved
+Herb74	cumin	Pathway13959	p-mTOR	29243061:improved
+Herb74	cumin	Pathway9734	LC3-II	29243061:downregulating
+Herb74	cumin	Pathway9732	LC3-I	29243061:downregulating
+Herb74	cumin	Pathway12873	p-38	29243061:downregulating
+Herb74	cumin	Pathway8762	IL-1	29243061:downregulating
+Herb74	cumin	Pathway13557	PI3K	29243061:exerts
+Herb74	cumin	Pathway781	Akt	29243061:exerts
+Herb74	cumin	Pathway11353	mTOR	29243061:exerts
+Herb74	cumin	Pathway17464	TLR4	29243061:exerts
+Herb74	cumin	Pathway12872	p38	29243061:exerts
+Herb74	cumin	Pathway10289	MAPK	29243061:exerts
+Herb74	cumin	Pathway7168	GRASP65	27748926:null
+Herb74	cumin	Pathway5618	ERK	27748926:protects
+Herb74	cumin	Pathway7168	GRASP65	27748926:investigate
+Herb74	cumin	Pathway5618	ERK	27748926:investigate
+Herb74	cumin	Pathway781	Akt	23555802:involves
+Herb74	cumin	Pathway12456	Nrf2	23555802:involves
+Herb74	cumin	Pathway4253	curcumin	23555802:null
+Herb74	cumin	Pathway12420	NQO1	23555802:null
+Herb74	cumin	Pathway781	Akt	23555802:null
+Herb74	cumin	Pathway781	Akt	23555802:protects
+Herb74	cumin	Pathway12456	Nrf2	23555802:protects
+Herb74	cumin	Pathway12456	Nrf2	23555802:null
+Herb74	cumin	Pathway9401	JNK	19393026:involves
+Herb74	cumin	Pathway3702	c-Jun	19393026:involves
+Herb74	cumin	Pathway1489	AP-1	19393026:null
+Herb74	cumin	Pathway1489	AP-1	19393026:involves
+Herb74	cumin	Pathway13140	p-c	19393026:involves
+Herb74	cumin	Pathway9425	Jun	19393026:involves
+Herb74	cumin	Pathway4253	curcumin	17955367:null
+Herb74	cumin	Pathway4253	Curcumin	17955367:null
+Herb74	cumin	Pathway6877	GLUT1	29257220:improves
+Herb74	cumin	Pathway6879	GLUT3	29257220:improves
+Herb74	cumin	Pathway4253	curcumin	29257220:null
+Herb74	cumin	Pathway6877	GLUT1	29257220:increased;
+Herb74	cumin	Pathway6879	GLUT3	29257220:increased;
+Herb74	cumin	Pathway4253	curcumin	29257220:indicating
+Herb74	cumin	Pathway6877	GLUT1	29257220:prevented
+Herb74	cumin	Pathway6879	GLUT3	29257220:prevented
+Herb74	cumin	Pathway16315	small interfering RNAs	29257220:prevented
+Herb74	cumin	Pathway6877	GLUT1	29257220:null
+Herb74	cumin	Pathway6879	GLUT3	29257220:null
+Herb74	cumin	Pathway6877	GLUT1	29257220:protected
+Herb74	cumin	Pathway6879	GLUT3	29257220:protected
+Herb74	cumin	Pathway3069	caspase 3	27113744:induced
+Herb74	cumin	Pathway17154	telomerase	27113744:induced
+Herb74	cumin	Pathway17154	telomerase	27113744:null
+Herb74	cumin	Pathway10161	lysosomal vacuolation and VAC	27113744:null
+Herb100	essence	Pathway12251	Nogo-A	23427407:null
+Herb100	essence	Pathway12951	p75	23427407:null
+Herb100	essence	Pathway12511	NTR	23427407:null
+Herb100	essence	Pathway1596	apoE	18508594:null
+Herb66	citric acid	Pathway10015	LPC	8023775:null
+Herb66	citric acid	Pathway14638	pyruvate dehydrogenase	8023775:null
+Herb251	peach	Pathway12390	NPC1 L1	31090302:null
+Herb251	peach	Pathway7938	HMG-CoA reductase	31090302:null
+Herb251	peach	Pathway16622	SQS	31090302:null
+Herb251	peach	Pathway17024	target NPC1 L1	31090302:null
+Herb251	peach	Pathway17209	TF	30669336:null
+Herb251	peach	Pathway17209	TF	30669336:regulate
+Herb251	peach	Pathway17214	TF protein	30669336:regulate
+Herb101	ethanol	Pathway6604	GCPII	31730793:null
+Herb101	ethanol	Pathway11261	MSE	31039389:null
+Herb101	ethanol	Pathway11626	N15	28736035:null
+Herb101	ethanol	Pathway17464	TLR4	27738712:inhibiting
+Herb101	ethanol	Pathway6588	GCE	23578652:null
+Herb101	ethanol	Pathway7239	GSE	23578652:null
+Herb101	ethanol	Pathway11661	N-acyl-ethanolamine family	23046519:null
+Herb101	ethanol	Pathway431	acetylcholinesterase	19343477:null
+Herb101	ethanol	Pathway431	acetylcholinesterase	19343477:attenuated
+Herb101	ethanol	Pathway443	AChE	19343477:attenuated
+Herb101	ethanol	Pathway443	AChE	19343477:inhibited
+Herb101	ethanol	Pathway13960	PN	19305121:null
+Herb101	ethanol	Pathway7691	Hg X sec	3738772:increased
+Herb101	ethanol	Pathway13427	phenylethanolamine N-methyl transferase	11121073:null
+Herb101	ethanol	Pathway3658	chromogranin B mRNA	11121073:null
+Herb101	ethanol	Pathway13428	phenylethanolamine N-methyltransferase	1303174:null
+Herb101	ethanol	Pathway13966	PNMT	1303174:null
+Herb101	ethanol	Pathway689	adrenaline-synthesizing enzyme	1303174:null
+Herb101	ethanol	Pathway11827	nerve growth factor	19471552:followed
+Herb101	ethanol	Pathway13429	phenylethanolamine N-methyltransferase gene	7558218:null
+Herb101	ethanol	Pathway13428	phenylethanolamine N-methyltransferase	7558218:null
+Herb101	ethanol	Pathway1287	angiotensin-converting enzyme gene	7558218:localized
+Herb101	ethanol	Pathway13966	PNMT	7558218:null
+Herb101	ethanol	Pathway18306	vascular endothelial growth factor	11404314:induce
+Herb101	ethanol	Pathway18382	VEGF	11404314:induce
+Herb101	ethanol	Pathway3589	chick CAM	11404314:induce
+Herb101	ethanol	Pathway18076	tyrosine hydroxylase	11344198:null
+Herb101	ethanol	Pathway17295	TH	11344198:null
+Herb101	ethanol	Pathway13428	phenylethanolamine N-methyltransferase	11344198:null
+Herb101	ethanol	Pathway13966	PNMT	11344198:null
+Herb101	ethanol	Pathway14163	Prdx6	28424593:null
+Herb101	ethanol	Pathway9222	iPLA2	28424593:null
+Herb101	ethanol	Pathway14164	Prdx6 using siRNA	28424593:null
+Herb101	ethanol	Pathway781	Akt	25489491:is
+Herb101	ethanol	Pathway13619	PKC	25489491:is
+Herb101	ethanol	Pathway781	Akt	25489491:null
+Herb101	ethanol	Pathway787	Akt mRNA	25489491:null
+Herb101	ethanol	Pathway13619	PKC	25489491:null
+Herb101	ethanol	Pathway781	Akt	25489491:decreased
+Herb101	ethanol	Pathway13619	PKC	25489491:decreased
+Herb101	ethanol	Pathway781	Akt	25489491:increased
+Herb101	ethanol	Pathway14973	Reduced cerebral monocarboxylate transporters	25641040:null
+Herb101	ethanol	Pathway15505	rt-PA	22621227:null
+Herb101	ethanol	Pathway1893	ASIC1a	30120732:null
+Herb101	ethanol	Pathway1893	ASIC1a	30120732:reduce
+Herb101	ethanol	Pathway1896	ASIC1a protein	30120732:reduce
+Herb101	ethanol	Pathway1893	ASIC1a	30120732:promote
+Herb101	ethanol	Pathway1896	ASIC1a protein	30120732:promote
+Herb101	ethanol	Pathway7466	HCNP precursor protein	22469272:null
+Herb101	ethanol	Pathway7465	HCNP	22469272:null
+Herb101	ethanol	Pathway14079	pp	22469272:null
+Herb101	ethanol	Pathway14727	Raf kinase	22469272:null
+Herb101	ethanol	Pathway12970	PACAP	21348830:null
+Herb101	ethanol	Pathway13619	PKC	11299216:null
+Herb101	ethanol	Pathway13571	PI3Ks	11299216:null
+Herb101	ethanol	Pathway14376	protein kinase C	11299216:null
+Herb101	ethanol	Pathway13443	phosphatidylinositol 3-kinases	11299216:null
+Herb101	ethanol	Pathway8561	IR	26756191:sinensis
+Herb101	ethanol	Pathway9233	IR	26756191:sinensis
+Herb101	ethanol	Pathway6812	glucagon	23622737:null
+Herb235	mushroom	Pathway3446	Cdk5	21775591:null
+Herb235	mushroom	Pathway1339	Ankyrin1	21775591:judged
+Herb235	mushroom	Pathway481	actin	21775591:judged
+Herb235	mushroom	Pathway6606	G-CSF	27511907:null
+Herb235	mushroom	Pathway6606	G-CSF	27511907:improved
+Herb235	mushroom	Pathway15713	SCF	27511907:null
+Herb235	mushroom	Pathway15713	SCF	27511907:improved
+Herb235	mushroom	Pathway15714	SCF + G	27511907:null
+Herb235	mushroom	Pathway15714	SCF + G	27511907:improved
+Herb235	mushroom	Pathway4191	CSF	27511907:null
+Herb235	mushroom	Pathway4191	CSF	27511907:improved
+Herb261	pomegranate	Pathway3066	caspase	17762204:reduce
+Herb261	pomegranate	Pathway3092	caspase-3	17762204:reduce
+Herb167	horseradish	Pathway12456	Nrf2	23690560:null
+Herb167	horseradish	Pathway13319	peroxidase	23690560:null
+Herb167	horseradish	Pathway732	agglutinin	17175175:null
+Herb167	horseradish	Pathway13319	peroxidase	17175175:null
+Herb167	horseradish	Pathway18634	WGA	17175175:null
+Herb167	horseradish	Pathway8061	HRP	17175175:null
+Herb167	horseradish	Pathway10523	MEMRI	17175175:null
+Herb167	horseradish	Pathway8011	horseradish peroxidase	8873872:null
+Herb167	horseradish	Pathway8061	HRP	8873872:null
+Herb167	horseradish	Pathway9792	lectin-conjugated horseradish peroxidase	1381652:null
+Herb167	horseradish	Pathway18634	WGA	1381652:null
+Herb167	horseradish	Pathway8061	HRP	1381652:null
+Herb45	carp	Pathway12234	nobiletin	23265538:containing
+Herb45	carp	Pathway17002	tangeretin	23265538:containing
+Herb45	carp	Pathway11506	MyHC	14563558:expressed
+Herb45	carp	Pathway13584	Pilocarpine-Induced Status Epilepticus Rat	29312110:null
+Herb45	carp	Pathway5736	Evo	24454492:null
+Herb265	pumpkin	Pathway318	ABCA1	31029915:null
+Herb333	sulfur	Pathway12456	Nrf2	28132764:induce
+Herb333	sulfur	Pathway4680	D3T	28132764:null
+Herb333	sulfur	Pathway3215	CBS	12588964:null
+Herb252	peach kernel	Pathway12390	NPC1 L1	31090302:null
+Herb252	peach kernel	Pathway7938	HMG-CoA reductase	31090302:null
+Herb252	peach kernel	Pathway16622	SQS	31090302:null
+Herb252	peach kernel	Pathway17024	target NPC1 L1	31090302:null
+Herb252	peach kernel	Pathway17209	TF	30669336:null
+Herb252	peach kernel	Pathway17209	TF	30669336:regulate
+Herb252	peach kernel	Pathway17214	TF protein	30669336:regulate
+Herb8	amber	Pathway10270	mangiferin and quercetin	20349963:null
+Herb8	amber	Pathway10269	mangiferin	20349963:null
+Herb8	amber	Pathway514	activation Fc receptors	15246245:formation
+Herb8	amber	Pathway8665	Ig	15246245:null
+Herb8	amber	Pathway3478	CEI	2472516:null
+Herb8	amber	Pathway13308	PERI	27737487:null
+Herb8	amber	Pathway13308	PERI	27737487:larger
+Herb8	amber	Pathway2929	CamcreTRP53	25779964:have
+Herb8	amber	Pathway10006	loxP	25779964:have
+Herb8	amber	Pathway806	albumin	9321827:necessary
+Herb8	amber	Pathway17945	tTG	29481819:null
+Herb8	amber	Pathway16976	TAC	25172896:null
+Herb8	amber	Pathway11579	myosin light chain 2	25323733:identified
+Herb8	amber	Pathway11512	MYL7	25323733:identified
+Herb8	amber	Pathway4018	connexin 40	25323733:identified
+Herb8	amber	Pathway6754	GJA5	25323733:identified
+Herb8	amber	Pathway13300	peptidylglycine alpha-amidating monooxygenase	25323733:identified
+Herb8	amber	Pathway13027	PAM	25323733:identified
+Herb8	amber	Pathway11582	myosin light chains	25323733:identified
+Herb8	amber	Pathway11509	MYL2	25323733:identified
+Herb8	amber	Pathway11510	MYL3	25323733:identified
+Herb8	amber	Pathway11563	myosin heavy chain 7	25323733:identified
+Herb8	amber	Pathway11505	MYH7	25323733:identified
+Herb8	amber	Pathway4019	connexin 43	25323733:identified
+Herb8	amber	Pathway6753	GJA1	25323733:identified
+Herb8	amber	Pathway6118	FKN	25559502:null
+Herb8	amber	Pathway6118	FKN	25559502:confirmed
+Herb8	amber	Pathway6760	GLA	24386454:null
+Herb8	amber	Pathway3912	collagen	24386454:attenuate
+Herb287	salt	Pathway18143	UCP2	29163755:null
+Herb287	salt	Pathway13168	PCS	26894874:null
+Herb287	salt	Pathway18564	VP	19463813:effective
+Herb287	salt	Pathway18566	VP hnRNA	19463813:effective
+Herb287	salt	Pathway16089	SHR-SPs	19556450:null
+Herb287	salt	Pathway15028	renin	19556450:attenuated
+Herb287	salt	Pathway9151	interleukin-1beta	19556450:attenuated
+Herb287	salt	Pathway8840	IL-1beta	19556450:attenuated
+Herb287	salt	Pathway16068	SHR-SP	19556450:null
+Herb287	salt	Pathway7294	gt	19018737:null
+Herb287	salt	Pathway16067	SHRSP	16364530:null
+Herb287	salt	Pathway809	albuminuria	15128475:increased
+Herb287	salt	Pathway15028	renin	12959913:null
+Herb287	salt	Pathway15028	renin	12959913:present;
+Herb287	salt	Pathway15028	Renin	12574082:null
+Herb287	salt	Pathway1193	angiotensin	12574082:null
+Herb287	salt	Pathway15028	renin	12574082:null
+Herb287	salt	Pathway6960	glycineB site	11963643:null
+Herb287	salt	Pathway15028	renin	11724758:null
+Herb287	salt	Pathway13743	plasma renin	11724758:null
+Herb287	salt	Pathway14148	PRA	11724758:null
+Herb287	salt	Pathway15035	renin mRNA	11724758:null
+Herb287	salt	Pathway16068	SHR-SP	10602331:known
+Herb287	salt	Pathway16044	SHR	9764191:null
+Herb287	salt	Pathway16044	SHR	9764191:effective
+Herb287	salt	Pathway5425	endothelin-receptor	9764191:effective
+Herb287	salt	Pathway5386	endothelin	8924057:null
+Herb287	salt	Pathway15028	renin	1914196:null
+Herb287	salt	Pathway15028	renin	1914196:considered
+Herb287	salt	Pathway13743	plasma renin	2573964:observed;
+Herb287	salt	Pathway884	alpha 1	2976170:null
+Herb287	salt	Pathway1216	angiotensin converting enzyme	2976170:null
+Herb287	salt	Pathway16044	SHR	6110712:used;
+Herb287	salt	Pathway3780	CLIP	6110712:null
+Herb287	salt	Pathway4920	DOC	6110712:null
+Herb287	salt	Pathway14369	protein kinase	12473873:null
+Herb287	salt	Pathway16044	SHR	11907153:null
+Herb287	salt	Pathway2054	Atrial natriuretic peptide	9931108:null
+Herb287	salt	Pathway1353	ANP	9931108:null
+Herb287	salt	Pathway1354	ANP gene	9931108:null
+Herb287	salt	Pathway1353	ANP	9931108:harboring
+Herb287	salt	Pathway8241	human ANP gene	9931108:harboring
+Herb287	salt	Pathway1354	ANP gene	9931108:harboring
+Herb287	salt	Pathway8240	human ANP	9931108:harboring
+Herb287	salt	Pathway8241	human ANP gene	9931108:null
+Herb287	salt	Pathway8240	human ANP	9931108:null
+Herb287	salt	Pathway2054	Atrial natriuretic peptide	26074089:null
+Herb287	salt	Pathway1353	ANP	26074089:null
+Herb287	salt	Pathway16078	SHRSP homozygotes	1662504:null
+Herb287	salt	Pathway18648	WKY homozygotes	1662504:null
+Herb287	salt	Pathway384	ACE	1662504:cosegregated
+Herb287	salt	Pathway384	ACE	1662504:null
+Herb287	salt	Pathway393	ACE gene	1662504:null
+Herb287	salt	Pathway5411	endothelin-1	8587445:null
+Herb287	salt	Pathway5689	ET-1	8587445:null
+Herb287	salt	Pathway5689	ET-1	8587445:change
+Herb287	salt	Pathway5689	ET-1	8587445:increased
+Herb287	salt	Pathway5691	ET-1 gene transcript	8587445:increased
+Herb287	salt	Pathway5185	Edg1	17938382:null
+Herb287	salt	Pathway18367	Vcam1	17938382:null
+Herb287	salt	Pathway3912	collagen	29417743:null
+Herb287	salt	Pathway3918	collagen I	29417743:null
+Herb287	salt	Pathway8736	III genes	29417743:null
+Herb287	salt	Pathway13459	phosphodiesterase 3A	26283042:activating
+Herb287	salt	Pathway14375	protein kinase B2	29120957:null
+Herb287	salt	Pathway1227	angiotensin II	29120957:null
+Herb287	salt	Pathway12758	oxytocin	18088359:null
+Herb287	salt	Pathway18347	vasopressin heteronuclear RNA	18088359:null
+Herb287	salt	Pathway18343	vasopressin	18088359:null
+Herb287	salt	Pathway12761	oxytocin heteronuclear RNA	18088359:null
+Herb287	salt	Pathway7960	hnRNA	18088359:null
+Herb287	salt	Pathway7960	hnRNA	18088359:maintained
+Herb287	salt	Pathway18348	Vasopressin hnRNA	18088359:maintained
+Herb287	salt	Pathway18143	UCP2	26023797:null
+Herb287	salt	Pathway14350	protein 2	23297375:null
+Herb287	salt	Pathway14350	protein 2	23297375:determined
+Herb287	salt	Pathway18143	UCP2	23297375:determined
+Herb287	salt	Pathway18143	UCP2	23297375:null
+Herb287	salt	Pathway18145	UCP2 gene	23297375:null
+Herb287	salt	Pathway18143	UCP2	23297375:downregulates
+Herb287	salt	Pathway18143	UCP2	23297375:contribute
+Herb287	salt	Pathway384	ACE	8082933:similar
+Herb287	salt	Pathway1233	angiotensin II receptor mRNA	9389199:null
+Herb287	salt	Pathway1231	angiotensin II receptor	9389199:null
+Herb287	salt	Pathway8575	I-b (AT1b) mRNA	9389199:null
+Herb287	salt	Pathway15092	reverse transcriptase	9389199:null
+Herb287	salt	Pathway1949	AT1a	9389199:null
+Herb287	salt	Pathway1901	ASM	9389199:null
+Herb287	salt	Pathway1952	AT1b	9389199:null
+Herb287	salt	Pathway1949	AT1a	9389199:increased
+Herb287	salt	Pathway1953	AT1b mRNA	9389199:increased
+Herb287	salt	Pathway1952	AT1b	9389199:increased
+Herb287	salt	Pathway1949	AT1a	9389199:decreased
+Herb287	salt	Pathway1901	ASM	9389199:increased
+Herb287	salt	Pathway1950	AT1a mRNA	9389199:decreased
+Herb287	salt	Pathway1955	AT1b receptors	9389199:null
+Herb287	salt	Pathway9601	KO SHR	30655626:greater
+Herb287	salt	Pathway9601	KO SHR	30655626:null
+Herb287	salt	Pathway5710	ETB	9509892:null
+Herb287	salt	Pathway5710	ETB	9509892:mice
+Herb287	salt	Pathway13743	plasma renin	10841431:null
+Herb287	salt	Pathway18213	urine protein	10841431:null
+Herb287	salt	Pathway16044	SHR	1446409:linked
+Herb287	salt	Pathway16067	SHRSP	1446409:linked
+Herb287	salt	Pathway1282	angiotensin-converting enzyme	1446409:linked
+Herb287	salt	Pathway16044	SHR	1446409:null
+Herb287	salt	Pathway16067	SHRSP	1446409:null
+Herb287	salt	Pathway16044	SHR	1275077:accelerated
+Herb287	salt	Pathway15023	renal preproendothelin-1 mRNA	7726830:null
+Herb287	salt	Pathway5411	endothelin-1	7726830:null
+Herb287	salt	Pathway14180	preproendothelin-1 mRNA	7726830:null
+Herb287	salt	Pathway5411	endothelin-1	7726830:change
+Herb287	salt	Pathway5411	endothelin-1	7726830:increased
+Herb287	salt	Pathway14180	preproendothelin-1 mRNA	7726830:change
+Herb287	salt	Pathway5413	endothelin-1 gene transcript	7726830:increased
+Herb287	salt	Pathway5403	endothelin gene	7741745:null
+Herb287	salt	Pathway5386	endothelin	7741745:null
+Herb287	salt	Pathway13966	Pnmt	7558218:null
+Herb287	salt	Pathway2110	B1R	29038201:null
+Herb287	salt	Pathway2110	B1R	29038201:led
+Herb287	salt	Pathway2110	B1R	29038201:supporting
+Herb287	salt	Pathway2111	B1R mRNA	29038201:led
+Herb287	salt	Pathway2569	bradykinin	29038201:led
+Herb287	salt	Pathway3010	carboxypeptidase N	29038201:led
+Herb287	salt	Pathway4053	coupling factor 6	30385152:displayed
+Herb287	salt	Pathway3524	CF6	30385152:displayed
+Herb287	salt	Pathway3524	CF6	30385152:null
+Herb287	salt	Pathway16067	SHRSP	14678230:null
+Herb287	salt	Pathway15664	SBP	14678230:dependent
+Herb287	salt	Pathway15664	SBP	14678230:null
+Herb287	salt	Pathway16930	Systolic blood pressure	14678230:dependent
+Herb287	salt	Pathway14825	rat salt homeostasis endocrine tissues	17531155:null
+Herb287	salt	Pathway10490	Melanocortin receptors	17531155:null
+Herb287	salt	Pathway9021	insulin	17531155:null
+Herb287	salt	Pathway14299	pro-opiomelanocortin	17531155:null
+Herb287	salt	Pathway14037	POMC	17531155:null
+Herb287	salt	Pathway14040	POMC processing enzymes prohormone convertases 1 and 2	17531155:null
+Herb287	salt	Pathway13141	PC1	17531155:null
+Herb287	salt	Pathway13143	PC2	17531155:null
+Herb287	salt	Pathway10486	melanocortin 3 receptor	17531155:null
+Herb287	salt	Pathway10404	MC3R	17531155:null
+Herb287	salt	Pathway10487	melanocortin 5 receptor	17531155:null
+Herb287	salt	Pathway10407	MC5R	17531155:null
+Herb287	salt	Pathway18143	UCP2	28640254:null
+Herb287	salt	Pathway16067	SHRSP	28640254:null
+Herb287	salt	Pathway11683	NADPH oxidase	23762494:null
+Herb287	salt	Pathway12355	NOX	23762494:null
+Herb287	salt	Pathway16854	superoxide dismutase	23762494:null
+Herb287	salt	Pathway16447	SOD	23762494:null
+Herb287	salt	Pathway16447	SOD	23762494:increased
+Herb287	salt	Pathway14846	RBC SOD	23762494:increased
+Herb287	salt	Pathway13676	plasma cholesterol	23762494:increased
+Herb287	salt	Pathway12803	p22	23762494:increased
+Herb287	salt	Pathway13532	phox	23762494:increased
+Herb287	salt	Pathway12363	NOX2	23762494:null
+Herb287	salt	Pathway4255	CuZn	23762494:null
+Herb287	salt	Pathway14842	RBC glutathione peroxidase	23762494:increased
+Herb287	salt	Pathway16447	SOD	23762494:reduced
+Herb287	salt	Pathway14846	RBC SOD	23762494:reduced
+Herb287	salt	Pathway12803	p22	23762494:reduced
+Herb287	salt	Pathway13532	phox	23762494:reduced
+Herb287	salt	Pathway3144	catalase	23762494:reduced
+Herb287	salt	Pathway9764	LDL-C	23762494:reduced
+Herb287	salt	Pathway14843	RBC MDA	23762494:reduced
+Herb287	salt	Pathway18607	vWF	24733925:increases
+Herb287	salt	Pathway18613	vWF mRNA	24733925:increases
+Herb287	salt	Pathway18564	VP	16357095:was
+Herb287	salt	Pathway18566	VP hnRNA	16357095:was
+Herb287	salt	Pathway12699	OT hnRNA	16357095:was
+Herb287	salt	Pathway5411	endothelin-1	9759358:null
+Herb287	salt	Pathway7682	HFpEF	27046338:used
+Herb287	salt	Pathway7685	HFpEF model	27046338:used
+Herb287	salt	Pathway12393	NPD1	22542947:null
+Herb287	salt	Pathway11746	NCX1	16641927:null
+Herb287	salt	Pathway11746	NCX1	16641927:necessary
+Herb287	salt	Pathway11746	NCX1	16641927:facilitates
+Herb15	apple	Pathway14658	quercetin	17951477:null
+Herb15	apple	Pathway2034	Atp7a	25456742:null
+Herb15	apple	Pathway2034	ATP7A	25456742:null
+Herb2	acetic acid	Pathway10191	MA-5	26118651:null
+Herb2	acetic acid	Pathway1088	AMPA receptor	12365832:null
+Herb2	acetic acid	Pathway14613	Purospher RP-18	9542113:null
+Herb2	acetic acid	Pathway2430	BH	8846747:using
+Herb2	acetic acid	Pathway2035	ATPase	2991803:null
+Herb2	acetic acid	Pathway6818	glucocerebrosidase promoter	8484774:found
+Herb2	acetic acid	Pathway815	ALDH	23786406:null
+Herb2	acetic acid	Pathway18536	VMAT2	23786406:null
+Herb2	acetic acid	Pathway816	ALDH1A1	23786406:null
+Herb2	acetic acid	Pathway9953	Lo	23786406:null
+Herb2	acetic acid	Pathway16366	SMTPs	29107671:null
+Herb2	acetic acid	Pathway10738	MIF	21063426:null
+Herb2	acetic acid	Pathway4948	dopamine-beta-hydroxylase	25456742:null
+Herb2	acetic acid	Pathway14101	PPARdelta	17167170:null
+Herb2	acetic acid	Pathway11217	MPTP	17167170:null
+Herb2	acetic acid	Pathway10558	metallo-beta-lactamase	14662918:appeared
+Herb2	acetic acid	Pathway10386	MBL	14662918:appeared
+Herb2	acetic acid	Pathway8545	hypoxia-inducible factor (HIF) prolyl hydroxylases	24974727:null
+Herb2	acetic acid	Pathway7714	HIF	24974727:null
+Herb2	acetic acid	Pathway4191	CSF	7760062:null
+Herb256	pecan	Pathway15828	SERCA2a	29931923:improve
+Herb35	bitter	Pathway16962	T2Rs	17253962:null
+Herb35	bitter	Pathway7126	G-protein-coupled receptors	17253962:null
+Herb35	bitter	Pathway16962	T2Rs	17253962:differ
+Herb246	olive	Pathway16044	SHR	7670652:smaller
+Herb246	olive	Pathway9343	JAK	31374230:Rescues
+Herb246	olive	Pathway16711	STAT3	31374230:Rescues
+Herb246	olive	Pathway3911	Colivelin	31374230:null
+Herb246	olive	Pathway8470	humanin family peptide	31374230:null
+Herb246	olive	Pathway3911	Colivelin	31374230:govern
+Herb246	olive	Pathway16711	STAT3	31374230:activated
+Herb246	olive	Pathway9343	JAK	31374230:activate
+Herb246	olive	Pathway16711	STAT3	31374230:activate
+Herb246	olive	Pathway5580	EPT	7922465:null
+Herb364	wheat	Pathway18635	wheat germ agglutinin	26448880:null
+Herb364	wheat	Pathway18634	WGA	26448880:null
+Herb364	wheat	Pathway732	agglutinin	17175175:null
+Herb364	wheat	Pathway13319	peroxidase	17175175:null
+Herb364	wheat	Pathway18634	WGA	17175175:null
+Herb364	wheat	Pathway8061	HRP	17175175:null
+Herb364	wheat	Pathway10523	MEMRI	17175175:null
+Herb131	ginseng leaf	Pathway7933	HMGB1	31547018:null
+Herb131	ginseng leaf	Pathway10289	MAPK	31547018:null
+Herb361	valerian	Pathway4073	COX-2	31359726:taken
+Herb361	valerian	Pathway10075	LTA4 H	31359726:taken
+Herb361	valerian	Pathway9998	LOX	31359726:taken
+Herb361	valerian	Pathway9998	LOX	31359726:acting
+Herb248	orris	Pathway431	acetylcholinesterase	24177287:increased
+Herb248	orris	Pathway443	AChE	24177287:increased
+Herb248	orris	Pathway17984	tumor necrosis factor-alpha	24177287:reducing
+Herb248	orris	Pathway9133	interleukin-1 beta	24177287:reducing
+Herb248	orris	Pathway3092	caspase-3	24177287:reducing
+Herb248	orris	Pathway2252	BDNF	24194776:investigate
+Herb248	orris	Pathway4879	DL-NBP	22246225:improved
+Herb248	orris	Pathway771	AIM2	31301379:null
+Herb248	orris	Pathway11259	MSDNC	16319721:null
+Herb248	orris	Pathway12813	P28-P33	21693116:null
+Herb248	orris	Pathway5278	embelin	31601902:null
+Herb248	orris	Pathway7694	HGF	16505200:null
+Herb248	orris	Pathway7695	HGF gene	16505200:null
+Herb248	orris	Pathway3551	CGRP	30531687:investigate
+Herb248	orris	Pathway9927	LMO4 KO	22442089:null
+Herb248	orris	Pathway17506	TNF	27144978:present
+Herb248	orris	Pathway16027	Shh	31898187:used
+Herb248	orris	Pathway9251	IRI	30230477:evaluated
+Herb248	orris	Pathway13613	PKA	25481359:evaluated
+Herb248	orris	Pathway4127	CREB	25481359:evaluated
+Herb248	orris	Pathway13617	PKA-selective peptide	25481359:evaluated
+Herb248	orris	Pathway6759	GK-2	24303204:null
+Herb248	orris	Pathway16789	streptozotocin	24303204:null
+Herb248	orris	Pathway6847	GluK4	23357115:maze
+Herb248	orris	Pathway1923	AST	24567111:used
+Herb248	orris	Pathway12766	p	24567111:used
+Herb326	soybean	Pathway15656	SB	30267344:prepared
+Herb326	soybean	Pathway15656	SB	30267344:null
+Herb326	soybean	Pathway5229	eGGCE	29738532:null
+Herb326	soybean	Pathway17290	tGGCE	29738532:null
+Herb326	soybean	Pathway12300	Notch	19763033:activates
+Herb326	soybean	Pathway10409	MCAO	19763033:null
+Herb326	soybean	Pathway16067	SHRSP	16364530:null
+Herb326	soybean	Pathway16067	SHRSP	14678230:null
+Herb326	soybean	Pathway15664	SBP	14678230:promote
+Herb326	soybean	Pathway16930	Systolic blood pressure	14678230:promote
+Herb326	soybean	Pathway16067	SHRSP	14678230:promote
+Herb326	soybean	Pathway15664	SBP	14678230:null
+Herb98	ergot	Pathway3202	CBF	27793777:null
+Herb98	ergot	Pathway149	5HT1B	9350383:null
+Herb98	ergot	Pathway70	1D	9350383:null
+Herb98	ergot	Pathway143	5HT receptors	9350383:cause
+Herb98	ergot	Pathway6193	fos	1327382:null
+Herb98	ergot	Pathway142	5-HT receptor	1653072:null
+Herb98	ergot	Pathway806	albumin	1653072:null
+Herb98	ergot	Pathway147	5-HT1 receptor	1653072:null
+Herb98	ergot	Pathway3551	CGRP	31643527:associated
+Herb98	ergot	Pathway15864	serotonin receptor	31643527:null
+Herb98	ergot	Pathway6193	fos	8389008:null
+Herb98	ergot	Pathway144	5-HT receptors	8389008:involving
+Herb275	ragweed	Pathway7347	H3 receptor	10508800:useful
+Herb275	ragweed	Pathway4360	cyclooxygenase	10508800:useful
+Herb17	auricula	Pathway527	activin	27653860:regulates
+Herb17	auricula	Pathway533	activin-like kinase 5	27653860:regulates
+Herb46	carrot	Pathway318	ABCA1	31029915:null
+Herb277	rapeseed	Pathway16067	SHRSP	16364530:fed
+Herb277	rapeseed	Pathway16067	SHRSP	16364530:null

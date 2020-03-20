@@ -1,0 +1,2653 @@
+Entity1ID	Entity1	Entity2ID	Entity2	PMID:keyword
+Ingredient82	dopamine	Pathway16431	SNS	27059792:null
+Ingredient108	glucose	Pathway806	albumin	27077324:higher
+Ingredient108	glucose	Pathway8493	HUT1	27077324:prominent
+Ingredient108	glucose	Pathway8494	HUT3	27077324:prominent
+Ingredient150	levodopa	Pathway8494	HUT3	27077324:null
+Ingredient55	cholesterol	Pathway7503	HDL	27079881:null
+Ingredient251	Trans-cinnamaldehyde	Pathway17111	TCA	27087648:null
+Ingredient7	adenosine	Pathway318	ABCA1	27096864:null
+Ingredient7	adenosine	Pathway3574	CHD	27096864:null
+Ingredient7	adenosine	Pathway9270	IS	27096864:null
+Ingredient7	adenosine	Pathway3134	cassette transporter A1 genes	27096864:null
+Ingredient7	adenosine	Pathway3663	chromosome 9p21	27096864:null
+Ingredient250	thymine	Pathway4016	connexin 32	27098243:null
+Ingredient250	thymine	Pathway4017	connexin 32 allele	27098243:null
+Ingredient250	thymine	Pathway6756	GJB1 gene	27098243:null
+Ingredient5	acetylcholine	Pathway16441	SOCS3	27106041:null
+Ingredient5	acetylcholine	Pathway1138	Ang II	27106041:null
+Ingredient57	choline	Pathway16441	SOCS3	27106041:null
+Ingredient57	choline	Pathway1138	Ang II	27106041:null
+Ingredient19	arginine	Pathway18343	vasopressin	27107944:null
+Ingredient19	Arginine	Pathway18343	vasopressin	27107944:null
+Ingredient19	Arginine	Pathway1841	Arginine vasopressin	27107944:null
+Ingredient19	Arginine	Pathway2085	AVP	27107944:null
+Ingredient108	glucose	Pathway2085	AVP	27107944:caused
+Ingredient70	cyanin	Pathway1364	anthocyanin	27108310:null
+Ingredient259	tyrosine	Pathway14589	PTPN22	27110387:null
+Ingredient259	tyrosine	Pathway10126	lymphoid protein tyrosine phosphatase	27110387:null
+Ingredient259	tyrosine	Pathway10132	Lyp	27110387:expressed
+Ingredient259	tyrosine	Pathway7894	HLA	27110387:expressed
+Ingredient92	estradiol	Pathway2556	bovine serum albumin	27113328:attenuated
+Ingredient92	estradiol	Pathway2556	bovine serum albumin	27113328:null
+Ingredient108	glucose	Pathway7076	GPER1	27113328:null
+Ingredient259	Tyrosine	Pathway12300	Notch	27115169:null
+Ingredient259	Tyrosine	Pathway12300	Notch	27115169:activates
+Ingredient259	Tyrosine	Pathway18654	Wnt	27115169:null
+Ingredient259	Tyrosine	Pathway13557	PI3K	27115169:null
+Ingredient259	Tyrosine	Pathway16496	Sonic Hedgehog	27115169:null
+Ingredient259	Tyrosine	Pathway14876	Receptor Tyrosine Kinases	27115169:null
+Ingredient259	Tyrosine	Pathway15497	RTKs	27115169:null
+Ingredient259	Tyrosine	Pathway9343	JAK	27115169:null
+Ingredient259	Tyrosine	Pathway16707	STAT	27115169:null
+Ingredient55	cholesterol	Pathway8301	human FABP1	27117865:null
+Ingredient55	cholesterol	Pathway5830	FABP1 T94A	27117865:null
+Ingredient55	cholesterol	Pathway8303	human FABP1 T94A variant	27117865:null
+Ingredient55	cholesterol	Pathway9751	LDL cholesterol	27117865:null
+Ingredient19	arginine	Pathway1841	arginine vasopressin	27126918:null
+Ingredient19	arginine	Pathway7789	high-mobility group box 1	27126918:null
+Ingredient19	arginine	Pathway16044	SHR	27126918:isolated
+Ingredient19	arginine	Pathway16065	SHRpch1_18 rats	27126918:isolated
+Ingredient19	Arginine	Pathway1841	Arginine vasopressin	27126918:null
+Ingredient19	Arginine	Pathway2085	AVP	27126918:null
+Ingredient92	estradiol	Pathway7075	GPER	27127723:null
+Ingredient92	estradiol	Pathway7075	GPER	27127723:able
+Ingredient92	Estradiol	Pathway7075	GPER	27127723:reduce
+Ingredient108	glucose	Pathway6797	GLP-1 release	27129676:null
+Ingredient130	hyperin	Pathway6797	GLP-1 release	27129676:null
+Ingredient108	glucose	Pathway12456	Nrf2	27143001:null
+Ingredient220	Resveratrol	Pathway2810	CA1	27143440:protects
+Ingredient220	Resveratrol	Pathway5618	ERK	27143440:protects
+Ingredient220	Resveratrol	Pathway4127	CREB	27143440:protects
+Ingredient108	glucose	Pathway11784	NDRG2	27154863:null
+Ingredient141	isorhamnetin	Pathway3092	caspase-3	27161367:reduced
+Ingredient141	isorhamnetin	Pathway12596	occludin	27161367:upregulated
+Ingredient141	isorhamnetin	Pathway18822	ZO-1	27161367:upregulated
+Ingredient141	isorhamnetin	Pathway9003	iNOS	27161367:suppressed
+Ingredient141	isorhamnetin	Pathway12227	NO	27161367:suppressed
+Ingredient141	isorhamnetin	Pathway10438	MDA	27161367:led
+Ingredient141	isorhamnetin	Pathway11211	MPO	27161367:suppressed
+Ingredient141	isorhamnetin	Pathway8879	IL-6	27161367:suppressed
+Ingredient141	isorhamnetin	Pathway10438	MDA	27161367:reduced
+Ingredient141	isorhamnetin	Pathway12198	NMDA receptor subunit NR1	27161367:reduced
+Ingredient141	Isorhamnetin	Pathway9302	Isorhamnetin	27161367:null
+Ingredient222	rhamnetin	Pathway9302	Isorhamnetin	27161367:null
+Ingredient222	rhamnetin	Pathway3092	caspase-3	27161367:reduced
+Ingredient222	rhamnetin	Pathway12596	occludin	27161367:upregulated
+Ingredient222	rhamnetin	Pathway18822	ZO-1	27161367:upregulated
+Ingredient222	rhamnetin	Pathway9003	iNOS	27161367:suppressed
+Ingredient222	rhamnetin	Pathway12227	NO	27161367:suppressed
+Ingredient222	rhamnetin	Pathway10438	MDA	27161367:led
+Ingredient222	rhamnetin	Pathway11211	MPO	27161367:suppressed
+Ingredient222	rhamnetin	Pathway8879	IL-6	27161367:suppressed
+Ingredient222	rhamnetin	Pathway10438	MDA	27161367:reduced
+Ingredient222	rhamnetin	Pathway12198	NMDA receptor subunit NR1	27161367:reduced
+Ingredient55	cholesterol	Pathway4167	CRP	27166776:null
+Ingredient55	cholesterol	Pathway8065	hs	27166776:null
+Ingredient108	glucose	Pathway16096	SHSY5Y	27171848:null
+Ingredient173	myricetin	Pathway16096	SHSY5Y	27171848:attenuated
+Ingredient173	myricetin	Pathway12456	Nrf2	27171848:reversed
+Ingredient173	myricetin	Pathway7968	HO-1	27171848:increased
+Ingredient173	myricetin	Pathway12456	Nrf2	27171848:attenuates
+Ingredient173	Myricetin	Pathway12456	Nrf2	27171848:ameliorates
+Ingredient229	serine	Pathway2843	CADASIL	27174004:null
+Ingredient229	serine	Pathway12303	Notch 3	27174004:null
+Ingredient229	serine	Pathway12300	Notch	27174004:null
+Ingredient229	serine	Pathway2763	C455R CADASIL	27174004:null
+Ingredient229	serine	Pathway15053	requirement A serine peptidase 1	27174004:null
+Ingredient229	serine	Pathway8184	HTRA1	27174004:null
+Ingredient7	adenosine	Pathway6963	glycogen synthase kinase	27177932:null
+Ingredient7	adenosine	Pathway14406	protein phosphatase 2A	27177932:null
+Ingredient7	adenosine	Pathway17061	tau	27177932:null
+Ingredient7	Adenosine	Pathway6963	Glycogen Synthase Kinase	27177932:null
+Ingredient7	Adenosine	Pathway7249	GSK	27177932:null
+Ingredient7	Adenosine	Pathway14406	Protein Phosphatase 2A	27177932:null
+Ingredient7	Adenosine	Pathway14084	PP2A	27177932:null
+Ingredient7	Adenosine	Pathway620	Adenosine Monophosphate Kinase	27177932:null
+Ingredient7	Adenosine	Pathway1099	AMPK	27177932:null
+Ingredient7	Adenosine	Pathway17061	tau	27177932:null
+Ingredient7	Adenosine	Pathway17061	tau	27177932:involved
+Ingredient55	cholesterol	Pathway9764	LDL-C	27180022:null
+Ingredient55	cholesterol	Pathway9751	LDL cholesterol	27180022:null
+Ingredient109	glutamate	Pathway6904	glutamate release	27188341:null
+Ingredient109	glutamate	Pathway12203	NMDA receptors	27188341:activates
+Ingredient109	glutamate	Pathway9486	KCC2	27188341:activates
+Ingredient229	serine	Pathway503	Activated protein C	27207428:null
+Ingredient229	serine	Pathway1516	APC	27207428:null
+Ingredient108	glucose	Pathway16789	streptozotocin	27207546:null
+Ingredient108	glucose	Pathway7673	HFD	27207546:null
+Ingredient108	glucose	Pathway16817	STZ	27207546:null
+Ingredient108	glucose	Pathway17506	TNF	27207546:null
+Ingredient130	hyperin	Pathway8521	hyperinsulinemia	27234258:null
+Ingredient259	tyrosine	Pathway12284	NOS1AP	27237129:null
+Ingredient259	tyrosine	Pathway14551	PTB	27237129:null
+Ingredient259	tyrosine	Pathway13531	phosphotyrosine-binding	27237129:null
+Ingredient259	tyrosine	Pathway12283	NOS1	27237129:null
+Ingredient7	adenosine	Pathway13613	PKA	27250857:null
+Ingredient7	adenosine	Pathway11976	NF	27250857:null
+Ingredient7	adenosine	Pathway9483	kB	27250857:null
+Ingredient108	glucose	Pathway15607	SAB	27255374:used
+Ingredient55	cholesterol	Pathway9764	LDL-C	27262705:null
+Ingredient55	cholesterol	Pathway9994	low-density lipoprotein cholesterol	27262705:null
+Ingredient55	cholesterol	Pathway7513	HDL-C	27262705:null
+Ingredient7	adenosine	Pathway14475	PRP	27263955:null
+Ingredient7	adenosine	Pathway3385	CD42b	27263955:null
+Ingredient7	adenosine	Pathway3384	CD41a	27263955:null
+Ingredient7	adenosine	Pathway3406	CD61	27263955:null
+Ingredient7	adenosine	Pathway3408	CD62P	27263955:null
+Ingredient7	adenosine	Pathway6045	fibrinogen	27263955:null
+Ingredient7	adenosine	Pathway3383	CD41	27263955:null
+Ingredient39	biotin	Pathway17187	terminal deoxynucleotidyl transferase	27288768:utilized
+Ingredient224	ribose	Pathway15271	RPC	27288768:null
+Ingredient224	ribose	Pathway13061	PAR	27288768:null
+Ingredient224	ribose	Pathway13061	PAR	27288768:inducing
+Ingredient224	ribose	Pathway762	AIF	27288768:inducing
+Ingredient224	ribose	Pathway7863	histone H2AX	27288768:inducing
+Ingredient224	ribose	Pathway7343	H2AX	27288768:inducing
+Ingredient224	ribose	Pathway13997	poly(ADP-ribose) polymer	27288768:null
+Ingredient224	ribose	Pathway1728	apoptosis inducing factor	27288768:null
+Ingredient55	cholesterol	Pathway9768	LDL-cholesterol	27312021:null
+Ingredient55	cholesterol	Pathway9764	LDL-C	27312021:null
+Ingredient92	estradiol	Pathway9864	lifespan	27312235:extended
+Ingredient7	adenosine	Pathway11940	neurotensin	27320243:null
+Ingredient7	adenosine	Pathway17871	TRPV1	27320243:null
+Ingredient82	dopamine	Pathway11940	neurotensin	27320243:null
+Ingredient82	dopamine	Pathway17871	TRPV1	27320243:null
+Ingredient95	Fisetin	Pathway16170	SIRT1	27334466:demonstrated
+Ingredient95	Fisetin	Pathway6104	Fisetin	27334466:null
+Ingredient95	Fisetin	Pathway16169	SIRT	27334466:demonstrated
+Ingredient213	Quercetin	Pathway16170	SIRT1	27334466:demonstrated
+Ingredient213	Quercetin	Pathway6104	Fisetin	27334466:null
+Ingredient213	Quercetin	Pathway16169	SIRT	27334466:demonstrated
+Ingredient220	Resveratrol	Pathway16170	SIRT1	27334466:demonstrated
+Ingredient220	Resveratrol	Pathway6104	Fisetin	27334466:null
+Ingredient220	Resveratrol	Pathway16169	SIRT	27334466:demonstrated
+Ingredient19	Arginine	Pathway10491	MELAS	27334908:protects
+Ingredient229	serine	Pathway15833	serine protease	27335029:null
+Ingredient259	tyrosine	Pathway18095	tyrosine receptor kinase B	27335029:null
+Ingredient259	tyrosine	Pathway17797	TrkB	27335029:null
+Ingredient259	tyrosine	Pathway2962	cAMP-response element binding protein	27335029:null
+Ingredient259	tyrosine	Pathway4127	CREB	27335029:null
+Ingredient259	tyrosine	Pathway4347	Cyclin-dependent Kinase 5	27335029:inhibited
+Ingredient259	tyrosine	Pathway3446	Cdk5	27335029:inhibited
+Ingredient108	Glucose	Pathway15135	Rho	27380043:null
+Ingredient108	Glucose	Pathway15162	Rho-kinase	27380043:null
+Ingredient108	glucose	Pathway17506	TNF	27384243:volumes
+Ingredient108	glucose	Pathway17506	TNF	27384243:null
+Ingredient92	estradiol	Pathway7075	GPER	27389095:did
+Ingredient92	estradiol	Pathway11	[G protein-coupled ER	27389095:null
+Ingredient92	estradiol	Pathway7075	GPER	27389095:null
+Ingredient211	pyridine	Pathway9628	Kv	27389095:null
+Ingredient108	Glucose	Pathway4850	Dipeptidyl Peptidase	27390996:null
+Ingredient229	serine	Pathway503	activated protein C	27412766:null
+Ingredient229	serine	Pathway503	Activated protein C	27412766:null
+Ingredient229	serine	Pathway1516	APC	27412766:null
+Ingredient229	serine	Pathway15833	serine protease	27412766:null
+Ingredient229	serine	Pathway3666	chronic mild hypoxia	27412766:null
+Ingredient82	Dopamine	Pathway227	A New Glucocerebrosidase	27413154:null
+Ingredient108	glucose	Pathway14103	PPARg2	27420933:null
+Ingredient108	glucose	Pathway14093	PPAR	27420933:null
+Ingredient108	glucose	Pathway6369	g2	27420933:null
+Ingredient108	glucose	Pathway14105	PPARg2 Pro12Ala	27420933:null
+Ingredient229	serine	Pathway5871	Factor VII-activating protease	27431088:multifunctional
+Ingredient229	serine	Pathway6260	FSAP	27431088:multifunctional
+Ingredient108	glucose	Pathway10608	MetS	27439768:related
+Ingredient7	adenosine	Pathway4127	CREB	27446275:null
+Ingredient7	adenosine	Pathway2922	CaM	27446275:null
+Ingredient7	adenosine	Pathway2945	CaMKIV	27446275:null
+Ingredient229	serine	Pathway4723	DAPK1	27447806:plays
+Ingredient229	serine	Pathway4775	Death-associated protein kinase 1	27447806:plays
+Ingredient248	threonine	Pathway4723	DAPK1	27447806:plays
+Ingredient248	threonine	Pathway4775	Death-associated protein kinase 1	27447806:plays
+Ingredient204	Proline	Pathway14481	PRR7	27458189:null
+Ingredient204	Proline	Pathway12208	NMDAR	27458189:accumulates
+Ingredient144	kynurenine	Pathway8625	IDO	27465530:null
+Ingredient144	kynurenine	Pathway17453	TLR	27465530:suppressed
+Ingredient144	kynurenine	Pathway18805	Zn	27465530:null
+Ingredient257	tryptophan	Pathway16878	surface MHC class II	27465530:null
+Ingredient257	tryptophan	Pathway10675	MHCII	27465530:null
+Ingredient257	tryptophan	Pathway17889	tryptophan degrading enzyme	27465530:null
+Ingredient257	tryptophan	Pathway8625	IDO	27465530:null
+Ingredient257	tryptophan	Pathway18805	Zn	27465530:null
+Ingredient257	tryptophan	Pathway13180	PD	27465530:null
+Ingredient257	tryptophan	Pathway13246	PD-L2	27465530:null
+Ingredient257	tryptophan	Pathway17453	TLR	27465530:suppressed
+Ingredient55	cholesterol	Pathway16726	Statins	27470008:null
+Ingredient55	cholesterol	Pathway4794	density lipoprotein cholesterol	27470008:null
+Ingredient55	cholesterol	Pathway9764	LDL-C	27470008:null
+Ingredient57	choline	Pathway725	AGA	27471012:null
+Ingredient163	lysine	Pathway11008	mitochondrial transfer RNA (tRNA) lysine gene	27476418:null
+Ingredient163	lysine	Pathway13988	POLG1 gene	27476418:null
+Ingredient163	lysine	Pathway1809	ARCA2	27476418:ataxia
+Ingredient163	lysine	Pathway6252	Friedreich	27476418:ataxia
+Ingredient163	lysine	Pathway16563	SPG7	27476418:ataxia
+Ingredient163	lysine	Pathway15686	SCA28	27476418:ataxia
+Ingredient163	lysine	Pathway13987	POLG1	27476418:null
+Ingredient108	glucose	Pathway1806	ARC	27488634:null
+Ingredient109	Glutamate	Pathway12208	NMDAR	27490923:null
+Ingredient167	Melatonin	Pathway10505	Melatonin	27500468:null
+Ingredient82	dopamine	Pathway16496	Sonic hedgehog	27521008:null
+Ingredient108	glucose	Pathway15775	SEI	27524398:mimic
+Ingredient9	alanine	Pathway1516	APC	27548576:null
+Ingredient9	alanine	Pathway1516	APC	27548576:reduced
+Ingredient9	alanine	Pathway120	3K3A	27548576:null
+Ingredient108	glucose	Pathway10874	miR-29a	27553862:null
+Ingredient108	glucose	Pathway2810	CA1	27553862:null
+Ingredient108	glucose	Pathway4823	DG	27553862:null
+Ingredient108	glucose	Pathway12456	Nrf2	27573874:upregulating
+Ingredient108	glucose	Pathway7968	HO-1	27573874:upregulating
+Ingredient108	glucose	Pathway12420	NQO1	27573874:upregulating
+Ingredient108	glucose	Pathway12484	NSCs	27573874:null
+Ingredient111	glutathione	Pathway16854	superoxide dismutase	27573874:null
+Ingredient111	glutathione	Pathway16447	SOD	27573874:null
+Ingredient111	glutathione	Pathway10438	MDA	27573874:null
+Ingredient111	glutathione	Pathway7243	GSH	27573874:null
+Ingredient216	quinone	Pathway11670	NAD(P)H:quinone oxidoreductase 1	27573874:null
+Ingredient216	quinone	Pathway7566	heme oxygenase	27573874:null
+Ingredient220	resveratrol	Pathway12484	NSCs	27573874:null
+Ingredient220	resveratrol	Pathway16447	SOD	27573874:increased
+Ingredient220	resveratrol	Pathway10438	MDA	27573874:decreased
+Ingredient220	resveratrol	Pathway7243	GSH	27573874:increased
+Ingredient220	resveratrol	Pathway12456	Nrf2	27573874:promoted
+Ingredient220	resveratrol	Pathway12420	NQO1	27573874:promoted
+Ingredient220	resveratrol	Pathway12484	NSCs	27573874:promoted
+Ingredient220	Resveratrol	Pathway12456	Nrf2	27573874:promotes
+Ingredient220	Resveratrol	Pathway7968	HO-1	27573874:promotes
+Ingredient220	Resveratrol	Pathway12420	NQO1	27573874:promotes
+Ingredient220	Resveratrol	Pathway12484	NSCs	27573874:remain
+Ingredient229	serine	Pathway9790	lectin-associated serine protease-2	27577570:null
+Ingredient229	serine	Pathway10323	MASP-2	27577570:null
+Ingredient229	serine	Pathway10321	MASP-1	27577570:contributes
+Ingredient111	glutathione	Pathway6932	glutathione reductase	27609117:null
+Ingredient111	glutathione	Pathway7150	GR	27609117:null
+Ingredient111	glutathione	Pathway6929	glutathione peroxidase	27609117:null
+Ingredient111	glutathione	Pathway3144	catalase	27609117:null
+Ingredient111	glutathione	Pathway16854	superoxide dismutase	27609117:null
+Ingredient115	Glycyrrhizin	Pathway7933	HMGB1	27609334:protects
+Ingredient108	glucose	Pathway5448	ENOPH1	27630541:induced
+Ingredient108	glucose	Pathway9665	lactate dehydrogenase	27630541:induced
+Ingredient168	methionine	Pathway5447	Enolase-phosphatase 1	27630541:null
+Ingredient168	methionine	Pathway5448	ENOPH1	27630541:null
+Ingredient75	daidzein	Pathway12221	NMT	27632784:null
+Ingredient209	puerarin	Pathway12221	NMT	27632784:null
+Ingredient52	catechol	Pathway3656	Chromogranin A	27633326:null
+Ingredient52	catechol	Pathway3542	CgA	27633326:null
+Ingredient109	glutamate	Pathway3542	CgA	27633326:null
+Ingredient57	choline	Pathway5195	EE	27637156:null
+Ingredient57	choline	Pathway3569	ChAT gene	27637156:null
+Ingredient57	choline	Pathway3570	ChAT gene promoter	27637156:null
+Ingredient7	adenosine	Pathway10450	MDR1	27641736:(odds
+Ingredient224	ribose	Pathway13998	Poly(ADP-ribose) polymerase	27663279:null
+Ingredient224	ribose	Pathway13103	PARP	27663279:null
+Ingredient224	ribose	Pathway13103	PARP	27663279:involve
+Ingredient224	ribose	Pathway13109	PARP-1	27663279:involve
+Ingredient224	ribose	Pathway13998	poly(ADP-ribose) polymerase	27663279:null
+Ingredient25	Aspartate	Pathway1223	Angiotensin I	27681888:null
+Ingredient108	glucose	Pathway12171	NLRP2	27693696:elevated
+Ingredient108	glucose	Pathway12173	NLRP2 protein	27693696:elevated
+Ingredient108	glucose	Pathway12171	NLRP2	27693696:null
+Ingredient108	glucose	Pathway12172	NLRP2 genes	27693696:null
+Ingredient108	glucose	Pathway527	activin	27693962:null
+Ingredient108	glucose	Pathway14727	Raf kinase	27698534:null
+Ingredient108	glucose	Pathway5618	ERK	27698534:null
+Ingredient108	glucose	Pathway5618	ERK	27698534:explored
+Ingredient108	glucose	Pathway15204	RKIP	27698534:responsible
+Ingredient108	glucose	Pathway15204	RKIP	27698534:explored
+Ingredient72	cystathionine	Pathway3215	CBS	27708394:null
+Ingredient72	cystathionine	Pathway4189	CSE	27708394:null
+Ingredient41	butyrate	Pathway7354	H3K9ac	27722928:alters
+Ingredient41	butyrate	Pathway7474	HDAC	27722928:null
+Ingredient41	butyrate	Pathway12285	Nos2	27722928:alters
+Ingredient41	butyrate	Pathway16709	Stat1	27722928:alters
+Ingredient41	butyrate	Pathway8878	Il6	27722928:alters
+Ingredient41	butyrate	Pathway8779	IL10	27722928:alters
+Ingredient41	butyrate	Pathway16711	STAT3	27722928:alters
+Ingredient41	Butyrate	Pathway7474	HDAC	27722928:null
+Ingredient163	lysine	Pathway7845	histone 3-lysine 9-acetylation	27722928:null
+Ingredient163	lysine	Pathway7354	H3K9ac	27722928:null
+Ingredient163	lysine	Pathway7851	histone deacetylase	27722928:null
+Ingredient163	lysine	Pathway7474	HDAC	27722928:null
+Ingredient65	creatine	Pathway4121	creatine kinase	27745833:null
+Ingredient111	glutathione	Pathway14636	PYROXD1	27745833:has
+Ingredient111	glutathione	Pathway6933	glutathione reductase glr1	27745833:null
+Ingredient111	glutathione	Pathway8413	human PYROXD1 has reductase	27745833:has
+Ingredient211	pyridine	Pathway14636	PYROXD1	27745833:null
+Ingredient211	pyridine	Pathway12566	nucleotide-disulphide reductase	27745833:null
+Ingredient211	pyridine	Pathway13965	PNDR	27745833:null
+Ingredient67	curcumin	Pathway7168	GRASP65	27748926:null
+Ingredient67	curcumin	Pathway5618	ERK	27748926:protects
+Ingredient67	curcumin	Pathway7168	GRASP65	27748926:investigate
+Ingredient67	curcumin	Pathway5618	ERK	27748926:investigate
+Ingredient19	arginine	Pathway17603	Tp53	27768124:null
+Ingredient19	arginine	Pathway1830	Arg72Pro	27768124:null
+Ingredient19	arginine	Pathway8448	human Tp53 gene	27768124:null
+Ingredient19	arginine	Pathway12927	p53 protein	27768124:modulates
+Ingredient204	proline	Pathway17603	Tp53	27768124:null
+Ingredient204	proline	Pathway1830	Arg72Pro	27768124:null
+Ingredient204	proline	Pathway8448	human Tp53 gene	27768124:null
+Ingredient204	proline	Pathway12927	p53 protein	27768124:modulates
+Ingredient108	glucose	Pathway18382	VEGF	27772541:null
+Ingredient108	glucose	Pathway2252	BDNF	27772541:null
+Ingredient108	glucose	Pathway14374	protein kinase B	27772541:null
+Ingredient108	glucose	Pathway14757	rapamycin	27772541:null
+Ingredient108	glucose	Pathway781	AKT	27772541:null
+Ingredient108	glucose	Pathway11353	mTOR	27772541:null
+Ingredient163	lysine	Pathway14017	polycomb repressive complex 2	27783950:null
+Ingredient163	lysine	Pathway14157	PRC2	27783950:null
+Ingredient163	lysine	Pathway7864	histone H3	27783950:null
+Ingredient163	lysine	Pathway7348	H3K27	27783950:null
+Ingredient108	glucose	Pathway8452	human tribbles homolog 3	27793583:null
+Ingredient108	glucose	Pathway17776	TRIB3	27793583:null
+Ingredient108	glucose	Pathway15388	rs2295490	27793583:null
+Ingredient108	glucose	Pathway17776	TRIB3	27793583:exhibited
+Ingredient108	glucose	Pathway15388	rs2295490	27793583:exhibited
+Ingredient108	Glucose	Pathway15388	rs2295490	27793583:null
+Ingredient9	alanine	Pathway18652	WNK	27798271:null
+Ingredient9	alanine	Pathway2827	Cab39	27798271:null
+Ingredient9	alanine	Pathway12155	NKCC1	27798271:null
+Ingredient163	lysine	Pathway18652	WNK	27798271:null
+Ingredient163	lysine	Pathway12155	NKCC1	27798271:null
+Ingredient163	lysine	Pathway10137	lysine kinase	27798271:null
+Ingredient204	proline	Pathway18652	WNK	27798271:null
+Ingredient204	proline	Pathway2827	Cab39	27798271:null
+Ingredient204	proline	Pathway12155	NKCC1	27798271:null
+Ingredient38	bilirubin	Pathway7968	HO-1	27867098:null
+Ingredient225	rotenone	Pathway7968	HO-1	27867098:null
+Ingredient225	rotenone	Pathway15263	ROS	27867098:null
+Ingredient224	ribose	Pathway9021	insulin	27870437:null
+Ingredient224	ribose	Pathway14025	polymerase-1	27870437:null
+Ingredient224	ribose	Pathway3066	caspase	27870437:null
+Ingredient242	testosterone	Pathway1131	androgen receptor	27930320:null
+Ingredient242	testosterone	Pathway1795	AR	27930320:null
+Ingredient242	testosterone	Pathway10139	lysolecithin	27930320:null
+Ingredient242	testosterone	Pathway6780	glial fibrillary acidic protein	27930320:null
+Ingredient242	testosterone	Pathway1795	AR	27930320:have
+Ingredient119	guanine	Pathway1850	ARHGEF10	27934548:found
+Ingredient55	cholesterol	Pathway16720	statin	27935151:likely
+Ingredient7	adenosine	Pathway17503	TNAP	27965423:null
+Ingredient7	adenosine	Pathway383	ACDC	27965423:promotes
+Ingredient7	adenosine	Pathway383	ACDC	27965423:null
+Ingredient7	adenosine	Pathway3413	CD73	27965423:null
+Ingredient7	adenosine	Pathway12508	NT5E	27965423:null
+Ingredient7	adenosine	Pathway383	ACDC	27965423:derived
+Ingredient7	adenosine	Pathway3413	CD73	27965423:have
+Ingredient7	adenosine	Pathway275	A2b adenosine receptor	27965423:null
+Ingredient7	adenosine	Pathway11353	mTOR	27965423:agonist
+Ingredient7	adenosine	Pathway11763	ND4	27973917:null
+Ingredient7	adenosine	Pathway11372	MT-TL1 genes	27973917:null
+Ingredient7	adenosine	Pathway11351	MT-ND4	27973917:null
+Ingredient149	leucine	Pathway11763	ND4	27973917:null
+Ingredient149	leucine	Pathway11372	MT-TL1 genes	27973917:null
+Ingredient149	leucine	Pathway11351	MT-ND4	27973917:null
+Ingredient108	glucose	Pathway9341	Jagged1	27988406:null
+Ingredient55	cholesterol	Pathway13171	PCSK9	27993383:promises
+Ingredient55	cholesterol	Pathway9764	LDL-C	27993383:is
+Ingredient55	cholesterol	Pathway9994	low-density lipoprotein cholesterol	27993383:is
+Ingredient55	cholesterol	Pathway9764	LDL-C	27993383:null
+Ingredient55	cholesterol	Pathway9994	low-density lipoprotein cholesterol	27993383:null
+Ingredient229	serine	Pathway13171	PCSK9	27993383:null
+Ingredient229	serine	Pathway9764	LDL-C	27993383:null
+Ingredient229	serine	Pathway9764	LDL-C	27993383:reduce
+Ingredient120	guanosine	Pathway16328	SMAP1	28011674:null
+Ingredient120	guanosine	Pathway2122	B3GAT2	28011674:functions
+Ingredient261	uridine	Pathway17190	terminal deoxynucleotidyltransferase	28012846:null
+Ingredient261	uridine	Pathway3092	caspase-3	28012846:cleaved
+Ingredient261	uridine	Pathway2166	Bax	28012846:cleaved
+Ingredient261	uridine	Pathway2240	Bcl-X	28012846:cleaved
+Ingredient108	glucose	Pathway11025	Mitofusin2	28013092:null
+Ingredient108	glucose	Pathway12766	p	28013092:null
+Ingredient108	glucose	Pathway10616	Mfn2	28013092:null
+Ingredient7	adenosine	Pathway614	adenosine deaminase 2	28024309:null
+Ingredient7	adenosine	Pathway565	ADA2	28024309:null
+Ingredient7	Adenosine	Pathway613	Adenosine Deaminase	28024309:null
+Ingredient55	cholesterol	Pathway318	ABCA1	28028143:null
+Ingredient55	cholesterol	Pathway7503	HDL	28028143:plays
+Ingredient55	cholesterol	Pathway7503	HDL	28028143:null
+Ingredient55	cholesterol	Pathway1596	ApoE	28028143:null
+Ingredient51	catechin	Pathway12045	Nfr2	28042007:promotes
+Ingredient51	catechin	Pathway5215	EGCG	28042007:null
+Ingredient89	Epigallocatechin	Pathway12045	Nfr2	28042007:promotes
+Ingredient89	Epigallocatechin	Pathway5215	EGCG	28042007:null
+Ingredient102	gallocatechin	Pathway12045	Nfr2	28042007:promotes
+Ingredient102	gallocatechin	Pathway5215	EGCG	28042007:null
+Ingredient6	adenine	Pathway16726	statins	28057795:inhibited;
+Ingredient6	adenine	Pathway9299	isoprenoid	28057795:inhibited;
+Ingredient6	adenine	Pathway16310	small GTP-binding proteins	28057795:inhibited;
+Ingredient6	adenine	Pathway15135	Rho	28057795:inhibited;
+Ingredient6	adenine	Pathway15135	Rho	28057795:null
+Ingredient6	adenine	Pathway14712	Rac	28057795:inhibited;
+Ingredient6	adenine	Pathway15140	Rho kinase	28057795:null
+Ingredient6	adenine	Pathway12096	nicotinamide adenine dinucleotide phosphate oxidases	28057795:null
+Ingredient6	adenine	Pathway16720	statin	28057795:inhibited;
+Ingredient55	cholesterol	Pathway9768	LDL-cholesterol	28057795:increasing
+Ingredient55	cholesterol	Pathway9768	LDL-cholesterol	28057795:null
+Ingredient55	cholesterol	Pathway16726	Statins	28057795:independent
+Ingredient55	cholesterol	Pathway16726	statins	28057795:null
+Ingredient55	cholesterol	Pathway9299	isoprenoid	28057795:null
+Ingredient55	cholesterol	Pathway16310	small GTP-binding proteins	28057795:null
+Ingredient55	cholesterol	Pathway15135	Rho	28057795:null
+Ingredient55	cholesterol	Pathway15135	Rho	28057795:inhibited;
+Ingredient55	cholesterol	Pathway14712	Rac	28057795:null
+Ingredient55	cholesterol	Pathway15140	Rho kinase	28057795:inhibited;
+Ingredient55	cholesterol	Pathway12096	nicotinamide adenine dinucleotide phosphate oxidases	28057795:inhibited;
+Ingredient55	cholesterol	Pathway16720	statin	28057795:null
+Ingredient179	nicotinamide	Pathway16726	statins	28057795:inhibited;
+Ingredient179	nicotinamide	Pathway9299	isoprenoid	28057795:inhibited;
+Ingredient179	nicotinamide	Pathway16310	small GTP-binding proteins	28057795:inhibited;
+Ingredient179	nicotinamide	Pathway15135	Rho	28057795:inhibited;
+Ingredient179	nicotinamide	Pathway15135	Rho	28057795:null
+Ingredient179	nicotinamide	Pathway14712	Rac	28057795:inhibited;
+Ingredient179	nicotinamide	Pathway15140	Rho kinase	28057795:null
+Ingredient179	nicotinamide	Pathway12096	nicotinamide adenine dinucleotide phosphate oxidases	28057795:null
+Ingredient179	nicotinamide	Pathway16720	statin	28057795:inhibited;
+Ingredient259	tyrosine	Pathway18382	VEGF	28060742:null
+Ingredient109	glutamate	Pathway2906	calpain	28069373:activate
+Ingredient109	glutamate	Pathway3066	caspase	28069373:activate
+Ingredient109	glutamate	Pathway6904	glutamate release	28069373:null
+Ingredient109	glutamate	Pathway12217	N-methyl-D-aspartate receptor	28069373:null
+Ingredient109	glutamate	Pathway12208	NMDAR	28069373:null
+Ingredient55	cholesterol	Pathway7938	HMG-CoA reductase	28076830:null
+Ingredient5	acetylcholine	Pathway431	acetylcholinesterase	28081467:null
+Ingredient5	acetylcholine	Pathway431	acetylcholinesterase	28081467:assayed
+Ingredient5	acetylcholine	Pathway431	acetylcholinesterase	28081467:determined
+Ingredient57	choline	Pathway431	acetylcholinesterase	28081467:null
+Ingredient57	choline	Pathway431	acetylcholinesterase	28081467:assayed
+Ingredient57	choline	Pathway431	acetylcholinesterase	28081467:determined
+Ingredient126	Histamine	Pathway14604	Pump Inhibitor Use	28085910:null
+Ingredient259	tyrosine	Pathway360	Abl	28087633:null
+Ingredient259	tyrosine	Pathway364	Abl tyrosine kinase	28087633:null
+Ingredient108	glucose	Pathway10235	Malat1 GapmeR	28093478:null
+Ingredient120	guanosine	Pathway13479	phosphodiesterase-5 inhibitors	28105791:null
+Ingredient120	guanosine	Pathway7316	guanylate cyclase	28105791:null
+Ingredient108	glucose	Pathway7518	hDPSCs	28105979:null
+Ingredient108	glucose	Pathway7439	hBM-MSCs	28105979:null
+Ingredient108	glucose	Pathway7433	hBM	28105979:null
+Ingredient108	glucose	Pathway11255	MSC	28105979:null
+Ingredient181	nifedipine	Pathway13904	PLC	28107550:null
+Ingredient57	choline	Pathway13166	pCRP	28112148:null
+Ingredient57	choline	Pathway13166	pCRP	28112148:blocks
+Ingredient229	serine	Pathway13288	peptidase A1	28126975:null
+Ingredient229	serine	Pathway8184	HTRA1	28126975:null
+Ingredient111	glutathione	Pathway12456	Nrf2	28132764:null
+Ingredient111	glutathione	Pathway4680	D3T	28132764:null
+Ingredient5	acetylcholine	Pathway10544	Met	28132912:null
+Ingredient5	acetylcholine	Pathway18441	vesicular acetylcholine transporter	28132912:null
+Ingredient5	acetylcholine	Pathway18267	VAChT	28132912:null
+Ingredient5	acetylcholine	Pathway10544	Met	28132912:down-regulated
+Ingredient57	choline	Pathway10544	Met	28132912:null
+Ingredient57	choline	Pathway18441	vesicular acetylcholine transporter	28132912:null
+Ingredient57	choline	Pathway18267	VAChT	28132912:null
+Ingredient57	choline	Pathway10544	Met	28132912:down-regulated
+Ingredient52	catechol	Pathway3152	catecholamine use	28142307:null
+Ingredient119	guanine	Pathway10645	MGMT	28148826:null
+Ingredient119	guanine	Pathway12583	O-6-methylguanine-DNA methyltransferase	28148826:null
+Ingredient221	retinol	Pathway11035	mitogen-activated protein kinase	28176861:null
+Ingredient221	retinol	Pathway10289	MAPK	28176861:null
+Ingredient64	coumarin	Pathway17609	tPA	28178410:null
+Ingredient108	glucose	Pathway17957	TUG1	28202414:null
+Ingredient108	glucose	Pathway9948	LncRNA TUG1	28202414:null
+Ingredient108	glucose	Pathway6469	GAL	28203483:used
+Ingredient67	curcumin	Pathway7767	High bioavailability curcumin	28204864:null
+Ingredient67	curcumin	Pathway16707	STAT	28204864:(e;g;
+Ingredient67	curcumin	Pathway1489	AP-1	28204864:(e;g;
+Ingredient6	adenine	Pathway1995	Atg5	28206988:null
+Ingredient7	adenosine	Pathway4321	cyclic adenosine monophosphate response element binding protein	28208711:null
+Ingredient7	adenosine	Pathway4127	CREB	28208711:null
+Ingredient82	dopamine	Pathway4321	cyclic adenosine monophosphate response element binding protein	28208711:null
+Ingredient82	dopamine	Pathway4127	CREB	28208711:null
+Ingredient38	bilirubin	Pathway7575	hemeoxygenase	28219651:null
+Ingredient38	bilirubin	Pathway7965	HO	28219651:null
+Ingredient202	porphyrin	Pathway7967	HO1	28219651:null
+Ingredient202	porphyrin	Pathway7965	HO	28219651:null
+Ingredient39	biotin	Pathway2461	Biotin	28220409:null
+Ingredient39	biotin	Pathway2465	Biotinidase	28220409:null
+Ingredient39	biotin	Pathway2465	biotinidase	28220409:null
+Ingredient39	biotin	Pathway2461	Biotin	28220409:essential
+Ingredient39	Biotin	Pathway2461	Biotin	28220409:null
+Ingredient39	Biotin	Pathway2465	Biotinidase	28220409:null
+Ingredient39	Biotin	Pathway2465	biotinidase	28220409:made
+Ingredient39	Biotin	Pathway2465	biotinidase	28220409:essential
+Ingredient49	carnitine	Pathway12174	NLRP3	28232172:prevented
+Ingredient55	cholesterol	Pathway12174	NLRP3	28232172:null
+Ingredient55	cholesterol	Pathway12176	NLRP3 inflammasome	28232172:null
+Ingredient55	cholesterol	Pathway12174	NLRP3	28232172:key
+Ingredient55	cholesterol	Pathway12176	NLRP3 inflammasome	28232172:key
+Ingredient55	cholesterol	Pathway12174	NLRP3	28232172:activates
+Ingredient55	cholesterol	Pathway3084	caspase-1	28232172:activates
+Ingredient55	cholesterol	Pathway4794	density lipoprotein cholesterol	28242176:null
+Ingredient55	cholesterol	Pathway9764	LDL-C	28242176:null
+Ingredient55	cholesterol	Pathway7513	HDL-C	28242176:null
+Ingredient55	cholesterol	Pathway6030	FH	28242176:null
+Ingredient55	cholesterol	Pathway5905	familial hypercholesterolemia	28242176:null
+Ingredient55	cholesterol	Pathway7938	HMG-CoA reductase	28242176:null
+Ingredient55	cholesterol	Pathway13171	PCSK9	28242176:null
+Ingredient55	cholesterol	Pathway16720	statin	28242176:null
+Ingredient127	histidine	Pathway8376	human neuroglobin	28246171:muting
+Ingredient230	serotonin	Pathway1297	angiotensin-II	28247311:null
+Ingredient230	serotonin	Pathway1160	Ang-II	28247311:null
+Ingredient230	serotonin	Pathway1160	Ang-II	28247311:clear
+Ingredient230	serotonin	Pathway141	5HT	28247311:null
+Ingredient230	serotonin	Pathway141	5HT	28247311:clear
+Ingredient230	serotonin	Pathway1297	angiotensin-II	28247311:result
+Ingredient230	Serotonin	Pathway1297	Angiotensin-II	28247311:null
+Ingredient239	taurine	Pathway9911	lipoxygenase	28256152:null
+Ingredient108	glucose	Pathway12300	Notch	28257582:null
+Ingredient108	glucose	Pathway12301	Notch 1	28257582:null
+Ingredient114	glycine	Pathway12300	Notch	28257582:null
+Ingredient114	glycine	Pathway12301	Notch 1	28257582:null
+Ingredient162	lycine	Pathway12300	Notch	28257582:null
+Ingredient162	lycine	Pathway12301	Notch 1	28257582:null
+Ingredient259	tyrosine	Pathway18084	tyrosine kinase receptor	28265860:null
+Ingredient259	tyrosine	Pathway5601	erbB	28265860:null
+Ingredient19	arginine	Pathway1818	Arg	28285332:null
+Ingredient19	arginine	Pathway7402	hArg	28285332:null
+Ingredient19	arginine	Pathway1840	arginine N-methyltransferase	28285332:null
+Ingredient19	arginine	Pathway14210	PRMT	28285332:null
+Ingredient19	Arginine	Pathway1842	Arginine:glycine amidinotransferase	28285332:null
+Ingredient19	Arginine	Pathway729	AGAT	28285332:null
+Ingredient19	Arginine	Pathway1818	Arg	28285332:null
+Ingredient19	Arginine	Pathway1818	Arg	28285332:converts
+Ingredient19	Arginine	Pathway7402	hArg	28285332:converts
+Ingredient114	glycine	Pathway1842	Arginine:glycine amidinotransferase	28285332:null
+Ingredient114	glycine	Pathway729	AGAT	28285332:null
+Ingredient114	glycine	Pathway1818	Arg	28285332:null
+Ingredient114	glycine	Pathway1818	Arg	28285332:converts
+Ingredient114	glycine	Pathway7402	hArg	28285332:converts
+Ingredient147	L-arginine	Pathway1818	Arg	28285332:null
+Ingredient147	L-arginine	Pathway7402	hArg	28285332:null
+Ingredient162	lycine	Pathway1842	Arginine:glycine amidinotransferase	28285332:null
+Ingredient162	lycine	Pathway729	AGAT	28285332:null
+Ingredient162	lycine	Pathway1818	Arg	28285332:null
+Ingredient162	lycine	Pathway1818	Arg	28285332:converts
+Ingredient162	lycine	Pathway7402	hArg	28285332:converts
+Ingredient57	choline	Pathway15869	serotonin reuptake inhibitors	28317024:null
+Ingredient57	choline	Pathway16689	SSRIs	28317024:null
+Ingredient150	levodopa	Pathway15869	serotonin reuptake inhibitors	28317024:null
+Ingredient150	levodopa	Pathway16689	SSRIs	28317024:null
+Ingredient230	serotonin	Pathway15869	serotonin reuptake inhibitors	28317024:null
+Ingredient230	serotonin	Pathway16689	SSRIs	28317024:null
+Ingredient108	glucose	Pathway12456	Nrf2	28320085:up-regulating
+Ingredient108	glucose	Pathway1811	ARE	28320085:up-regulating
+Ingredient108	glucose	Pathway10809	miR-142-5p	28320085:null
+Ingredient109	glutamate	Pathway6780	glial fibrillary acidic protein	28336567:null
+Ingredient109	glutamate	Pathway6921	glutamine synthetase	28336567:null
+Ingredient109	glutamate	Pathway6908	glutamate transporter 1	28336567:null
+Ingredient109	glutamate	Pathway6804	GLT1	28336567:null
+Ingredient109	glutamate	Pathway1789	aquaporin-4	28336567:null
+Ingredient55	cholesterol	Pathway5450	eNOS	28346478:null
+Ingredient55	cholesterol	Pathway3170	Cav-1	28346478:null
+Ingredient55	cholesterol	Pathway9750	LDL	28374891:null
+Ingredient55	cholesterol	Pathway9997	low-density lipoproteins	28374891:null
+Ingredient55	cholesterol	Pathway9992	low-density lipoprotein	28374891:null
+Ingredient55	cholesterol	Pathway9751	LDL cholesterol	28374891:null
+Ingredient220	resveratrol	Pathway16170	SIRT1	28374891:null
+Ingredient108	glucose	Pathway5524	ephrin-A1	28378105:null
+Ingredient179	Nicotinamide	Pathway12456	Nrf2	28386082:activating
+Ingredient179	Nicotinamide	Pathway7968	HO-1	28386082:activating
+Ingredient108	glucose	Pathway16692	ST2	28389473:null
+Ingredient108	glucose	Pathway16176	Sirt3	28396174:null
+Ingredient55	cholesterol	Pathway7810	hip	28399420:null
+Ingredient55	cholesterol	Pathway9750	LDL	28399420:null
+Ingredient55	cholesterol	Pathway6045	fibrinogen	28399420:null
+Ingredient55	cholesterol	Pathway9769	Ldlr	28399420:null
+Ingredient55	cholesterol	Pathway318	Abca1	28399420:null
+Ingredient55	cholesterol	Pathway340	Abcg1	28399420:null
+Ingredient55	cholesterol	Pathway15697	Scarb1	28399420:null
+Ingredient57	choline	Pathway12167	NLRC4	28404595:elicits
+Ingredient57	choline	Pathway12174	NLRP3	28404595:elicits
+Ingredient57	choline	Pathway12168	NLRC4 inflammasome	28404595:elicits
+Ingredient108	glucose	Pathway5450	eNOS	28415790:reduced
+Ingredient108	glucose	Pathway781	Akt	28415790:reduced
+Ingredient108	glucose	Pathway13015	p-Akt	28415790:reduced
+Ingredient108	glucose	Pathway7690	HG	28415790:null
+Ingredient108	glucose	Pathway5647	erythropoietin	28423608:null
+Ingredient108	glucose	Pathway5545	EPO	28423608:null
+Ingredient108	glucose	Pathway13487	phosphoglycerate kinase 1	28423608:null
+Ingredient108	glucose	Pathway13390	PGK1	28423608:null
+Ingredient108	glucose	Pathway5388	endothelin 1	28423608:null
+Ingredient108	glucose	Pathway5188	EDN1	28423608:null
+Ingredient108	glucose	Pathway6832	glucose transporter 1	28423608:null
+Ingredient108	glucose	Pathway6877	GLUT1	28423608:null
+Ingredient108	glucose	Pathway9666	lactate dehydrogenase A	28423608:null
+Ingredient108	glucose	Pathway9748	LDHA	28423608:null
+Ingredient108	glucose	Pathway18306	vascular endothelial growth factor	28423608:null
+Ingredient108	glucose	Pathway18404	VEGFA	28423608:null
+Ingredient267	Vitexin	Pathway2197	Bcl-2	28424420:increased
+Ingredient267	Vitexin	Pathway2166	Bax	28424420:increased
+Ingredient113	glycerol	Pathway14163	Prdx6	28424593:null
+Ingredient113	glycerol	Pathway9222	iPLA2	28424593:null
+Ingredient113	glycerol	Pathway14164	Prdx6 using siRNA	28424593:null
+Ingredient109	glutamate	Pathway12188	NMDA receptor	28430183:null
+Ingredient120	guanosine	Pathway9309	ITGA4	28439079:null
+Ingredient120	guanosine	Pathway9309	ITGA4	28439079:failed
+Ingredient120	guanosine	Pathway9309	ITGA4	28439079:detected
+Ingredient120	guanosine	Pathway9312	ITGA4-mRNA	28439079:null
+Ingredient120	guanosine	Pathway9312	ITGA4-mRNA	28439079:detected
+Ingredient120	guanosine	Pathway9310	ITGA4 protein	28439079:failed
+Ingredient120	guanosine	Pathway11258	MSCs	28439079:transfected
+Ingredient109	glutamate	Pathway845	alkaline phosphatase	28447751:null
+Ingredient55	cholesterol	Pathway16726	Statins	28450350:assessed
+Ingredient55	cholesterol	Pathway16726	Statins	28450350:null
+Ingredient55	Cholesterol	Pathway16726	Statins	28450350:null
+Ingredient108	glucose	Pathway18382	VEGF	28460604:increased
+Ingredient73	cystine	Pathway14438	prothrombin	28465918:null
+Ingredient73	cystine	Pathway11314	MTHFR	28465918:null
+Ingredient92	estradiol	Pathway5666	estrogen receptor	28479229:null
+Ingredient92	estradiol	Pathway5085	E2	28479229:null
+Ingredient259	tyrosine	Pathway364	Abl tyrosine kinase	28481649:null
+Ingredient259	tyrosine	Pathway360	Abl	28481649:null
+Ingredient259	tyrosine	Pathway345	Abelson tyrosine kinase	28481649:null
+Ingredient55	cholesterol	Pathway16256	SLCO1B1	28482130:null
+Ingredient55	cholesterol	Pathway16257	SLCO1B1 521C	28482130:null
+Ingredient55	cholesterol	Pathway4455	CYP3A4	28482130:null
+Ingredient55	cholesterol	Pathway4459	CYP3A5	28482130:null
+Ingredient55	cholesterol	Pathway4457	CYP3A4*22	28482130:null
+Ingredient55	cholesterol	Pathway4462	CYP3A5*3	28482130:null
+Ingredient55	Cholesterol	Pathway16256	SLCO1B1	28482130:null
+Ingredient55	Cholesterol	Pathway16155	Simvastatin	28482130:null
+Ingredient55	Cholesterol	Pathway4455	CYP3A4	28482130:null
+Ingredient55	Cholesterol	Pathway16256	SLCO1B1	28482130:affecting
+Ingredient55	Cholesterol	Pathway4455	CYP3A4	28482130:affecting
+Ingredient55	Cholesterol	Pathway4459	CYP3A5	28482130:affecting
+Ingredient107	glucosamine	Pathway18695	XBP1	28487326:null
+Ingredient108	glucose	Pathway16467	sodium-glucose cotransporter 2	28496330:null
+Ingredient108	glucose	Pathway5285	empagliflozin	28496330:null
+Ingredient79	digoxin	Pathway714	AF	28496617:null
+Ingredient79	Digoxin	Pathway714	AF	28496617:treat
+Ingredient55	cholesterol	Pathway12872	p38	28498386:null
+Ingredient55	cholesterol	Pathway2197	Bcl-2	28498386:null
+Ingredient229	serine	Pathway5936	FASTKD2	28499982:null
+Ingredient229	serine	Pathway5934	FAST	28499982:null
+Ingredient229	serine	Pathway5928	FAS-activated serine-threonine	28499982:null
+Ingredient248	threonine	Pathway5936	FASTKD2	28499982:null
+Ingredient248	threonine	Pathway5934	FAST	28499982:null
+Ingredient248	threonine	Pathway5928	FAS-activated serine-threonine	28499982:null
+Ingredient109	glutamate	Pathway6895	glutamate receptor	28503134:null
+Ingredient109	glutamate	Pathway10635	mGluR	28503134:null
+Ingredient109	glutamate	Pathway1769	AQP4	28503134:null
+Ingredient109	glutamate	Pathway10642	mGluR5	28503134:null
+Ingredient109	glutamate	Pathway9665	lactate dehydrogenase	28503134:had
+Ingredient109	glutamate	Pathway9744	LDH	28503134:had
+Ingredient109	glutamate	Pathway1771	AQP4 gene	28503134:null
+Ingredient109	glutamate	Pathway6907	glutamate transporter	28503134:null
+Ingredient109	glutamate	Pathway1769	AQP4	28503134:alters
+Ingredient109	glutamate	Pathway10642	mGluR5	28503134:alters
+Ingredient109	Glutamate	Pathway1784	Aquaporin 4	28503134:null
+Ingredient109	Glutamate	Pathway1769	AQP4	28503134:null
+Ingredient114	glycine	Pathway10635	mGluR	28503134:null
+Ingredient114	glycine	Pathway10635	mGluR	28503134:mimicked
+Ingredient114	glycine	Pathway10642	mGluR5	28503134:null
+Ingredient114	glycine	Pathway10642	mGluR5	28503134:mimicked
+Ingredient162	lycine	Pathway10635	mGluR	28503134:null
+Ingredient162	lycine	Pathway10635	mGluR	28503134:mimicked
+Ingredient162	lycine	Pathway10642	mGluR5	28503134:null
+Ingredient162	lycine	Pathway10642	mGluR5	28503134:mimicked
+Ingredient19	arginine	Pathway14239	PROC gene	28511552:null
+Ingredient19	arginine	Pathway17146	TE	28511552:reported
+Ingredient19	arginine	Pathway12775	p.R147W	28511552:reported
+Ingredient257	tryptophan	Pathway14239	PROC gene	28511552:null
+Ingredient257	tryptophan	Pathway17146	TE	28511552:reported
+Ingredient257	tryptophan	Pathway12775	p.R147W	28511552:reported
+Ingredient211	pyridine	Pathway4415	CYP2C19	28520385:null
+Ingredient7	adenosine	Pathway565	ADA2	28522451:null
+Ingredient7	Adenosine	Pathway565	ADA2	28522451:analysed
+Ingredient55	cholesterol	Pathway9769	LDLR	28539666:null
+Ingredient108	glucose	Pathway9179	interleukin-9	28550144:null
+Ingredient108	glucose	Pathway8918	IL-9	28550144:null
+Ingredient55	cholesterol	Pathway798	Ala16Val	28552711:null
+Ingredient55	cholesterol	Pathway11125	MnSOD	28552711:null
+Ingredient108	glucose	Pathway11125	MnSOD	28552711:null
+Ingredient55	cholesterol	Pathway1675	apolipoprotein E	28578514:null
+Ingredient55	cholesterol	Pathway1596	ApoE	28578514:null
+Ingredient55	cholesterol	Pathway10368	matrix metalloproteinases	28578514:null
+Ingredient55	cholesterol	Pathway11117	MMPs	28578514:null
+Ingredient55	cholesterol	Pathway5363	endothelial nitric oxide synthase	28578514:null
+Ingredient55	cholesterol	Pathway5450	eNOS	28578514:null
+Ingredient67	Curcumin	Pathway14163	Prdx6	28596967:null
+Ingredient67	Curcumin	Pathway14163	Prdx6	28596967:involve
+Ingredient79	digoxin	Pathway15028	renin	28601914:null
+Ingredient268	xanthine	Pathway18692	xanthine oxidase	28601914:null
+Ingredient108	glucose	Pathway16958	T2DM	28606340:tested
+Ingredient108	glucose	Pathway16958	T2DM	28606340:null
+Ingredient108	Glucose	Pathway9021	Insulin	28606340:Diabetes
+Ingredient224	ribose	Pathway14006	Poly(ADP-ribose)polymerase-1	28608237:null
+Ingredient224	ribose	Pathway13109	PARP-1	28608237:null
+Ingredient224	ribose	Pathway15058	resistin	28608237:showing
+Ingredient226	rutin	Pathway2643	BTK	28629235:null
+Ingredient259	tyrosine	Pathway2643	BTK	28629235:null
+Ingredient150	levodopa	Pathway13653	PLAC	28633996:null
+Ingredient261	uridine	Pathway10614	mfat-1 transgene	28639376:null
+Ingredient108	glucose	Pathway13315	PERK	28644439:null
+Ingredient108	glucose	Pathway17609	tPA	28644439:null
+Ingredient108	glucose	Pathway7229	Grp78	28644439:null
+Ingredient108	glucose	Pathway5846	factor CHOP	28644439:promotes
+Ingredient229	serine	Pathway13315	PERK	28644439:bind
+Ingredient229	serine	Pathway17609	tPA	28644439:null
+Ingredient229	serine	Pathway7229	Grp78	28644439:bind
+Ingredient229	serine	Pathway5846	factor CHOP	28644439:promotes
+Ingredient189	orientin	Pathway1770	AQP-4	28645524:release
+Ingredient189	orientin	Pathway1770	AQP-4	28645524:downregulated
+Ingredient189	Orientin	Pathway1770	AQP-4	28645524:Attenuates
+Ingredient189	Orientin	Pathway17464	TLR4	28645524:Attenuates
+Ingredient189	Orientin	Pathway1770	AQP-4	28645524:mediate
+Ingredient108	glucose	Pathway8652	IFNAR1	28647375:null
+Ingredient120	guanosine	Pathway11825	neprilysin	28652105:null
+Ingredient120	guanosine	Pathway1138	Ang II	28652105:null
+Ingredient108	glucose	Pathway14084	PP2A	28652527:performed
+Ingredient229	serine	Pathway14084	PP2A	28652527:null
+Ingredient229	serine	Pathway14406	Protein phosphatase 2A	28652527:null
+Ingredient248	threonine	Pathway14084	PP2A	28652527:null
+Ingredient248	threonine	Pathway14406	Protein phosphatase 2A	28652527:null
+Ingredient230	serotonin	Pathway15871	serotonin transporter	28654193:null
+Ingredient230	serotonin	Pathway15873	serotonin transporter gene SLC6A4	28654193:null
+Ingredient230	serotonin	Pathway16767	STin2	28654193:termed
+Ingredient230	Serotonin	Pathway15871	Serotonin Transporter	28654193:null
+Ingredient57	choline	Pathway3624	choline acetyltransferase	28671120:null
+Ingredient57	choline	Pathway3568	ChAT	28671120:null
+Ingredient57	choline	Pathway18076	tyrosine hydroxylase	28671120:null
+Ingredient57	choline	Pathway17295	TH	28671120:null
+Ingredient259	tyrosine	Pathway3624	choline acetyltransferase	28671120:null
+Ingredient259	tyrosine	Pathway3568	ChAT	28671120:null
+Ingredient259	tyrosine	Pathway18076	tyrosine hydroxylase	28671120:null
+Ingredient259	tyrosine	Pathway17295	TH	28671120:null
+Ingredient68	cyanidin	Pathway7263	GSPE	28693689:null
+Ingredient109	glutamate	Pathway16737	STEP	28699511:null
+Ingredient109	glutamate	Pathway12872	p38	28699511:null
+Ingredient109	glutamate	Pathway16646	Src family tyrosine kinases	28699511:null
+Ingredient109	glutamate	Pathway6320	Fyn	28699511:null
+Ingredient109	glutamate	Pathway14632	Pyk2	28699511:null
+Ingredient109	glutamate	Pathway12183	NMDA	28699511:null
+Ingredient109	glutamate	Pathway1087	AMPA glutamate receptors	28699511:null
+Ingredient259	tyrosine	Pathway16737	STEP	28699511:expressed
+Ingredient259	tyrosine	Pathway18093	tyrosine protein phosphatase	28699511:null
+Ingredient259	tyrosine	Pathway16737	STEP	28699511:null
+Ingredient259	tyrosine	Pathway12872	p38	28699511:null
+Ingredient259	tyrosine	Pathway16646	Src family tyrosine kinases	28699511:null
+Ingredient259	tyrosine	Pathway6320	Fyn	28699511:null
+Ingredient259	tyrosine	Pathway14632	Pyk2	28699511:null
+Ingredient259	tyrosine	Pathway12183	NMDA	28699511:null
+Ingredient259	tyrosine	Pathway1087	AMPA glutamate receptors	28699511:null
+Ingredient259	Tyrosine	Pathway18093	Tyrosine Protein Phosphatase	28699511:null
+Ingredient259	Tyrosine	Pathway16737	STEP	28699511:null
+Ingredient35	betaine	Pathway7999	homocysteine S-methyltransferase	28715642:null
+Ingredient35	betaine	Pathway2438	BHMT	28715642:null
+Ingredient229	serine	Pathway9785	lectin	28720568:null
+Ingredient229	Serine	Pathway9785	lectin	28720568:null
+Ingredient109	glutamate	Pathway12916	p53	28720827:associated
+Ingredient109	glutamate	Pathway13315	PERK	28720827:null
+Ingredient109	glutamate	Pathway8112	hsp27	28720827:null
+Ingredient138	isoleucine	Pathway2415	Beta-ketothiolase	28726122:null
+Ingredient138	isoleucine	Pathway10937	mitochondrial acetoacetyl-CoA thiolase	28726122:null
+Ingredient149	leucine	Pathway2415	Beta-ketothiolase	28726122:null
+Ingredient149	leucine	Pathway10937	mitochondrial acetoacetyl-CoA thiolase	28726122:null
+Ingredient134	indole	Pathway3391	CD45	28735520:null
+Ingredient134	indole	Pathway3306	CD11b	28735520:null
+Ingredient163	Lysine	Pathway14021	Poly-L	28735520:null
+Ingredient257	tryptophan	Pathway3391	CD45	28735520:null
+Ingredient257	tryptophan	Pathway3306	CD11b	28735520:null
+Ingredient259	tyrosine	Pathway3391	CD45	28735520:null
+Ingredient259	tyrosine	Pathway3306	CD11b	28735520:null
+Ingredient111	glutathione	Pathway6930	glutathione peroxidase 3 gene	28738977:null
+Ingredient111	glutathione	Pathway7139	GPX3	28738977:null
+Ingredient111	Glutathione	Pathway6929	Glutathione peroxidase	28738977:null
+Ingredient29	baicalin	Pathway1099	AMPK	28743390:null
+Ingredient29	baicalin	Pathway1099	AMPK	28743390:protected
+Ingredient29	Baicalin	Pathway1099	AMPK	28743390:attenuates
+Ingredient29	Baicalin	Pathway5055	dynamin-related protein 1	28743390:null
+Ingredient29	Baicalin	Pathway5018	Drp-1	28743390:null
+Ingredient29	Baicalin	Pathway5018	Drp-1	28743390:increased
+Ingredient29	Baicalin	Pathway11026	mitofusin-2	28743390:increased
+Ingredient29	Baicalin	Pathway10616	MFN2	28743390:increased
+Ingredient108	glucose	Pathway10920	miRNA	28744190:null
+Ingredient7	adenosine	Pathway14369	protein kinase	28752417:null
+Ingredient7	adenosine	Pathway1099	AMPK	28752417:null
+Ingredient7	adenosine	Pathway637	adenylyl cyclase	28767701:null
+Ingredient108	glucose	Pathway4850	dipeptidyl peptidase	28771923:null
+Ingredient119	guanine	Pathway1850	ARHGEF10	28799234:stimulates
+Ingredient109	glutamate	Pathway10630	mGlu2 metabotropic glutamate receptors	28821279:null
+Ingredient108	glucose	Pathway5285	empagliflozin	28830955:null
+Ingredient108	glucose	Pathway8196	HUA	28830955:seem
+Ingredient229	serine	Pathway15245	ROCK	28845297:null
+Ingredient229	serine	Pathway15256	ROCKs	28845297:null
+Ingredient229	serine	Pathway481	actin	28845297:participate
+Ingredient248	threonine	Pathway15245	ROCK	28845297:null
+Ingredient248	threonine	Pathway15256	ROCKs	28845297:null
+Ingredient248	threonine	Pathway481	actin	28845297:participate
+Ingredient67	curcumin	Pathway4253	curcumin	28849007:null
+Ingredient67	Curcumin	Pathway8585	ICAM-1	28849007:prevents
+Ingredient67	Curcumin	Pathway11106	MMP-9	28849007:prevents
+Ingredient67	Curcumin	Pathway3092	caspase-3	28849007:prevents
+Ingredient109	glutamate	Pathway6606	G-CSF	28849456:null
+Ingredient109	glutamate	Pathway6606	G-CSF	28849456:increased
+Ingredient109	glutamate	Pathway4191	CSF	28849456:null
+Ingredient109	glutamate	Pathway4191	CSF	28849456:increased
+Ingredient239	taurine	Pathway1988	ATF6	28849456:result
+Ingredient239	taurine	Pathway9237	IRE1	28849456:decreased
+Ingredient239	taurine	Pathway7160	granulocyte colony stimulating factor	28849456:null
+Ingredient239	taurine	Pathway6606	G-CSF	28849456:null
+Ingredient239	taurine	Pathway4191	CSF	28849456:null
+Ingredient239	taurine	Pathway6606	G-CSF	28849456:increased
+Ingredient239	taurine	Pathway4191	CSF	28849456:increased
+Ingredient239	taurine	Pathway1988	ATF6	28849456:null
+Ingredient239	taurine	Pathway13596	p-IRE-1	28849456:null
+Ingredient239	taurine	Pathway13315	PERK	28849456:null
+Ingredient239	Taurine	Pathway7229	GRP78	28849456:decreased
+Ingredient239	Taurine	Pathway3637	CHOP	28849456:decreased
+Ingredient239	Taurine	Pathway2454	Bim	28849456:decreased
+Ingredient239	Taurine	Pathway3066	caspase	28849456:decreased
+Ingredient108	glucose	Pathway1899	ASK1	28855861:null
+Ingredient229	serine	Pathway12352	NOTCH3 variant	28867359:null
+Ingredient55	cholesterol	Pathway13171	PCSK9	28871349:null
+Ingredient108	glucose	Pathway7581	hemoglobin	28871349:null
+Ingredient108	glucose	Pathway7581	hemoglobin	28871349:reduce
+Ingredient108	glucose	Pathway6812	glucagon	28871349:reduce
+Ingredient108	glucose	Pathway6954	glycated hemoglobin	28871349:null
+Ingredient108	glucose	Pathway6954	glycated hemoglobin	28871349:reduce
+Ingredient109	glutamate	Pathway6917	glutamatergic receptors	28883427:null
+Ingredient29	Baicalin	Pathway9365	Jasminoidin	28894512:null
+Ingredient33	Berberine	Pathway9365	Jasminoidin	28894512:null
+Ingredient30	benzoate	Pathway4879	dl-NBP	28905934:null
+Ingredient204	proline	Pathway14632	Pyk2	28916471:phosphorylate
+Ingredient204	proline	Pathway10437	MCU	28916471:phosphorylate
+Ingredient259	tyrosine	Pathway14632	Pyk2	28916471:phosphorylate
+Ingredient259	tyrosine	Pathway10437	MCU	28916471:phosphorylate
+Ingredient108	glucose	Pathway3603	Chk1	28928282:null
+Ingredient108	glucose	Pathway14835	Rb	28928282:null
+Ingredient108	glucose	Pathway3578	Checkpoint kinase 1	28928282:null
+Ingredient108	glucose	Pathway14836	Rb family	28928282:null
+Ingredient55	cholesterol	Pathway10008	Lp(a)	28930591:null
+Ingredient108	glucose	Pathway12456	Nrf2	28956063:null
+Ingredient216	quinone	Pathway12456	Nrf2	28956063:null
+Ingredient216	quinone	Pathway1811	ARE	28956063:null
+Ingredient216	quinone	Pathway12176	NLRP3 inflammasome	28956063:involved
+Ingredient66	creatinine	Pathway6045	fibrinogen	28959211:null
+Ingredient66	creatinine	Pathway4119	C-reactive proteins	28959211:null
+Ingredient108	glucose	Pathway9021	insulin	28961383:null
+Ingredient108	glucose	Pathway8671	IGF1	28961383:null
+Ingredient108	glucose	Pathway8669	IGF	28961383:null
+Ingredient108	glucose	Pathway8669	IGF	28961383:involved
+Ingredient130	hyperin	Pathway9021	insulin	28961383:null
+Ingredient108	glucose	Pathway15263	ROS	28961497:depends
+Ingredient108	glucose	Pathway12174	NLRP3	28961497:depends
+Ingredient108	glucose	Pathway12174	NLRP3	28961497:were
+Ingredient108	glucose	Pathway12174	NLRP3	28961497:used
+Ingredient108	glucose	Pathway12177	NLRP3-specifc siRNA	28961497:were
+Ingredient59	citrulline	Pathway10491	MELAS	28973171:suggestive
+Ingredient108	glucose	Pathway12451	Nrdp1	28979191:null
+Ingredient108	glucose	Pathway12452	Nrdp1 gene	28979191:null
+Ingredient7	adenosine	Pathway4706	DADA2	28983775:null
+Ingredient7	Adenosine	Pathway614	Adenosine Deaminase 2	28983775:null
+Ingredient7	Adenosine	Pathway4706	DADA2	28983775:null
+Ingredient109	glutamate	Pathway6895	glutamate receptor	29021742:null
+Ingredient55	cholesterol	Pathway9021	insulin	29030599:smoked
+Ingredient108	glucose	Pathway9021	insulin	29032144:null
+Ingredient18	apigenin	Pathway3184	caveolin-1	29039442:null
+Ingredient18	apigenin	Pathway1529	apigenin	29039442:null
+Ingredient18	apigenin	Pathway3184	caveolin-1	29039442:induced
+Ingredient18	apigenin	Pathway3184	caveolin-1	29039442:increased
+Ingredient18	apigenin	Pathway5450	eNOS	29039442:null
+Ingredient18	apigenin	Pathway5450	eNOS	29039442:increased
+Ingredient18	apigenin	Pathway3184	Caveolin-1	29039442:null
+Ingredient18	apigenin	Pathway3184	caveolin-1	29039442:affect
+Ingredient18	apigenin	Pathway3184	caveolin-1	29039442:increase
+Ingredient18	apigenin	Pathway1529	apigenin	29039442:increase
+Ingredient18	apigenin	Pathway18382	VEGF	29039442:null
+Ingredient18	apigenin	Pathway18382	VEGF	29039442:affect
+Ingredient18	apigenin	Pathway18382	VEGF	29039442:increase
+Ingredient18	apigenin	Pathway3184	caveolin-1	29039442:promoting
+Ingredient108	glucose	Pathway2470	BIRC5	29039513:null
+Ingredient65	creatine	Pathway8879	IL-6	29040909:null
+Ingredient65	creatine	Pathway12285	NOS2	29040909:null
+Ingredient65	creatine	Pathway15909	serum creatine kinase	29040909:null
+Ingredient108	glucose	Pathway8469	Humanin	29043002:null
+Ingredient108	glucose	Pathway9346	Jak2	29043002:reactivating
+Ingredient108	glucose	Pathway16711	Stat3	29043002:reactivating
+Ingredient108	glucose	Pathway13557	PI3K	29043002:reactivating
+Ingredient108	glucose	Pathway781	AKT	29043002:reactivating
+Ingredient108	glucose	Pathway8469	humanin	29043002:null
+Ingredient114	glycine	Pathway8469	humanin	29043002:null
+Ingredient114	glycine	Pathway8469	humanin	29043002:demonstrated
+Ingredient162	lycine	Pathway8469	humanin	29043002:null
+Ingredient162	lycine	Pathway8469	humanin	29043002:demonstrated
+Ingredient108	glucose	Pathway10266	MANF	29050872:null
+Ingredient82	Dopamine	Pathway4940	Dopamine D5 Receptor	29056909:null
+Ingredient39	biotin	Pathway17187	terminal deoxynucleotidyl transferase	29075304:null
+Ingredient108	glucose	Pathway17187	terminal deoxynucleotidyl transferase	29075304:null
+Ingredient55	cholesterol	Pathway16726	statins	29080338:null
+Ingredient55	cholesterol	Pathway9751	LDL cholesterol	29080338:null
+Ingredient55	cholesterol	Pathway7505	HDL cholesterol	29080338:null
+Ingredient55	cholesterol	Pathway7503	HDL	29080338:null
+Ingredient55	cholesterol	Pathway7503	HDL	29080338:displays
+Ingredient55	cholesterol	Pathway7503	HDL	29080338:accumulated
+Ingredient55	Cholesterol	Pathway9901	Lipoprotein Metabolism	29080338:null
+Ingredient60	cocaine	Pathway8935	immediate early genes	29090793:downregulates
+Ingredient60	cocaine	Pathway8635	IEGs	29090793:downregulates
+Ingredient60	cocaine	Pathway11654	NAc	29090793:null
+Ingredient60	cocaine	Pathway16779	Str	29090793:downregulates
+Ingredient60	cocaine	Pathway8935	immediate early genes	29090793:null
+Ingredient60	cocaine	Pathway8635	IEGs	29090793:null
+Ingredient60	cocaine	Pathway16779	Str	29090793:null
+Ingredient60	cocaine	Pathway4789	delta FosB-related proteins	29090793:induces
+Ingredient60	cocaine	Pathway11654	NAc	29090793:induces
+Ingredient60	cocaine	Pathway16779	Str	29090793:induces
+Ingredient60	cocaine	Pathway6193	Fos	29090793:induces
+Ingredient60	cocaine	Pathway6197	FosB	29090793:induces
+Ingredient60	cocaine	Pathway4788	delta FosB	29090793:induces
+Ingredient60	cocaine	Pathway6193	Fos	29090793:null
+Ingredient60	cocaine	Pathway6197	FosB	29090793:null
+Ingredient60	cocaine	Pathway1489	AP-1	29090793:null
+Ingredient60	Cocaine	Pathway1497	AP-1 Transcription Factor Complex	29090793:null
+Ingredient60	Cocaine	Pathway1489	AP-1	29090793:null
+Ingredient82	dopamine	Pathway4939	dopamine D4 receptor	29095852:null
+Ingredient82	dopamine	Pathway4682	D4R	29095852:null
+Ingredient108	glucose	Pathway15193	RIP1K	29102662:cultured
+Ingredient163	lysine	Pathway16848	SUMO	29115401:null
+Ingredient55	cholesterol	Pathway5338	endopeptidase	29115584:null
+Ingredient111	glutathione	Pathway16854	superoxide dismutase	29134984:null
+Ingredient111	glutathione	Pathway16447	SOD	29134984:null
+Ingredient111	glutathione	Pathway3144	catalase	29134984:null
+Ingredient111	glutathione	Pathway3139	CAT	29134984:null
+Ingredient111	glutathione	Pathway7243	GSH	29134984:null
+Ingredient230	serotonin	Pathway15877	serotonin-2 receptor	29135714:null
+Ingredient259	tyrosine	Pathway12904	p47phox	29140729:null
+Ingredient259	tyrosine	Pathway664	ADM	29140729:null
+Ingredient259	tyrosine	Pathway1353	ANP	29140729:null
+Ingredient259	tyrosine	Pathway12657	OPN	29140729:null
+Ingredient259	tyrosine	Pathway384	ACE	29140729:null
+Ingredient259	tyrosine	Pathway10421	MCP-1	29140729:null
+Ingredient259	tyrosine	Pathway8585	ICAM-1	29140729:null
+Ingredient259	tyrosine	Pathway4227	CTGF	29140729:null
+Ingredient259	tyrosine	Pathway5689	ET-1	29140729:null
+Ingredient259	tyrosine	Pathway12804	p22phox	29140729:null
+Ingredient259	tyrosine	Pathway5710	ETB	29140729:null
+Ingredient259	tyrosine	Pathway2523	BNP	29140729:null
+Ingredient259	tyrosine	Pathway5698	ETA	29140729:null
+Ingredient259	tyrosine	Pathway11081	MMP13	29140729:null
+Ingredient259	tyrosine	Pathway3889	Col1a1	29140729:null
+Ingredient259	tyrosine	Pathway11085	MMP2	29140729:null
+Ingredient259	tyrosine	Pathway17397	TIMP1	29140729:null
+Ingredient259	tyrosine	Pathway3891	Col3a1	29140729:null
+Ingredient259	tyrosine	Pathway5151	ECE1	29140729:null
+Ingredient259	tyrosine	Pathway11084	MMP14	29140729:null
+Ingredient259	tyrosine	Pathway744	AGT	29140729:null
+Ingredient259	tyrosine	Pathway3912	collagen	29140729:null
+Ingredient259	tyrosine	Pathway314	Abbreviations Inducible nitric oxide synthase	29140729:null
+Ingredient259	tyrosine	Pathway9003	INOS	29140729:null
+Ingredient259	tyrosine	Pathway11964	neutrophil cytosolic factor 1	29140729:null
+Ingredient259	tyrosine	Pathway695	adrenomedullin	29140729:null
+Ingredient259	tyrosine	Pathway2054	atrial natriuretic peptide	29140729:null
+Ingredient259	tyrosine	Pathway12692	osteopontin	29140729:null
+Ingredient259	tyrosine	Pathway16604	SPP1	29140729:null
+Ingredient259	tyrosine	Pathway1216	angiotensin converting enzyme	29140729:null
+Ingredient259	tyrosine	Pathway11164	monocyte chemotactic protein 1	29140729:null
+Ingredient259	tyrosine	Pathway4523	cytochrome b-245 beta polypeptide	29140729:null
+Ingredient259	tyrosine	Pathway7070	gp91phox	29140729:null
+Ingredient259	tyrosine	Pathway9070	intercellular adhesion molecule 1	29140729:null
+Ingredient259	tyrosine	Pathway4015	connective tissue growth factor	29140729:null
+Ingredient259	tyrosine	Pathway5411	endothelin-1	29140729:null
+Ingredient259	tyrosine	Pathway5191	EDNRB	29140729:null
+Ingredient259	tyrosine	Pathway18061	Type III collagen	29140729:null
+Ingredient259	tyrosine	Pathway9114	interleukin 1 beta	29140729:null
+Ingredient259	tyrosine	Pathway5400	endothelin converting enzyme 1 (ECE1) matrix metallopeptidase 14	29140729:null
+Ingredient259	tyrosine	Pathway1956	AT1R	29140729:null
+Ingredient259	tyrosine	Pathway4527	cytochrome C oxidase I	29140729:null
+Ingredient259	tyrosine	Pathway4062	COX1	29140729:null
+Ingredient259	tyrosine	Pathway6157	fms	29140729:null
+Ingredient259	tyrosine	Pathway18079	tyrosine kinase 1	29140729:null
+Ingredient259	tyrosine	Pathway6141	FLT1	29140729:null
+Ingredient259	tyrosine	Pathway17396	TIMP metallopeptidase	29140729:null
+Ingredient259	tyrosine	Pathway18297	vascular cell adhesion molecule 1	29140729:null
+Ingredient259	tyrosine	Pathway18367	VCAM1	29140729:null
+Ingredient259	tyrosine	Pathway10338	matrix metallopeptidase 13	29140729:null
+Ingredient259	tyrosine	Pathway17716	transforming growth factor beta 1	29140729:null
+Ingredient167	melatonin	Pathway10510	melatonin release	29151070:null
+Ingredient167	melatonin	Pathway10510	melatonin release	29151070:similar
+Ingredient7	adenosine	Pathway2962	cAMP-response element binding protein	29155261:null
+Ingredient7	adenosine	Pathway4127	CREB	29155261:null
+Ingredient7	adenosine	Pathway5965	FCPR16	29155261:null
+Ingredient7	adenosine	Pathway2946	cAMP	29155261:null
+Ingredient55	cholesterol	Pathway4359	cyclodextrins	29163061:null
+Ingredient33	berberine	Pathway18143	UCP2	29163755:able
+Ingredient46	capsaicin	Pathway18143	UCP2	29163755:able
+Ingredient67	curcumin	Pathway18143	UCP2	29163755:able
+Ingredient29	baicalin	Pathway6907	glutamate transporter	29171427:null
+Ingredient29	baicalin	Pathway13015	p-Akt	29171427:null
+Ingredient29	baicalin	Pathway6908	glutamate transporter 1	29171427:null
+Ingredient29	baicalin	Pathway13491	phosphoinositide 3-kinase	29171427:null
+Ingredient29	baicalin	Pathway14374	protein kinase B	29171427:null
+Ingredient29	baicalin	Pathway13557	PI3K	29171427:null
+Ingredient29	baicalin	Pathway781	Akt	29171427:null
+Ingredient29	baicalin	Pathway6907	glutamate transporter	29171427:protect
+Ingredient29	baicalin	Pathway6908	glutamate transporter 1	29171427:protect
+Ingredient29	baicalin	Pathway13557	PI3K	29171427:protect
+Ingredient29	baicalin	Pathway781	Akt	29171427:protect
+Ingredient29	Baicalin	Pathway6907	glutamate transporter	29171427:protects
+Ingredient29	Baicalin	Pathway6908	glutamate transporter 1	29171427:protects
+Ingredient29	Baicalin	Pathway13491	phosphoinositide 3-kinase	29171427:protects
+Ingredient29	Baicalin	Pathway14374	protein kinase B	29171427:protects
+Ingredient29	Baicalin	Pathway6907	glutamate transporter	29171427:upregulated
+Ingredient29	Baicalin	Pathway13015	p-Akt	29171427:upregulated
+Ingredient29	Baicalin	Pathway6908	glutamate transporter 1	29171427:upregulated
+Ingredient29	Baicalin	Pathway781	Akt	29171427:upregulated
+Ingredient109	glutamate	Pathway6907	glutamate transporter	29171427:null
+Ingredient109	glutamate	Pathway6908	glutamate transporter 1	29171427:null
+Ingredient109	glutamate	Pathway13491	phosphoinositide 3-kinase	29171427:null
+Ingredient109	glutamate	Pathway14374	protein kinase B	29171427:null
+Ingredient109	glutamate	Pathway13015	p-Akt	29171427:null
+Ingredient109	glutamate	Pathway781	Akt	29171427:null
+Ingredient109	glutamate	Pathway13557	PI3K	29171427:null
+Ingredient259	tyrosine	Pathway18306	vascular endothelial growth factor	29175152:null
+Ingredient259	tyrosine	Pathway18382	VEGF	29175152:null
+Ingredient19	Arginine	Pathway1841	Arginine vasopressin	29187641:null
+Ingredient19	Arginine	Pathway2085	AVP	29187641:null
+Ingredient19	arginine	Pathway12229	NO synthase	29195160:null
+Ingredient147	l-arginine	Pathway12229	NO synthase	29195160:null
+Ingredient147	L-arginine	Pathway12229	NO synthase	29195160:null
+Ingredient108	glucose	Pathway9577	KLF4	29203245:null
+Ingredient108	glucose	Pathway9619	Kruppel-like family of transcription factor 4	29203245:null
+Ingredient111	glutathione	Pathway3144	catalase	29216762:null
+Ingredient111	glutathione	Pathway16854	superoxide dismutase	29216762:null
+Ingredient111	glutathione	Pathway1128	and glutathioneperoxidase	29216762:null
+Ingredient108	glucose	Pathway17464	TLR4	29234386:associated
+Ingredient108	glucose	Pathway11474	MyD88	29234386:associated
+Ingredient108	glucose	Pathway11976	NF	29234386:associated
+Ingredient108	Glucose	Pathway17464	TLR4	29234386:null
+Ingredient108	Glucose	Pathway11474	MyD88	29234386:null
+Ingredient108	Glucose	Pathway11976	NF	29234386:null
+Ingredient190	paeoniflorin	Pathway11976	NF	29234386:null
+Ingredient67	curcumin	Pathway4253	curcumin	29243061:null
+Ingredient67	curcumin	Pathway12766	p	29243061:null
+Ingredient67	curcumin	Pathway12766	p	29243061:investigate
+Ingredient67	Curcumin	Pathway12766	p	29243061:null
+Ingredient67	Curcumin	Pathway12766	p	29243061:Mediating
+Ingredient67	Curcumin	Pathway4253	curcumin	29243061:delivered
+Ingredient67	Curcumin	Pathway12766	p	29243061:delivered
+Ingredient67	Curcumin	Pathway781	Akt	29243061:improved
+Ingredient67	Curcumin	Pathway11353	mTOR	29243061:improved
+Ingredient67	Curcumin	Pathway17464	TLR4	29243061:downregulating
+Ingredient67	Curcumin	Pathway12872	p38	29243061:downregulating
+Ingredient67	Curcumin	Pathway13015	p-Akt	29243061:improved
+Ingredient67	Curcumin	Pathway13959	p-mTOR	29243061:improved
+Ingredient67	Curcumin	Pathway9734	LC3-II	29243061:downregulating
+Ingredient67	Curcumin	Pathway9732	LC3-I	29243061:downregulating
+Ingredient67	Curcumin	Pathway12873	p-38	29243061:downregulating
+Ingredient67	Curcumin	Pathway8762	IL-1	29243061:downregulating
+Ingredient67	Curcumin	Pathway13557	PI3K	29243061:exerts
+Ingredient67	Curcumin	Pathway781	Akt	29243061:exerts
+Ingredient67	Curcumin	Pathway11353	mTOR	29243061:exerts
+Ingredient67	Curcumin	Pathway17464	TLR4	29243061:exerts
+Ingredient67	Curcumin	Pathway12872	p38	29243061:exerts
+Ingredient67	Curcumin	Pathway10289	MAPK	29243061:exerts
+Ingredient64	coumarin	Pathway8939	IMM-H004	29257093:derivate
+Ingredient64	coumarin	Pathway7163	granulocyte-colony stimulating factor	29257093:derivate
+Ingredient64	coumarin	Pathway6606	G-CSF	29257093:derivate
+Ingredient67	curcumin	Pathway4253	curcumin	29257220:null
+Ingredient67	curcumin	Pathway6877	GLUT1	29257220:increased;
+Ingredient67	curcumin	Pathway6879	GLUT3	29257220:increased;
+Ingredient67	curcumin	Pathway4253	curcumin	29257220:indicating
+Ingredient67	curcumin	Pathway6877	GLUT1	29257220:prevented
+Ingredient67	curcumin	Pathway6879	GLUT3	29257220:prevented
+Ingredient67	curcumin	Pathway16315	small interfering RNAs	29257220:prevented
+Ingredient67	curcumin	Pathway6877	GLUT1	29257220:null
+Ingredient67	curcumin	Pathway6879	GLUT3	29257220:null
+Ingredient67	curcumin	Pathway6877	GLUT1	29257220:protected
+Ingredient67	curcumin	Pathway6879	GLUT3	29257220:protected
+Ingredient67	Curcumin	Pathway6877	GLUT1	29257220:improves
+Ingredient67	Curcumin	Pathway6879	GLUT3	29257220:improves
+Ingredient108	glucose	Pathway6879	GLUT3	29257220:null
+Ingredient108	glucose	Pathway6831	glucose transporter (GLUT)1	29257220:null
+Ingredient7	adenosine	Pathway565	ADA2	29273180:described
+Ingredient7	adenosine	Pathway614	adenosine deaminase 2	29273180:null
+Ingredient7	adenosine	Pathway4706	DADA2	29273180:described
+Ingredient5	acetylcholine	Pathway292	a7nAchR	29274273:null
+Ingredient5	acetylcholine	Pathway12101	nicotinic acetylcholine receptor alpha7 subunit	29274273:null
+Ingredient5	acetylcholine	Pathway12766	p	29274273:null
+Ingredient5	Acetylcholine	Pathway12101	Nicotinic Acetylcholine Receptor Alpha7 Subunit	29274273:null
+Ingredient5	Acetylcholine	Pathway292	a7nAchR	29274273:Mediates
+Ingredient5	Acetylcholine	Pathway9346	JAK2	29274273:Mediates
+Ingredient5	Acetylcholine	Pathway12766	p	29274273:null
+Ingredient5	Acetylcholine	Pathway12766	p	29274273:Mediates
+Ingredient57	choline	Pathway12101	Nicotinic Acetylcholine Receptor Alpha7 Subunit	29274273:null
+Ingredient57	choline	Pathway292	a7nAchR	29274273:Mediates
+Ingredient57	choline	Pathway9346	JAK2	29274273:Mediates
+Ingredient57	choline	Pathway12766	p	29274273:null
+Ingredient57	choline	Pathway12766	p	29274273:Mediates
+Ingredient57	choline	Pathway292	a7nAchR	29274273:null
+Ingredient57	choline	Pathway12101	nicotinic acetylcholine receptor alpha7 subunit	29274273:null
+Ingredient19	arginine	Pathway14908	recombinant human fibroblast growth factor 21	29278321:null
+Ingredient19	arginine	Pathway6013	FGF21	29278321:null
+Ingredient114	glycine	Pathway14908	recombinant human fibroblast growth factor 21	29278321:null
+Ingredient114	glycine	Pathway6013	FGF21	29278321:null
+Ingredient162	lycine	Pathway14908	recombinant human fibroblast growth factor 21	29278321:null
+Ingredient162	lycine	Pathway6013	FGF21	29278321:null
+Ingredient166	mannitol	Pathway14908	recombinant human fibroblast growth factor 21	29278321:null
+Ingredient166	mannitol	Pathway6013	FGF21	29278321:null
+Ingredient233	sorbitol	Pathway14908	recombinant human fibroblast growth factor 21	29278321:null
+Ingredient233	sorbitol	Pathway6013	FGF21	29278321:null
+Ingredient108	glucose	Pathway6536	GAS5	29307821:null
+Ingredient108	glucose	Pathway10806	miR-137	29307821:null
+Ingredient7	adenosine	Pathway2035	ATPase	29310813:null
+Ingredient7	adenosine	Pathway4320	cyclic adenosine monophosphate (cAMP) and protein kinase A	29310813:null
+Ingredient7	adenosine	Pathway13613	PKA	29310813:null
+Ingredient7	adenosine	Pathway9251	IRI	29310813:null
+Ingredient6	adenine	Pathway13557	PI3K	29311781:null
+Ingredient6	adenine	Pathway11842	netrin-1	29311781:null
+Ingredient108	glucose	Pathway11842	netrin-1	29311781:null
+Ingredient220	resveratrol	Pathway1094	AMP-activated kinase	29316653:respectively
+Ingredient220	resveratrol	Pathway1099	AMPK	29316653:respectively
+Ingredient220	resveratrol	Pathway3742	class I histone deacetylases	29316653:elicited
+Ingredient220	resveratrol	Pathway7498	HDACs	29316653:elicited
+Ingredient220	Resveratrol	Pathway15001	RelA	29316653:reduced
+Ingredient220	Resveratrol	Pathway7864	histone H3	29316653:reduced
+Ingredient220	Resveratrol	Pathway9450	K310	29316653:reduced
+Ingredient220	Resveratrol	Pathway2454	Bim	29316653:reduced
+Ingredient108	glucose	Pathway10887	miR-3473b	29317607:null
+Ingredient108	glucose	Pathway14277	pro-inflammatory factors	29317607:null
+Ingredient108	glucose	Pathway10888	miR-3473b antagomir	29317607:null
+Ingredient220	resveratrol	Pathway16170	SIRT1	29319388:present
+Ingredient108	glucose	Pathway11842	Netrin-1	29321724:null
+Ingredient259	tyrosine	Pathway12300	Notch	29343637:null
+Ingredient259	tyrosine	Pathway360	Abl	29343637:null
+Ingredient259	tyrosine	Pathway12300	Notch	29343637:essential
+Ingredient259	Tyrosine	Pathway12300	Notch	29343637:null
+Ingredient259	Tyrosine	Pathway12300	Notch	29343637:required
+Ingredient259	Tyrosine	Pathway360	Abl	29343637:required
+Ingredient82	dopamine	Pathway13651	Pla2g6	29344929:null
+Ingredient82	Dopamine	Pathway13651	Pla2g6	29344929:null
+Ingredient55	cholesterol	Pathway7516	HDL-cholesterol	29353502:null
+Ingredient259	tyrosine	Pathway5226	EGFR	29360846:null
+Ingredient259	tyrosine	Pathway5217	EGF	29360846:null
+Ingredient108	glucose	Pathway12663	Orai1	29363325:decreased
+Ingredient130	hyperin	Pathway2843	CADASIL	29363903:null
+Ingredient108	glucose	Pathway16004	SGLT2	29372664:null
+Ingredient108	glucose	Pathway12456	Nrf2	29383122:null
+Ingredient111	glutathione	Pathway12456	Nrf2	29383122:elevating
+Ingredient105	ginkgolide	Pathway6729	GGB-LPs	29385087:null
+Ingredient55	cholesterol	Pathway1703	apolipoprotein EE4	29390290:affect
+Ingredient108	glucose	Pathway1703	apolipoprotein EE4	29390290:predicting
+Ingredient120	guanosine	Pathway7375	hAFSCs	29391467:reduced
+Ingredient19	arginine	Pathway15350	rs1801133	29398535:null
+Ingredient7	adenosine	Pathway12853	P2Y12 receptor	29398917:unique
+Ingredient7	adenosine	Pathway12853	P2Y12 receptor	29398917:null
+Ingredient7	adenosine	Pathway13861	platelet P2Y12 receptor	29398917:null
+Ingredient7	adenosine	Pathway12849	P2Y12	29398917:unique
+Ingredient7	adenosine	Pathway12849	P2Y12	29398917:null
+Ingredient259	tyrosine	Pathway18306	vascular endothelial growth factor	29405046:associated
+Ingredient259	tyrosine	Pathway18382	VEGF	29405046:associated
+Ingredient259	tyrosine	Pathway18382	VEGF	29405046:null
+Ingredient259	tyrosine	Pathway18090	tyrosine kinases	29405046:null
+Ingredient108	glucose	Pathway7620	hepcidin	29407213:null
+Ingredient108	glucose	Pathway5972	ferritin	29407213:null
+Ingredient92	estradiol	Pathway5583	ER	29420916:comparable
+Ingredient226	rutin	Pathway5583	ER	29420916:protect
+Ingredient226	rutin	Pathway5583	ER	29420916:null
+Ingredient226	rutin	Pathway2252	BDNF	29420916:null
+Ingredient226	rutin	Pathway17797	TrkB	29420916:null
+Ingredient226	rutin	Pathway12070	NGF-TrkA	29420916:null
+Ingredient226	rutin	Pathway12055	NGF	29420916:null
+Ingredient226	rutin	Pathway17792	TrkA	29420916:null
+Ingredient226	Rutin	Pathway2252	BDNF	29420916:attenuates
+Ingredient226	Rutin	Pathway17797	TrkB	29420916:attenuates
+Ingredient226	Rutin	Pathway12070	NGF-TrkA	29420916:attenuates
+Ingredient226	Rutin	Pathway15516	Rutin	29420916:null
+Ingredient226	Rutin	Pathway12055	NGF	29420916:attenuates
+Ingredient226	Rutin	Pathway17792	TrkA	29420916:attenuates
+Ingredient226	Rutin	Pathway2252	BDNF	29420916:increased
+Ingredient226	Rutin	Pathway17797	TrkB	29420916:increased
+Ingredient226	Rutin	Pathway5583	ER	29420916:increased
+Ingredient226	Rutin	Pathway11827	nerve growth factor	29420916:increased
+Ingredient226	Rutin	Pathway12055	NGF	29420916:increased
+Ingredient226	Rutin	Pathway17835	tropomyosin receptor kinase A	29420916:increased
+Ingredient226	Rutin	Pathway17792	TrkA	29420916:increased
+Ingredient109	glutamate	Pathway10895	miR-409-3p	29430619:null
+Ingredient109	glutamate	Pathway10901	miR-495-3p	29430619:null
+Ingredient109	glutamate	Pathway7180	Gria2	29430619:null
+Ingredient55	cholesterol	Pathway16754	sterol-activated nuclear receptors	29431742:null
+Ingredient55	cholesterol	Pathway10112	LXR	29431742:null
+Ingredient55	cholesterol	Pathway318	Abca1	29431742:critical
+Ingredient55	cholesterol	Pathway10112	LXR	29431742:critical
+Ingredient55	cholesterol	Pathway318	Abca1	29431742:null
+Ingredient55	cholesterol	Pathway320	Abca1 locus	29431742:null
+Ingredient112	glycerin	Pathway15228	RNAi	29435942:preserve
+Ingredient112	glycerin	Pathway15228	RNAi	29435942:used
+Ingredient112	glycerin	Pathway15218	RNA interference	29435942:preserve
+Ingredient52	catechol	Pathway3153	catechol-O-methyl transferase inhibitor	29441484:null
+Ingredient52	catechol	Pathway4007	COMT-I	29441484:null
+Ingredient52	catechol	Pathway11150	monoamine oxidase B	29441484:null
+Ingredient82	dopamine	Pathway3153	catechol-O-methyl transferase inhibitor	29441484:null
+Ingredient82	dopamine	Pathway4007	COMT-I	29441484:null
+Ingredient82	dopamine	Pathway11150	monoamine oxidase B	29441484:null
+Ingredient150	levodopa	Pathway3153	catechol-O-methyl transferase inhibitor	29441484:dopamine-agonists
+Ingredient150	levodopa	Pathway4007	COMT-I	29441484:dopamine-agonists
+Ingredient150	levodopa	Pathway11150	monoamine oxidase B	29441484:dopamine-agonists
+Ingredient109	glutamate	Pathway6903	glutamate receptors	29444621:null
+Ingredient108	glucose	Pathway9002	INK4 locus	29449542:null
+Ingredient108	glucose	Pathway1360	ANRIL	29449542:null
+Ingredient108	glucose	Pathway598	adenocarcinoma transcript 1	29449542:null
+Ingredient108	glucose	Pathway10234	MALAT1	29449542:null
+Ingredient108	glucose	Pathway6641	gene 3	29449542:null
+Ingredient108	glucose	Pathway10470	MEG3	29449542:null
+Ingredient108	glucose	Pathway7337	H19	29449542:null
+Ingredient108	glucose	Pathway2937	CaMK2D-associated transcript 1	29449542:null
+Ingredient108	glucose	Pathway2738	C2dat1	29449542:null
+Ingredient108	glucose	Pathway6194	Fos downstream transcript	29449542:null
+Ingredient108	glucose	Pathway6198	FosDT	29449542:null
+Ingredient108	glucose	Pathway6639	gene 1	29449542:null
+Ingredient108	glucose	Pathway17957	TUG1	29449542:null
+Ingredient239	taurine	Pathway9002	INK4 locus	29449542:found
+Ingredient239	taurine	Pathway1360	ANRIL	29449542:found
+Ingredient239	taurine	Pathway598	adenocarcinoma transcript 1	29449542:found
+Ingredient239	taurine	Pathway10234	MALAT1	29449542:found
+Ingredient239	taurine	Pathway6641	gene 3	29449542:found
+Ingredient239	taurine	Pathway10470	MEG3	29449542:found
+Ingredient239	taurine	Pathway7337	H19	29449542:found
+Ingredient239	taurine	Pathway2937	CaMK2D-associated transcript 1	29449542:found
+Ingredient239	taurine	Pathway2738	C2dat1	29449542:null
+Ingredient239	taurine	Pathway6194	Fos downstream transcript	29449542:null
+Ingredient239	taurine	Pathway6198	FosDT	29449542:null
+Ingredient239	taurine	Pathway6639	gene 1	29449542:null
+Ingredient239	taurine	Pathway17957	TUG1	29449542:null
+Ingredient108	glucose	Pathway9284	Iso	29454613:null
+Ingredient140	Isoquercetin	Pathway12456	Nrf2	29454613:attenuates
+Ingredient140	Isoquercetin	Pathway12367	NOX4	29454613:attenuates
+Ingredient140	Isoquercetin	Pathway15263	ROS	29454613:attenuates
+Ingredient140	Isoquercetin	Pathway9301	Isoquercetin	29454613:null
+Ingredient140	Isoquercetin	Pathway9284	Iso	29454613:null
+Ingredient213	quercetin	Pathway12456	Nrf2	29454613:attenuates
+Ingredient213	quercetin	Pathway12367	NOX4	29454613:attenuates
+Ingredient213	quercetin	Pathway15263	ROS	29454613:attenuates
+Ingredient213	quercetin	Pathway9301	Isoquercetin	29454613:null
+Ingredient213	quercetin	Pathway9284	Iso	29454613:null
+Ingredient163	lysine	Pathway5778	Ezh2	29466371:null
+Ingredient163	lysine	Pathway7864	histone H3	29466371:null
+Ingredient235	spermine	Pathway16550	spermine oxidase	29477597:null
+Ingredient235	spermine	Pathway16359	SMOX	29477597:null
+Ingredient92	estradiol	Pathway18382	VEGF	29477834:abolished
+Ingredient92	estradiol	Pathway18387	VEGF l	29477834:abolished
+Ingredient130	hyperin	Pathway2843	CADASIL	29478611:null
+Ingredient108	glucose	Pathway17797	TrkB	29480936:null
+Ingredient108	glucose	Pathway13448	phosphatidylinositol-3-kinase	29480936:null
+Ingredient108	glucose	Pathway781	Akt	29480936:null
+Ingredient108	glucose	Pathway17797	TrkB	29480936:increases
+Ingredient108	glucose	Pathway17837	tropomyosin receptor kinase B	29480936:increases
+Ingredient229	serine	Pathway17797	TrkB	29480936:null
+Ingredient229	serine	Pathway781	Akt	29480936:pathway
+Ingredient229	serine	Pathway16022	SHC	29480936:null
+Ingredient229	serine	Pathway6396	Gab	29480936:null
+Ingredient229	serine	Pathway13491	phosphoinositide 3-kinase	29480936:pathway
+Ingredient229	serine	Pathway13559	PI-3-K	29480936:pathway
+Ingredient248	threonine	Pathway17797	TrkB	29480936:null
+Ingredient248	threonine	Pathway781	Akt	29480936:pathway
+Ingredient248	threonine	Pathway16022	SHC	29480936:null
+Ingredient248	threonine	Pathway6396	Gab	29480936:null
+Ingredient248	threonine	Pathway13491	phosphoinositide 3-kinase	29480936:pathway
+Ingredient248	threonine	Pathway13559	PI-3-K	29480936:pathway
+Ingredient92	estradiol	Pathway7106	GPR30	29484405:null
+Ingredient92	estradiol	Pathway5085	E2	29484405:null
+Ingredient65	creatine	Pathway12730	oxide dismutase	29493139:null
+Ingredient65	creatine	Pathway16447	SOD	29493139:null
+Ingredient65	creatine	Pathway9665	lactate dehydrogenase	29493139:null
+Ingredient65	creatine	Pathway9744	LDH	29493139:null
+Ingredient65	creatine	Pathway10438	MDA	29493139:null
+Ingredient65	creatine	Pathway9659	LA	29493139:null
+Ingredient65	creatine	Pathway7243	GSH	29493139:null
+Ingredient65	creatine	Pathway3728	CK-BB	29493139:null
+Ingredient109	glutamate	Pathway12730	oxide dismutase	29493139:null
+Ingredient109	glutamate	Pathway16447	SOD	29493139:null
+Ingredient109	glutamate	Pathway9665	lactate dehydrogenase	29493139:null
+Ingredient109	glutamate	Pathway9744	LDH	29493139:null
+Ingredient109	glutamate	Pathway10438	MDA	29493139:null
+Ingredient109	glutamate	Pathway9659	LA	29493139:null
+Ingredient109	glutamate	Pathway7243	GSH	29493139:null
+Ingredient109	glutamate	Pathway3728	CK-BB	29493139:null
+Ingredient111	glutathione	Pathway12730	oxide dismutase	29493139:null
+Ingredient111	glutathione	Pathway16447	SOD	29493139:null
+Ingredient111	glutathione	Pathway9665	lactate dehydrogenase	29493139:null
+Ingredient111	glutathione	Pathway9744	LDH	29493139:null
+Ingredient111	glutathione	Pathway10438	MDA	29493139:null
+Ingredient111	glutathione	Pathway9659	LA	29493139:null
+Ingredient111	glutathione	Pathway7243	GSH	29493139:null
+Ingredient111	glutathione	Pathway3728	CK-BB	29493139:null
+Ingredient108	glucose	Pathway4853	dipeptidyl peptidase-4	29498023:null
+Ingredient99	fructose	Pathway14127	PPP	29510140:suggested
+Ingredient108	glucose	Pathway8112	HSP27	29510140:null
+Ingredient108	glucose	Pathway6830	glucose 6-phosphate dehydrogenase	29510140:null
+Ingredient108	glucose	Pathway6384	G6PD	29510140:null
+Ingredient108	glucose	Pathway7531	heat shock protein 27	29510140:null
+Ingredient108	glucose	Pathway2013	ATM	29510140:mutated
+Ingredient108	glucose	Pathway1973	ataxia telangiectasia mutated	29510140:null
+Ingredient108	glucose	Pathway14127	PPP	29510140:null
+Ingredient229	serine	Pathway8112	HSP27	29510140:null
+Ingredient229	serine	Pathway6830	glucose 6-phosphate dehydrogenase	29510140:null
+Ingredient229	serine	Pathway6384	G6PD	29510140:null
+Ingredient229	serine	Pathway7531	heat shock protein 27	29510140:null
+Ingredient229	serine	Pathway2013	ATM	29510140:mutated
+Ingredient229	serine	Pathway1973	ataxia telangiectasia mutated	29510140:null
+Ingredient229	serine	Pathway14127	PPP	29510140:null
+Ingredient108	glucose	Pathway2559	Box5	29510185:null
+Ingredient55	cholesterol	Pathway9764	LDL-C	29512936:null
+Ingredient55	cholesterol	Pathway9994	Low-density lipoprotein cholesterol	29512936:null
+Ingredient108	glucose	Pathway11825	neprilysin	29525327:null
+Ingredient108	glucose	Pathway16004	SGLT2	29525327:null
+Ingredient108	Glucose	Pathway11825	Neprilysin	29525327:null
+Ingredient261	uridine	Pathway2617	BrdU	29540323:null
+Ingredient57	choline	Pathway7103	Gpr17	29540737:null
+Ingredient108	glucose	Pathway5824	FA	29542054:null
+Ingredient108	glucose	Pathway5824	FA	29542054:measuring
+Ingredient108	glucose	Pathway2166	BAX	29542054:measuring
+Ingredient108	glucose	Pathway12013	NFE2L2	29542054:measuring
+Ingredient108	glucose	Pathway18382	VEGF	29542054:measuring
+Ingredient108	glucose	Pathway5545	EPO	29542054:measuring
+Ingredient111	glutathione	Pathway16854	superoxide dismutase	29546690:null
+Ingredient108	glucose	Pathway4723	DAPK1	29571866:null
+Ingredient108	glucose	Pathway5618	ERK	29571866:null
+Ingredient260	uracil	Pathway17041	TAS2R38	29575306:null
+Ingredient260	uracil	Pathway17041	TAS2R38	29575306:associated
+Ingredient260	uracil	Pathway17041	TAS2R38	29575306:genotyped
+Ingredient108	glucose	Pathway6812	glucagon	29579035:null
+Ingredient108	glucose	Pathway16467	sodium-glucose cotransporter 2	29579035:null
+Ingredient108	glucose	Pathway16004	SGLT2	29579035:null
+Ingredient29	baicalin	Pathway11072	MMP	29595191:targeting
+Ingredient158	lutein	Pathway11072	MMP	29595191:targeting
+Ingredient111	Glutathione	Pathway11725	NBP	29602954:null
+Ingredient111	Glutathione	Pathway4272	Cx43 gap	29602954:null
+Ingredient111	Glutathione	Pathway13557	PI3k	29602954:null
+Ingredient111	Glutathione	Pathway781	Akt	29602954:null
+Ingredient111	Glutathione	Pathway12456	Nrf2	29602954:null
+Ingredient111	Glutathione	Pathway4257	Cu-Zn superoxide dismutase	29602954:null
+Ingredient111	Glutathione	Pathway1811	ARE	29602954:null
+Ingredient19	arginine	Pathway12335	NOTCH3 gene	29607917:null
+Ingredient204	proline	Pathway12335	NOTCH3 gene	29607917:null
+Ingredient230	Serotonin	Pathway15871	Serotonin Transporter	29614501:null
+Ingredient209	Puerarin	Pathway10551	Meta-Analysis of 53 Randomized Controlled Trials	29619066:null
+Ingredient239	taurine	Pathway17069	taurine	29631391:null
+Ingredient239	taurine	Pathway17069	taurine	29631391:lacking
+Ingredient239	taurine	Pathway17069	taurine	29631391:show
+Ingredient239	taurine	Pathway17069	taurine	29631391:led
+Ingredient108	glucose	Pathway10889	miR-34a	29637443:upregulated
+Ingredient108	glucose	Pathway18356	VAT1	29637443:null
+Ingredient108	glucose	Pathway10889	miR-34a	29637443:null
+Ingredient108	glucose	Pathway6183	forkhead box protein P2	29637443:null
+Ingredient108	glucose	Pathway6223	FOXP2	29637443:null
+Ingredient7	adenosine	Pathway1099	AMPK	29642894:null
+Ingredient7	adenosine	Pathway9401	JNK	29642894:null
+Ingredient7	adenosine	Pathway12872	p38	29642894:null
+Ingredient55	cholesterol	Pathway18109	UBIAD1	29663377:null
+Ingredient108	glucose	Pathway18109	UBIAD1	29663377:null
+Ingredient108	glucose	Pathway13557	PI3K	29663377:null
+Ingredient108	glucose	Pathway781	AKT	29663377:null
+Ingredient6	adenine	Pathway12125	nitric oxide (iNOS) synthase	29671019:null
+Ingredient6	adenine	Pathway11680	NADPH	29671019:null
+Ingredient6	adenine	Pathway12728	oxidase	29671019:null
+Ingredient6	adenine	Pathway12364	NOX2 gene	29671019:recorded
+Ingredient6	adenine	Pathway5363	endothelial nitric oxide synthase	29671019:associated
+Ingredient6	adenine	Pathway5450	eNOS	29671019:associated
+Ingredient6	adenine	Pathway12093	nicotinamide adenine dinucleotide phosphate	29671019:null
+Ingredient6	adenine	Pathway9003	iNOS	29671019:null
+Ingredient108	glucose	Pathway9021	insulin	29671019:null
+Ingredient111	glutathione	Pathway3092	caspase-3	29671019:increasing
+Ingredient111	glutathione	Pathway17986	tumor necrosis factor-alpha protein	29671019:increasing
+Ingredient179	nicotinamide	Pathway12125	nitric oxide (iNOS) synthase	29671019:null
+Ingredient179	nicotinamide	Pathway11680	NADPH	29671019:null
+Ingredient179	nicotinamide	Pathway12728	oxidase	29671019:null
+Ingredient179	nicotinamide	Pathway12364	NOX2 gene	29671019:recorded
+Ingredient179	nicotinamide	Pathway5363	endothelial nitric oxide synthase	29671019:associated
+Ingredient179	nicotinamide	Pathway5450	eNOS	29671019:associated
+Ingredient179	nicotinamide	Pathway12093	nicotinamide adenine dinucleotide phosphate	29671019:null
+Ingredient179	nicotinamide	Pathway9003	iNOS	29671019:null
+Ingredient24	asparagine	Pathway1906	asparagine endopeptidase	29673933:null
+Ingredient24	asparagine	Pathway712	AEP	29673933:null
+Ingredient24	asparagine	Pathway10145	lysosomal cysteine proteinase	29673933:null
+Ingredient57	choline	Pathway910	alpha 7 receptors	29684474:null
+Ingredient57	choline	Pathway6694	GFAP	29684474:null
+Ingredient57	choline	Pathway11951	neurotrophin BDNF	29684474:null
+Ingredient57	choline	Pathway12205	NMDA subunits	29684474:null
+Ingredient57	choline	Pathway16768	STM	29684474:shown
+Ingredient57	choline	Pathway5195	EE	29684474:null
+Ingredient109	glutamate	Pathway910	alpha 7 receptors	29684474:null
+Ingredient109	glutamate	Pathway6694	GFAP	29684474:null
+Ingredient109	glutamate	Pathway11951	neurotrophin BDNF	29684474:null
+Ingredient109	glutamate	Pathway12205	NMDA subunits	29684474:null
+Ingredient109	glutamate	Pathway16768	STM	29684474:shown
+Ingredient109	glutamate	Pathway5195	EE	29684474:null
+Ingredient109	glutamate	Pathway6917	glutamatergic receptors	29684474:null
+Ingredient108	glucose	Pathway16486	solute carrier family 2	29708992:null
+Ingredient108	glucose	Pathway16242	SLC2A1	29708992:increased
+Ingredient267	vitexin	Pathway3092	Caspase-3	29710456:null
+Ingredient267	vitexin	Pathway2228	Bcl-2-associated X protein	29710456:null
+Ingredient267	vitexin	Pathway2166	Bax	29710456:null
+Ingredient267	vitexin	Pathway9665	lactate dehydrogenase	29710456:alleviated
+Ingredient267	vitexin	Pathway9744	LDH	29710456:alleviated
+Ingredient267	vitexin	Pathway17967	tumor necrosis factor alpha	29710456:attenuated
+Ingredient267	vitexin	Pathway17506	TNF	29710456:attenuated
+Ingredient267	vitexin	Pathway11353	mTOR	29710456:repressed
+Ingredient267	vitexin	Pathway18171	Ulk1	29710456:repressed
+Ingredient267	vitexin	Pathway12938	p62	29710456:null
+Ingredient267	Vitexin	Pathway11353	mTOR	29710456:reverses
+Ingredient267	Vitexin	Pathway18171	Ulk1	29710456:reverses
+Ingredient108	glucose	Pathway3467	CDP	29710464:null
+Ingredient111	glutathione	Pathway3467	CDP	29710464:null
+Ingredient111	glutathione	Pathway9665	lactate dehydrogenase	29710464:null
+Ingredient111	glutathione	Pathway9744	LDH	29710464:null
+Ingredient113	glycerol	Pathway5229	eGGCE	29738532:null
+Ingredient113	glycerol	Pathway17290	tGGCE	29738532:null
+Ingredient108	glucose	Pathway17060	Tat-NTS peptide	29769639:null
+Ingredient108	glucose	Pathway12916	p53	29769639:null
+Ingredient108	glucose	Pathway2448	Bid	29769639:null
+Ingredient108	glucose	Pathway3092	caspase-3	29769639:null
+Ingredient108	glucose	Pathway17045	Tat	29769639:null
+Ingredient108	glucose	Pathway12513	NTS	29769639:null
+Ingredient55	cholesterol	Pathway13171	PCSK9	29770231:null
+Ingredient55	cholesterol	Pathway9754	LDL receptor	29770231:null
+Ingredient55	cholesterol	Pathway9764	LDL-C	29770231:null
+Ingredient55	cholesterol	Pathway9994	low-density lipoprotein cholesterol	29770231:null
+Ingredient55	cholesterol	Pathway16720	statin	29770231:null
+Ingredient55	cholesterol	Pathway9765	LDL-C plasma	29770231:null
+Ingredient55	cholesterol	Pathway13177	PCSK9 protein	29770231:decreasing
+Ingredient55	cholesterol	Pathway9770	LDL-R	29770231:decreasing
+Ingredient55	Cholesterol	Pathway13171	PCSK9	29770231:null
+Ingredient55	Cholesterol	Pathway9764	LDL-C	29770231:null
+Ingredient92	estradiol	Pathway5085	E2	29772377:null
+Ingredient92	estradiol	Pathway12766	P	29772377:null
+Ingredient203	progesterone	Pathway5085	E2	29772377:null
+Ingredient203	progesterone	Pathway12766	P	29772377:null
+Ingredient105	Ginkgolide	Pathway1099	AMPK	29787772:promotes
+Ingredient105	Ginkgolide	Pathway11353	mTOR	29787772:promotes
+Ingredient105	Ginkgolide	Pathway18171	ULK1	29787772:promotes
+Ingredient105	Ginkgolide	Pathway6746	Ginkgolide K	29787772:null
+Ingredient105	Ginkgolide	Pathway6758	GK	29787772:null
+Ingredient108	glucose	Pathway1099	AMPK	29787772:inducing
+Ingredient108	glucose	Pathway11353	mTOR	29787772:inducing
+Ingredient108	glucose	Pathway18171	ULK1	29787772:inducing
+Ingredient108	glucose	Pathway6746	Ginkgolide K	29787772:null
+Ingredient108	glucose	Pathway6758	GK	29787772:null
+Ingredient82	dopamine	Pathway4942	dopamine receptor	29788710:null
+Ingredient6	adenine	Pathway9744	LDH	29799836:null
+Ingredient6	adenine	Pathway11680	NADPH	29799836:null
+Ingredient6	adenine	Pathway12728	oxidase	29799836:null
+Ingredient6	adenine	Pathway12904	p47phox	29799836:null
+Ingredient6	adenine	Pathway5363	endothelial nitric oxide synthase	29799836:null
+Ingredient6	adenine	Pathway12093	nicotinamide adenine dinucleotide phosphate	29799836:null
+Ingredient179	nicotinamide	Pathway9744	LDH	29799836:null
+Ingredient179	nicotinamide	Pathway11680	NADPH	29799836:null
+Ingredient179	nicotinamide	Pathway12728	oxidase	29799836:null
+Ingredient179	nicotinamide	Pathway12904	p47phox	29799836:null
+Ingredient179	nicotinamide	Pathway5363	endothelial nitric oxide synthase	29799836:null
+Ingredient179	nicotinamide	Pathway12093	nicotinamide adenine dinucleotide phosphate	29799836:null
+Ingredient19	arginine	Pathway4845	dimethylarginine dimethylaminohydrolase	29804887:null
+Ingredient108	glucose	Pathway6812	glucagon	29807374:null
+Ingredient108	glucose	Pathway4850	dipeptidyl peptidase	29807374:null
+Ingredient108	glucose	Pathway15655	saxagliptin	29807374:null
+Ingredient108	glucose	Pathway861	alogliptin	29807374:null
+Ingredient108	glucose	Pathway10574	metformin monotherapy GLP-1-receptor	29807374:null
+Ingredient108	glucose	Pathway4965	DPP-4	29807374:null
+Ingredient108	glucose	Pathway15560	S100A11	29844306:null
+Ingredient229	serine	Pathway14408	protein phosphatase-2A	29844427:null
+Ingredient229	serine	Pathway14084	PP2A	29844427:null
+Ingredient248	threonine	Pathway14408	protein phosphatase-2A	29844427:null
+Ingredient248	threonine	Pathway14084	PP2A	29844427:null
+Ingredient6	adenine	Pathway1099	AMPK	29852178:null
+Ingredient6	adenine	Pathway2072	autophagy	29852178:null
+Ingredient55	cholesterol	Pathway1099	AMPK	29852178:null
+Ingredient55	cholesterol	Pathway2072	autophagy	29852178:act
+Ingredient114	glycine	Pathway12300	Notch	29854019:null
+Ingredient162	lycine	Pathway12300	Notch	29854019:null
+Ingredient108	glucose	Pathway8227	Human alpha 1	29857082:null
+Ingredient108	glucose	Pathway1473	antitrypsin	29857082:null
+Ingredient108	glucose	Pathway9180	interleukins	29857082:null
+Ingredient229	serine	Pathway8227	Human alpha 1	29857082:null
+Ingredient229	serine	Pathway1473	antitrypsin	29857082:null
+Ingredient113	glycerol	Pathway9437	JZL184	29864962:null
+Ingredient113	glycerol	Pathway11147	monoacylglycerol lipase	29864962:null
+Ingredient39	biotin	Pathway16368	SN	29867438:exert
+Ingredient204	proline	Pathway3156	CathB	29867438:null
+Ingredient105	Ginkgolide	Pathway9346	JAK2	29890157:promotes
+Ingredient105	Ginkgolide	Pathway16711	STAT3	29890157:promotes
+Ingredient105	Ginkgolide	Pathway6746	Ginkgolide K	29890157:null
+Ingredient105	Ginkgolide	Pathway6758	GK	29890157:null
+Ingredient111	glutathione	Pathway6947	glutathione S-transferases	29908890:null
+Ingredient111	Glutathione	Pathway6936	Glutathione S-tranferases	29908890:null
+Ingredient111	Glutathione	Pathway7285	GSTs	29908890:null
+Ingredient111	Glutathione	Pathway7267	GST	29908890:null
+Ingredient19	arginine	Pathway15974	SFI	29910216:null
+Ingredient147	L-arginine	Pathway15974	SFI	29910216:null
+Ingredient168	methionine	Pathway2252	BDNF	29914985:null
+Ingredient263	valine	Pathway2252	BDNF	29914985:null
+Ingredient108	glucose	Pathway15505	rt-PA	29929036:null
+Ingredient108	glucose	Pathway6530	GAPDH	29929036:null
+Ingredient108	glucose	Pathway8046	HPRT	29929036:null
+Ingredient79	digoxin	Pathway15828	SERCA2a	29931923:null
+Ingredient6	adenine	Pathway15217	RNA HECTD1	29938598:null
+Ingredient6	adenine	Pathway10808	MIR142	29938598:integrated
+Ingredient6	adenine	Pathway17412	TIPARP	29938598:modified
+Ingredient6	adenine	Pathway17115	TCDD	29938598:modified
+Ingredient6	adenine	Pathway3692	circHECTD1	29938598:integrated
+Ingredient6	adenine	Pathway3692	circHECTD1	29938598:null
+Ingredient108	glucose	Pathway15217	RNA HECTD1	29938598:null
+Ingredient108	glucose	Pathway10808	MIR142	29938598:null
+Ingredient108	glucose	Pathway17412	TIPARP	29938598:null
+Ingredient108	glucose	Pathway17115	TCDD	29938598:null
+Ingredient108	glucose	Pathway3692	circHECTD1	29938598:null
+Ingredient134	indole	Pathway15217	RNA HECTD1	29938598:null
+Ingredient134	indole	Pathway10808	MIR142	29938598:integrated
+Ingredient134	indole	Pathway17412	TIPARP	29938598:modified
+Ingredient134	indole	Pathway17115	TCDD	29938598:modified
+Ingredient134	indole	Pathway3692	circHECTD1	29938598:integrated
+Ingredient134	indole	Pathway3692	circHECTD1	29938598:null
+Ingredient224	ribose	Pathway10808	MIR142	29938598:null
+Ingredient224	ribose	Pathway17412	TIPARP	29938598:null
+Ingredient224	ribose	Pathway17115	TCDD	29938598:null
+Ingredient224	ribose	Pathway3692	circHECTD1	29938598:null
+Ingredient224	ribose	Pathway15217	RNA HECTD1	29938598:null
+Ingredient108	glucose	Pathway3727	CK2	29944965:null
+Ingredient108	glucose	Pathway3727	CK2	29944965:subjected
+Ingredient204	proline	Pathway9490	KCNC3	29949095:null
+Ingredient204	proline	Pathway15678	SCA13	29949095:delayed
+Ingredient7	adenosine	Pathway4706	DADA2	29951947:null
+Ingredient7	adenosine	Pathway565	ADA2	29951947:null
+Ingredient7	adenosine	Pathway567	ADA2 gene	29951947:null
+Ingredient7	adenosine	Pathway614	adenosine deaminase 2	29951947:null
+Ingredient7	Adenosine	Pathway614	Adenosine Deaminase 2	29951947:null
+Ingredient7	Adenosine	Pathway4706	DADA2	29951947:null
+Ingredient7	Adenosine	Pathway565	ADA2	29951947:null
+Ingredient108	glucose	Pathway16958	T2DM	29952413:null
+Ingredient82	dopamine	Pathway3466	CDNF	29966219:null
+Ingredient82	dopamine	Pathway3466	CDNF	29966219:conserved
+Ingredient82	dopamine	Pathway4941	dopamine neurotrophic factor	29966219:null
+Ingredient82	dopamine	Pathway4941	dopamine neurotrophic factor	29966219:conserved
+Ingredient82	dopamine	Pathway11947	neurotrophic factor MANF family	29966219:conserved
+Ingredient82	dopamine	Pathway11947	neurotrophic factor MANF family	29966219:null
+Ingredient82	Dopamine	Pathway4941	Dopamine Neurotrophic Factor	29966219:null
+Ingredient82	Dopamine	Pathway3466	CDNF	29966219:null
+Ingredient108	glucose	Pathway3466	CDNF	29966219:null
+Ingredient55	cholesterol	Pathway8985	inflammasome NLRP3	29976096:null
+Ingredient55	cholesterol	Pathway4118	C-reactive protein	29976096:circulating
+Ingredient55	cholesterol	Pathway4167	CRP	29976096:null
+Ingredient55	cholesterol	Pathway7769	high density lipoprotein cholesterol	29988372:null
+Ingredient108	Glucose	Pathway12457	Nrf-2	30008229:null
+Ingredient216	quinone	Pathway12457	Nrf-2	30008229:null
+Ingredient216	quinone	Pathway12457	Nrf-2	30008229:promoted
+Ingredient216	quinone	Pathway12421	NQO-1	30008229:null
+Ingredient216	quinone	Pathway7566	heme oxygenase	30008229:null
+Ingredient216	quinone	Pathway2197	Bcl-2	30008229:downregulated
+Ingredient216	quinone	Pathway3092	Caspase-3	30008229:downregulated
+Ingredient216	quinone	Pathway6	Nuclear factor erythroid 2-related factor 2	30008229:null
+Ingredient220	resveratrol	Pathway9665	lactate dehydrogenase	30008229:decreased
+Ingredient220	resveratrol	Pathway9744	LDH	30008229:decreased
+Ingredient220	resveratrol	Pathway16854	superoxide dismutase	30008229:increased
+Ingredient220	resveratrol	Pathway16447	SOD	30008229:increased
+Ingredient220	resveratrol	Pathway12457	Nrf-2	30008229:null
+Ingredient220	resveratrol	Pathway12457	Nrf-2	30008229:promoted
+Ingredient220	resveratrol	Pathway12421	NQO-1	30008229:null
+Ingredient220	resveratrol	Pathway7566	heme oxygenase	30008229:null
+Ingredient220	resveratrol	Pathway2197	Bcl-2	30008229:downregulated
+Ingredient220	resveratrol	Pathway3092	Caspase-3	30008229:downregulated
+Ingredient220	resveratrol	Pathway6	Nuclear factor erythroid 2-related factor 2	30008229:null
+Ingredient220	Resveratrol	Pathway12457	Nrf-2	30008229:null
+Ingredient105	ginkgolide	Pathway14950	recombinant tissue plasminogen activator	30013348:ameliorate
+Ingredient108	glucose	Pathway4266	Cx36	30016355:targeting
+Ingredient108	glucose	Pathway2938	CaMKII	30016355:targeting
+Ingredient259	tyrosine	Pathway9230	IQ domain GTPase-activating protein 1	30019645:null
+Ingredient259	tyrosine	Pathway9232	IQGAP1	30019645:null
+Ingredient259	tyrosine	Pathway16656	SRC tyrosine kinase	30019645:contributed
+Ingredient259	tyrosine	Pathway13960	Pn	30019645:contributed
+Ingredient259	tyrosine	Pathway16656	SRC tyrosine kinase	30019645:null
+Ingredient259	tyrosine	Pathway13960	Pn	30019645:null
+Ingredient19	arginine	Pathway14211	PRMT5	30026560:null
+Ingredient19	arginine	Pathway7843	histone	30026560:null
+Ingredient19	arginine	Pathway7843	histone	30026560:catalyzing
+Ingredient19	arginine	Pathway7850	histone arginine methyl-transferase PRMT5	30026560:null
+Ingredient19	arginine	Pathway7866	histone H4R3	30026560:catalyzing
+Ingredient163	lysine	Pathway14211	PRMT5	30026560:null
+Ingredient163	lysine	Pathway7843	histone	30026560:null
+Ingredient27	atropine	Pathway16432	SOC	30027605:used
+Ingredient255	tropine	Pathway16432	SOC	30027605:used
+Ingredient108	glucose	Pathway9395	JMJD3	30028997:null
+Ingredient167	melatonin	Pathway6780	glial fibrillary acidic protein	30029514:experienced
+Ingredient167	melatonin	Pathway6694	GFAP	30029514:experienced
+Ingredient167	melatonin	Pathway2228	Bcl-2-associated X protein	30029514:experienced
+Ingredient167	melatonin	Pathway2166	BAX	30029514:experienced
+Ingredient167	melatonin	Pathway16180	sirtuin 1	30029514:experienced
+Ingredient167	melatonin	Pathway16170	SIRT1	30029514:experienced
+Ingredient167	melatonin	Pathway14192	PrevT group	30029514:resulted
+Ingredient167	Melatonin	Pathway10505	Melatonin	30029514:null
+Ingredient229	serine	Pathway3000	CARASIL	30031255:null
+Ingredient229	serine	Pathway17163	temperature requirement A serine peptidase	30031255:null
+Ingredient229	serine	Pathway8184	HTRA1	30031255:null
+Ingredient82	dopamine	Pathway4947	dopamine receptors	30034335:null
+Ingredient109	glutamate	Pathway6915	glutamatergic MC	30057205:null
+Ingredient109	glutamate	Pathway15243	rNSC	30057205:null
+Ingredient109	glutamate	Pathway15244	rNSCs	30057205:null
+Ingredient109	glutamate	Pathway14509	PSD	30061860:null
+Ingredient109	glutamate	Pathway15904	serum BDNF	30061860:null
+Ingredient109	glutamate	Pathway5972	ferritin	30061860:null
+Ingredient109	glutamate	Pathway8879	IL-6	30061860:null
+Ingredient109	glutamate	Pathway8818	IL-18	30061860:null
+Ingredient109	glutamate	Pathway8780	IL-10	30061860:null
+Ingredient109	glutamate	Pathway15873	serotonin transporter gene SLC6A4	30061860:awakening
+Ingredient109	glutamate	Pathway2252	BDNF	30061860:null
+Ingredient109	glutamate	Pathway16255	SLC6A4 promoter	30061860:null
+Ingredient109	glutamate	Pathway2265	BDNF promoter	30061860:null
+Ingredient230	serotonin	Pathway14509	PSD	30061860:null
+Ingredient230	serotonin	Pathway15904	serum BDNF	30061860:null
+Ingredient230	serotonin	Pathway5972	ferritin	30061860:null
+Ingredient230	serotonin	Pathway8879	IL-6	30061860:null
+Ingredient230	serotonin	Pathway8818	IL-18	30061860:null
+Ingredient230	serotonin	Pathway8780	IL-10	30061860:null
+Ingredient230	serotonin	Pathway15873	serotonin transporter gene SLC6A4	30061860:null
+Ingredient230	serotonin	Pathway2252	BDNF	30061860:null
+Ingredient230	serotonin	Pathway16255	SLC6A4 promoter	30061860:null
+Ingredient230	serotonin	Pathway2265	BDNF promoter	30061860:null
+Ingredient5	acetylcholine	Pathway11950	neurotrophin	30065237:null
+Ingredient57	choline	Pathway11950	neurotrophin	30065237:null
+Ingredient82	dopamine	Pathway11950	neurotrophin	30065237:null
+Ingredient55	cholesterol	Pathway10114	LXRs	30087224:null
+Ingredient55	cholesterol	Pathway10112	LXR	30087224:null
+Ingredient55	cholesterol	Pathway10114	LXRs	30087224:have
+Ingredient55	cholesterol	Pathway10112	LXR	30087224:have
+Ingredient55	cholesterol	Pathway16934	T allele	30101835:null
+Ingredient55	cholesterol	Pathway7513	HDL-C	30101835:null
+Ingredient55	cholesterol	Pathway7782	high-density lipoprotein cholesterol	30101835:null
+Ingredient259	Tyrosine	Pathway9882	Links Receptor Tyrosine Kinase	30103242:null
+Ingredient108	glucose	Pathway17179	tensin homolog	30116506:null
+Ingredient74	cytidine	Pathway15622	saline or DNA methyltransferase	30121256:null
+Ingredient108	glucose	Pathway8012	HOTTIP	30129112:null
+Ingredient108	glucose	Pathway10810	miR-143	30129112:modulating
+Ingredient108	glucose	Pathway7662	hexokinase 2	30129112:modulating
+Ingredient108	glucose	Pathway10810	miR-143	30129112:null
+Ingredient108	glucose	Pathway7662	hexokinase 2	30129112:null
+Ingredient108	glucose	Pathway7892	HK-2	30129112:null
+Ingredient108	glucose	Pathway9021	insulin	30135132:null
+Ingredient108	glucose	Pathway6794	GLP-1	30135132:null
+Ingredient108	glucose	Pathway6812	glucagon	30135132:null
+Ingredient229	serine	Pathway9785	lectin	30135690:null
+Ingredient229	serine	Pathway5847	factor D	30135690:null
+Ingredient229	serine	Pathway5842	factor B	30135690:ficolins)
+Ingredient229	serine	Pathway3965	collectins	30135690:null
+Ingredient229	serine	Pathway2741	C3	30135690:ficolins)
+Ingredient229	serine	Pathway10321	MASP-1	30135690:null
+Ingredient229	serine	Pathway9791	lectin-associated serine proteases	30135690:null
+Ingredient229	serine	Pathway10324	MASPs	30135690:null
+Ingredient229	serine	Pathway1487	AP	30135690:indispensable
+Ingredient109	glutamate	Pathway6920	Glutaminase-1	30144404:null
+Ingredient109	glutamate	Pathway6803	GLS1	30144404:null
+Ingredient109	glutamate	Pathway5141	EC	30144404:null
+Ingredient110	Glutamine	Pathway6803	GLS1	30144404:null
+Ingredient67	curcumin	Pathway4253	curcumin	30145851:null
+Ingredient67	curcumin	Pathway16170	SIRT1	30145851:null
+Ingredient67	curcumin	Pathway4253	curcumin	30145851:noted
+Ingredient67	curcumin	Pathway1099	AMPK	30145851:null
+Ingredient67	Curcumin	Pathway16184	sirtuin-1	30145851:shown
+Ingredient67	Curcumin	Pathway16170	SIRT1	30145851:shown
+Ingredient109	glutamate	Pathway4253	curcumin	30145851:null
+Ingredient109	glutamate	Pathway16170	SIRT1	30145851:null
+Ingredient57	choline	Pathway2252	BDNF	30150066:higher
+Ingredient57	choline	Pathway3062	CASP 3	30150066:null
+Ingredient57	choline	Pathway424	Acethylcholinesterase	30150066:null
+Ingredient57	choline	Pathway443	AChE	30150066:null
+Ingredient220	resveratrol	Pathway13557	PI3K	30156477:null
+Ingredient220	resveratrol	Pathway781	Akt	30156477:null
+Ingredient220	Resveratrol	Pathway13557	PI3K	30156477:attenuates
+Ingredient220	Resveratrol	Pathway781	Akt	30156477:attenuates
+Ingredient143	kaempferol	Pathway9237	IRE1	30158521:induces
+Ingredient143	kaempferol	Pathway9401	JNK	30158521:induces
+Ingredient143	kaempferol	Pathway3637	CHOP	30158521:induces
+Ingredient143	kaempferol	Pathway6391	G9a	30158521:mediates
+Ingredient143	kaempferol	Pathway7474	HDAC	30158521:mediates
+Ingredient143	kaempferol	Pathway9237	IRE1	30158521:activates
+Ingredient143	kaempferol	Pathway9401	JNK	30158521:activates
+Ingredient143	kaempferol	Pathway3637	CHOP	30158521:activates
+Ingredient143	kaempferol	Pathway6391	G9a	30158521:activates
+Ingredient143	Kaempferol	Pathway9237	IRE1	30158521:induces
+Ingredient143	Kaempferol	Pathway9401	JNK	30158521:induces
+Ingredient143	Kaempferol	Pathway3637	CHOP	30158521:induces
+Ingredient143	Kaempferol	Pathway6391	G9a	30158521:induces
+Ingredient143	Kaempferol	Pathway7474	HDAC	30158521:null
+Ingredient143	Kaempferol	Pathway9732	LC3-I	30158521:increased
+Ingredient143	Kaempferol	Pathway9734	LC3-II	30158521:increased
+Ingredient143	Kaempferol	Pathway12938	p62	30158521:increased
+Ingredient108	glucose	Pathway9021	insulin	30171523:null
+Ingredient167	Melatonin	Pathway10505	Melatonin	30174621:null
+Ingredient167	melatonin	Pathway14260	PROG	30182311:null
+Ingredient167	melatonin	Pathway10482	MEL	30182311:null
+Ingredient203	progesterone	Pathway14260	PROG	30182311:null
+Ingredient203	progesterone	Pathway10482	MEL	30182311:null
+Ingredient66	creatinine	Pathway14593	PTRAS	30186475:null
+Ingredient108	glucose	Pathway5515	EphA4	30186497:performed
+Ingredient108	glucose	Pathway5523	EphrinA1	30186497:performed
+Ingredient108	glucose	Pathway5507	Eph	30186497:performed
+Ingredient108	glucose	Pathway5520	Ephrin	30186497:performed
+Ingredient108	glucose	Pathway3066	caspase	30191592:null
+Ingredient108	glucose	Pathway10805	miR-134	30191592:null
+Ingredient108	glucose	Pathway3117	caspase-8	30191592:null
+Ingredient108	glucose	Pathway4819	Dex	30201260:null
+Ingredient109	glutamate	Pathway12188	NMDA receptor	30217972:peripheral
+Ingredient109	glutamate	Pathway10183	M4	30217972:peripheral
+Ingredient114	glycine	Pathway12188	NMDA receptor	30217972:permits
+Ingredient114	glycine	Pathway10183	M4	30217972:null
+Ingredient162	lycine	Pathway12188	NMDA receptor	30217972:permits
+Ingredient162	lycine	Pathway10183	M4	30217972:null
+Ingredient108	glucose	Pathway8498	Huwe1	30221657:null
+Ingredient108	glucose	Pathway12323	Notch1	30221657:null
+Ingredient108	glucose	Pathway11625	N	30221657:null
+Ingredient108	glucose	Pathway11472	Myc	30221657:null
+Ingredient108	glucose	Pathway6812	glucagon	30223891:null
+Ingredient230	serotonin	Pathway16689	SSRIs	30225777:null
+Ingredient108	glucose	Pathway3347	CD24	30231671:null
+Ingredient229	serine	Pathway15833	serine protease	30232346:null
+Ingredient108	glucose	Pathway10844	miR-194-5p	30232383:null
+Ingredient180	nicotine	Pathway5287	EMT	30236600:null
+Ingredient82	dopamine	Pathway4826	DHA	30244005:using
+Ingredient82	dopamine	Pathway4826	DHA	30244005:activate
+Ingredient82	dopamine	Pathway12393	NPD1	30244005:activate
+Ingredient82	dopamine	Pathway12393	NPD1	30244005:null
+Ingredient82	dopamine	Pathway12393	NPD1	30244005:using
+Ingredient82	dopamine	Pathway2202	Bcl-2 family members	30244005:activate
+Ingredient92	estradiol	Pathway5085	E2	30256928:null
+Ingredient92	estradiol	Pathway13056	PaPE-1	30256928:null
+Ingredient109	glutamate	Pathway2189	BCAT1	30265706:null
+Ingredient111	glutathione	Pathway7390	HAPL	30273663:null
+Ingredient111	glutathione	Pathway6929	glutathione peroxidase	30273663:null
+Ingredient7	adenosine	Pathway14369	protein kinase	30276337:null
+Ingredient7	adenosine	Pathway1099	AMPK	30276337:null
+Ingredient7	adenosine	Pathway9219	IPC	30276337:null
+Ingredient55	cholesterol	Pathway9750	LDL	30279626:null
+Ingredient55	cholesterol	Pathway7516	HDL-cholesterol	30279626:null
+Ingredient55	cholesterol	Pathway7503	HDL	30279626:null
+Ingredient55	cholesterol	Pathway16316	small LDL	30279626:null
+Ingredient111	glutathione	Pathway9750	LDL	30279626:null
+Ingredient111	glutathione	Pathway222	A LDL1	30279626:null
+Ingredient111	glutathione	Pathway16854	superoxide dismutase	30279626:null
+Ingredient111	glutathione	Pathway3144	catalase	30279626:null
+Ingredient111	glutathione	Pathway6929	glutathione peroxidase	30279626:null
+Ingredient111	glutathione	Pathway9762	LDL1	30279626:null
+Ingredient74	cytidine	Pathway3808	Cmah	30281092:null
+Ingredient74	cytidine	Pathway3808	Cmah	30281092:have
+Ingredient108	glucose	Pathway3808	Cmah	30281092:null
+Ingredient108	glucose	Pathway18147	Ucp3	30281092:null
+Ingredient108	glucose	Pathway4110	Cpt1	30281092:null
+Ingredient108	glucose	Pathway13243	Pdk1	30281092:null
+Ingredient108	glucose	Pathway13244	Pdk4	30281092:null
+Ingredient108	glucose	Pathway14096	Ppara	30281092:null
+Ingredient220	resveratrol	Pathway9346	JAK2	30320189:null
+Ingredient220	resveratrol	Pathway16711	STAT3	30320189:null
+Ingredient220	resveratrol	Pathway13557	PI3K	30320189:null
+Ingredient220	resveratrol	Pathway781	AKT	30320189:null
+Ingredient220	resveratrol	Pathway10115	LY294002	30320189:null
+Ingredient220	resveratrol	Pathway9346	JAK2	30320189:upregulated
+Ingredient220	resveratrol	Pathway16711	STAT3	30320189:upregulated
+Ingredient220	resveratrol	Pathway781	AKT	30320189:upregulated
+Ingredient220	resveratrol	Pathway11353	mTOR	30320189:upregulated
+Ingredient220	resveratrol	Pathway10115	LY294002	30320189:cleaved
+Ingredient220	resveratrol	Pathway2197	BCL-2	30320189:upregulated
+Ingredient220	resveratrol	Pathway3092	caspase-3	30320189:cleaved
+Ingredient220	resveratrol	Pathway2166	BAX	30320189:cleaved
+Ingredient220	resveratrol	Pathway9346	JAK2	30320189:provides
+Ingredient220	resveratrol	Pathway16711	STAT3	30320189:provides
+Ingredient220	resveratrol	Pathway13557	PI3K	30320189:provides
+Ingredient220	resveratrol	Pathway781	AKT	30320189:provides
+Ingredient220	resveratrol	Pathway11353	mTOR	30320189:provides
+Ingredient220	Resveratrol	Pathway9346	JAK2	30320189:regulating
+Ingredient220	Resveratrol	Pathway16711	STAT3	30320189:regulating
+Ingredient220	Resveratrol	Pathway13557	PI3K	30320189:regulating
+Ingredient220	Resveratrol	Pathway781	AKT	30320189:regulating
+Ingredient220	Resveratrol	Pathway11353	mTOR	30320189:regulating
+Ingredient220	Resveratrol	Pathway12766	p	30320189:null
+Ingredient220	Resveratrol	Pathway12766	p	30320189:provides
+Ingredient220	Resveratrol	Pathway12766	p	30320189:regulating
+Ingredient220	Resveratrol	Pathway13557	PI3K	30320189:prevents
+Ingredient220	Resveratrol	Pathway781	AKT	30320189:prevents
+Ingredient220	Resveratrol	Pathway11353	mTOR	30320189:prevents
+Ingredient220	Resveratrol	Pathway9346	JAK2	30320189:upregulate
+Ingredient220	Resveratrol	Pathway16711	STAT3	30320189:upregulate
+Ingredient220	Resveratrol	Pathway13557	PI3K	30320189:upregulate
+Ingredient220	Resveratrol	Pathway781	AKT	30320189:upregulate
+Ingredient220	Resveratrol	Pathway11353	mTOR	30320189:upregulate
+Ingredient259	tyrosine	Pathway16641	Src	30341294:null
+Ingredient259	tyrosine	Pathway11362	mTORC1	30341294:crucial
+Ingredient259	tyrosine	Pathway18089	tyrosine kinase Src	30341294:null
+Ingredient57	choline	Pathway8085	HSD2 neurons	30343334:null
+Ingredient57	choline	Pathway8084	HSD2	30343334:null
+Ingredient109	glutamate	Pathway8080	Hsd11b2	30343334:express
+Ingredient109	glutamate	Pathway12446	Nr3c2	30343334:express
+Ingredient109	glutamate	Pathway10758	mineralocorticoid receptor	30343334:null
+Ingredient109	glutamate	Pathway750	Agtr1a	30343334:null
+Ingredient109	glutamate	Pathway1262	angiotensin receptor	30343334:null
+Ingredient109	glutamate	Pathway13536	Phox2b	30343334:null
+Ingredient109	glutamate	Pathway12575	Nxph4	30343334:null
+Ingredient109	glutamate	Pathway3047	Cartpt	30343334:express
+Ingredient109	glutamate	Pathway9938	Lmx1b	30343334:express
+Ingredient239	taurine	Pathway11524	myocardial IL-6	30347179:null
+Ingredient224	ribose	Pathway14036	POM	30347766:null
+Ingredient224	ribose	Pathway12535	nuclear factor kappa-light-chain-enhancer	30347766:null
+Ingredient224	ribose	Pathway2166	Bax	30347766:null
+Ingredient224	ribose	Pathway4525	Cytochrome c	30347766:null
+Ingredient224	ribose	Pathway13993	Poly (ADP-ribose) polymerase	30347766:null
+Ingredient111	glutathione	Pathway17370	TIA	30353470:down-regulated
+Ingredient111	glutathione	Pathway11683	NADPH oxidase	30353470:down-regulated
+Ingredient111	glutathione	Pathway16854	superoxide dismutase	30353470:null
+Ingredient111	glutathione	Pathway16447	SOD	30353470:null
+Ingredient111	glutathione	Pathway7243	GSH	30353470:null
+Ingredient108	glucose	Pathway10386	MBL	30354247:exposed
+Ingredient6	adenine	Pathway1095	AMP-activated protein kinase	30362349:associated
+Ingredient6	adenine	Pathway1099	AMPK	30362349:associated
+Ingredient6	adenine	Pathway6835	glucose transporter-1	30362349:associated
+Ingredient6	adenine	Pathway13358	PFKFB3	30362349:associated
+Ingredient6	adenine	Pathway11680	NADPH	30362349:null
+Ingredient6	adenine	Pathway12728	oxidase	30362349:null
+Ingredient6	adenine	Pathway12355	NOX	30362349:null
+Ingredient6	adenine	Pathway12093	nicotinamide adenine dinucleotide phosphate	30362349:null
+Ingredient6	adenine	Pathway6878	GLUT-1	30362349:associated
+Ingredient99	fructose	Pathway1095	AMP-activated protein kinase	30362349:null
+Ingredient99	fructose	Pathway1099	AMPK	30362349:null
+Ingredient99	fructose	Pathway6835	glucose transporter-1	30362349:null
+Ingredient99	fructose	Pathway13358	PFKFB3	30362349:null
+Ingredient99	fructose	Pathway11680	NADPH	30362349:associated
+Ingredient99	fructose	Pathway12728	oxidase	30362349:associated
+Ingredient99	fructose	Pathway12355	NOX	30362349:associated
+Ingredient99	fructose	Pathway12093	nicotinamide adenine dinucleotide phosphate	30362349:associated
+Ingredient99	fructose	Pathway6878	GLUT-1	30362349:null
+Ingredient108	glucose	Pathway1095	AMP-activated protein kinase	30362349:null
+Ingredient108	glucose	Pathway1099	AMPK	30362349:null
+Ingredient108	glucose	Pathway6835	glucose transporter-1	30362349:null
+Ingredient108	glucose	Pathway13358	PFKFB3	30362349:null
+Ingredient108	glucose	Pathway11680	NADPH	30362349:associated
+Ingredient108	glucose	Pathway12728	oxidase	30362349:associated
+Ingredient108	glucose	Pathway12355	NOX	30362349:associated
+Ingredient108	glucose	Pathway12093	nicotinamide adenine dinucleotide phosphate	30362349:associated
+Ingredient108	glucose	Pathway6878	GLUT-1	30362349:null
+Ingredient179	nicotinamide	Pathway1095	AMP-activated protein kinase	30362349:associated
+Ingredient179	nicotinamide	Pathway1099	AMPK	30362349:associated
+Ingredient179	nicotinamide	Pathway6835	glucose transporter-1	30362349:associated
+Ingredient179	nicotinamide	Pathway13358	PFKFB3	30362349:associated
+Ingredient179	nicotinamide	Pathway11680	NADPH	30362349:null
+Ingredient179	nicotinamide	Pathway12728	oxidase	30362349:null
+Ingredient179	nicotinamide	Pathway12355	NOX	30362349:null
+Ingredient179	nicotinamide	Pathway12093	nicotinamide adenine dinucleotide phosphate	30362349:null
+Ingredient179	nicotinamide	Pathway6878	GLUT-1	30362349:associated
+Ingredient229	serine	Pathway10738	MIF	30371153:null
+Ingredient229	serine	Pathway15706	sCD 74	30371153:null
+Ingredient248	threonine	Pathway10738	MIF	30371153:null
+Ingredient248	threonine	Pathway15706	sCD 74	30371153:null
+Ingredient55	cholesterol	Pathway3136	cassette transporter member A1	30373276:null
+Ingredient55	cholesterol	Pathway318	ABCA1	30373276:null
+Ingredient55	cholesterol	Pathway1675	apolipoprotein E	30373276:null
+Ingredient55	cholesterol	Pathway1596	ApoE	30373276:null
+Ingredient55	cholesterol	Pathway3619	cholesterol homeostasis	30373276:play
+Ingredient55	cholesterol	Pathway3619	cholesterol homeostasis	30373276:null
+Ingredient261	uridine	Pathway466	ACT	30381663:null
+Ingredient261	uridine	Pathway17187	terminal deoxynucleotidyl transferase	30381663:null
+Ingredient261	uridine	Pathway3102	caspase-3 proteins	30381663:cleaved
+Ingredient261	uridine	Pathway2213	Bcl-2 protein	30381663:cleaved
+Ingredient133	Icariin	Pathway1227	angiotensin II	30386989:ameliorates
+Ingredient133	Icariin	Pathway11683	NADPH oxidase	30386989:inhibiting
+Ingredient133	Icariin	Pathway1227	angiotensin II	30386989:attenuated
+Ingredient133	Icariin	Pathway1159	AngII	30386989:attenuated
+Ingredient133	Icariin	Pathway1159	AngII	30386989:ameliorated
+Ingredient133	Icariin	Pathway1159	AngII	30386989:null
+Ingredient133	Icariin	Pathway11683	NADPH oxidase	30386989:decreased
+Ingredient133	Icariin	Pathway11683	NADPH oxidase	30386989:attenuates
+Ingredient202	porphyrin	Pathway7968	HO-1	30412737:null
+Ingredient202	porphyrin	Pathway7566	Heme oxygenase	30412737:null
+Ingredient202	porphyrin	Pathway14470	protoporphyrin IX chloride (CoPPIX) or Rosiglitazone	30412737:null
+Ingredient202	porphyrin	Pathway15263	Ros	30412737:null
+Ingredient202	porphyrin	Pathway4038	CoPPIX	30412737:null
+Ingredient57	choline	Pathway9166	interleukin-6	30413288:null
+Ingredient57	choline	Pathway12541	nuclear factor-kappa B	30413288:null
+Ingredient57	choline	Pathway432	acetyl-cholinesterase	30413288:null
+Ingredient57	choline	Pathway443	AChE	30413288:null
+Ingredient108	glucose	Pathway10839	miR-186-5p	30443183:null
+Ingredient239	Taurine	Pathway17957	TUG1	30468486:null
+Ingredient5	acetylcholine	Pathway434	acetylcholinesterase reactivators	30468862:null
+Ingredient57	choline	Pathway434	acetylcholinesterase reactivators	30468862:null
+Ingredient130	hyperin	Pathway14482	PRRT2	30501978:null
+Ingredient160	luteoloside	Pathway12456	Nrf2	30502652:increased
+Ingredient160	luteoloside	Pathway12541	nuclear factor-kappa B	30502652:suppressed
+Ingredient160	luteoloside	Pathway13330	peroxisome proliferator activated receptor gamma	30502652:suppressed
+Ingredient160	luteoloside	Pathway12015	NF-E2-related factor	30502652:increased
+Ingredient160	luteoloside	Pathway12456	Nrf2	30502652:important
+Ingredient160	Luteoloside	Pathway12456	Nrf2	30502652:attenuates
+Ingredient160	Luteoloside	Pathway12129	nitric oxide synthase	30502652:inhibited
+Ingredient160	Luteoloside	Pathway9003	iNOS	30502652:inhibited
+Ingredient160	Luteoloside	Pathway4373	cyclooxygenase-2	30502652:inhibited
+Ingredient160	Luteoloside	Pathway4073	COX-2	30502652:inhibited
+Ingredient9	alanine	Pathway5255	elastin	30511276:null
+Ingredient9	alanine	Pathway2399	beta-galactosidase	30511276:null
+Ingredient114	glycine	Pathway5255	elastin	30511276:null
+Ingredient114	glycine	Pathway2399	beta-galactosidase	30511276:null
+Ingredient162	lycine	Pathway5255	elastin	30511276:null
+Ingredient162	lycine	Pathway2399	beta-galactosidase	30511276:null
+Ingredient204	proline	Pathway5255	elastin	30511276:null
+Ingredient204	proline	Pathway2399	beta-galactosidase	30511276:null
+Ingredient263	valine	Pathway5255	elastin	30511276:null
+Ingredient263	valine	Pathway2399	beta-galactosidase	30511276:null
+Ingredient108	glucose	Pathway18775	ZFG	30518742:null
+Ingredient108	glucose	Pathway18775	ZFG	30518742:protect
+Ingredient107	glucosamine	Pathway10913	miR-9	30539420:associated
+Ingredient107	glucosamine	Pathway10913	miR-9	30539420:null
+Ingredient107	glucosamine	Pathway2196	BCL2	30539420:null
+Ingredient107	glucosamine	Pathway18382	VEGF	30539420:null
+Ingredient107	glucosamine	Pathway9007	iNOS mRNA	30539420:null
+Ingredient107	Glucosamine	Pathway7486	HDAC4	30539420:null
+Ingredient108	glucose	Pathway10913	miR-9	30539420:reduced
+Ingredient108	glucose	Pathway10913	miR-9	30539420:enhanced
+Ingredient108	glucose	Pathway16013	SH	30539420:null
+Ingredient55	cholesterol	Pathway7513	HDL-C	30542472:null
+Ingredient55	cholesterol	Pathway7782	high-density lipoprotein cholesterol	30542472:null
+Ingredient71	cyclopamine	Pathway16027	Shh	30548093:injected
+Ingredient71	cyclopamine	Pathway18021	TXL	30548093:reversed
+Ingredient71	cyclopamine	Pathway18021	TXL	30548093:blocked
+Ingredient71	cyclopamine	Pathway12596	occludin	30548093:blocked
+Ingredient71	cyclopamine	Pathway3762	claudin-5	30548093:blocked
+Ingredient71	cyclopamine	Pathway18822	ZO-1	30548093:blocked
+Ingredient71	cyclopamine	Pathway18021	TXL	30548093:inhibited
+Ingredient71	cyclopamine	Pathway16027	Shh	30548093:inhibited
+Ingredient108	glucose	Pathway5618	ERK	30550742:null
+Ingredient108	glucose	Pathway781	Akt	30550742:null
+Ingredient108	glucose	Pathway12456	Nrf2	30550742:null
+Ingredient108	glucose	Pathway17609	tPA	30552546:null
+Ingredient108	glucose	Pathway16027	Shh	30552546:null
+Ingredient108	Glucose	Pathway17434	Tissue Plasminogen Activator	30552546:null
+Ingredient82	dopamine	Pathway4673	D2R	30556810:null
+Ingredient7	adenosine	Pathway8218	Human adenosine deaminase 2	30565235:null
+Ingredient7	adenosine	Pathway613	adenosine deaminase	30565235:null
+Ingredient7	adenosine	Pathway614	adenosine deaminase 2	30565235:null
+Ingredient7	adenosine	Pathway8217	Human adenosine deaminase 1	30565235:null
+Ingredient7	adenosine	Pathway613	adenosine deaminase	30565235:attributed
+Ingredient7	adenosine	Pathway614	adenosine deaminase 2	30565235:attributed
+Ingredient7	adenosine	Pathway567	ADA2 gene	30565235:null
+Ingredient7	adenosine	Pathway4706	DADA2	30565235:null
+Ingredient7	adenosine	Pathway565	ADA2	30565235:null
+Ingredient259	tyrosine	Pathway17478	TLR7	30571407:null
+Ingredient259	tyrosine	Pathway2643	BTK	30571407:null
+Ingredient259	tyrosine	Pathway10041	LRP1	30571407:regulates
+Ingredient259	tyrosine	Pathway2631	Bruton tyrosine kinase	30571407:null
+Ingredient259	tyrosine	Pathway10044	LRP1-Hx	30571407:regulates
+Ingredient259	tyrosine	Pathway4173	CRT	30571407:null
+Ingredient259	tyrosine	Pathway8502	Hx	30571407:regulates
+Ingredient259	Tyrosine	Pathway17478	TLR7	30571407:null
+Ingredient259	Tyrosine	Pathway2643	BTK	30571407:null
+Ingredient259	Tyrosine	Pathway2916	Calreticulin	30571407:null
+Ingredient259	Tyrosine	Pathway10041	LRP1	30571407:null
+Ingredient259	Tyrosine	Pathway17581	Toll-Like Receptor 7	30571407:null
+Ingredient259	Tyrosine	Pathway2631	Bruton Tyrosine Kinase	30571407:null
+Ingredient259	Tyrosine	Pathway4173	CRT	30571407:null
+Ingredient259	Tyrosine	Pathway8502	Hx	30571407:null
+Ingredient111	glutathione	Pathway16854	superoxide dismutase	30576920:null
+Ingredient111	glutathione	Pathway3144	catalase	30576920:null
+Ingredient111	glutathione	Pathway6929	glutathione peroxidase	30576920:null
+Ingredient103	genipin	Pathway18143	UCP2	30582911:null
+Ingredient103	Genipin	Pathway18143	UCP2	30582911:regulating
+Ingredient103	Genipin	Pathway16176	SIRT3	30582911:regulating
+Ingredient103	Genipin	Pathway18143	UCP2	30582911:inhibiting
+Ingredient108	glucose	Pathway13970	PNS	30587668:null
+Ingredient108	glucose	Pathway10825	miR-155	30587668:regulating
+Ingredient108	Glucose	Pathway10825	miR-155	30587668:Regulating
+Ingredient108	glucose	Pathway16711	STAT3	30593877:null
+Ingredient108	glucose	Pathway4271	Cx43	30593877:null
+Ingredient108	glucose	Pathway17045	TAT	30593877:null
+Ingredient108	glucose	Pathway14537	pSTAT3	30593877:null
+Ingredient108	glucose	Pathway16013	SH	30597231:constructed
+Ingredient108	glucose	Pathway7100	GPR120	30598514:investigated
+Ingredient82	Dopamine	Pathway3446	Cdk5	30605670:Altering
+Ingredient55	cholesterol	Pathway4415	CYP2C19	30606386:associated
+Ingredient55	cholesterol	Pathway4418	CYP2C19 gene	30606386:associated
+Ingredient108	glucose	Pathway9021	insulin	30609476:able
+Ingredient108	glucose	Pathway9860	LIF	30612292:null
+Ingredient108	glucose	Pathway11620	MZF-1	30612292:null
+Ingredient108	glucose	Pathway14162	PRDX4	30613272:null
+Ingredient108	glucose	Pathway9021	insulin	30626440:null
+Ingredient82	dopamine	Pathway4930	dopamine D	30626912:null
+Ingredient82	dopamine	Pathway9021	insulin	30626912:null
+Ingredient108	glucose	Pathway9021	insulin	30626912:null
+Ingredient130	hyperin	Pathway9021	insulin	30626912:null
+Ingredient248	threonine	Pathway8162	HSPs	30627115:null
+Ingredient108	glucose	Pathway18626	water channel protein aquaporin 4	30628716:null
+Ingredient108	glucose	Pathway1769	AQP4	30628716:null
+Ingredient108	glucose	Pathway12611	OGD	30628716:null
+Ingredient108	glucose	Pathway9939	L-NBP	30629983:null
+Ingredient63	cortisone	Pathway4049	corticotropin releasing hormone	30641630:null
+Ingredient63	cortisone	Pathway4149	CRH	30641630:null
+Ingredient63	cortisone	Pathway693	adrenocorticotropic hormone	30641630:null
+Ingredient63	cortisone	Pathway479	ACTH	30641630:null
+Ingredient63	cortisone	Pathway4045	CORT	30641630:null
+Ingredient108	glucose	Pathway12576	NXT	30660824:null
+Ingredient108	glucose	Pathway9021	insulin	30660824:null
+Ingredient108	glucose	Pathway3427	CdA	30665003:present
+Ingredient108	glucose	Pathway10454	ME	30665003:resulted
+Ingredient108	glucose	Pathway12219	NMMHC IIA	30666520:null
+Ingredient108	glucose	Pathway12218	NMMHC II	30666520:null
+Ingredient108	Glucose	Pathway11573	Myosin IIA	30666520:null
+Ingredient108	Glucose	Pathway17387	Tight	30666520:null
+Ingredient108	Glucose	Pathway17464	TLR4	30666520:null
+Ingredient108	Glucose	Pathway13557	PI3K	30666520:null
+Ingredient108	Glucose	Pathway781	Akt	30666520:null
+Ingredient108	Glucose	Pathway9408	JNK1	30666520:null
+Ingredient108	Glucose	Pathway11105	MMP9	30666520:null
+Ingredient7	adenosine	Pathway16620	SQAd NPs	30670479:released
+Ingredient7	adenosine	Pathway16620	SQAd NPs	30670479:null
+Ingredient7	Adenosine	Pathway625	Adenosine Receptors	30670479:null
+Ingredient7	Adenosine	Pathway621	Adenosine Prodrug	30670479:null
+Ingredient55	cholesterol	Pathway7513	HDL-C	30693439:null
+Ingredient55	cholesterol	Pathway1658	apolipoprotein A-1	30693439:null
+Ingredient55	cholesterol	Pathway7782	high-density lipoprotein cholesterol	30693439:null
+Ingredient55	cholesterol	Pathway2299	BET	30693439:null
+Ingredient57	choline	Pathway9102	interleukin (IL)-10	30700305:null
+Ingredient57	choline	Pathway9076	interferon	30700305:null
+Ingredient57	choline	Pathway8649	IFN	30700305:null
+Ingredient108	glucose	Pathway13613	PKA	30708047:led
+Ingredient108	glucose	Pathway4127	CREB	30708047:decreased
+Ingredient108	Glucose	Pathway13613	PKA	30708047:Activating
+Ingredient108	Glucose	Pathway4127	CREB	30708047:Activating
+Ingredient114	glycine	Pathway12940	p65	30710045:suppresses
+Ingredient114	glycine	Pathway12940	p65	30710045:null
+Ingredient114	glycine	Pathway781	AKT	30710045:null
+Ingredient114	glycine	Pathway14557	PTEN	30710045:null
+Ingredient114	glycine	Pathway12940	p65	30710045:suppressing
+Ingredient114	Glycine	Pathway12940	p65	30710045:Exhibits
+Ingredient162	lycine	Pathway12940	p65	30710045:Exhibits
+Ingredient162	lycine	Pathway12940	p65	30710045:suppresses
+Ingredient162	lycine	Pathway12940	p65	30710045:null
+Ingredient162	lycine	Pathway781	AKT	30710045:null
+Ingredient162	lycine	Pathway14557	PTEN	30710045:null
+Ingredient126	histamine	Pathway7837	histamine H	30728249:null
+Ingredient126	Histamine	Pathway8331	Human Histamine H	30728249:null
+Ingredient108	glucose	Pathway8813	IL-17A	30746745:null
+Ingredient108	glucose	Pathway4964	DPP4	30759373:null
+Ingredient108	glucose	Pathway6812	glucagon	30759373:null
+Ingredient108	glucose	Pathway9038	insulinotropic polypeptide	30759373:null
+Ingredient108	glucose	Pathway6749	GIP	30759373:null
+Ingredient108	glucose	Pathway5837	factor 1	30759373:null
+Ingredient108	glucose	Pathway15740	SDF-1	30759373:null
+Ingredient108	glucose	Pathway4287	CXCL12	30759373:null
+Ingredient259	tyrosine	Pathway4964	DPP4	30759373:null
+Ingredient259	tyrosine	Pathway6812	glucagon	30759373:null
+Ingredient259	tyrosine	Pathway9038	insulinotropic polypeptide	30759373:null
+Ingredient259	tyrosine	Pathway6749	GIP	30759373:null
+Ingredient259	tyrosine	Pathway5837	factor 1	30759373:null
+Ingredient259	tyrosine	Pathway15740	SDF-1	30759373:null
+Ingredient259	tyrosine	Pathway4287	CXCL12	30759373:null
+Ingredient55	cholesterol	Pathway15304	rs10808546	30787327:null
+Ingredient55	cholesterol	Pathway15391	rs231150	30787327:null
+Ingredient55	cholesterol	Pathway15398	rs2737229	30787327:null
+Ingredient55	cholesterol	Pathway1657	apolipoprotein A1	30787327:null
+Ingredient109	glutamate	Pathway9744	LDH	30796737:null
+Ingredient108	glucose	Pathway5964	FCPR03	30797872:null
+Ingredient105	ginkgolide	Pathway781	Akt	30815818:activating
+Ingredient105	ginkgolide	Pathway12456	Nrf2	30815818:activating
+Ingredient105	ginkgolide	Pathway12766	p	30815818:activating
+Ingredient105	ginkgolide	Pathway12766	p	30815818:null
+Ingredient105	ginkgolide	Pathway6746	ginkgolide K	30815818:null
+Ingredient105	ginkgolide	Pathway6758	GK	30815818:null
+Ingredient105	ginkgolide	Pathway16854	superoxide dismutase	30815818:detected
+Ingredient105	ginkgolide	Pathway16447	SOD	30815818:detected
+Ingredient105	ginkgolide	Pathway12766	p	30815818:detected
+Ingredient105	ginkgolide	Pathway15263	ROS	30815818:detected
+Ingredient105	ginkgolide	Pathway781	Akt	30815818:null
+Ingredient105	ginkgolide	Pathway12456	Nrf2	30815818:null
+Ingredient105	ginkgolide	Pathway6758	GK	30815818:upregulated
+Ingredient105	ginkgolide	Pathway13015	p-Akt	30815818:null
+Ingredient105	ginkgolide	Pathway10115	LY294002	30815818:upregulated
+Ingredient105	Ginkgolide	Pathway12766	p	30815818:null
+Ingredient108	glucose	Pathway16854	superoxide dismutase	30815818:detected
+Ingredient108	glucose	Pathway16447	SOD	30815818:detected
+Ingredient108	glucose	Pathway12766	p	30815818:null
+Ingredient108	glucose	Pathway12766	p	30815818:detected
+Ingredient108	glucose	Pathway15263	ROS	30815818:detected
+Ingredient216	quinone	Pathway781	Akt	30815818:null
+Ingredient216	quinone	Pathway781	Akt	30815818:phosphorylated
+Ingredient216	quinone	Pathway12456	Nrf2	30815818:phosphorylated
+Ingredient216	quinone	Pathway12456	Nrf2	30815818:null
+Ingredient216	quinone	Pathway7576	hemeoxygenase-1	30815818:null
+Ingredient216	quinone	Pathway12420	Nqo1	30815818:null
+Ingredient216	quinone	Pathway13015	p-Akt	30815818:phosphorylated
+Ingredient216	quinone	Pathway12766	p	30815818:null
+Ingredient216	quinone	Pathway7968	HO-1	30815818:null
+Ingredient216	quinone	Pathway12538	nuclear factor-E2-related factor2	30815818:phosphorylated
+Ingredient108	Glucose	Pathway9668	Lactate Metabolism	30833588:null
+Ingredient19	Arginine	Pathway1839	Arginine Decarboxylase	30853827:null
+Ingredient51	catechin	Pathway12954	p75NTR	30863991:inhibits
+Ingredient51	catechin	Pathway12055	NGF	30863991:inhibits
+Ingredient88	epicatechin	Pathway12954	p75NTR	30863991:inhibits
+Ingredient88	epicatechin	Pathway12055	NGF	30863991:inhibits
+Ingredient108	glucose	Pathway9021	insulin	30873501:null
+Ingredient108	glucose	Pathway9021	insulin	30873501:affects
+Ingredient130	hyperin	Pathway9021	insulin	30873501:null
+Ingredient220	resveratrol	Pathway9021	insulin	30873501:null
+Ingredient220	resveratrol	Pathway9021	insulin	30873501:believed
+Ingredient18	apigenin	Pathway5618	ERK	30880180:provides
+Ingredient18	apigenin	Pathway12456	Nrf2	30880180:provides
+Ingredient18	apigenin	Pathway7968	HO-1	30880180:provides
+Ingredient18	apigenin	Pathway5618	ERK	30880180:null
+Ingredient18	apigenin	Pathway12456	Nrf2	30880180:null
+Ingredient18	apigenin	Pathway7968	HO-1	30880180:null
+Ingredient18	apigenin	Pathway12524	nuclear factor E2-related factor 2	30880180:null
+Ingredient18	apigenin	Pathway14428	protein1	30880180:null
+Ingredient18	apigenin	Pathway9514	Keap1	30880180:null
+Ingredient18	apigenin	Pathway7568	heme oxygenase-1	30880180:null
+Ingredient18	apigenin	Pathway5770	extracellular-signal-regulated kinase	30880180:null
+Ingredient18	apigenin	Pathway12456	Nrf2	30880180:increased
+Ingredient18	apigenin	Pathway7968	HO-1	30880180:increased
+Ingredient18	apigenin	Pathway5618	ERK	30880180:exerts
+Ingredient18	apigenin	Pathway12456	Nrf2	30880180:exerts
+Ingredient18	apigenin	Pathway7968	HO-1	30880180:exerts
+Ingredient5	acetylcholine	Pathway2569	bradykinin	30887278:null
+Ingredient57	choline	Pathway2569	bradykinin	30887278:null
+Ingredient55	cholesterol	Pathway5268	ELL	30889929:null
+Ingredient109	glutamate	Pathway2867	calcineurin	30890073:null
+Ingredient109	glutamate	Pathway12005	NFAT upregulates IL-4	30890073:null
+Ingredient109	glutamate	Pathway8873	IL-4	30890073:upregulates
+Ingredient72	cystathionine	Pathway16627	SR	30918891:null
+Ingredient229	serine	Pathway15842	Serine racemase	30918891:null
+Ingredient229	serine	Pathway16627	SR	30918891:null
+Ingredient229	serine	Pathway14719	racemase enzyme	30918891:null
+Ingredient229	serine	Pathway16627	SR	30918891:discussed
+Ingredient229	Serine	Pathway8426	Human Serine Racemase	30918891:null
+Ingredient229	Serine	Pathway15842	Serine racemase	30918891:null
+Ingredient229	Serine	Pathway16627	SR	30918891:null
+Ingredient229	Serine	Pathway14719	racemase enzyme	30918891:null
+Ingredient108	glucose	Pathway2894	calmodulin	30919283:null
+Ingredient108	glucose	Pathway14392	protein kinase II	30919283:null
+Ingredient108	glucose	Pathway2938	CaMKII	30919283:null
+Ingredient108	glucose	Pathway6830	glucose 6-phosphate dehydrogenase	30919283:null
+Ingredient108	glucose	Pathway6384	G6PD	30919283:null
+Ingredient108	Glucose	Pathway3499	Cerebral Ischemic Rats	30919283:null
+Ingredient108	Glucose	Pathway17032	Targeting Glucose 6-Phosphate Dehydrogenase	30919283:null
+Ingredient7	adenosine	Pathway11725	NBP	30919693:null
+Ingredient82	dopamine	Pathway1048	alpha-syn	30927072:null
+Ingredient82	dopamine	Pathway14354	protein alpha-synuclein	30927072:null
+Ingredient82	dopamine	Pathway10053	LRRK2	30927072:null
+Ingredient82	dopamine	Pathway10055	LRRK2 G2019S	30927072:null
+Ingredient108	glucose	Pathway7994	Homer1a	30930751:null
+Ingredient108	glucose	Pathway7994	Homer1a	30930751:alleviated
+Ingredient108	glucose	Pathway9665	lactate dehydrogenase	30930751:alleviated
+Ingredient108	glucose	Pathway9744	LDH	30930751:alleviated
+Ingredient7	adenosine	Pathway5349	endothelial adenosine A	30931525:null
+Ingredient7	adenosine	Pathway584	ADAR2	30945056:acting
+Ingredient7	adenosine	Pathway2799	C9orf72	30945056:mislocalized
+Ingredient7	adenosine	Pathway584	ADAR2	30945056:responsible
+Ingredient136	inosine	Pathway584	ADAR2	30945056:responsible
+Ingredient108	glucose	Pathway4290	CXCL16	30945283:null
+Ingredient229	serine	Pathway10323	MASP-2	30952698:null
+Ingredient229	serine	Pathway9785	lectin	30952698:null
+Ingredient19	arginine	Pathway15758	SDMA	30957461:null
+Ingredient147	L-arginine	Pathway15758	SDMA	30957461:null
+Ingredient108	glucose	Pathway9949	LncRNA-1810034E14Rik	30961627:null
+Ingredient109	glutamate	Pathway2455	Bin1	30967682:null
+Ingredient64	coumarin	Pathway3731	CKLF1	30987181:screened
+Ingredient64	coumarin	Pathway3296	CCR4	30987181:screened
+Ingredient64	coumarin	Pathway8939	IMM-H004	30987181:screened
+Ingredient41	butyrate	Pathway14788	rat C6	31011879:enhancing
+Ingredient41	Butyrate	Pathway14788	Rat C6	31011879:null
+Ingredient213	quercetin	Pathway14788	rat C6	31011879:enhancing
+Ingredient213	Quercetin	Pathway14788	Rat C6	31011879:null
+Ingredient224	ribose	Pathway2166	Bax	31011879:null
+Ingredient224	ribose	Pathway16881	survivin	31011879:null
+Ingredient224	ribose	Pathway3092	caspase-3	31011879:null
+Ingredient224	ribose	Pathway1	(ADP-ribose) polymerase	31011879:null
+Ingredient224	ribose	Pathway13103	PARP	31011879:null
+Ingredient108	glucose	Pathway14963	REDD1	31021470:null
+Ingredient108	glucose	Pathway11353	mTOR	31021470:suppressing
+Ingredient7	adenosine	Pathway318	ABCA1	31029915:null
+Ingredient108	glucose	Pathway6904	glutamate release	31032919:(via
+Ingredient109	glutamate	Pathway6904	glutamate release	31032919:null
+Ingredient57	choline	Pathway11261	MSE	31039389:null
+Ingredient108	Glucose	Pathway12371	NOXA	31041561:activated
+Ingredient55	cholesterol	Pathway16726	statins	31049146:null
+Ingredient55	cholesterol	Pathway119	3-hydroxy-3-methylglutaryl CoA reductase	31049146:null
+Ingredient55	cholesterol	Pathway16720	statin	31049146:null
+Ingredient55	cholesterol	Pathway9764	LDL-C	31049146:null
+Ingredient55	cholesterol	Pathway9994	low-density lipoprotein cholesterol	31049146:null
+Ingredient58	citrin	Pathway12390	NPC1 L1	31090302:null
+Ingredient58	citrin	Pathway7938	HMG-CoA reductase	31090302:null
+Ingredient58	citrin	Pathway16622	SQS	31090302:null
+Ingredient58	citrin	Pathway17024	target NPC1 L1	31090302:null
+Ingredient215	quercitrin	Pathway12390	NPC1 L1	31090302:null
+Ingredient215	quercitrin	Pathway7938	HMG-CoA reductase	31090302:null
+Ingredient215	quercitrin	Pathway16622	SQS	31090302:null
+Ingredient215	quercitrin	Pathway17024	target NPC1 L1	31090302:null
+Ingredient51	catechin	Pathway3148	catechins and quercetin	31102958:null
+Ingredient213	quercetin	Pathway3148	catechins and quercetin	31102958:null
+Ingredient230	serotonin	Pathway11149	monoamine oxidase	31107181:null
+Ingredient230	serotonin	Pathway4504	cystatins	31107181:null
+Ingredient230	serotonin	Pathway4499	cystatin	31107181:null
+Ingredient230	serotonin	Pathway4485	cys cystatins	31107181:null
+Ingredient230	serotonin	Pathway16926	system MAOIs monoamine oxidase	31107181:null
+Ingredient55	cholesterol	Pathway10142	Lysosomal acid lipase	31113597:null
+Ingredient149	leucine	Pathway10049	LRRC8A	31127489:null
+Ingredient92	estradiol	Pathway12606	oestrogen receptor	31127971:null
+Ingredient92	estradiol	Pathway12606	oestrogen receptor	31127971:modulating
+Ingredient92	estradiol	Pathway10289	MAPK	31127971:modulating
+Ingredient92	estradiol	Pathway5623	ERK1	31127971:modulating
+Ingredient82	dopamine	Pathway781	AKT	31128157:null
+Ingredient82	dopamine	Pathway11353	mTOR	31128157:null
+Ingredient82	dopamine	Pathway10575	METH	31128157:examines
+Ingredient173	Myricetin	Pathway5450	eNOS	31130510:ameliorated
+Ingredient173	Myricetin	Pathway12227	NO	31130510:ameliorated
+Ingredient173	Myricetin	Pathway5450	eNOS	31130510:null
+Ingredient173	Myricetin	Pathway12227	NO	31130510:null
+Ingredient173	Myricetin	Pathway5450	eNOS	31130510:decreased
+Ingredient173	Myricetin	Pathway12227	NO	31130510:decreased
+Ingredient173	Myricetin	Pathway781	Akt	31130510:decreased
+Ingredient173	Myricetin	Pathway781	Akt	31130510:combined
+Ingredient173	Myricetin	Pathway12456	Nrf2	31130510:decreased
+Ingredient173	Myricetin	Pathway12456	Nrf2	31130510:combined
+Ingredient173	Myricetin	Pathway781	Akt	31130510:abrogated
+Ingredient173	Myricetin	Pathway12456	Nrf2	31130510:abrogated
+Ingredient173	Myricetin	Pathway5450	eNOS	31130510:showed
+Ingredient173	Myricetin	Pathway781	Akt	31130510:showed
+Ingredient173	Myricetin	Pathway12456	Nrf2	31130510:showed
+Ingredient108	glucose	Pathway6794	GLP-1	31141838:null
+Ingredient108	glucose	Pathway13345	Peroxisome proliferator-activated receptors	31147725:null
+Ingredient108	glucose	Pathway14113	PPARs	31147725:null
+Ingredient223	riboflavin	Pathway11314	MTHFR	31155015:null
+Ingredient223	riboflavin	Pathway11329	MTHFR cofactor	31155015:null
+Ingredient108	glucose	Pathway4853	dipeptidyl peptidase-4	31161759:null
+Ingredient108	glucose	Pathway6812	glucagon	31161759:null
+Ingredient9	alanine	Pathway18652	WNK	31165006:essential
+Ingredient9	alanine	Pathway16529	SPAK	31165006:null
+Ingredient9	alanine	Pathway16529	SPAK	31165006:essential
+Ingredient9	alanine	Pathway12688	OSR1	31165006:null
+Ingredient163	lysine	Pathway18652	WNK	31165006:essential
+Ingredient163	lysine	Pathway16529	SPAK	31165006:null
+Ingredient163	lysine	Pathway16529	SPAK	31165006:essential
+Ingredient163	lysine	Pathway12688	OSR1	31165006:null
+Ingredient204	proline	Pathway18652	WNK	31165006:essential
+Ingredient204	proline	Pathway16529	SPAK	31165006:null
+Ingredient204	proline	Pathway16529	SPAK	31165006:essential
+Ingredient204	proline	Pathway12688	OSR1	31165006:null
+Ingredient230	Serotonin	Pathway15875	Serotonin Transporters	31178771:null
+Ingredient229	serine	Pathway7567	heme oxygenase 1	31180537:null
+Ingredient248	threonine	Pathway7567	heme oxygenase 1	31180537:null
+Ingredient67	curcumin	Pathway4253	curcumin	31185140:null
+Ingredient108	glucose	Pathway7434	HBMEC	31187440:null
+Ingredient108	glucose	Pathway12611	OGD	31187440:null
+Ingredient108	glucose	Pathway12611	OGD	31187440:mimic
+Ingredient108	glucose	Pathway14662	R	31187440:null
+Ingredient108	glucose	Pathway14662	R	31187440:mimic
+Ingredient108	Glucose	Pathway15145	RhoA	31187440:Induces
+Ingredient108	Glucose	Pathway15252	ROCK2	31187440:Induces
+Ingredient108	Glucose	Pathway15245	ROCK	31187440:Induces
+Ingredient108	Glucose	Pathway14662	R	31187440:null
+Ingredient108	Glucose	Pathway14662	R	31187440:Induces
+Ingredient259	tyrosine	Pathway2166	Bax	31191319:null
+Ingredient259	tyrosine	Pathway10125	lymphoid phosphatase	31191743:null
+Ingredient259	tyrosine	Pathway10132	Lyp	31191743:null
+Ingredient259	tyrosine	Pathway14421	protein tyrosine phosphatase	31191743:null
+Ingredient55	cholesterol	Pathway16726	statins	31196632:null
+Ingredient55	cholesterol	Pathway13708	plasma LDL cholesterol	31196632:null
+Ingredient55	cholesterol	Pathway7505	HDL cholesterol	31196632:null
+Ingredient55	cholesterol	Pathway7503	HDL	31196632:null
+Ingredient55	cholesterol	Pathway7503	HDL	31196632:displays
+Ingredient55	cholesterol	Pathway7503	HDL	31196632:accumulated
+Ingredient55	Cholesterol	Pathway9901	Lipoprotein Metabolism	31196632:null
+Ingredient55	Cholesterol	Pathway3620	Cholesterol Transport	31196632:null
+Ingredient229	serine	Pathway5370	endothelial NO synthase	31205027:null
+Ingredient229	serine	Pathway5450	eNOS	31205027:null
+Ingredient229	serine	Pathway14371	protein kinase A	31205027:null
+Ingredient229	serine	Pathway13613	PKA	31205027:null
+Ingredient229	serine	Pathway7234	Gs	31205027:null
+Ingredient108	glucose	Pathway7192	GRINA	31211943:null
+Ingredient108	glucose	Pathway5895	FAIM2	31211943:null
+Ingredient149	Leucine	Pathway10037	LRG1	31220542:null
+Ingredient108	glucose	Pathway17218	TFA	31227974:null
+Ingredient28	baicalein	Pathway3423	CD86	31228802:reduced
+Ingredient28	baicalein	Pathway3345	CD206	31228802:reduced
+Ingredient28	baicalein	Pathway3423	CD86	31228802:promoted
+Ingredient28	baicalein	Pathway3345	CD206	31228802:promoted
+Ingredient28	baicalein	Pathway12940	p65	31228802:reducing
+Ingredient28	baicalein	Pathway5889	factors IL-6	31228802:reducing
+Ingredient28	baicalein	Pathway8818	IL-18	31228802:reducing
+Ingredient28	baicalein	Pathway9401	JNK	31228802:reduced
+Ingredient28	baicalein	Pathway5618	ERK	31228802:reduced
+Ingredient28	baicalein	Pathway12872	p38	31228802:reduced
+Ingredient28	baicalein	Pathway2197	Bcl-2	31228802:increased
+Ingredient28	baicalein	Pathway2166	Bax	31228802:increased
+Ingredient28	baicalein	Pathway3092	caspase-3	31228802:reduced
+Ingredient28	Baicalein	Pathway9734	LC3-II	31228802:decreased
+Ingredient28	Baicalein	Pathway9732	LC3-I	31228802:decreased
+Ingredient28	Baicalein	Pathway13557	PI3K	31228802:promoted
+Ingredient28	Baicalein	Pathway781	Akt	31228802:promoted
+Ingredient28	Baicalein	Pathway11353	mTOR	31228802:promoted
+Ingredient111	Glutathione	Pathway6929	Glutathione peroxidase	31248967:null
+Ingredient111	Glutathione	Pathway6931	Glutathione peroxidase 4	31248967:null
+Ingredient111	Glutathione	Pathway7145	GPX4	31248967:unique
+Ingredient230	serotonin	Pathway15871	serotonin transporter	31251747:null
+Ingredient230	serotonin	Pathway15857	serotonin	31251747:null
+Ingredient230	serotonin	Pathway15874	serotonin transporter hSERT	31251747:null
+Ingredient230	serotonin	Pathway8088	hSERT	31251747:null
+Ingredient230	serotonin	Pathway15857	serotonin	31251747:facilitates
+Ingredient230	serotonin	Pathway15862	serotonin facilitates	31251747:null
+Ingredient55	Cholesterol	Pathway7503	HDL	31251897:null
+Ingredient239	Taurine	Pathway17957	TUG1	31264779:null
+Ingredient239	Taurine	Pathway6639	gene 1	31264779:null
+Ingredient239	Taurine	Pathway9270	IS	31264779:up-regulated
+Ingredient55	cholesterol	Pathway15261	RORA	31283791:null
+Ingredient216	quinone	Pathway12456	Nrf2	31283926:null
+Ingredient216	quinone	Pathway12456	Nrf2	31283926:enhanced
+Ingredient55	Cholesterol	Pathway16726	Statins	31301293:null
+Ingredient55	Cholesterol	Pathway13176	PCSK9 Inhibitor	31301293:null
+Ingredient5	acetylcholine	Pathway12102	nicotinic acetylcholine receptors	31314407:null
+Ingredient5	acetylcholine	Pathway11660	nAChRs	31314407:null
+Ingredient5	acetylcholine	Pathway11659	nAChR	31314407:null
+Ingredient5	acetylcholine	Pathway17310	therapeutic acetylcholinesterase	31314407:null
+Ingredient57	choline	Pathway12102	nicotinic acetylcholine receptors	31314407:null
+Ingredient57	choline	Pathway11660	nAChRs	31314407:null
+Ingredient57	choline	Pathway11659	nAChR	31314407:null
+Ingredient57	choline	Pathway17310	therapeutic acetylcholinesterase	31314407:null
+Ingredient109	glutamate	Pathway11660	nAChRs	31314407:null
+Ingredient109	glutamate	Pathway11659	nAChR	31314407:null
+Ingredient109	glutamate	Pathway17310	therapeutic acetylcholinesterase	31314407:null
+Ingredient109	glutamate	Pathway13442	phosphatidylinositol 3-kinase	31314407:null
+Ingredient109	glutamate	Pathway13557	PI3K	31314407:null
+Ingredient109	glutamate	Pathway781	Akt	31314407:null
+Ingredient180	nicotine	Pathway11660	nAChRs	31314407:induced
+Ingredient180	nicotine	Pathway11659	nAChR	31314407:induced
+Ingredient180	nicotine	Pathway11660	nAChRs	31314407:prevents
+Ingredient180	nicotine	Pathway13442	phosphatidylinositol 3-kinase	31314407:prevents
+Ingredient180	nicotine	Pathway13557	PI3K	31314407:prevents
+Ingredient180	nicotine	Pathway781	Akt	31314407:prevents
+Ingredient180	nicotine	Pathway11659	nAChR	31314407:prevents
+Ingredient180	nicotine	Pathway2569	bradykinin	31314407:reduced
+Ingredient180	Nicotine	Pathway11660	nAChRs	31314407:protected
+Ingredient180	Nicotine	Pathway11659	nAChR	31314407:null
+Ingredient180	Nicotine	Pathway11659	nAChR	31314407:protected
+Ingredient108	glucose	Pathway12456	Nrf2	31326116:null
+Ingredient108	glucose	Pathway1811	ARE	31326116:null
+Ingredient108	glucose	Pathway10821	miR-152-3p	31326116:null
+Ingredient108	glucose	Pathway15920	serum IGF1	31327319:emphasized
+Ingredient108	glucose	Pathway16468	sodium-glucose cotransporter 2 inhibitor	31334145:null
+Ingredient108	glucose	Pathway16008	SGLT2i	31334145:null
+Ingredient108	glucose	Pathway16005	SGLT-2	31334145:null
+Ingredient11	allantoin	Pathway7608	hepatic enzyme uricase	31334357:null
+Ingredient230	serotonin	Pathway15868	serotonin reuptake	31346698:null
+Ingredient167	Melatonin	Pathway10505	Melatonin	31354619:null
+Ingredient171	morphine	Pathway10059	LS	31356884:null
+Ingredient171	morphine	Pathway10491	MELAS	31356884:null
+Ingredient171	morphine	Pathway10059	LS	31356884:assessed
+Ingredient109	glutamate	Pathway17289	TGFR-1	31359663:null
+Ingredient109	glutamate	Pathway18419	VEGFR-2	31359663:null
+Ingredient55	cholesterol	Pathway1282	Angiotensin-converting enzyme	31376825:null
+Ingredient55	cholesterol	Pathway384	ACE	31376825:null
+Ingredient108	glucose	Pathway4850	dipeptidyl peptidase	31379119:null
+Ingredient108	glucose	Pathway6812	glucagon	31379119:null
+Ingredient108	glucose	Pathway13296	peptide-1 receptor	31379119:null
+Ingredient108	glucose	Pathway6801	GLP-1RA	31379119:null
+Ingredient108	glucose	Pathway6801	GLP-1RA	31379119:likely
+Ingredient108	glucose	Pathway9021	insulin	31382796:null
+Ingredient28	baicalein	Pathway14652	qRT	31388587:null
+Ingredient99	fructose	Pathway13358	PFKFB3	31406177:null
+Ingredient108	glucose	Pathway14964	redox	31406177:preserve
+Ingredient108	glucose	Pathway13358	PFKFB3	31406177:null
+Ingredient108	glucose	Pathway14964	redox	31406177:null
+Ingredient108	glucose	Pathway2097	AZ67	31406177:null
+Ingredient111	glutathione	Pathway14964	redox	31406177:null
+Ingredient108	glucose	Pathway6812	glucagon	31442511:null
+Ingredient108	glucose	Pathway16004	SGLT2	31442511:null
+Ingredient108	glucose	Pathway9665	lactate dehydrogenase	31469718:null
+Ingredient108	glucose	Pathway781	Akt	31469718:activating
+Ingredient119	guanine	Pathway3969	colony-stimulating factor 2	31470401:involved
+Ingredient119	guanine	Pathway4199	CSF2	31470401:involved
+Ingredient119	guanine	Pathway14763	Ras	31470401:involved
+Ingredient119	guanine	Pathway5837	factor 1	31470401:null
+Ingredient119	guanine	Pathway14776	RASGRF1	31470401:null
+Ingredient119	guanine	Pathway3827	CNS candidiasis via caspase recruitment domain-containing protein 9	31470401:associated
+Ingredient119	guanine	Pathway3013	CARD9	31470401:associated
+Ingredient119	guanine	Pathway13503	phospholipase C gamma 2	31470401:associated
+Ingredient119	guanine	Pathway13905	PLCG2	31470401:associated
+Ingredient119	guanine	Pathway9789	lectin receptor	31470401:associated
+Ingredient229	Serine	Pathway1099	AMPK	31472184:null
+Ingredient229	Serine	Pathway18171	ULK1	31472184:null
+Ingredient229	Serine	Pathway14369	protein kinase	31472184:null
+Ingredient248	threonine	Pathway1099	AMPK	31472184:null
+Ingredient248	threonine	Pathway18171	ULK1	31472184:null
+Ingredient248	threonine	Pathway14369	protein kinase	31472184:null
+Ingredient109	glutamate	Pathway12456	Nrf2	31494826:attenuated
+Ingredient108	glucose	Pathway10913	miR-9	31500865:performed
+Ingredient55	cholesterol	Pathway16720	Statin	31512619:null
+Ingredient55	cholesterol	Pathway16726	Statins	31512619:null
+Ingredient7	adenosine	Pathway13613	PKA	31512815:null
+Ingredient108	glucose	Pathway9355	Janus Kinases	31513843:volume
+Ingredient108	glucose	Pathway9349	JAKs	31513843:volume
+Ingredient108	glucose	Pathway16707	STAT	31513843:volume
+Ingredient108	glucose	Pathway9343	JAK	31513843:volume
+Ingredient108	glucose	Pathway2657	BV2 microglial	31513843:assessed
+Ingredient261	uridine	Pathway18241	USP18	31513843:null
+Ingredient261	uridine	Pathway8879	IL-6	31513843:null
+Ingredient261	uridine	Pathway8916	IL-8	31513843:null
+Ingredient261	uridine	Pathway9076	interferon	31513843:null
+Ingredient261	uridine	Pathway8983	INF	31513843:null
+Ingredient111	glutathione	Pathway9531	KIF2	31514228:null
+Ingredient111	glutathione	Pathway16854	superoxide dismutase	31514228:null
+Ingredient111	glutathione	Pathway16447	SOD	31514228:null
+Ingredient111	glutathione	Pathway6929	glutathione peroxidase	31514228:null
+Ingredient111	glutathione	Pathway7243	GSH	31514228:null
+Ingredient111	glutathione	Pathway14623	px	31514228:null
+Ingredient111	glutathione	Pathway12456	Nrf2	31540440:null
+Ingredient111	glutathione	Pathway16855	superoxide dismutase 1	31540440:null
+Ingredient111	glutathione	Pathway16449	SOD1	31540440:null
+Ingredient111	glutathione	Pathway16458	SOD2	31540440:null
+Ingredient111	glutathione	Pathway6937	glutathione S-transferase	31540440:null
+Ingredient111	glutathione	Pathway7267	GST	31540440:null
+Ingredient111	glutathione	Pathway3144	catalase	31540440:increased
+Ingredient111	glutathione	Pathway3139	CAT	31540440:increased
+Ingredient111	glutathione	Pathway6929	glutathione peroxidase	31540440:increased
+Ingredient111	glutathione	Pathway7134	GPx	31540440:increased
+Ingredient111	glutathione	Pathway3144	catalase	31540440:null
+Ingredient111	glutathione	Pathway3139	CAT	31540440:null
+Ingredient111	glutathione	Pathway6929	glutathione peroxidase	31540440:null
+Ingredient111	glutathione	Pathway7134	GPx	31540440:null
+Ingredient6	adenine	Pathway5507	Eph	31545551:reduce
+Ingredient259	tyrosine	Pathway5509	Eph receptor	31545551:null
+Ingredient259	tyrosine	Pathway5507	Eph	31545551:null
+Ingredient259	tyrosine	Pathway5511	Eph tyrosine kinase	31545551:null
+Ingredient259	tyrosine	Pathway5526	EphrinB2	31545551:null
+Ingredient259	tyrosine	Pathway5525	EphrinB	31545551:null
+Ingredient55	cholesterol	Pathway16726	statins	31568783:null
+Ingredient67	curcumin	Pathway1446	anti-oxidants curcumin	31571647:null
+Ingredient220	resveratrol	Pathway1446	anti-oxidants curcumin	31571647:null
+Ingredient108	glucose	Pathway12050	NGAL	31574797:null
+Ingredient108	glucose	Pathway4057	cox	31574797:null
+Ingredient19	arginine	Pathway1099	AMPK	31576512:regulates
+Ingredient19	arginine	Pathway1095	AMP-activated protein kinase	31576512:regulates
+Ingredient19	arginine	Pathway8099	HSP	31576512:null
+Ingredient19	arginine	Pathway8101	HSP family	31576512:null
+Ingredient19	arginine	Pathway1099	AMPK	31576512:activated
+Ingredient19	arginine	Pathway761	AICAR	31576512:null
+Ingredient19	arginine	Pathway17446	TJ proteins	31576512:null
+Ingredient19	arginine	Pathway17447	TJ proteins ZO-1	31576512:null
+Ingredient19	arginine	Pathway1099	AMPK	31576512:null
+Ingredient19	Arginine	Pathway1099	AMPK	31576512:alleviates
+Ingredient19	Arginine	Pathway1099	AMPK	31576512:had
+Ingredient19	Arginine	Pathway761	AICAR	31576512:had
+Ingredient19	Arginine	Pathway761	AICAR	31576512:null
+Ingredient19	Arginine	Pathway8099	HSP	31576512:upregulated
+Ingredient19	Arginine	Pathway11061	MLCK	31576512:downregulated
+Ingredient19	Arginine	Pathway8118	HSP70	31576512:upregulated
+Ingredient19	Arginine	Pathway8155	HSP90	31576512:upregulated
+Ingredient147	L-arginine	Pathway1099	AMPK	31576512:regulates
+Ingredient147	L-arginine	Pathway1095	AMP-activated protein kinase	31576512:regulates
+Ingredient147	L-arginine	Pathway8099	HSP	31576512:null
+Ingredient147	L-arginine	Pathway8101	HSP family	31576512:null
+Ingredient147	L-arginine	Pathway1099	AMPK	31576512:activated
+Ingredient147	L-arginine	Pathway761	AICAR	31576512:null
+Ingredient147	L-arginine	Pathway17446	TJ proteins	31576512:null
+Ingredient147	L-arginine	Pathway17447	TJ proteins ZO-1	31576512:null
+Ingredient147	L-arginine	Pathway1099	AMPK	31576512:null
+Ingredient55	cholesterol	Pathway10612	mevalonate pyrophosphate decarboxylase	31587341:null
+Ingredient55	cholesterol	Pathway11203	MPD	31587341:null
+Ingredient55	cholesterol	Pathway16623	squalene epoxidase	31587341:null
+Ingredient55	cholesterol	Pathway16621	SQE	31587341:null
+Ingredient55	cholesterol	Pathway16749	sterol 14-demethylase	31587341:null
+Ingredient55	cholesterol	Pathway4477	CYP51	31587341:null
+Ingredient55	cholesterol	Pathway10603	methylsterol monooxygenase	31587341:null
+Ingredient55	cholesterol	Pathway15671	SC4MOL	31587341:null
+Ingredient55	cholesterol	Pathway8082	HSD17B7	31587341:null
+Ingredient55	cholesterol	Pathway11203	MPD	31587341:responsible
+Ingredient55	cholesterol	Pathway16621	SQE	31587341:responsible
+Ingredient55	cholesterol	Pathway8082	HSD17B7	31587341:responsible
+Ingredient146	lanosterol	Pathway16749	sterol 14-demethylase	31587341:null
+Ingredient146	lanosterol	Pathway4477	CYP51	31587341:null
+Ingredient146	lanosterol	Pathway10603	methylsterol monooxygenase	31587341:null
+Ingredient146	lanosterol	Pathway15671	SC4MOL	31587341:null
+Ingredient146	lanosterol	Pathway8082	HSD17B7	31587341:null
+Ingredient229	serine	Pathway13289	peptidase A1 gene	31601092:null
+Ingredient229	serine	Pathway15054	requirement serine peptidase	31601092:null
+Ingredient229	serine	Pathway13289	peptidase A1 gene	31601092:termed
+Ingredient229	serine	Pathway15054	requirement serine peptidase	31601092:termed
+Ingredient229	serine	Pathway8330	human high-temperature requirement serine peptidase	31601092:null
+Ingredient229	serine	Pathway11456	Mut-high-temperature requirement serine peptidase	31601092:termed
+Ingredient229	serine	Pathway11456	Mut-high-temperature requirement serine peptidase	31601092:null
+Ingredient229	serine	Pathway13289	peptidase A1 gene	31601092:generated
+Ingredient229	serine	Pathway15054	requirement serine peptidase	31601092:generated
+Ingredient229	serine	Pathway11456	Mut-high-temperature requirement serine peptidase	31601092:generated
+Ingredient230	serotonin	Pathway3551	CGRP	31643527:associated
+Ingredient230	serotonin	Pathway15864	serotonin receptor	31643527:null
+Ingredient108	glucose	Pathway9021	insulin	31646121:work
+Ingredient6	adenine	Pathway4819	DEX	31654225:null
+Ingredient6	adenine	Pathway4820	DEX + RAPA	31654225:null
+Ingredient108	glucose	Pathway4819	DEX	31654225:null
+Ingredient108	glucose	Pathway4820	DEX + RAPA	31654225:null
+Ingredient108	Glucose	Pathway17904	TSC2	31654225:Inducing
+Ingredient108	Glucose	Pathway11353	mTOR	31654225:Inducing
+Ingredient108	glucose	Pathway10470	MEG3	31656272:up-regulated
+Ingredient108	glucose	Pathway10470	MEG3	31656272:cleaved
+Ingredient82	dopamine	Pathway13616	PKAN	31660701:null
+Ingredient82	dopamine	Pathway13037	Pank2	31660701:null
+Ingredient82	dopamine	Pathway4003	complex I	31660701:null
+Ingredient82	dopamine	Pathway14638	pyruvate dehydrogenase	31660701:null
+Ingredient55	cholesterol	Pathway9768	LDL-cholesterol	31664920:null
+Ingredient55	cholesterol	Pathway13171	PCSK9	31664920:null
+Ingredient105	ginkgolide	Pathway12980	PAF	31691373:has
+Ingredient105	ginkgolide	Pathway13796	platelet activating factor	31691373:has
+Ingredient105	Ginkgolide	Pathway17785	TRIM37	31691373:protects
+Ingredient236	sphingomyelin	Pathway16569	Sphingomyelin synthase 2	31718447:null
+Ingredient236	sphingomyelin	Pathway16364	SMS2	31718447:null
+Ingredient236	sphingomyelin	Pathway16566	sphingomyelin	31718447:null
+Ingredient236	Sphingomyelin	Pathway16567	Sphingomyelin Synthase	31718447:null
+Ingredient236	Sphingomyelin	Pathway16569	Sphingomyelin synthase 2	31718447:null
+Ingredient236	Sphingomyelin	Pathway16364	SMS2	31718447:null
+Ingredient236	Sphingomyelin	Pathway16566	sphingomyelin	31718447:null
+Ingredient163	lysine	Pathway12055	NGF	31720014:developed
+Ingredient163	lysine	Pathway12059	NGF loop 4	31720014:developed
+Ingredient163	lysine	Pathway17796	TrkA receptors	31720014:developed
+Ingredient163	lysine	Pathway6759	GK-2	31720014:null
+Ingredient163	lysine	Pathway6759	GK-2	31720014:developed
+Ingredient163	lysine	Pathway13557	PI3K	31720014:developed
+Ingredient163	lysine	Pathway781	AKT	31720014:developed
+Ingredient163	lysine	Pathway10289	MAPK	31720014:has
+Ingredient114	glycine	Pathway5217	EGF	31720972:null
+Ingredient162	lycine	Pathway5217	EGF	31720972:null
+Ingredient60	cocaine	Pathway6604	GCPII	31730793:null
+Ingredient109	glutamate	Pathway6887	glutamate carboxypeptidase II	31730793:null
+Ingredient109	glutamate	Pathway6604	GCPII	31730793:null
+Ingredient109	glutamate	Pathway10639	mGluR3	31730793:null
+Ingredient120	guanosine	Pathway8879	IL-6	31738890:null
+Ingredient120	guanosine	Pathway17984	Tumor necrosis factor-alpha	31738890:immunoassayed;
+Ingredient120	guanosine	Pathway9125	interleukin 6	31738890:null
+Ingredient120	guanosine	Pathway13784	plasminogen activator-inhibitor 1	31738890:null
+Ingredient120	guanosine	Pathway12992	PAI-1	31738890:null
+Ingredient120	guanosine	Pathway17336	thrombomodulin	31738890:null
+Ingredient120	guanosine	Pathway17486	TM	31738890:null
+Ingredient259	tyrosine	Pathway3784	CLNs	31757960:null
+Ingredient259	tyrosine	Pathway17744	transmembrane tyrosine kinase	31757960:null
+Ingredient55	cholesterol	Pathway18686	X receptor	31759199:null
+Ingredient55	cholesterol	Pathway17734	transintestinal cholesterol	31759199:null
+Ingredient55	cholesterol	Pathway13676	plasma cholesterol	31759199:null
+Ingredient55	cholesterol	Pathway10112	LXR	31759199:act
+Ingredient55	cholesterol	Pathway10113	LXR agonist	31759199:act
+Ingredient55	cholesterol	Pathway10112	LXR	31759199:null
+Ingredient55	cholesterol	Pathway10113	LXR agonist	31759199:null
+Ingredient55	cholesterol	Pathway10112	LXR	31759199:acted
+Ingredient55	cholesterol	Pathway10113	LXR agonist	31759199:acted
+Ingredient55	cholesterol	Pathway11222	MRAS	31770223:contribute
+Ingredient55	cholesterol	Pathway11223	MRAS rs40593	31770223:contribute
+Ingredient55	cholesterol	Pathway16726	Statins	31775872:null
+Ingredient224	ribose	Pathway13109	PARP-1	31792665:null
+Ingredient224	ribose	Pathway762	AIF	31792665:null
+Ingredient224	ribose	Pathway13061	PAR	31792665:null
+Ingredient224	ribose	Pathway14025	polymerase-1	31792665:null
+Ingredient224	ribose	Pathway3066	caspase	31792665:null
+Ingredient224	ribose	Pathway13995	Poly(ADP-ribose)	31792665:null
+Ingredient109	glutamate	Pathway10878	miR-3068-3p	31792968:null
+Ingredient109	glutamate	Pathway10878	miR-3068-3p	31792968:up-regulated;
+Ingredient167	melatonin	Pathway16711	STAT3	31793209:inhibited
+Ingredient167	melatonin	Pathway16711	STAT3	31793209:null
+Ingredient167	Melatonin	Pathway10505	Melatonin	31793209:null
+Ingredient167	Melatonin	Pathway16711	STAT3	31793209:modulating
+Ingredient167	Melatonin	Pathway16711	STAT3	31793209:ameliorates
+Ingredient126	histamine	Pathway7836	histamine 2	31796246:null
+Ingredient229	serine	Pathway15833	serine protease	31796853:null
+Ingredient229	serine	Pathway8184	HTRA1	31796853:null
+Ingredient229	serine	Pathway1138	Ang II	31802381:initiating
+Ingredient229	serine	Pathway18090	tyrosine kinases	31802381:null
+Ingredient248	threonine	Pathway1138	Ang II	31802381:initiating
+Ingredient248	threonine	Pathway18090	tyrosine kinases	31802381:null
+Ingredient259	tyrosine	Pathway1138	Ang II	31802381:initiating
+Ingredient259	tyrosine	Pathway18090	tyrosine kinases	31802381:null
+Ingredient114	glycine	Pathway3895	COL4A1	31808207:null
+Ingredient162	lycine	Pathway3895	COL4A1	31808207:null
+Ingredient7	adenosine	Pathway622	adenosine receptor	31811731:null
+Ingredient7	adenosine	Pathway625	adenosine receptors	31811731:null
+Ingredient7	adenosine	Pathway7358	HA	31811731:decreased
+Ingredient7	adenosine	Pathway7358	HA	31811731:null
+Ingredient7	adenosine	Pathway616	adenosine kinase	31811731:null
+Ingredient7	Adenosine	Pathway622	adenosine receptor	31811731:inhibits
+Ingredient7	Adenosine	Pathway15610	S-adenosylhomocysteine	31811731:act
+Ingredient7	Adenosine	Pathway15614	SAH	31811731:act
+Ingredient7	Adenosine	Pathway8512	hydrolase	31811731:act
+Ingredient7	Adenosine	Pathway622	adenosine receptor	31811731:null
+Ingredient7	Adenosine	Pathway625	adenosine receptors	31811731:null
+Ingredient168	methionine	Pathway15610	S-adenosylhomocysteine	31811731:null
+Ingredient168	methionine	Pathway15614	SAH	31811731:null
+Ingredient168	methionine	Pathway8512	hydrolase	31811731:null
+Ingredient108	glucose	Pathway12456	Nrf2	31812555:null
+Ingredient230	serotonin	Pathway17890	tryptophan for serotonin	31817010:null
+Ingredient257	tryptophan	Pathway17884	TRYCATs	31817010:null
+Ingredient257	tryptophan	Pathway17890	tryptophan for serotonin	31817010:null
+Ingredient108	glucose	Pathway18654	Wnt	31819940:activate
+Ingredient108	glucose	Pathway4345	CyclinD1	31819940:increase
+Ingredient109	glutamate	Pathway11784	NDRG2	31834421:null
+Ingredient108	glucose	Pathway16463	sodium glucose cotransporter 2 inhibitors	31841369:null
+Ingredient229	serine	Pathway781	Akt	31842576:null
+Ingredient229	serine	Pathway13448	phosphatidylinositol-3-kinase	31842576:null
+Ingredient229	serine	Pathway13491	phosphoinositide 3-kinase	31842576:null
+Ingredient229	serine	Pathway13557	PI3K	31842576:null
+Ingredient229	serine	Pathway14374	protein kinase B	31842576:null
+Ingredient229	serine	Pathway15853	serine-threonine protein kinase Akt	31842576:null
+Ingredient248	threonine	Pathway781	Akt	31842576:null
+Ingredient248	threonine	Pathway13448	phosphatidylinositol-3-kinase	31842576:null
+Ingredient248	threonine	Pathway13491	phosphoinositide 3-kinase	31842576:null
+Ingredient248	threonine	Pathway13557	PI3K	31842576:null
+Ingredient248	threonine	Pathway14374	protein kinase B	31842576:null
+Ingredient248	threonine	Pathway15853	serine-threonine protein kinase Akt	31842576:null
+Ingredient108	glucose	Pathway7424	HbA1c	31844422:null
+Ingredient6	adenine	Pathway13619	PKC	31847503:null
+Ingredient6	adenine	Pathway781	Akt	31847503:null
+Ingredient6	adenine	Pathway14376	protein kinase C	31847503:null
+Ingredient6	adenine	Pathway12355	NOX	31847503:null
+Ingredient179	nicotinamide	Pathway13619	PKC	31847503:null
+Ingredient179	nicotinamide	Pathway781	Akt	31847503:null
+Ingredient179	nicotinamide	Pathway14376	protein kinase C	31847503:null
+Ingredient179	nicotinamide	Pathway12355	NOX	31847503:null
+Ingredient108	glucose	Pathway15211	RMST	31852624:null
+Ingredient108	glucose	Pathway12456	Nrf2	31856386:null
+Ingredient108	glucose	Pathway12463	Nrf2 siRNA	31856386:null
+Ingredient108	glucose	Pathway880	ALP	31856386:null
+Ingredient55	cholesterol	Pathway11315	MTHFR (methylenetetrahydrofolate reductase) C677T CT	31865785:null
+Ingredient108	glucose	Pathway11315	MTHFR (methylenetetrahydrofolate reductase) C677T CT	31865785:null
+Ingredient108	glucose	Pathway13557	PI3K	31870893:null
+Ingredient108	glucose	Pathway781	Akt	31870893:null
+Ingredient108	glucose	Pathway13189	PDCD4	31870893:null
+Ingredient108	glucose	Pathway10886	MiR-340-5p	31870893:null
+Ingredient108	glucose	Pathway10886	miR-340-5p	31870893:null
+Ingredient108	glucose	Pathway12612	OGDR	31870893:null
+Ingredient108	glucose	Pathway14749	RAN	31885705:null
+Ingredient108	glucose	Pathway18654	Wnt	31907363:null
+Ingredient7	adenosine	Pathway614	adenosine deaminase 2	31916720:null
+Ingredient7	adenosine	Pathway614	adenosine deaminase 2	31916720:encodes
+Ingredient7	adenosine	Pathway4706	DADA2	31916720:null
+Ingredient7	adenosine	Pathway3477	CECR1	31916720:null
+Ingredient7	adenosine	Pathway3139	cat	31916720:null
+Ingredient7	adenosine	Pathway5473	enzyme adenosine deaminase 2	31916720:encodes
+Ingredient7	adenosine	Pathway5473	enzyme adenosine deaminase 2	31916720:null

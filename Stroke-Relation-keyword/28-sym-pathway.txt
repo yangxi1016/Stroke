@@ -1,0 +1,1418 @@
+Entity1ID	Entity1	Entity2ID	Entity2	PMID:keyword
+Pathway643	ADHD	Symptom9	OTC	24199608:null
+Pathway643	ADHD	Symptom9	SHR	23525202:null
+Pathway643	ADHD	Symptom9	SHRSP	23525202:null
+Pathway643	ADHD	Symptom9	Spontaneously hypertensive rats	23525202:null
+Pathway643	ADHD	Symptom9	ADHD	23525202:null
+Pathway643	ADHD	Symptom9	Crem	23525202:null
+Pathway643	ADHD	Symptom9	low density lipoprotein receptor	23525202:null
+Pathway643	ADHD	Symptom9	Ldlr	23525202:null
+Pathway643	ADHD	Symptom9	SHR	26165378:null
+Pathway643	ADHD	Symptom9	ADHD	26165378:null
+Pathway643	ADHD	Symptom9	Huntington\'s disease	26165378:null
+Pathway14686	RA	Symptom551	ANG II	396066:null
+Pathway14686	RA	Symptom551	PRA	396066:null
+Pathway14686	RA	Symptom551	Plasma ANG II	396066:null
+Pathway14686	RA	Symptom551	ANG I	396066:null
+Pathway14686	RA	Symptom551	log plasm renin	396066:null
+Pathway17370	TIA	Symptom657	betahistine HC1	1092033:null
+Pathway14686	RA	Symptom551	RAP	1721169:null
+Pathway14686	RA	Symptom551	right atrial appendage	1721169:null
+Pathway14686	RA	Symptom551	ANP	1829435:null
+Pathway14686	RA	Symptom551	Plasma ANP	1829435:null
+Pathway14686	RA	Symptom551	PRAZ	2166617:null
+Pathway14686	RA	Symptom551	alpha 1 NE receptors	2166617:null
+Pathway14686	RA	Symptom551	HAL	2166617:null
+Pathway14686	RA	Symptom551	anti-nuclear-antibody	2357421:null
+Pathway17370	TIA	Symptom657	TIA	2516954:null
+Pathway17370	TIA	Symptom657	PRIND	2516954:null
+Pathway14686	RA	Symptom551	RAP	2856703:null
+Pathway14686	RA	Symptom551	NF-H	3138108:null
+Pathway14686	RA	Symptom551	human NF-H gene	3138108:null
+Pathway14686	RA	Symptom551	smaller NF proteins	3138108:null
+Pathway14686	RA	Symptom551	NF-M	3138108:null
+Pathway17370	TIA	Symptom657	PTX	3881263:null
+Pathway17370	TIA	Symptom657	TIA recurrences	3881263:null
+Pathway17370	TIA	Symptom657	PTX	3881263:recorded
+Pathway17370	TIA	Symptom657	PTX group	3881263:null
+Pathway14686	RA	Symptom551	PRA	6399253:null
+Pathway14686	RA	Symptom551	renin	6399253:null
+Pathway14686	RA	Symptom551	plasma renin	6399253:null
+Pathway14686	RA	Symptom551	NIC	6399253:null
+Pathway17370	TIA	Symptom657	CBF	6609227:null
+Pathway17370	TIA	Symptom657	TIA	7072482:null
+Pathway14686	RA	Symptom551	RAP	7092400:null
+Pathway14686	RA	Symptom551	MBP	7527821:responsible
+Pathway14686	RA	Symptom551	tRA	7527821:null
+Pathway14686	RA	Symptom551	MBP	7527821:null
+Pathway14686	RA	Symptom551	IL-4	7527821:null
+Pathway14686	RA	Symptom551	11B11	7527821:null
+Pathway14686	RA	Symptom551	IL-4 mRNA	7527821:resulted
+Pathway14686	RA	Symptom551	IL-2	7527821:resulted
+Pathway14686	RA	Symptom551	TNF-alpha	7527821:resulted
+Pathway14686	RA	Symptom551	IFN-gamma	7527821:resulted
+Pathway14686	RA	Symptom551	IL-4	7527821:resulted
+Pathway14686	RA	Symptom551	MBP	7527821:inhibited
+Pathway14686	RA	Symptom551	RAS	7613528:null
+Pathway14686	RA	Symptom551	CEIs	7613528:null
+Pathway14686	RA	Symptom551	renin	7613528:null
+Pathway14686	RA	Symptom551	angiotensinogen in	7613528:null
+Pathway14686	RA	Symptom551	RAS	7613528:particular
+Pathway14686	RA	Symptom551	renin	7613528:particular
+Pathway14686	RA	Symptom551	angiotensinogen in	7613528:particular
+Pathway14686	RA	Symptom551	CEIs	7613528:particular
+Pathway14686	RA	Symptom551	renin-angiotensin system	7613528:null
+Pathway14686	RA	Symptom551	plasma renin-angiotensin system	7613528:null
+Pathway14686	RA	Symptom551	CEIs	7613528:is
+Pathway14686	RA	Symptom551	BDNF	7854051:null
+Pathway17601	toxins	Symptom670	BDNF	7854051:null
+Pathway17601	toxins	Symptom670	ABP	7903532:examined
+Pathway17601	toxins	Symptom670	p26-Bcl-2 protein	7903532:examined
+Pathway17601	toxins	Symptom670	Bcl-2	7903532:examined
+Pathway14686	RA	Symptom551	cyclin D1	8022789:null
+Pathway14686	RA	Symptom551	cyclin A	8022789:null
+Pathway14686	RA	Symptom551	cyclins	8022789:null
+Pathway14686	RA	Symptom551	cyclins	8022789:induced
+Pathway14686	RA	Symptom551	PAP	8437348:null
+Pathway14686	RA	Symptom551	renin	8480501:null
+Pathway14686	RA	Symptom551	angiotensin	8480501:null
+Pathway14686	RA	Symptom551	GABAA receptor	8522959:null
+Pathway14686	RA	Symptom551	glutamate decarboxylase	8522959:null
+Pathway14686	RA	Symptom551	tetanus toxin	8522959:null
+Pathway14686	RA	Symptom551	nestin	8522959:null
+Pathway17370	TIA	Symptom657	M235T	8523390:null
+Pathway14686	RA	Symptom551	RAS	8735183:null
+Pathway14686	RA	Symptom551	ANG I	8735183:null
+Pathway14686	RA	Symptom551	ANG II	8735183:null
+Pathway14686	RA	Symptom551	renin	8735183:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	8735183:null
+Pathway17601	toxins	Symptom670	NMDA	8747758:null
+Pathway14686	RA	Symptom551	RAP	8907133:null
+Pathway17370	TIA	Symptom657	TIA	8981292:null
+Pathway17601	toxins	Symptom670	hemoglobin	9312831:null
+Pathway17601	toxins	Symptom670	hemoglobins	9312831:null
+Pathway14686	RA	Symptom551	RANTES	9501225:null
+Pathway14686	RA	Symptom551	macrophage inflammatory protein-1alpha	9501225:null
+Pathway14686	RA	Symptom551	macrophage inflammatory protein-1beta	9501225:null
+Pathway17370	TIA	Symptom657	APC	9555645:null
+Pathway17370	TIA	Symptom657	MTHFR	9562260:dependent
+Pathway17370	TIA	Symptom657	reductase	9562260:null
+Pathway17370	TIA	Symptom657	MTHFR	9562260:null
+Pathway14686	RA	Symptom551	iNOS	9575170:null
+Pathway17601	toxins	Symptom670	HIV-1 envelope protein	9597152:null
+Pathway17601	toxins	Symptom670	gp120	9597152:null
+Pathway14686	RA	Symptom551	rt-PA	9782735:null
+Pathway14686	RA	Symptom551	AF	9809905:null
+Pathway14686	RA	Symptom551	CARAF	9809905:null
+Pathway17370	TIA	Symptom657	TIA	9951075:null
+Pathway17370	TIA	Symptom657	serum triiodothyroidoglobulin	10073023:observed
+Pathway17370	TIA	Symptom657	TIA	10473907:null
+Pathway17601	toxins	Symptom670	AMPA receptors	10514878:inhibit
+Pathway17601	toxins	Symptom670	polyamine toxins	10514878:null
+Pathway17601	toxins	Symptom670	AMPA receptors	10514878:null
+Pathway17601	toxins	Symptom670	AMPA receptor	10514878:null
+Pathway17370	TIA	Symptom657	TIA	10532646:null
+Pathway17601	toxins	Symptom670	C3a	10683302:null
+Pathway17601	toxins	Symptom670	C5a	10683302:null
+Pathway17601	toxins	Symptom670	superoxide dismutase	10698074:null
+Pathway14686	RA	Symptom551	urine protein	10841431:reduced
+Pathway14686	RA	Symptom551	PRA 2	10841431:null
+Pathway14686	RA	Symptom551	plasma renin	10841431:null
+Pathway14686	RA	Symptom551	urine protein	10841431:null
+Pathway17370	TIA	Symptom657	SAH	10878439:highest
+Pathway17370	TIA	Symptom657	SAH	10878439:null
+Pathway17370	TIA	Symptom657	4G/4G genotype"	10971410:null
+Pathway17370	TIA	Symptom657	4G/4G genotype"	10971410:found
+Pathway14686	RA	Symptom551	renin-angiotensin	10994756:null
+Pathway17370	TIA	Symptom657	TIA	11092100:null
+Pathway14686	RA	Symptom551	CD45RA	11120926:null
+Pathway14686	RA	Symptom551	CD27	11120926:null
+Pathway14686	RA	Symptom551	CD8	11120926:null
+Pathway14686	RA	Symptom551	HAM	11120926:increased
+Pathway14686	RA	Symptom551	TSP	11120926:increased
+Pathway14686	RA	Symptom551	CD8	11120926:measured
+Pathway14686	RA	Symptom551	HAM	11120926:measured
+Pathway14686	RA	Symptom551	TSP	11120926:measured
+Pathway14686	RA	Symptom551	rat D(2) gene	11259491:found
+Pathway17370	TIA	Symptom657	TIA	11270126:null
+Pathway14686	RA	Symptom551	RAA	11270588:null
+Pathway14686	RA	Symptom551	renin	11270588:null
+Pathway14686	RA	Symptom551	insulin resistance/hyperinsulinemia	11270588:related
+Pathway17370	TIA	Symptom657	t-MTHFR allele	11307798:null
+Pathway17370	TIA	Symptom657	TIA	11307798:null
+Pathway17370	TIA	Symptom657	methylenetetrahydrofolate reductase allele	11307798:homozygous
+Pathway17370	TIA	Symptom657	ALG2	11456315:null
+Pathway17370	TIA	Symptom657	APP	11456315:null
+Pathway17370	TIA	Symptom657	CASP3	11456315:null
+Pathway17370	TIA	Symptom657	CLU	11456315:null
+Pathway17370	TIA	Symptom657	ERCC3	11456315:null
+Pathway17370	TIA	Symptom657	GADD34	11456315:null
+Pathway17370	TIA	Symptom657	GADD153	11456315:null
+Pathway17370	TIA	Symptom657	IGFBP2	11456315:null
+Pathway17370	TIA	Symptom657	TIAR	11456315:null
+Pathway17370	TIA	Symptom657	VEGF	11456315:null
+Pathway17370	TIA	Symptom657	VIM	11456315:null
+Pathway17601	toxins	Symptom670	particular protein kinase	11589691:exert
+Pathway17370	TIA	Symptom657	TIA	11641864:null
+Pathway17370	TIA	Symptom657	TIA	11684067:null
+Pathway17601	toxins	Symptom670	exogenous toxins	11706061:null
+Pathway17370	TIA	Symptom657	Notch3 gene	11718749:null
+Pathway14686	RA	Symptom551	renin	11724216:null
+Pathway14686	RA	Symptom551	renin	11724758:null
+Pathway14686	RA	Symptom551	PRA	11724758:null
+Pathway14686	RA	Symptom551	renin mRNA	11724758:null
+Pathway14686	RA	Symptom551	plasma renin	11724758:null
+Pathway17370	TIA	Symptom657	Notch3 gene	11757773:null
+Pathway17370	TIA	Symptom657	Notch3	11757773:null
+Pathway14686	RA	Symptom551	RAS	11835903:null
+Pathway14686	RA	Symptom551	AT(1) receptor	11835903:null
+Pathway14686	RA	Symptom551	ACE	11835903:null
+Pathway14686	RA	Symptom551	bradykinin	11835903:increased
+Pathway14686	RA	Symptom551	angiotensin II	11835903:preventing
+Pathway14686	RA	Symptom551	Angiotensin-converting enzyme	11835903:null
+Pathway14686	RA	Symptom551	angiotensin I	11835903:preventing
+Pathway14686	RA	Symptom551	renin-angiotensin	11835903:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	11835903:null
+Pathway14686	RA	Symptom551	angiotensin II	11835903:null
+Pathway14686	RA	Symptom551	angiotensin I	11835903:null
+Pathway17601	toxins	Symptom670	C3a	11948810:null
+Pathway17601	toxins	Symptom670	C5a	11948810:null
+Pathway17370	TIA	Symptom657	TIA	11975816:null
+Pathway14686	RA	Symptom551	TRAIL	12082547:null
+Pathway14686	RA	Symptom551	TRAIL	12082547:resulted
+Pathway14686	RA	Symptom551	ACTH	12107222:null
+Pathway14686	RA	Symptom551	plasma renin	12107222:null
+Pathway14686	RA	Symptom551	11 beta-hydroxylase	12107222:originating
+Pathway14686	RA	Symptom551	CYP11B1	12107222:originating
+Pathway14686	RA	Symptom551	aldosterone synthase	12107222:originating
+Pathway14686	RA	Symptom551	CYP11B2	12107222:originating
+Pathway17370	TIA	Symptom657	TIA	12122983:null
+Pathway17370	TIA	Symptom657	PT	12140089:null
+Pathway17370	TIA	Symptom657	TIA	12140089:null
+Pathway17370	TIA	Symptom657	PT 20210A	12140089:null
+Pathway17370	TIA	Symptom657	PT G20210A	12140089:null
+Pathway14686	RA	Symptom551	angiotensin-converting enzyme	12183849:null
+Pathway17370	TIA	Symptom657	TIA	12194815:null
+Pathway14686	RA	Symptom551	HLA	12373032:increased
+Pathway14686	RA	Symptom551	DRB1	12373032:increased
+Pathway14686	RA	Symptom551	DRB1	12373032:null
+Pathway14686	RA	Symptom551	haplotype DRB1*0802-DRA1*0401-DQB1*0402 DRB1*0802-DRA1*0401-DQB1*0402"	12373032:null
+Pathway14686	RA	Symptom551	DRB1	12373032:defining
+Pathway14686	RA	Symptom551	haplotype DRB1*0802-DRA1*0401-DQB1*0402 DRB1*0802-DRA1*0401-DQB1*0402"	12373032:defining
+Pathway14686	RA	Symptom551	RAS	12456049:null
+Pathway14686	RA	Symptom551	renin angiotensin system	12456049:null
+Pathway14686	RA	Symptom551	RAS	12456050:null
+Pathway14686	RA	Symptom551	angiotensinogen gene	12456050:null
+Pathway14686	RA	Symptom551	angiotensinogen	12456050:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	12456050:null
+Pathway17601	toxins	Symptom670	adenosine A1	12575824:null
+Pathway17601	toxins	Symptom670	A2 andA3 receptors	12575824:null
+Pathway17370	TIA	Symptom657	A2	12586134:null
+Pathway17370	TIA	Symptom657	PLA1	12586134:null
+Pathway17370	TIA	Symptom657	platelet glycoprotein receptor IIb/IIIa	12586134:null
+Pathway17370	TIA	Symptom657	TIA	12661115:null
+Pathway17370	TIA	Symptom657	ASA	12698015:null
+Pathway17370	TIA	Symptom657	SPS3	12698015:null
+Pathway17370	TIA	Symptom657	ATARI	12698015:null
+Pathway17370	TIA	Symptom657	ASA	12698015:superior
+Pathway17370	TIA	Symptom657	TIA	12813835:null
+Pathway14686	RA	Symptom551	ACE	12904148:utilised
+Pathway14686	RA	Symptom551	angiotensin II receptor	12904148:null
+Pathway14686	RA	Symptom551	angiotensin II Type 1 (AT(1)) receptor--angiotensin II receptor	12904148:null
+Pathway17370	TIA	Symptom657	ACE	14631575:null
+Pathway17370	TIA	Symptom657	angiotensin- converting enzyme	14689105:null
+Pathway17370	TIA	Symptom657	ACE	14689105:null
+Pathway14686	RA	Symptom551	DHPs	14689111:composed
+Pathway17601	toxins	Symptom670	CREB	14766349:null
+Pathway14686	RA	Symptom551	PRAS	14973226:inhibited
+Pathway14686	RA	Symptom551	PRAS	14973226:null
+Pathway14686	RA	Symptom551	pPRAS	14973226:inhibited
+Pathway14686	RA	Symptom551	pPRAS	14973226:null
+Pathway14686	RA	Symptom551	pPRAS	14973226:promoted
+Pathway14686	RA	Symptom551	pPRAS cDNA	14973226:inhibited
+Pathway14686	RA	Symptom551	pPRAS cDNA	14973226:null
+Pathway14686	RA	Symptom551	Akt	14973226:null
+Pathway14686	RA	Symptom551	PRAS	14973226:detected
+Pathway14686	RA	Symptom551	pPRAS	14973226:detected
+Pathway14686	RA	Symptom551	pAkt	14973226:null
+Pathway14686	RA	Symptom551	Akt	14973226:pPRAS/phosphorylated
+Pathway14686	RA	Symptom551	PRAS	14973226:pPRAS/phosphorylated
+Pathway14686	RA	Symptom551	pPRAS	14973226:pPRAS/phosphorylated
+Pathway14686	RA	Symptom551	pAkt	14973226:pPRAS/phosphorylated
+Pathway14686	RA	Symptom551	ARAII	15222613:null
+Pathway17370	TIA	Symptom657	TIA	15388902:null
+Pathway14686	RA	Symptom551	Hrd1p	15519674:null
+Pathway14686	RA	Symptom551	apo-B	15699916:null
+Pathway14686	RA	Symptom551	apo-E	15699916:null
+Pathway14686	RA	Symptom551	LPL	15699916:null
+Pathway14686	RA	Symptom551	PPARA	15699916:null
+Pathway14686	RA	Symptom551	PPARG2 genes	15699916:null
+Pathway17370	TIA	Symptom657	CADASIL	15876982:null
+Pathway14686	RA	Symptom551	angiotensin receptor	15984907:present
+Pathway14686	RA	Symptom551	RAS	15984907:null
+Pathway14686	RA	Symptom551	peptide hormone	15984907:established
+Pathway14686	RA	Symptom551	renin-angiotensin system	15984907:null
+Pathway17370	TIA	Symptom657	HSP70	15992611:be
+Pathway17370	TIA	Symptom657	HSP70-2	15992611:be
+Pathway14686	RA	Symptom551	Stat3	15998296:resulted
+Pathway14686	RA	Symptom551	IL-6	15998296:null
+Pathway14686	RA	Symptom551	IL-6RA	15998296:null
+Pathway14686	RA	Symptom551	phosphorylated signal transducer and activator of transcription-3	15998296:resulted
+Pathway14686	RA	Symptom551	IL-6	15998296:blocks
+Pathway14686	RA	Symptom551	anti-mouse IL-6 receptor monoclonal antibody	15998296:null
+Pathway14686	RA	Symptom551	ACE2	16009403:(vii)
+Pathway14686	RA	Symptom551	RAS	16009403:(vii)
+Pathway14686	RA	Symptom551	RAS	16009403:null
+Pathway14686	RA	Symptom551	ACE2 enzyme	16009403:(vii)
+Pathway14686	RA	Symptom551	ACE	16009403:(vii)
+Pathway14686	RA	Symptom551	RAS;	16009403:null
+Pathway14686	RA	Symptom551	vii	16009403:null
+Pathway14686	RA	Symptom551	vii	16009403:(vii)
+Pathway14686	RA	Symptom551	ACE2	16009403:design;
+Pathway14686	RA	Symptom551	RAS	16009403:design;
+Pathway14686	RA	Symptom551	ACE2 enzyme	16009403:design;
+Pathway14686	RA	Symptom551	ACE	16009403:design;
+Pathway14686	RA	Symptom551	ACE	16009403:(v)
+Pathway14686	RA	Symptom551	RAS;	16009403:design;
+Pathway14686	RA	Symptom551	vii	16009403:design;
+Pathway14686	RA	Symptom551	ACE2	16009403:null
+Pathway14686	RA	Symptom551	angiotensin-converting enzyme 2	16009403:null
+Pathway14686	RA	Symptom551	ACE	16009403:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	16009403:null
+Pathway17370	TIA	Symptom657	TIA	16139120:null
+Pathway14686	RA	Symptom551	RA	16170682:null
+Pathway14686	RA	Symptom551	cyclooxygenase	16170682:influence
+Pathway14686	RA	Symptom551	RAS	16250855:null
+Pathway14686	RA	Symptom551	RAS	16250855:blunting
+Pathway14686	RA	Symptom551	angiotensin II	16250855:acts
+Pathway14686	RA	Symptom551	angiotensin	16250855:acts
+Pathway14686	RA	Symptom551	RAS	16250855:blocking
+Pathway14686	RA	Symptom551	renin-angiotensin	16250855:become
+Pathway14686	RA	Symptom551	renin-angiotensin system	16250855:become
+Pathway14686	RA	Symptom551	angiotensin	16250855:become
+Pathway17601	toxins	Symptom670	toxins	16267412:null
+Pathway17601	toxins	Symptom670	Exogenous toxins	16267412:null
+Pathway14686	RA	Symptom551	TRAAK	16289892:null
+Pathway14686	RA	Symptom551	TREK	16289892:null
+Pathway14686	RA	Symptom551	TREK/TRAAK K-channel family	16289892:null
+Pathway14686	RA	Symptom551	2P-domain K+ channel family TREK	16289892:null
+Pathway17601	toxins	Symptom670	CP	16344101:null
+Pathway17370	TIA	Symptom657	TIA	16601933:null
+Pathway17370	TIA	Symptom657	TIA	16601933:occurred
+Pathway14686	RA	Symptom551	CGRP	16675892:give
+Pathway14686	RA	Symptom551	amylin	16675892:give
+Pathway14686	RA	Symptom551	adrenomedullin	16675892:give
+Pathway14686	RA	Symptom551	CTR	16675892:null
+Pathway14686	RA	Symptom551	CRLR	16675892:null
+Pathway14686	RA	Symptom551	calcitonin receptor	16675892:null
+Pathway14686	RA	Symptom551	transmembrane G protein-coupled receptors	16675892:null
+Pathway14686	RA	Symptom551	calcitonin receptor- like receptor	16675892:null
+Pathway14686	RA	Symptom551	RAMP family	16675892:null
+Pathway14686	RA	Symptom551	VL30	16730676:yielded
+Pathway14686	RA	Symptom551	VL30 genes	16730676:yielded
+Pathway14686	RA	Symptom551	VL30x-1	16730676:yielded
+Pathway14686	RA	Symptom551	VL30x-2	16730676:yielded
+Pathway17370	TIA	Symptom657	TIA	16822451:null
+Pathway17370	TIA	Symptom657	TIA	16891083:null
+Pathway14686	RA	Symptom551	tyrosine hydroxylase	17335085:displayed
+Pathway14686	RA	Symptom551	RAS	17355164:null
+Pathway14686	RA	Symptom551	renin-angiotensin	17355164:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	17355164:null
+Pathway17370	TIA	Symptom657	TIA	17355554:null
+Pathway17370	TIA	Symptom657	CRP	17355554:had
+Pathway17370	TIA	Symptom657	AG/GG genotype"	17355554:null
+Pathway17370	TIA	Symptom657	CRP	17355554:null
+Pathway17370	TIA	Symptom657	CRP	17355554:found
+Pathway17370	TIA	Symptom657	CRP gene	17355554:null
+Pathway17370	TIA	Symptom657	C-reactive protein	17355554:null
+Pathway14686	RA	Symptom551	ACE	17488145:null
+Pathway14686	RA	Symptom551	angiotensin II receptor	17488145:null
+Pathway14686	RA	Symptom551	albuminuria	17488145:prevent
+Pathway14686	RA	Symptom551	platelet activation;	17488145:null
+Pathway14686	RA	Symptom551	renin-angiotensin	17488145:null
+Pathway14686	RA	Symptom551	insulin	17488145:null
+Pathway14686	RA	Symptom551	RAS	17522061:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	17522061:null
+Pathway14686	RA	Symptom551	COX	17571910:(such
+Pathway14686	RA	Symptom551	COX-2	17571910:(such
+Pathway14686	RA	Symptom551	CS1	17622311:reduced
+Pathway14686	RA	Symptom551	CS2	17622311:reduced
+Pathway17370	TIA	Symptom657	TIA	17928271:null
+Pathway17601	toxins	Symptom670	NAT2	18033638:null
+Pathway14686	RA	Symptom551	RAMP1	18198792:null
+Pathway14686	RA	Symptom551	RAMP2	18198792:null
+Pathway14686	RA	Symptom551	RAMP3	18198792:null
+Pathway14686	RA	Symptom551	CL-R	18198792:null
+Pathway14686	RA	Symptom551	Calcitonin	18198792:null
+Pathway14686	RA	Symptom551	CGRP1-receptor	18198792:null
+Pathway14686	RA	Symptom551	adrenomedullin-receptor	18198792:null
+Pathway14686	RA	Symptom551	RAMP2	18198792:complexed
+Pathway14686	RA	Symptom551	RAMP3	18198792:complexed
+Pathway17601	toxins	Symptom670	LIGHT	18320356:null
+Pathway17601	toxins	Symptom670	L ymphotoxins	18320356:null
+Pathway14686	RA	Symptom551	RAS	18385968:null
+Pathway14686	RA	Symptom551	ACE-2	18385968:includes
+Pathway14686	RA	Symptom551	prorenin	18385968:includes
+Pathway14686	RA	Symptom551	Mas receptors	18385968:includes
+Pathway14686	RA	Symptom551	rats bearing renin	18385968:null
+Pathway14686	RA	Symptom551	angiotensinogen genes	18385968:null
+Pathway14686	RA	Symptom551	A brain renin angiotensin system	18385968:null
+Pathway14686	RA	Symptom551	renin angiotensin	18385968:null
+Pathway14686	RA	Symptom551	RAS	18443751:null
+Pathway14686	RA	Symptom551	angiotensin-converting enzyme	18443751:using
+Pathway14686	RA	Symptom551	AT1 receptor	18443751:using
+Pathway14686	RA	Symptom551	renin-angiotensin system	18443751:null
+Pathway14686	RA	Symptom551	angiotensin II	18443751:null
+Pathway14686	RA	Symptom551	Ang II	18443751:null
+Pathway14686	RA	Symptom551	renin	18443751:null
+Pathway14686	RA	Symptom551	brain renin-angiotensin system	18538311:null
+Pathway14686	RA	Symptom551	RAS	18538311:null
+Pathway17370	TIA	Symptom657	TIA	18611104:null
+Pathway14686	RA	Symptom551	thrombospondin-1	18612314:null
+Pathway14686	RA	Symptom551	CCL5	18612314:null
+Pathway14686	RA	Symptom551	RANTES	18612314:null
+Pathway14686	RA	Symptom551	urokinase plasminogen activator	18612314:null
+Pathway17370	TIA	Symptom657	TIA	18796459:null
+Pathway17370	TIA	Symptom657	FVL	18796459:found
+Pathway17370	TIA	Symptom657	PTG	18796459:found
+Pathway17370	TIA	Symptom657	PTG mutations	18796459:found
+Pathway14686	RA	Symptom551	FRAP	18810639:null
+Pathway14686	RA	Symptom551	fluorescence recovery after photobleaching	18810639:null
+Pathway17601	toxins	Symptom670	and toxins	19005548:null
+Pathway14686	RA	Symptom551	RANK	19008470:null
+Pathway14686	RA	Symptom551	Renin	19018737:null
+Pathway14686	RA	Symptom551	gt	19018737:null
+Pathway14686	RA	Symptom551	ACE	19076077:null
+Pathway14686	RA	Symptom551	AT2R1	19076077:null
+Pathway14686	RA	Symptom551	CYP11B2	19076077:null
+Pathway14686	RA	Symptom551	MTHFR	19076077:null
+Pathway14686	RA	Symptom551	PPARA	19076077:null
+Pathway14686	RA	Symptom551	PPARG2	19076077:null
+Pathway14686	RA	Symptom551	NOS3	19076077:null
+Pathway17370	TIA	Symptom657	statin	19102437:treated
+Pathway14686	RA	Symptom551	ID1	19130216:null
+Pathway14686	RA	Symptom551	ID2	19130216:null
+Pathway14686	RA	Symptom551	ID3	19130216:null
+Pathway14686	RA	Symptom551	CTGF	19130216:null
+Pathway14686	RA	Symptom551	TGFA	19130216:null
+Pathway14686	RA	Symptom551	METRN	19130216:null
+Pathway14686	RA	Symptom551	GFAP	19130216:null
+Pathway14686	RA	Symptom551	CRYAB	19130216:null
+Pathway14686	RA	Symptom551	CSPG3	19130216:null
+Pathway14686	RA	Symptom551	DLL1	19130216:null
+Pathway14686	RA	Symptom551	DLL3	19130216:null
+Pathway14686	RA	Symptom551	PDGFRA	19130216:null
+Pathway14686	RA	Symptom551	SOX4	19130216:null
+Pathway14686	RA	Symptom551	CSPG4	19130216:null
+Pathway14686	RA	Symptom551	GAS1	19130216:null
+Pathway14686	RA	Symptom551	HES5	19130216:null
+Pathway17370	TIA	Symptom657	TIA	19130720:null
+Pathway17370	TIA	Symptom657	TIA	19180562:null
+Pathway17370	TIA	Symptom657	HDL cholesterol	19242492:null
+Pathway17370	TIA	Symptom657	TIA	19264733:null
+Pathway14686	RA	Symptom551	NOS3	19327620:null
+Pathway14686	RA	Symptom551	NOS3	19327620:genotyped
+Pathway14686	RA	Symptom551	TF	19344698:null
+Pathway14686	RA	Symptom551	TRANSFAC	19344698:null
+Pathway14686	RA	Symptom551	RAGE	19347338:null
+Pathway14686	RA	Symptom551	RAGE	19347338:reduces
+Pathway17370	TIA	Symptom657	TIA	19448791:null
+Pathway17370	TIA	Symptom657	ABCD2	19448791:null
+Pathway14686	RA	Symptom551	Case	19455972:null
+Pathway14686	RA	Symptom551	ACE	19491618:null
+Pathway14686	RA	Symptom551	ACE	19491618:examined
+Pathway14686	RA	Symptom551	renin-angiotensin system	19491619:null
+Pathway14686	RA	Symptom551	RAS	19491619:null
+Pathway14686	RA	Symptom551	COX2	19556450:null
+Pathway14686	RA	Symptom551	IL-1beta	19556450:null
+Pathway14686	RA	Symptom551	SHR-SPs	19556450:null
+Pathway14686	RA	Symptom551	renin	19556450:null
+Pathway14686	RA	Symptom551	interleukin-1beta	19556450:null
+Pathway14686	RA	Symptom551	SHR-SP	19556450:null
+Pathway17370	TIA	Symptom657	TIA	19601693:null
+Pathway17370	TIA	Symptom657	TIA	19601693:are
+Pathway17370	TIA	Symptom657	TIA	19601693:go
+Pathway14686	RA	Symptom551	FasL	19628789:null
+Pathway14686	RA	Symptom551	Fas	19628789:null
+Pathway14686	RA	Symptom551	AT1R	19706421:up-regulated
+Pathway14686	RA	Symptom551	CD4+	19706421:up-regulated
+Pathway14686	RA	Symptom551	CD4	19706421:up-regulated
+Pathway14686	RA	Symptom551	RAMP1	19710695:null
+Pathway14686	RA	Symptom551	human RAMP1 gene	19710695:null
+Pathway14686	RA	Symptom551	rs3754701	19710695:null
+Pathway14686	RA	Symptom551	CGRP	19710695:null
+Pathway14686	RA	Symptom551	CGRP	19710695:showed
+Pathway14686	RA	Symptom551	RAMP1	19710695:showed
+Pathway14686	RA	Symptom551	calcitonin	19710695:null
+Pathway14686	RA	Symptom551	Calcitonin gene-related peptide	19710695:null
+Pathway14686	RA	Symptom551	calcitonin receptor-like receptor	19710695:null
+Pathway14686	RA	Symptom551	protein-1	19710695:null
+Pathway17370	TIA	Symptom657	TIA	19765388:null
+Pathway14686	RA	Symptom551	anti-tumour necrosis factor-alpha	19822058:null
+Pathway14686	RA	Symptom551	TNF-alpha	19822058:null
+Pathway17370	TIA	Symptom657	TIA	19835525:null
+Pathway17370	TIA	Symptom657	TIA	19835525:prevent
+Pathway14686	RA	Symptom551	SDK1	19851296:null
+Pathway14686	RA	Symptom551	SDK1	19851296:associated
+Pathway14686	RA	Symptom551	LF/HF	19938212:null
+Pathway14686	RA	Symptom551	RAS	20036896:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	20036896:null
+Pathway14686	RA	Symptom551	renin	20041369:null
+Pathway14686	RA	Symptom551	RAS	20057897:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	20057897:null
+Pathway14686	RA	Symptom551	RAG1	20215643:null
+Pathway14686	RA	Symptom551	CD8(+)	20215643:null
+Pathway14686	RA	Symptom551	2C	20215643:null
+Pathway14686	RA	Symptom551	RAG2	20215643:null
+Pathway14686	RA	Symptom551	OTI	20215643:null
+Pathway14686	RA	Symptom551	CD4	20215643:null
+Pathway14686	RA	Symptom551	OTII	20215643:null
+Pathway14686	RA	Symptom551	2D2	20215643:null
+Pathway14686	RA	Symptom551	TCR	20215643:null
+Pathway14686	RA	Symptom551	CD28	20215643:null
+Pathway14686	RA	Symptom551	RAG1	20215643:bearing
+Pathway14686	RA	Symptom551	CD8(+)	20215643:bearing
+Pathway14686	RA	Symptom551	2C	20215643:bearing
+Pathway14686	RA	Symptom551	RAG2	20215643:bearing
+Pathway14686	RA	Symptom551	OTI	20215643:bearing
+Pathway14686	RA	Symptom551	CD4	20215643:bearing
+Pathway14686	RA	Symptom551	OTII	20215643:bearing
+Pathway14686	RA	Symptom551	2D2	20215643:bearing
+Pathway14686	RA	Symptom551	TCR	20215643:bearing
+Pathway14686	RA	Symptom551	CD28	20215643:bearing
+Pathway17370	TIA	Symptom657	TIA	20297592:null
+Pathway14686	RA	Symptom551	LDLR	20458492:null
+Pathway14686	RA	Symptom551	LRP1	20458492:null
+Pathway14686	RA	Symptom551	reverse transcriptase	20458492:null
+Pathway14686	RA	Symptom551	LDLR gene	20458492:null
+Pathway14686	RA	Symptom551	RAGE gene	20458492:null
+Pathway14686	RA	Symptom551	amyloid-beta	20458492:null
+Pathway14686	RA	Symptom551	Abeta	20458492:null
+Pathway14686	RA	Symptom551	such as low-density lipoprotein receptor	20458492:null
+Pathway14686	RA	Symptom551	LDL-related protein 1	20458492:null
+Pathway14686	RA	Symptom551	CCB/angiotensin-converting enzyme	20626210:null
+Pathway14686	RA	Symptom551	ACE	20626210:null
+Pathway14686	RA	Symptom551	angiotensin II type 1 receptor 1 receptor"	20626210:null
+Pathway14686	RA	Symptom551	angiotensin receptor	20626210:null
+Pathway14686	RA	Symptom551	renin	20626210:null
+Pathway14686	RA	Symptom551	angiotensin II	20814003:protects
+Pathway14686	RA	Symptom551	calcitonin	20814003:null
+Pathway14686	RA	Symptom551	renin-angiotensin	20975235:null
+Pathway17370	TIA	Symptom657	insulin	21061114:null
+Pathway17370	TIA	Symptom657	insulin	21061114:effective
+Pathway17370	TIA	Symptom657	TIA	21112179:null
+Pathway14686	RA	Symptom551	ACE2	21178125:null
+Pathway14686	RA	Symptom551	ANG	21178125:null
+Pathway14686	RA	Symptom551	Mas	21178125:null
+Pathway14686	RA	Symptom551	RAS	21178125:null
+Pathway14686	RA	Symptom551	angiotensin converting enzyme-2	21178125:null
+Pathway14686	RA	Symptom551	Mas receptor	21178125:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	21178125:null
+Pathway14686	RA	Symptom551	renin	21178125:null
+Pathway14686	RA	Symptom551	lipoprotein lipase	21193198:null
+Pathway14686	RA	Symptom551	integrin A2	21193198:null
+Pathway14686	RA	Symptom551	nitric oxide synthase	21193198:null
+Pathway14686	RA	Symptom551	renin	21228785:null
+Pathway14686	RA	Symptom551	GG genotype"	21228785:null
+Pathway17370	TIA	Symptom657	TIA	21275496:null
+Pathway17370	TIA	Symptom657	TIA	21275496:educating
+Pathway17370	TIA	Symptom657	TIA	21275496:used
+Pathway17370	TIA	Symptom657	TIA	21305857:null
+Pathway14686	RA	Symptom551	SOCS-2	21347238:enhanced
+Pathway14686	RA	Symptom551	TRAF6	21347238:null
+Pathway14686	RA	Symptom551	ASA	21347238:null
+Pathway14686	RA	Symptom551	RAS	21412245:null
+Pathway14686	RA	Symptom551	ACE	21412245:null
+Pathway14686	RA	Symptom551	ACE DD genotype"	21412245:null
+Pathway14686	RA	Symptom551	DD genotype"	21412245:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	21412245:null
+Pathway14686	RA	Symptom551	HTRA1 gene	21482952:null
+Pathway14686	RA	Symptom551	CARASIL	21545006:null
+Pathway14686	RA	Symptom551	HERNS	21545006:null
+Pathway14686	RA	Symptom551	CRV	21545006:null
+Pathway14686	RA	Symptom551	HVR	21545006:null
+Pathway14686	RA	Symptom551	PXE	21545006:null
+Pathway17370	TIA	Symptom657	TIA	21584696:null
+Pathway17370	TIA	Symptom657	TIA	21584696:showed
+Pathway14686	RA	Symptom551	BRAP	21670849:null
+Pathway14686	RA	Symptom551	IKK signalosome	21670849:null
+Pathway14686	RA	Symptom551	monocyte chemoattractant protein-1	21670849:led
+Pathway14686	RA	Symptom551	MCP-1	21670849:led
+Pathway14686	RA	Symptom551	BRCA-1 associated protein gene	21670849:null
+Pathway14686	RA	Symptom551	recombinant tissue plasminogen activator	21709420:null
+Pathway14686	RA	Symptom551	DR	21740002:null
+Pathway14686	RA	Symptom551	tumor necrosis factor receptor	21740002:null
+Pathway14686	RA	Symptom551	TNF-R	21740002:null
+Pathway14686	RA	Symptom551	TNF-R type I I	21740002:null
+Pathway14686	RA	Symptom551	CD95	21740002:null
+Pathway14686	RA	Symptom551	DR3	21740002:null
+Pathway14686	RA	Symptom551	TNF	21740002:null
+Pathway14686	RA	Symptom551	DR6	21740002:null
+Pathway14686	RA	Symptom551	ectodysplasin A (EDA) receptor	21740002:null
+Pathway14686	RA	Symptom551	EDAR	21740002:null
+Pathway14686	RA	Symptom551	nerve growth factor (NGF) receptor	21740002:null
+Pathway14686	RA	Symptom551	NGFR	21740002:null
+Pathway14686	RA	Symptom551	renin-angiotensin	21769789:null
+Pathway14686	RA	Symptom551	ANP	21815745:null
+Pathway14686	RA	Symptom551	BNP	21815745:null
+Pathway14686	RA	Symptom551	NPRA	21815745:null
+Pathway14686	RA	Symptom551	guanylyl cyclase	21815745:null
+Pathway14686	RA	Symptom551	CD40	21876738:null
+Pathway14686	RA	Symptom551	TRAF6	21876738:null
+Pathway14686	RA	Symptom551	p65	21876738:null
+Pathway14686	RA	Symptom551	TRAFs	21876738:null
+Pathway14686	RA	Symptom551	NF-kB-p65	21876738:null
+Pathway14686	RA	Symptom551	NF-kB	21876738:null
+Pathway14686	RA	Symptom551	TRAF proteins	21876738:null
+Pathway14686	RA	Symptom551	TRAF1	21876738:null
+Pathway14686	RA	Symptom551	TRAF2	21876738:null
+Pathway14686	RA	Symptom551	TRAF3	21876738:null
+Pathway14686	RA	Symptom551	TRAF5	21876738:null
+Pathway14686	RA	Symptom551	phospho-NF-kB	21876738:null
+Pathway14686	RA	Symptom551	CD40	21876738:plays
+Pathway14686	RA	Symptom551	TNF receptor associated factor 6	21876738:plays
+Pathway14686	RA	Symptom551	CD40	21876738:essential
+Pathway14686	RA	Symptom551	NF-kappaB	21876738:null
+Pathway14686	RA	Symptom551	R	21921469:null
+Pathway14686	RA	Symptom551	HTRA1 gene	21921469:null
+Pathway14686	RA	Symptom551	CADASIL	21921469:based
+Pathway14686	RA	Symptom551	POLG	22283595:null
+Pathway14686	RA	Symptom551	RARS2	22283595:null
+Pathway14686	RA	Symptom551	Ang II	22447068:plays
+Pathway14686	RA	Symptom551	RAS	22447068:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	22447068:null
+Pathway14686	RA	Symptom551	Herp	22479592:null
+Pathway14686	RA	Symptom551	ERAD	22479592:null
+Pathway14686	RA	Symptom551	Derlin-1	22479592:involving
+Pathway14686	RA	Symptom551	Herp	22479592:reduced
+Pathway14686	RA	Symptom551	Herp	22479592:affected
+Pathway14686	RA	Symptom551	ERAD-related proteins	22479592:null
+Pathway14686	RA	Symptom551	Herp	22479592:generated
+Pathway14686	RA	Symptom551	Derlin-1	22479592:generated
+Pathway14686	RA	Symptom551	RAP	22836863:null
+Pathway14686	RA	Symptom551	FGL2	22836863:null
+Pathway14686	RA	Symptom551	APLP2	22836863:null
+Pathway14686	RA	Symptom551	FC	22836863:null
+Pathway14686	RA	Symptom551	[fold change	22836863:null
+Pathway14686	RA	Symptom551	nitric oxide synthase	22836863:null
+Pathway14686	RA	Symptom551	COL4A1	22868088:null
+Pathway14686	RA	Symptom551	HTRA1 gene	22900900:null
+Pathway14686	RA	Symptom551	Mineralocorticoid receptor	22942339:null
+Pathway14686	RA	Symptom551	hMAPC	22952736:injected
+Pathway14686	RA	Symptom551	hMSC	22952736:injected
+Pathway14686	RA	Symptom551	hMAPCs	22952736:injected
+Pathway14686	RA	Symptom551	hMSCs	22952736:injected
+Pathway14686	RA	Symptom551	Pinocembrin	22989295:null
+Pathway14686	RA	Symptom551	renin	23106292:null
+Pathway14686	RA	Symptom551	angiotensin-converting enzyme	23106292:using
+Pathway14686	RA	Symptom551	angiotensin receptor	23106292:using
+Pathway14686	RA	Symptom551	statins	23106292:blockers
+Pathway14686	RA	Symptom551	RA mRNA	23129018:null
+Pathway17370	TIA	Symptom657	TIA	23136728:null
+Pathway14686	RA	Symptom551	RAS	23176211:null
+Pathway14686	RA	Symptom551	AGTR2	23176211:null
+Pathway14686	RA	Symptom551	G1675 allele	23176211:null
+Pathway14686	RA	Symptom551	Renin-angiotensin system	23176211:null
+Pathway17370	TIA	Symptom657	ABCD2	23194953:null
+Pathway14686	RA	Symptom551	RANTES	23262090:null
+Pathway14686	RA	Symptom551	CCL5	23262090:null
+Pathway14686	RA	Symptom551	Regulated upon Activation Normal T-cell Expressed and Secreted	23262090:null
+Pathway14686	RA	Symptom551	TRAAK	23285272:null
+Pathway14686	RA	Symptom551	metalloproteinase	23313448:used
+Pathway14686	RA	Symptom551	CamVMPII	23313448:used
+Pathway14686	RA	Symptom551	Cam	23313448:used
+Pathway14686	RA	Symptom551	thrombin	23378445:null
+Pathway14686	RA	Symptom551	CYP26A1	23385081:null
+Pathway14686	RA	Symptom551	CYP26B1	23385081:null
+Pathway14686	RA	Symptom551	CYP3A4	23385081:null
+Pathway14686	RA	Symptom551	CYP2C	23385081:null
+Pathway14686	RA	Symptom551	renin	23418282:null
+Pathway14686	RA	Symptom551	SARA	23440543:null
+Pathway14686	RA	Symptom551	ActA	23440543:maintaining
+Pathway14686	RA	Symptom551	Smads	23440543:maintaining
+Pathway14686	RA	Symptom551	Smad2	23440543:assisting
+Pathway14686	RA	Symptom551	ActA	23440543:up-regulated;
+Pathway14686	RA	Symptom551	Smads	23440543:up-regulated;
+Pathway14686	RA	Symptom551	Smad2	23440543:reduced
+Pathway14686	RA	Symptom551	Smad2 protein	23440543:reduced
+Pathway14686	RA	Symptom551	Smad7	23440543:affect
+Pathway14686	RA	Symptom551	IL-6	23593036:null
+Pathway14686	RA	Symptom551	IL-6	23593036:asthma
+Pathway14686	RA	Symptom551	IL-6 receptor gene	23593036:null
+Pathway14686	RA	Symptom551	IL6R Asp358Ala	23593036:null
+Pathway14686	RA	Symptom551	rs2228145	23593036:null
+Pathway14686	RA	Symptom551	IL6R	23593036:null
+Pathway14686	RA	Symptom551	RANTES	23602964:null
+Pathway14686	RA	Symptom551	CCR3	23602964:null
+Pathway14686	RA	Symptom551	CCR5	23602964:null
+Pathway14686	RA	Symptom551	CCR1	23602964:induced
+Pathway14686	RA	Symptom551	plasma RANTES	23602964:upregulated
+Pathway14686	RA	Symptom551	RANTES	23602964:upregulated
+Pathway14686	RA	Symptom551	plasma RANTES	23602964:null
+Pathway14686	RA	Symptom551	BDNF	23602964:correlated
+Pathway14686	RA	Symptom551	EGF	23602964:correlated
+Pathway14686	RA	Symptom551	VEGF	23602964:correlated
+Pathway14686	RA	Symptom551	RANTES	23602964:elucidate
+Pathway14686	RA	Symptom551	EpoR	23615965:null
+Pathway14686	RA	Symptom551	Epo	23615965:null
+Pathway14686	RA	Symptom551	EHRA Web site	23625942:null
+Pathway14686	RA	Symptom551	CARDIoGRAM	23631657:null
+Pathway14686	RA	Symptom551	RAS	23735163:null
+Pathway14686	RA	Symptom551	renin	23735163:null
+Pathway14686	RA	Symptom551	classic renin-angiotensin system (RAS) comprising angiotensin (Ang) II	23735163:null
+Pathway14686	RA	Symptom551	angiotensin converting enzyme	23735163:null
+Pathway14686	RA	Symptom551	ACE	23735163:null
+Pathway14686	RA	Symptom551	ACE	23735163:comprise
+Pathway14686	RA	Symptom551	angiotensin AT1 receptor	23735163:null
+Pathway14686	RA	Symptom551	AT1 R	23735163:null
+Pathway14686	RA	Symptom551	angiotensin AT2 receptor	23735163:comprise
+Pathway14686	RA	Symptom551	AT2 R	23735163:comprise
+Pathway14686	RA	Symptom551	ACE2	23735163:comprise
+Pathway14686	RA	Symptom551	Mas	23735163:null
+Pathway14686	RA	Symptom551	angiotensin converting enzyme	23735163:comprising
+Pathway14686	RA	Symptom551	ACE	23735163:comprising
+Pathway14686	RA	Symptom551	ACE	23735163:exist
+Pathway14686	RA	Symptom551	angiotensin AT1 receptor	23735163:comprising
+Pathway14686	RA	Symptom551	AT1 R	23735163:comprising
+Pathway14686	RA	Symptom551	RAS	23735163:exist
+Pathway14686	RA	Symptom551	angiotensin AT2 receptor	23735163:exist
+Pathway14686	RA	Symptom551	AT2 R	23735163:exist
+Pathway14686	RA	Symptom551	ACE2	23735163:exist
+Pathway14686	RA	Symptom551	Mas	23735163:exist
+Pathway14686	RA	Symptom551	Oxt	23894472:expressed
+Pathway14686	RA	Symptom551	Avp	23894472:expressed
+Pathway14686	RA	Symptom551	Avp MCNs	23894472:expressed
+Pathway14686	RA	Symptom551	RORA	23894472:null
+Pathway14686	RA	Symptom551	c-jun	23894472:null
+Pathway14686	RA	Symptom551	AF	23981824:null
+Pathway14686	RA	Symptom551	AF	23981824:identified
+Pathway14686	RA	Symptom551	HMGB1	24065095:null
+Pathway14686	RA	Symptom551	RAGE	24065095:null
+Pathway14686	RA	Symptom551	ARBs	24065095:null
+Pathway14686	RA	Symptom551	High mobility group box 1	24065095:null
+Pathway14686	RA	Symptom551	angiotensin receptor	24065095:null
+Pathway17370	TIA	Symptom657	TIA	24157555:null
+Pathway17370	TIA	Symptom657	TIA	24157555:includes
+Pathway14686	RA	Symptom551	TRAF1	24284943:null
+Pathway14686	RA	Symptom551	ASK1	24284943:null
+Pathway14686	RA	Symptom551	ASK1	24284943:found
+Pathway14686	RA	Symptom551	JNK	24284943:correlates
+Pathway14686	RA	Symptom551	Akt	24284943:correlates
+Pathway14686	RA	Symptom551	TRAF1	24284943:neuroprotective;
+Pathway14686	RA	Symptom551	TRAF1	24284943:leads
+Pathway14686	RA	Symptom551	tumour necrosis factor receptor-associated factor 1	24284943:is
+Pathway17370	TIA	Symptom657	TIA	24300230:null
+Pathway14686	RA	Symptom551	c-Maf	24319262:null
+Pathway14686	RA	Symptom551	Twist2	24319262:null
+Pathway14686	RA	Symptom551	miR-34a	24319262:null
+Pathway17370	TIA	Symptom657	TIA	24322948:null
+Pathway14686	RA	Symptom551	hemoglobin	24332995:null
+Pathway14686	RA	Symptom551	HemoGlobin	24332995:null
+Pathway14686	RA	Symptom551	TLR2	24460643:null
+Pathway14686	RA	Symptom551	TLR4	24460643:null
+Pathway17370	TIA	Symptom657	TIA	24484463:null
+Pathway14686	RA	Symptom551	renin-angiotensin	24484464:null
+Pathway14686	RA	Symptom551	SRAP	24486609:null
+Pathway14686	RA	Symptom551	SRAP-RNA	24486609:null
+Pathway14686	RA	Symptom551	SRA	24486609:null
+Pathway14686	RA	Symptom551	SRAP	24486609:reveal
+Pathway14686	RA	Symptom551	SRA	24486609:reveal
+Pathway14686	RA	Symptom551	steroid receptor RNA activator protein	24486609:null
+Pathway14686	RA	Symptom551	SRA protein	24486609:null
+Pathway14686	RA	Symptom551	SRA RNA	24486609:null
+Pathway14686	RA	Symptom551	SRA	24486609:binding
+Pathway14686	RA	Symptom551	SRA RNA	24486609:modulates
+Pathway14686	RA	Symptom551	SRA	24486609:modulates
+Pathway14686	RA	Symptom551	SRA noncoding RNA	24486609:null
+Pathway14686	RA	Symptom551	Angiotensin	24499778:null
+Pathway14686	RA	Symptom551	Ang	24499778:null
+Pathway14686	RA	Symptom551	RAS	24499778:null
+Pathway14686	RA	Symptom551	Angiotensinogen	24499778:null
+Pathway14686	RA	Symptom551	renin genes	24499778:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	24499778:null
+Pathway14686	RA	Symptom551	HTRA1 gene	24535794:null
+Pathway14686	RA	Symptom551	RASD1	24548484:null
+Pathway14686	RA	Symptom551	miR-375	24548484:null
+Pathway14686	RA	Symptom551	ER	24548484:null
+Pathway14686	RA	Symptom551	Bcl-2	24548484:null
+Pathway14686	RA	Symptom551	estrogen receptor	24548484:null
+Pathway14686	RA	Symptom551	Ras-related protein 1	24548484:null
+Pathway716	AFib	Symptom12	ACS	24655745:creates
+Pathway716	AFib	Symptom12	AFib	24655745:creates
+Pathway716	AFib	Symptom12	AFib	24655745:null
+Pathway716	AFib	Symptom12	ACS	24655745:null
+Pathway716	AFib	Symptom12	ACS	24655745:require
+Pathway716	AFib	Symptom12	AFib	24655745:require
+Pathway716	AFib	Symptom12	CHF	24655745:null
+Pathway716	AFib	Symptom12	CHF	24655745:is
+Pathway17370	TIA	Symptom657	TIA	24716258:null
+Pathway14686	RA	Symptom551	Polg mutator	24722488:determine
+Pathway14686	RA	Symptom551	Polg	24722488:determine
+Pathway14686	RA	Symptom551	MMP9 gene	24774749:used
+Pathway14686	RA	Symptom551	Nox	24814023:diminished
+Pathway14686	RA	Symptom551	Nox	24814023:null
+Pathway14686	RA	Symptom551	Nox2	24814023:null
+Pathway14686	RA	Symptom551	Nox4	24814023:null
+Pathway14686	RA	Symptom551	Mas	24814023:null
+Pathway14686	RA	Symptom551	Mas antagonist A779	24814023:null
+Pathway14686	RA	Symptom551	Ang	24814023:treated
+Pathway14686	RA	Symptom551	Mas	24814023:treated
+Pathway14686	RA	Symptom551	Mas receptor	24814023:treated
+Pathway14686	RA	Symptom551	ACE2	24814023:used
+Pathway14686	RA	Symptom551	ACE2	24814023:study
+Pathway17370	TIA	Symptom657	TIA	24818554:null
+Pathway14686	RA	Symptom551	OPG	24847069:null
+Pathway14686	RA	Symptom551	RANKL	24847069:null
+Pathway14686	RA	Symptom551	RANKL	24847069:treated
+Pathway14686	RA	Symptom551	RANK	24847069:null
+Pathway14686	RA	Symptom551	Osteoprotegerin	24847069:null
+Pathway14686	RA	Symptom551	MMP9	24881865:used
+Pathway14686	RA	Symptom551	RAS	24921004:null
+Pathway14686	RA	Symptom551	Brain RAS	24921004:null
+Pathway14686	RA	Symptom551	renin angiotensin system	24921004:null
+Pathway14686	RA	Symptom551	ACE2	25009501:null
+Pathway14686	RA	Symptom551	RAS	25009501:null
+Pathway14686	RA	Symptom551	ACE	25009501:null
+Pathway14686	RA	Symptom551	Ang II	25009501:null
+Pathway14686	RA	Symptom551	vasodilator Ang 1-7	25009501:null
+Pathway14686	RA	Symptom551	ACE2	25009501:counterbalances
+Pathway14686	RA	Symptom551	RAS	25009501:counterbalances
+Pathway14686	RA	Symptom551	ACE	25009501:counterbalances
+Pathway14686	RA	Symptom551	Ang II	25009501:counterbalances
+Pathway14686	RA	Symptom551	vasodilator Ang 1-7	25009501:counterbalances
+Pathway14686	RA	Symptom551	angiotensin converting enzyme	25009501:null
+Pathway14686	RA	Symptom551	ACE	25009501:converts
+Pathway14686	RA	Symptom551	angiotensin (Ang) I	25009501:converts
+Pathway14686	RA	Symptom551	Ang II	25009501:converts
+Pathway14686	RA	Symptom551	renin-angiotensin system	25009501:null
+Pathway14686	RA	Symptom551	TRAIL	25032854:null
+Pathway14686	RA	Symptom551	TRAIL decoy receptors	25032854:null
+Pathway14686	RA	Symptom551	TRAIL	25032854:pathway
+Pathway14686	RA	Symptom551	TNF	25032854:null
+Pathway14686	RA	Symptom551	TNF superfamily	25032854:null
+Pathway14686	RA	Symptom551	aquaporin-4	25100404:induces
+Pathway14686	RA	Symptom551	RANKL	25110149:null
+Pathway14686	RA	Symptom551	CD4	25110149:null
+Pathway17370	TIA	Symptom657	TIA	25204758:null
+Pathway14686	RA	Symptom551	myrosinase enzyme	25281776:null
+Pathway14686	RA	Symptom551	myrosinase	25281776:null
+Pathway14686	RA	Symptom551	A serine peptidase 1	25323668:null
+Pathway14686	RA	Symptom551	HTRA1	25323668:null
+Pathway14686	RA	Symptom551	HTRA1	25323668:result
+Pathway14686	RA	Symptom551	CADASIL	25323668:similar
+Pathway14686	RA	Symptom551	CADASIL	25323668:null
+Pathway14686	RA	Symptom551	angiotensin converting-enzyme	25468914:null
+Pathway14686	RA	Symptom551	LRRC8 proteins	25565132:null
+Pathway14686	RA	Symptom551	LRRC8A	25565132:null
+Pathway14686	RA	Symptom551	LRRC8	25565132:null
+Pathway14686	RA	Symptom551	glutamate release	25565132:appears
+Pathway17370	TIA	Symptom657	TIA	25601172:null
+Pathway17370	TIA	Symptom657	factor V Leiden	25663229:including
+Pathway14686	RA	Symptom551	RAP	25702149:null
+Pathway14686	RA	Symptom551	PAI-1	25702149:regulates
+Pathway14686	RA	Symptom551	t-PA	25702149:regulates
+Pathway14686	RA	Symptom551	hemoglobin	25702149:show
+Pathway14686	RA	Symptom551	PAI-1	25702149:decreases
+Pathway14686	RA	Symptom551	t-PA	25702149:null
+Pathway14686	RA	Symptom551	PAI-1	25702149:improve
+Pathway14686	RA	Symptom551	t-PA	25702149:improve
+Pathway14686	RA	Symptom551	Receptor-associated protein	25702149:null
+Pathway14686	RA	Symptom551	low density lipoprotein receptor gene family	25702149:inhibits
+Pathway14686	RA	Symptom551	leptin	25755734:suppressed
+Pathway14686	RA	Symptom551	FABP4	25755734:suppressed
+Pathway14686	RA	Symptom551	JCST	25755734:null
+Pathway14686	RA	Symptom551	HTRA1	25772074:null
+Pathway14686	RA	Symptom551	CARASIL	25772074:null
+Pathway14686	RA	Symptom551	HTRA1 gene	25772074:null
+Pathway14686	RA	Symptom551	HTRA1	25772074:performed
+Pathway14686	RA	Symptom551	CARASIL	25772074:performed
+Pathway14686	RA	Symptom551	HtrA serine protease 1	25772074:null
+Pathway14686	RA	Symptom551	HtrA serine protease 1	25772074:identified
+Pathway14686	RA	Symptom551	CARASIL	25772074:identified
+Pathway14686	RA	Symptom551	HMGB1	25813710:null
+Pathway14686	RA	Symptom551	RAGE	25813710:null
+Pathway14686	RA	Symptom551	ICH	25813710:help
+Pathway14686	RA	Symptom551	VEGF	25813710:null
+Pathway14686	RA	Symptom551	ICH	25813710:null
+Pathway14686	RA	Symptom551	collagenase	25813710:null
+Pathway14686	RA	Symptom551	vascular endothelial growth factor	25813710:upregulate
+Pathway14686	RA	Symptom551	VEGF	25813710:upregulate
+Pathway14686	RA	Symptom551	miR-10a	25838349:null
+Pathway14686	RA	Symptom551	IRAK4	25838349:null
+Pathway17370	TIA	Symptom657	TIA	25862436:null
+Pathway17370	TIA	Symptom657	TIA	25862436:higher
+Pathway17370	TIA	Symptom657	transient ischemic attack	25862436:higher
+Pathway17370	TIA	Symptom657	transient ischemic attack	25862436:null
+Pathway14686	RA	Symptom551	IVIg	25886362:null
+Pathway14686	RA	Symptom551	HTRA1	25929831:null
+Pathway14686	RA	Symptom551	HTRA1 variants	25929831:null
+Pathway14686	RA	Symptom551	NOTCH3	25929831:null
+Pathway14686	RA	Symptom551	HTRA1 mutations	25929831:null
+Pathway14686	RA	Symptom551	CADASIL	25929831:null
+Pathway14686	RA	Symptom551	HTRA1 Genes	25929831:null
+Pathway17370	TIA	Symptom657	TIA	25934858:null
+Pathway14686	RA	Symptom551	TNF-a	26001207:null
+Pathway14686	RA	Symptom551	ABCC1	26017071:null
+Pathway14686	RA	Symptom551	ABCC2	26017071:null
+Pathway14686	RA	Symptom551	CYBA	26017071:null
+Pathway14686	RA	Symptom551	NCF4	26017071:null
+Pathway14686	RA	Symptom551	RAC2	26017071:null
+Pathway14686	RA	Symptom551	SLC28A3	26017071:null
+Pathway17370	TIA	Symptom657	Caspase-1	26037927:null
+Pathway14686	RA	Symptom551	Caspase-1	26037927:null
+Pathway14686	RA	Symptom551	RAGE	26060376:null
+Pathway14686	RA	Symptom551	sRAGE	26060376:null
+Pathway14686	RA	Symptom551	RAGE	26060376:have
+Pathway14686	RA	Symptom551	RAGE	26060376:binding
+Pathway14686	RA	Symptom551	BRAIN NETWORKS	26068849:null
+Pathway14686	RA	Symptom551	ApoE genotype"	26084230:null
+Pathway14686	RA	Symptom551	ApoE genotype,"	26084230:ε4/ε4;
+Pathway14686	RA	Symptom551	HDAC9 gene	26093197:used
+Pathway14686	RA	Symptom551	TNF receptor family member	26096449:upregulate
+Pathway14686	RA	Symptom551	TRAF family members	26096449:null
+Pathway14686	RA	Symptom551	c-IAPs	26096449:null
+Pathway14686	RA	Symptom551	ERK	26096449:upregulate
+Pathway14686	RA	Symptom551	angiotensin receptor neprilysin	26100410:null
+Pathway14686	RA	Symptom551	inhibit neutral endopeptidase	26100410:null
+Pathway14686	RA	Symptom551	NEP	26100410:null
+Pathway14686	RA	Symptom551	AT1 receptors	26100410:null
+Pathway14686	RA	Symptom551	ROS	26142467:null
+Pathway14686	RA	Symptom551	KIBRA	26156558:null
+Pathway14686	RA	Symptom551	KIBRA T-allele	26156558:null
+Pathway14686	RA	Symptom551	KIBRA genotyped"	26156558:null
+Pathway14686	RA	Symptom551	KIBRA genotype"	26156558:null
+Pathway14686	RA	Symptom551	TRAF3	26269654:null
+Pathway14686	RA	Symptom551	TAK1	26269654:reversed
+Pathway14686	RA	Symptom551	TAK1	26269654:was
+Pathway14686	RA	Symptom551	TAK1	26269654:transforming
+Pathway14686	RA	Symptom551	TAK1	26269654:interacts
+Pathway14686	RA	Symptom551	c-Jun kinase	26269654:contributed
+Pathway14686	RA	Symptom551	Rac-1	26269654:contributed
+Pathway14686	RA	Symptom551	c-Jun	26269654:contributed
+Pathway14686	RA	Symptom551	TRAF3	26269654:reversed
+Pathway14686	RA	Symptom551	tumor necrosis factor receptor-associated factor 3	26269654:null
+Pathway14686	RA	Symptom551	RP-SA(C)X-RP	26335518:null
+Pathway14686	RA	Symptom551	SHIP-0	26352407:null
+Pathway14686	RA	Symptom551	KORA F4 cohort	26352407:null
+Pathway14686	RA	Symptom551	DRAM	26481508:null
+Pathway14686	RA	Symptom551	p53	26481508:null
+Pathway14686	RA	Symptom551	HMGB1	26483322:null
+Pathway14686	RA	Symptom551	RAGE	26483322:null
+Pathway14686	RA	Symptom551	HMGB1-RAGE	26483322:null
+Pathway14686	RA	Symptom551	HMGB1	26483322:play
+Pathway14686	RA	Symptom551	RAGE	26483322:play
+Pathway14686	RA	Symptom551	HMGB1-RAGE	26483322:play
+Pathway14686	RA	Symptom551	matrix metalloproteinase-9	26483322:null
+Pathway14686	RA	Symptom551	High mobility group box-1 protein	26483322:null
+Pathway14686	RA	Symptom551	HMGB1	26498282:null
+Pathway14686	RA	Symptom551	RAS	26498282:null
+Pathway14686	RA	Symptom551	Angiotensin	26498282:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	26498282:null
+Pathway14686	RA	Symptom551	ACE2	26498282:null
+Pathway14686	RA	Symptom551	SR	26560971:null
+Pathway14686	RA	Symptom551	Thrombin-Receptor	26566105:null
+Pathway14686	RA	Symptom551	thrombin protease-activated receptor 1	26566105:null
+Pathway14686	RA	Symptom551	PAR-1	26566105:null
+Pathway14686	RA	Symptom551	RAS	26567060:null
+Pathway14686	RA	Symptom551	ACE	26567060:null
+Pathway14686	RA	Symptom551	angiotensin-converting enzyme	26567060:null
+Pathway14686	RA	Symptom551	angiotensin receptor	26567060:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	26567060:null
+Pathway17370	TIA	Symptom657	CYP2C19	26587656:demonstrated
+Pathway17370	TIA	Symptom657	TIA	26587656:null
+Pathway14686	RA	Symptom551	TRAF6	26617842:null
+Pathway14686	RA	Symptom551	TLR4	26617842:null
+Pathway14686	RA	Symptom551	HMGB1	26617842:null
+Pathway14686	RA	Symptom551	IL-6	26617842:null
+Pathway14686	RA	Symptom551	MiR-146a	26738853:null
+Pathway14686	RA	Symptom551	IL-5	26821299:null
+Pathway14686	RA	Symptom551	SNPs	26821299:null
+Pathway14686	RA	Symptom551	RAD50	26821299:null
+Pathway14686	RA	Symptom551	RAD50 mRNA	26821299:null
+Pathway14686	RA	Symptom551	NEDD4L	26874237:null
+Pathway14686	RA	Symptom551	PRKCA	26874237:null
+Pathway14686	RA	Symptom551	EDNRA	26874237:null
+Pathway14686	RA	Symptom551	GNAS	26874237:null
+Pathway14686	RA	Symptom551	interleukin-8	26962874:null
+Pathway14686	RA	Symptom551	TRAIL	26971954:null
+Pathway14686	RA	Symptom551	RPC	26971954:null
+Pathway14686	RA	Symptom551	TNF	26971954:null
+Pathway14686	RA	Symptom551	TRAIL death receptors	26971954:null
+Pathway14686	RA	Symptom551	TRAIL decoy receptors	26971954:null
+Pathway14686	RA	Symptom551	TRAIL-Receptors	26971954:null
+Pathway14686	RA	Symptom551	glucagon	27003762:null
+Pathway14686	RA	Symptom551	RAB3GAP1 mutations	27081543:null
+Pathway14686	RA	Symptom551	RAB3GAP1	27081543:null
+Pathway14686	RA	Symptom551	RAB3GAP2	27081543:null
+Pathway14686	RA	Symptom551	RAB18	27081543:null
+Pathway14686	RA	Symptom551	TBC1D20	27081543:null
+Pathway14686	RA	Symptom551	RAS	27122491:null
+Pathway14686	RA	Symptom551	renin-angiotensin	27122491:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	27122491:null
+Pathway14686	RA	Symptom551	CADASIL	27174004:serve
+Pathway14686	RA	Symptom551	HTRA1	27174004:null
+Pathway14686	RA	Symptom551	plasma endostatin	27174004:null
+Pathway14686	RA	Symptom551	CADASIL	27174004:null
+Pathway14686	RA	Symptom551	Notch 3	27174004:null
+Pathway14686	RA	Symptom551	Notch	27174004:null
+Pathway14686	RA	Symptom551	C455R CADASIL	27174004:null
+Pathway14686	RA	Symptom551	requirement A serine peptidase 1	27174004:null
+Pathway14686	RA	Symptom551	CD74	27199465:involved
+Pathway14686	RA	Symptom551	TRAF3IP2	27237075:null
+Pathway14686	RA	Symptom551	TRAF3IP2	27237075:crossing
+Pathway14686	RA	Symptom551	TRAF3IP2	27237075:mediates
+Pathway14686	RA	Symptom551	TRAF3IP2	27237075:plays
+Pathway14686	RA	Symptom551	angiotensin receptor neprilysin	27242321:null
+Pathway14686	RA	Symptom551	renin-angiotensin	27242321:null
+Pathway14686	RA	Symptom551	TLR4	27255374:null
+Pathway14686	RA	Symptom551	MyD88	27255374:null
+Pathway14686	RA	Symptom551	SAB	27255374:null
+Pathway14686	RA	Symptom551	TRAF6	27255374:null
+Pathway14686	RA	Symptom551	RAS	27271312:null
+Pathway14686	RA	Symptom551	TSPO	27315802:null
+Pathway14686	RA	Symptom551	neprilysin	27364182:null
+Pathway14686	RA	Symptom551	neprilysin	27364182:support
+Pathway14686	RA	Symptom551	renin	27364182:null
+Pathway14686	RA	Symptom551	angiotensin	27364182:null
+Pathway14686	RA	Symptom551	Troponin	27374153:null
+Pathway14686	RA	Symptom551	GRACE	27374153:null
+Pathway14686	RA	Symptom551	TLR7 rs2897827	27427388:used
+Pathway14686	RA	Symptom551	Sequenom MassARRAY iPLEX platform	27427388:null
+Pathway17370	TIA	Symptom657	TIA	27461564:null
+Pathway14686	RA	Symptom551	ACE	27465132:null
+Pathway14686	RA	Symptom551	ACE	27465132:examined
+Pathway14686	RA	Symptom551	angiotensin-converting enzyme	27465132:null
+Pathway14686	RA	Symptom551	angiotensin receptor	27465132:null
+Pathway14686	RA	Symptom551	mineralocorticoid receptor	27465132:null
+Pathway14686	RA	Symptom551	TRAF3IP2	27466370:null
+Pathway14686	RA	Symptom551	IKK	27466370:resulted
+Pathway14686	RA	Symptom551	JNK	27466370:resulted
+Pathway14686	RA	Symptom551	AP-1	27466370:resulted
+Pathway14686	RA	Symptom551	p38 MAPK	27466370:resulted
+Pathway14686	RA	Symptom551	Tg	27466370:null
+Pathway14686	RA	Symptom551	TRAF3IP2	27466370:generated
+Pathway14686	RA	Symptom551	Tg	27466370:generated
+Pathway14686	RA	Symptom551	IKK	27466370:activates
+Pathway14686	RA	Symptom551	JNK	27466370:activates
+Pathway14686	RA	Symptom551	AP-1	27466370:activates
+Pathway14686	RA	Symptom551	TRAF3 interacting protein	27466370:null
+Pathway14686	RA	Symptom551	CIKS	27466370:known
+Pathway14686	RA	Symptom551	Act1	27466370:known
+Pathway14686	RA	Symptom551	TRAF3 Interacting Protein 2	27466370:null
+Pathway14686	RA	Symptom551	Sox2	27549229:null
+Pathway14686	RA	Symptom551	nestin	27549229:null
+Pathway14686	RA	Symptom551	BDNF	27549229:null
+Pathway17601	toxins	Symptom670	Exactin	27558950:null
+Pathway17601	toxins	Symptom670	anticoagulants-hemextin	27558950:null
+Pathway14686	RA	Symptom551	EMT-promoting transcription factors	27568035:determined
+Pathway14686	RA	Symptom551	EMT-TFs	27568035:determined
+Pathway14686	RA	Symptom551	HTRA1	27634960:null
+Pathway14686	RA	Symptom551	HTRA1	27634960:had
+Pathway14686	RA	Symptom551	HTRA1 gene	27634960:null
+Pathway14686	RA	Symptom551	HTRA1	27634960:represses
+Pathway14686	RA	Symptom551	HTRA1 protein	27634960:null
+Pathway14686	RA	Symptom551	HTRA1 protein	27634960:represses
+Pathway14686	RA	Symptom551	angiotensin I	27681888:null
+Pathway14686	RA	Symptom551	DAA-I	27681888:null
+Pathway14686	RA	Symptom551	angiotensin peptide	27681888:null
+Pathway14686	RA	Symptom551	angiotensin receptor	27681888:null
+Pathway17370	TIA	Symptom657	GzmB	27697435:demonstrated
+Pathway17370	TIA	Symptom657	GzmB	27697435:null
+Pathway14686	RA	Symptom551	GRASP65	27748926:null
+Pathway14686	RA	Symptom551	ERK	27748926:null
+Pathway14686	RA	Symptom551	THC attenuated I/R	27748926:null
+Pathway14686	RA	Symptom551	ERK	27748926:protects
+Pathway14686	RA	Symptom551	TLR4	27821296:resulted
+Pathway14686	RA	Symptom551	Prx1	27821296:null
+Pathway14686	RA	Symptom551	p65	27821296:resulted
+Pathway14686	RA	Symptom551	TNF-a	27821296:resulted
+Pathway14686	RA	Symptom551	IL-6	27821296:resulted
+Pathway14686	RA	Symptom551	NF	27821296:resulted
+Pathway14686	RA	Symptom551	rs2288904	27829169:linked
+Pathway14686	RA	Symptom551	rs2288904	27829169:link
+Pathway14686	RA	Symptom551	PARAMETER	27858191:null
+Pathway14686	RA	Symptom551	RANK	27874938:null
+Pathway14686	RA	Symptom551	RANKL	27874938:null
+Pathway14686	RA	Symptom551	OPG	27874938:null
+Pathway14686	RA	Symptom551	RAS	27875953:null
+Pathway14686	RA	Symptom551	renin-angiotensin system	27875953:null
+Pathway14686	RA	Symptom551	RANKL	27897273:null
+Pathway14686	RA	Symptom551	RANK	27897273:null
+Pathway14686	RA	Symptom551	MHP1	27897273:stimulate
+Pathway14686	RA	Symptom551	RANKL	27897273:accelerates
+Pathway14686	RA	Symptom551	RANK	27897273:accelerates
+Pathway14686	RA	Symptom551	enhanced receptor activator	27897273:null
+Pathway14686	RA	Symptom551	Toll-like receptor	27897273:attenuate
+Pathway14686	RA	Symptom551	TLR	27897273:attenuate
+Pathway14686	RA	Symptom551	p65	27988459:null
+Pathway14686	RA	Symptom551	mCherry reporter	27988459:null
+Pathway14686	RA	Symptom551	MAPK	27988459:null
+Pathway14686	RA	Symptom551	HTRA1	28126975:null
+Pathway14686	RA	Symptom551	HTRA1	28126975:observed
+Pathway14686	RA	Symptom551	HTRA1 protease	28126975:null
+Pathway14686	RA	Symptom551	peptidase A1	28126975:null
+Pathway14686	RA	Symptom551	RESK	28265861:null
+Pathway14686	RA	Symptom551	HUK	28265861:null
+Pathway17370	TIA	Symptom657	hArg	28285332:null
+Pathway14686	RA	Symptom551	RAB-11	28285997:null
+Pathway14686	RA	Symptom551	immunoglobulin superfamily	28373983:null
+Pathway14686	RA	Symptom551	GAP-43	28380213:promote
+Pathway14686	RA	Symptom551	GAP-43	28380213:upregulated
+Pathway14686	RA	Symptom551	GAP-43	28380213:promoting
+Pathway17370	TIA	Symptom657	China	28381199:null
+Pathway14686	RA	Symptom551	mineralocorticoid receptor	28634267:null
+Pathway14686	RA	Symptom551	STin2	28654193:null
+Pathway14686	RA	Symptom551	HTRA1 gene	28782182:null
+Pathway14686	RA	Symptom551	HTRA1 gene	28782182:linked
+Pathway14686	RA	Symptom551	Apolipoprotein L1	28850570:null
+Pathway14686	RA	Symptom551	ASK1	28855861:null
+Pathway14686	RA	Symptom551	HTRA1	28867359:null
+Pathway14686	RA	Symptom551	COL4A1	28867359:null
+Pathway14686	RA	Symptom551	COL4A2	28867359:null
+Pathway14686	RA	Symptom551	statin	28977886:null
+Pathway14686	RA	Symptom551	renin	28977886:null
+Pathway14686	RA	Symptom551	angiotensin	28980280:null
+Pathway14686	RA	Symptom551	RASA1	29025196:null
+Pathway14686	RA	Symptom551	RASA1 gene	29025196:null
+Pathway14686	RA	Symptom551	neurotrophin	29063445:null
+Pathway14686	RA	Symptom551	BCL2	29063445:null
+Pathway14686	RA	Symptom551	TLR4	29115455:null
+Pathway14686	RA	Symptom551	MyD88	29115455:null
+Pathway14686	RA	Symptom551	IRAK1	29115455:null
+Pathway14686	RA	Symptom551	TRAF6	29115455:null
+Pathway14686	RA	Symptom551	myeloid differentiation factor 88	29115455:null
+Pathway14686	RA	Symptom551	LGALS3	29129812:null
+Pathway14686	RA	Symptom551	TIMAP	29140585:null
+Pathway14686	RA	Symptom551	farnesyl transferase	29140585:null
+Pathway14686	RA	Symptom551	RACK1	29140585:null
+Pathway14686	RA	Symptom551	p47phox	29140729:null
+Pathway14686	RA	Symptom551	ADM	29140729:null
+Pathway14686	RA	Symptom551	ANP	29140729:null
+Pathway14686	RA	Symptom551	OPN	29140729:null
+Pathway14686	RA	Symptom551	ACE	29140729:null
+Pathway14686	RA	Symptom551	MCP-1	29140729:null
+Pathway14686	RA	Symptom551	ICAM-1	29140729:null
+Pathway14686	RA	Symptom551	CTGF	29140729:null
+Pathway14686	RA	Symptom551	ET-1	29140729:null
+Pathway14686	RA	Symptom551	p22phox	29140729:null
+Pathway14686	RA	Symptom551	ETB	29140729:null
+Pathway14686	RA	Symptom551	BNP	29140729:null
+Pathway14686	RA	Symptom551	ETA	29140729:null
+Pathway14686	RA	Symptom551	MMP13	29140729:null
+Pathway14686	RA	Symptom551	Col1a1	29140729:null
+Pathway14686	RA	Symptom551	MMP2	29140729:null
+Pathway14686	RA	Symptom551	TIMP1	29140729:null
+Pathway14686	RA	Symptom551	Col3a1	29140729:null
+Pathway14686	RA	Symptom551	ECE1	29140729:null
+Pathway14686	RA	Symptom551	MMP14	29140729:null
+Pathway14686	RA	Symptom551	AGT	29140729:null
+Pathway14686	RA	Symptom551	collagen	29140729:null
+Pathway14686	RA	Symptom551	Abbreviations Inducible nitric oxide synthase	29140729:null
+Pathway14686	RA	Symptom551	INOS	29140729:null
+Pathway14686	RA	Symptom551	neutrophil cytosolic factor 1	29140729:null
+Pathway14686	RA	Symptom551	adrenomedullin	29140729:null
+Pathway14686	RA	Symptom551	atrial natriuretic peptide	29140729:null
+Pathway14686	RA	Symptom551	osteopontin	29140729:null
+Pathway14686	RA	Symptom551	SPP1	29140729:null
+Pathway14686	RA	Symptom551	angiotensin converting enzyme	29140729:null
+Pathway14686	RA	Symptom551	monocyte chemotactic protein 1	29140729:null
+Pathway14686	RA	Symptom551	cytochrome b-245 beta polypeptide	29140729:null
+Pathway14686	RA	Symptom551	gp91phox	29140729:null
+Pathway14686	RA	Symptom551	intercellular adhesion molecule 1	29140729:null
+Pathway14686	RA	Symptom551	connective tissue growth factor	29140729:null
+Pathway14686	RA	Symptom551	endothelin-1	29140729:null
+Pathway14686	RA	Symptom551	cytochrome B-245	29140729:null
+Pathway14686	RA	Symptom551	endothelin receptor type B B"	29140729:null
+Pathway14686	RA	Symptom551	EDNRB	29140729:null
+Pathway14686	RA	Symptom551	endothelin receptor type A A"	29140729:null
+Pathway14686	RA	Symptom551	type I collagen (Col1a1) I collagen (Col1a1)	29140729:null
+Pathway14686	RA	Symptom551	Type III collagen	29140729:null
+Pathway14686	RA	Symptom551	interleukin 1 beta	29140729:null
+Pathway14686	RA	Symptom551	endothelin converting enzyme 1 (ECE1) matrix metallopeptidase 14	29140729:null
+Pathway14686	RA	Symptom551	angiotensinogen (AGT)	29140729:null
+Pathway14686	RA	Symptom551	AT1R	29140729:null
+Pathway14686	RA	Symptom551	cytochrome C oxidase I	29140729:null
+Pathway14686	RA	Symptom551	COX1	29140729:null
+Pathway14686	RA	Symptom551	fms	29140729:null
+Pathway14686	RA	Symptom551	tyrosine kinase 1	29140729:null
+Pathway14686	RA	Symptom551	FLT1	29140729:null
+Pathway14686	RA	Symptom551	TIMP metallopeptidase	29140729:null
+Pathway14686	RA	Symptom551	vascular cell adhesion molecule 1	29140729:null
+Pathway14686	RA	Symptom551	VCAM1	29140729:null
+Pathway14686	RA	Symptom551	matrix metallopeptidase 13	29140729:null
+Pathway14686	RA	Symptom551	transforming growth factor beta 1	29140729:null
+Pathway14686	RA	Symptom551	C3	29198014:null
+Pathway14686	RA	Symptom551	C3a	29198014:null
+Pathway14686	RA	Symptom551	IRI	29198014:increased
+Pathway14686	RA	Symptom551	NeuN	29198014:increased
+Pathway14686	RA	Symptom551	IRI	29198014:affected
+Pathway14686	RA	Symptom551	C3a receptor	29198014:null
+Pathway14686	RA	Symptom551	TIME	29208679:null
+Pathway14686	RA	Symptom551	TLR4	29234386:null
+Pathway14686	RA	Symptom551	MyD88	29234386:null
+Pathway14686	RA	Symptom551	NF	29234386:null
+Pathway14686	RA	Symptom551	angiotensin-converting enzyme	29240784:null
+Pathway14686	RA	Symptom551	angiotensin receptor	29240784:null
+Pathway14686	RA	Symptom551	ACE	29262399:recommend
+Pathway14686	RA	Symptom551	ATG9A	29360040:inhibited
+Pathway14686	RA	Symptom551	RAB7A	29360040:null
+Pathway14686	RA	Symptom551	Rab	29360040:null
+Pathway14686	RA	Symptom551	RABGEF1	29360040:null
+Pathway14686	RA	Symptom551	Rab proteins	29360040:null
+Pathway14686	RA	Symptom551	RAB5	29360040:null
+Pathway14686	RA	Symptom551	mitochondrial Rab-GAPs	29360040:null
+Pathway14686	RA	Symptom551	Rab	29360040:directs
+Pathway14686	RA	Symptom551	Rab proteins	29360040:directs
+Pathway14686	RA	Symptom551	RAB5	29360040:directs
+Pathway14686	RA	Symptom551	RAB7A	29360040:directs
+Pathway14686	RA	Symptom551	mitochondrial Rab-GAPs	29360040:directs
+Pathway14686	RA	Symptom551	Parkin	29360040:recruited
+Pathway14686	RA	Symptom551	endosomal Rab GTPase	29360040:null
+Pathway14686	RA	Symptom551	ubiquitin	29360040:recruited
+Pathway14686	RA	Symptom551	endosomal Rab	29360040:null
+Pathway14686	RA	Symptom551	SGLT2	29372664:null
+Pathway17370	TIA	Symptom657	TIA	29416879:null
+Pathway17370	TIA	Symptom657	TIA	29416879:unknown;Methods
+Pathway17370	TIA	Symptom657	TIA	29416879:establish
+Pathway14686	RA	Symptom551	ACE	29471572:null
+Pathway14686	RA	Symptom551	HFrEF	29471572:improve
+Pathway14686	RA	Symptom551	HFmEF	29471572:improve
+Pathway14686	RA	Symptom551	HFpEF	29471572:improve
+Pathway17370	TIA	Symptom657	TIA	29535299:null
+Pathway17370	TIA	Symptom657	IS	29535299:null
+Pathway17370	TIA	Symptom657	MPN	29535299:null
+Pathway14686	RA	Symptom551	alarmins	29540615:null
+Pathway14686	RA	Symptom551	alarmin high-mobility group box 1 protein	29540615:null
+Pathway14686	RA	Symptom551	HTRA1 gene	29546604:null
+Pathway14686	RA	Symptom551	RAGE	29554649:null
+Pathway14686	RA	Symptom551	PPAR	29554649:null
+Pathway14686	RA	Symptom551	HMGB-1	29554649:null
+Pathway14686	RA	Symptom551	Rac1	29554649:null
+Pathway14686	RA	Symptom551	ROS	29554649:null
+Pathway14686	RA	Symptom551	PPAR	29554649:Activating
+Pathway14686	RA	Symptom551	angiotensin-converting enzyme	29626018:null
+Pathway14686	RA	Symptom551	mineralocorticoid receptor	29626018:null
+Pathway14686	RA	Symptom551	angiotensin receptor neprilysin	29626018:available
+Pathway14686	RA	Symptom551	eNOS	29678206:modulating
+Pathway14686	RA	Symptom551	NO	29678206:modulating
+Pathway14686	RA	Symptom551	eNOS	29678206:inhibited
+Pathway14686	RA	Symptom551	NO	29678206:inhibited
+Pathway14686	RA	Symptom551	eNOS	29678206:null
+Pathway14686	RA	Symptom551	NO	29678206:null
+Pathway14686	RA	Symptom551	receptor-4	29678206:blunted
+Pathway14686	RA	Symptom551	RANKL	29685509:null
+Pathway14686	RA	Symptom551	RANKL	29685509:revealing
+Pathway14686	RA	Symptom551	RANKL	29685509:analyzed
+Pathway14686	RA	Symptom551	angiotensin II	29685509:null
+Pathway17370	TIA	Symptom657	Arg72	29687302:null
+Pathway17370	TIA	Symptom657	TIA	29687302:null
+Pathway17370	TIA	Symptom657	Tp53 Arg72Pro	29687302:null
+Pathway17370	TIA	Symptom657	Pro72	29687302:harboring
+Pathway17370	TIA	Symptom657	Pro72 allele	29687302:harboring
+Pathway17370	TIA	Symptom657	TIA	29723487:null
+Pathway17370	TIA	Symptom657	transient ischemic attack	29723487:null
+Pathway17370	TIA	Symptom657	TIA	29723487:taken
+Pathway14686	RA	Symptom551	RAS	29802208:null
+Pathway14686	RA	Symptom551	angiotensin (Ang) II/angiotensin-converting enzyme/AT1 receptors	29802208:composed
+Pathway14686	RA	Symptom551	angiotensin-converting enzyme 2/Mas receptors	29802208:considered
+Pathway14686	RA	Symptom551	renin-angiotensin	29802208:null
+Pathway14686	RA	Symptom551	classic renin-angiotensin system	29802208:null
+Pathway17370	TIA	Symptom657	neurone-specific enolase	29997237:null
+Pathway17370	TIA	Symptom657	NSE	29997237:null
+Pathway17370	TIA	Symptom657	IS	29997237:null
+Pathway14686	RA	Symptom551	CARASIL	30031255:null
+Pathway14686	RA	Symptom551	HTRA1	30031255:null
+Pathway14686	RA	Symptom551	CARASIL	30031255:mimicked
+Pathway14686	RA	Symptom551	temperature requirement A serine peptidase	30031255:null
+Pathway14686	RA	Symptom551	HTRA1 mutations	30031255:null
+Pathway17370	TIA	Symptom657	TIA	30032341:null
+Pathway14686	RA	Symptom551	TIR	30108181:null
+Pathway14686	RA	Symptom551	TIRAP	30108181:null
+Pathway14686	RA	Symptom551	MyD88	30108181:null
+Pathway14686	RA	Symptom551	TRAF6	30108181:null
+Pathway14686	RA	Symptom551	TLR	30108181:null
+Pathway14686	RA	Symptom551	IRAK family	30108181:null
+Pathway14686	RA	Symptom551	E3 ubiquitin	30108181:null
+Pathway14686	RA	Symptom551	IRAK family	30108181:leads
+Pathway14686	RA	Symptom551	E3 ubiquitin	30108181:leads
+Pathway14686	RA	Symptom551	TRAF6	30108181:leads
+Pathway14686	RA	Symptom551	Toll/interleukin-1 receptor homology domains	30108181:null
+Pathway14686	RA	Symptom551	TRANK1	30135510:null
+Pathway14686	RA	Symptom551	VPA	30135510:null
+Pathway14686	RA	Symptom551	rs9834970	30135510:null
+Pathway14686	RA	Symptom551	RANKL	30151382:null
+Pathway14686	RA	Symptom551	MHP1	30151382:null
+Pathway14686	RA	Symptom551	Modified Peptide	30151382:null
+Pathway14686	RA	Symptom551	PTRAS	30186475:null
+Pathway14686	RA	Symptom551	CHF	30186475:associated
+Pathway14686	RA	Symptom551	PTRAS	30186475:increased
+Pathway14686	RA	Symptom551	PTRAS	30186475:analyze
+Pathway17601	toxins	Symptom670	DHA	30244005:null
+Pathway17601	toxins	Symptom670	DHA	30244005:activate
+Pathway17601	toxins	Symptom670	NPD1	30244005:activate
+Pathway17601	toxins	Symptom670	NPD1	30244005:null
+Pathway17601	toxins	Symptom670	Bcl-2 family members	30244005:activate
+Pathway17370	TIA	Symptom657	TIA	30270651:null
+Pathway14686	RA	Symptom551	MMP2	30278505:null
+Pathway14686	RA	Symptom551	Agena MassARRAY	30278505:null
+Pathway17370	TIA	Symptom657	TIA	30353470:null
+Pathway17370	TIA	Symptom657	NADPH oxidase	30353470:feed
+Pathway17370	TIA	Symptom657	superoxide dismutase	30353470:feed
+Pathway17370	TIA	Symptom657	SOD	30353470:feed
+Pathway17370	TIA	Symptom657	GSH	30353470:feed
+Pathway17370	TIA	Symptom657	TIA	30353470:different
+Pathway14686	RA	Symptom551	IL-1RA	30355103:null
+Pathway14686	RA	Symptom551	hemin	30355103:exerts
+Pathway14686	RA	Symptom551	recombinant interleukin-1 receptor	30355103:improves
+Pathway14686	RA	Symptom551	PTGS2	30421129:null
+Pathway14686	RA	Symptom551	TLR4	30421129:null
+Pathway14686	RA	Symptom551	ACSL4	30421129:null
+Pathway14686	RA	Symptom551	PTGER3	30421129:null
+Pathway14686	RA	Symptom551	PTGER4	30421129:null
+Pathway14686	RA	Symptom551	EPRAP	30421129:null
+Pathway14686	RA	Symptom551	RANKL	30538259:null
+Pathway14686	RA	Symptom551	microglial healing peptide 1	30538259:null
+Pathway14686	RA	Symptom551	MHP1	30538259:induced
+Pathway14686	RA	Symptom551	Toll-like receptor	30538259:induced
+Pathway14686	RA	Symptom551	TLR	30538259:induced
+Pathway14686	RA	Symptom551	microglial healing peptide1-AcN	30538259:null
+Pathway14686	RA	Symptom551	MHP1-AcN	30538259:null
+Pathway14686	RA	Symptom551	MHP1	30538259:null
+Pathway14686	RA	Symptom551	AcN	30538259:null
+Pathway17370	TIA	Symptom657	TIA	30662329:null
+Pathway17370	TIA	Symptom657	RIND animal models	30662329:null
+Pathway17370	TIA	Symptom657	TIA groups	30662329:null
+Pathway17370	TIA	Symptom657	ABCB1	30742211:null
+Pathway14686	RA	Symptom551	IL-17A	30746745:dependent
+Pathway14686	RA	Symptom551	IL-17RA	30746745:null
+Pathway14686	RA	Symptom551	IL-17A	30746745:downregulated
+Pathway14686	RA	Symptom551	rmIL-17A	30746745:downregulated
+Pathway14686	RA	Symptom551	Angiotensin Converting Enzyme 2	30816157:null
+Pathway14686	RA	Symptom551	Mas receptor	30816157:null
+Pathway14686	RA	Symptom551	ACE2	30816157:null
+Pathway14686	RA	Symptom551	Ang-1-7	30816157:null
+Pathway14686	RA	Symptom551	MasR	30816157:null
+Pathway14686	RA	Symptom551	renin angiotensin system	30816157:null
+Pathway14686	RA	Symptom551	RAS	30816157:null
+Pathway17370	TIA	Symptom657	AF	30846776:null
+Pathway14686	RA	Symptom551	HTRA1	30859180:null
+Pathway14686	RA	Symptom551	NOTCH3	30859180:null
+Pathway14686	RA	Symptom551	heterozygote genotypess"	30859180:null
+Pathway14686	RA	Symptom551	NOTCH3	30859180:using
+Pathway14686	RA	Symptom551	COL4A1	30859180:null
+Pathway14686	RA	Symptom551	COL4A2	30859180:null
+Pathway14686	RA	Symptom551	TREX1	30859180:null
+Pathway14686	RA	Symptom551	RASL-seq	30872602:null
+Pathway14686	RA	Symptom551	seq	30872602:null
+Pathway14686	RA	Symptom551	RASL	30872602:null
+Pathway14686	RA	Symptom551	TempO-seq	30872602:null
+Pathway14686	RA	Symptom551	HSAP	30900719:null
+Pathway14686	RA	Symptom551	RAGE	30900719:null
+Pathway14686	RA	Symptom551	NP	30900719:null
+Pathway14686	RA	Symptom551	HSAP-NP	30900719:null
+Pathway14686	RA	Symptom551	nitric oxide synthase	30900719:null
+Pathway14686	RA	Symptom551	RAGE	30900719:inhibiting
+Pathway14686	RA	Symptom551	RAGE	30900719:have
+Pathway14686	RA	Symptom551	high mobility group box-1	30900719:null
+Pathway14686	RA	Symptom551	RAGE	30900719:based
+Pathway14686	RA	Symptom551	high mobility group box-1	30900719:based
+Pathway14686	RA	Symptom551	hypoxia-specific anti-RAGE peptide	30900719:null
+Pathway14686	RA	Symptom551	heme oxygenase-1	30900719:null
+Pathway14686	RA	Symptom551	pHO1	30900719:null
+Pathway14686	RA	Symptom551	HO1	30900719:null
+Pathway14686	RA	Symptom551	DP2k	30900719:null
+Pathway14686	RA	Symptom551	statins	30914063:null
+Pathway17370	TIA	Symptom657	statins	30914063:null
+Pathway14686	RA	Symptom551	glutamate release	31032919:null
+Pathway14686	RA	Symptom551	SOCE	31082439:accelerates
+Pathway14686	RA	Symptom551	SOCE	31082439:serves
+Pathway14686	RA	Symptom551	SOCE	31082439:Reveals
+Pathway14686	RA	Symptom551	ACE	31148603:null
+Pathway17601	toxins	Symptom670	Keap1	31165007:null
+Pathway17601	toxins	Symptom670	Nrf2	31165007:null
+Pathway17601	toxins	Symptom670	ARE	31165007:null
+Pathway17601	toxins	Symptom670	ECH-associated protein 1	31165007:null
+Pathway14686	RA	Symptom551	TNF	31174819:used
+Pathway14686	RA	Symptom551	TNF	31174819:undergoing
+Pathway14686	RA	Symptom551	anti-TNF	31174819:undergoing
+Pathway14686	RA	Symptom551	TNF	31174819:(including
+Pathway14686	RA	Symptom551	anti-TNF	31174819:(including
+Pathway14686	RA	Symptom551	Hb	31178893:null
+Pathway14686	RA	Symptom551	FGF23	31178893:null
+Pathway14686	RA	Symptom551	HBB	31178893:null
+Pathway14686	RA	Symptom551	PIEZO1	31178893:null
+Pathway14686	RA	Symptom551	RASA4	31178893:null
+Pathway14686	RA	Symptom551	PRTN3	31178893:null
+Pathway17370	TIA	Symptom657	ABCD3-I	31230922:null
+Pathway14686	RA	Symptom551	sTRAIL-R2	31272321:null
+Pathway14686	RA	Symptom551	TRAIL-R2	31272321:null
+Pathway14686	RA	Symptom551	sTRAIL	31272321:null
+Pathway14686	RA	Symptom551	caspase	31272321:null
+Pathway14686	RA	Symptom551	TRAIL-R2	31272321:induces
+Pathway14686	RA	Symptom551	TNF	31272321:induces
+Pathway14686	RA	Symptom551	[tumor necrosis factor]-related apoptosis-inducing ligand receptor 2	31272321:induces
+Pathway14686	RA	Symptom551	TNF	31272321:null
+Pathway14686	RA	Symptom551	[tumor necrosis factor]-related apoptosis-inducing ligand receptor 2	31272321:null
+Pathway14686	RA	Symptom551	Soluble TNF	31272321:null
+Pathway14686	RA	Symptom551	RORA	31283791:null
+Pathway14686	RA	Symptom551	PPARGC1A	31283791:null
+Pathway14686	RA	Symptom551	ZNF423	31283791:null
+Pathway14686	RA	Symptom551	RAGE	31315054:null
+Pathway14686	RA	Symptom551	protein kinase A	31315054:traced
+Pathway14686	RA	Symptom551	PKA	31315054:traced
+Pathway14686	RA	Symptom551	lipase	31315054:traced
+Pathway14686	RA	Symptom551	p38	31315054:traced
+Pathway14686	RA	Symptom551	protein 1	31315054:traced
+Pathway14686	RA	Symptom551	UCP1	31315054:traced
+Pathway14686	RA	Symptom551	serum IGF1	31327319:null
+Pathway14686	RA	Symptom551	ESR1	31359683:null
+Pathway14686	RA	Symptom551	NR1 H3	31359683:null
+Pathway14686	RA	Symptom551	PPARA	31359683:null
+Pathway14686	RA	Symptom551	PPARG	31359683:null
+Pathway14686	RA	Symptom551	GLP-1RA	31379119:null
+Pathway14686	RA	Symptom551	dipeptidyl peptidase	31379119:null
+Pathway14686	RA	Symptom551	glucagon	31379119:null
+Pathway14686	RA	Symptom551	peptide-1 receptor	31379119:null
+Pathway14686	RA	Symptom551	colony-stimulating factor 2	31470401:involved
+Pathway14686	RA	Symptom551	CSF2	31470401:involved
+Pathway14686	RA	Symptom551	Ras	31470401:involved
+Pathway14686	RA	Symptom551	factor 1	31470401:null
+Pathway14686	RA	Symptom551	RASGRF1	31470401:null
+Pathway14686	RA	Symptom551	CNS candidiasis via caspase recruitment domain-containing protein 9	31470401:associated
+Pathway14686	RA	Symptom551	CARD9	31470401:associated
+Pathway14686	RA	Symptom551	phospholipase C gamma 2	31470401:associated
+Pathway14686	RA	Symptom551	PLCG2	31470401:associated
+Pathway14686	RA	Symptom551	lectin receptor	31470401:associated
+Pathway14686	RA	Symptom551	HTRA1	31494012:null
+Pathway14686	RA	Symptom551	A Case	31494012:null
+Pathway14686	RA	Symptom551	HTRA1 Homozygous	31494012:null
+Pathway14686	RA	Symptom551	HTRA1	31601092:null
+Pathway14686	RA	Symptom551	DEX	31654225:null
+Pathway14686	RA	Symptom551	DEX	31654225:increased
+Pathway14686	RA	Symptom551	DEX + RAPA	31654225:increased
+Pathway14686	RA	Symptom551	MRAS	31770223:null
+Pathway14686	RA	Symptom551	MRAS rs40593	31770223:null
+Pathway14686	RA	Symptom551	MRAS SNPs	31770223:null
+Pathway14686	RA	Symptom551	G allele of rs40593	31770223:associated
+Pathway14686	RA	Symptom551	MRAS	31770223:selected
+Pathway14686	RA	Symptom551	muscle RAS oncogene homolog	31770223:null
+Pathway14686	RA	Symptom551	HTRA1	31796853:null
+Pathway14686	RA	Symptom551	Notch	31796853:controlling
+Pathway14686	RA	Symptom551	SMAD2	31796853:enhanced
+Pathway14686	RA	Symptom551	NOTCH3	31796853:increased
+Pathway14686	RA	Symptom551	JAG1 protein	31796853:increased
+Pathway14686	RA	Symptom551	NOTCH3	31796853:null
+Pathway14686	RA	Symptom551	NOTCH3 ligand JAG1	31796853:null
+Pathway14686	RA	Symptom551	Notch	31796853:null
+Pathway14686	RA	Symptom551	HTRA1	31796853:cleaves
+Pathway14686	RA	Symptom551	NOTCH3	31796853:cleaves
+Pathway14686	RA	Symptom551	NOTCH3 ligand JAG1	31796853:cleaves
+Pathway14686	RA	Symptom551	Notch	31796853:cleaves
+Pathway14686	RA	Symptom551	serine protease	31796853:null
+Pathway17370	TIA	Symptom657	SNPs	31824394:null
+Pathway14686	RA	Symptom551	dipeptidyl peptidase-4	31844422:null
+Pathway14686	RA	Symptom551	DPP4	31844422:null
+Pathway14686	RA	Symptom551	insulin	31844422:null
+Pathway14686	RA	Symptom551	RAN	31885705:null
+Pathway17370	TIA	Symptom657	TIA	31911111:null
+Pathway17370	TIA	Symptom657	TIA management	31911111:null

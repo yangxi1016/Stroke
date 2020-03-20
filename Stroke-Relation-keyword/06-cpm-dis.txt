@@ -1,0 +1,226 @@
+Entity1ID	Entity1	Entity2ID	Entity2	PMID:keyword
+CPM101	Zengsunsiwu	Disease4654	BBB	29599893:null
+CPM101	Zengsunsiwu	Disease3818	attenuated edema	29599893:null
+CPM4	Baifuzi	Disease13552	focal cerebral ischemia	21364615:exerts
+CPM4	Baifuzi	Disease7249	cerebral ischemia	21364615:exerts
+CPM4	Baifuzi	Disease5348	brain ischemia	21364615:activated
+CPM4	Baifuzi	Disease5348	brain ischemia	21364615:treating
+CPM4	Baifuzi	Disease25	stroke	17408986:used
+CPM53	Kanliji	Disease15004	heart failure	16800986:null
+CPM53	Kanliji	Disease8408	chronic heart failure	16800986:null
+CPM4	Baifuzi	Disease20467	ischemic stroke	24946143:results
+CPM4	Baifuzi	Disease25	stroke	24946143:results
+CPM4	Baifuzi	Disease20467	ischemic stroke	24946143:null
+CPM4	Baifuzi	Disease25	stroke	24946143:null
+CPM4	Baifuzi	Disease20467	ischemic stroke	24946143:exert
+CPM4	Baifuzi	Disease25	stroke	24946143:exert
+CPM51	Jinyinhua	Disease13918	Gardenia jasminoides Ellis	21692282:jasminoides
+CPM51	Jinyinhua	Disease29166	Rhizoma Arisaematis Cum Bile	21692282:jasminoides
+CPM82	Taorencheng	Disease25	stroke	31682375:null
+CPM82	Taorencheng	Disease23099	middle cerebral artery	31682375:occluding
+CPM82	Taorencheng	Disease23099	middle cerebral artery	31682375:null
+CPM76	Shiyiwei	Disease34254	yin-qi deficiency	22965699:thrice
+CPM76	Shiyiwei	Disease34233	yang-qi deficiency	22965699:given
+CPM48	Jiaonang	Disease25	stroke	19164787:null
+CPM48	Jiaonang	Disease25	stroke	19164787:compared
+CPM48	Jiaonang	Disease25	stroke	18417963:modify
+CPM48	Jiaonang	Disease25	stroke	18417963:showed
+CPM88	Xie-Xin-Tang	Disease27097	peptic ulcer disease	26549268:used
+CPM88	Xie-Xin-Tang	Disease5620	Bulbus Fritillariae Thunbergii	26549268:null
+CPM26	Da-Bu-Tang	Disease13341	fatigue	29982213:null
+CPM34	Fu-Ling-Wan	Disease20772	KBG	13678228:null
+CPM50	Jie-Du-Tang	Disease7249	cerebral ischemia	24751364:null
+CPM50	Jie-Du-Tang	Disease25	stroke	24751364:treat
+CPM50	Jie-Du-Tang	Disease7249	cerebral ischemia	24707870:null
+CPM50	Jie-Du-Tang	Disease23099	Middle cerebral artery	23628154:is
+CPM50	Jie-Du-Tang	Disease7249	cerebral ischemia	22387241:treat
+CPM50	Jie-Du-Tang	Disease20073	ischemia-reperfusion brain injury	12204769:reduce
+CPM50	Jie-Du-Tang	Disease19848	ischemia	12204769:null
+CPM50	Jie-Du-Tang	Disease5326	brain injury	12204769:null
+CPM42	Huang-Lian-Jie-Du-Tang	Disease7249	cerebral ischemia	24751364:null
+CPM42	Huang-Lian-Jie-Du-Tang	Disease25	stroke	24751364:treat
+CPM42	Huang-Lian-Jie-Du-Tang	Disease7249	cerebral ischemia	24707870:null
+CPM42	Huang-Lian-Jie-Du-Tang	Disease23099	Middle cerebral artery	23628154:is
+CPM42	Huang-Lian-Jie-Du-Tang	Disease7249	cerebral ischemia	22387241:treat
+CPM75	Shi-Quan-Da-Bu-Tang	Disease13341	fatigue	29982213:null
+CPM59	Mu-Li-Tang	Disease25	stroke	30235703:null
+CPM59	Mu-Li-Tang	Disease25	stroke	31601868:null
+CPM97	You-Fang	Disease7304	cerebral ischemia-reperfusion injury	27396346:null
+CPM97	You-Fang	Disease7249	cerebral ischemia	27396346:null
+CPM97	You-Fang	Disease25	stroke	27396346:treat
+CPM97	You-Fang	Disease7249	cerebral ischemia	27396346:treat
+CPM97	You-Fang	Disease18756	injury	27396346:treat
+CPM16	Chai-Hu-Jia-Long-Gu-Mu-Li-Tang	Disease25	stroke	30235703:null
+CPM16	Chai-Hu-Jia-Long-Gu-Mu-Li-Tang	Disease25	stroke	31601868:null
+CPM10	Ban-Xia-Xie-Xin-Tang	Disease27097	peptic ulcer disease	26549268:used
+CPM10	Ban-Xia-Xie-Xin-Tang	Disease5620	Bulbus Fritillariae Thunbergii	26549268:null
+CPM15	Bu-Yang-Huan-Wu-Tang	Disease15959	HPLC-MS/MS	22952787:null
+CPM15	Bu-Yang-Huan-Wu-Tang	Disease25	stroke	25237385:null
+CPM60	Mu-Xiang-You-Fang	Disease7304	cerebral ischemia-reperfusion injury	27396346:null
+CPM60	Mu-Xiang-You-Fang	Disease7249	cerebral ischemia	27396346:null
+CPM27	DanShen	Disease765	acute ischaemic stroke	17443544:used
+CPM27	DanShen	Disease19786	ischaemic stroke	17443544:used
+CPM27	DanShen	Disease25	stroke	17443544:used
+CPM27	DanShen	Disease765	acute ischaemic stroke	15495099:used
+CPM27	DanShen	Disease19786	ischaemic stroke	15495099:used
+CPM27	DanShen	Disease25	stroke	15495099:used
+CPM60	Mu-Xiang-You-Fang	Disease25	stroke	27396346:treat
+CPM60	Mu-Xiang-You-Fang	Disease7249	cerebral ischemia	27396346:treat
+CPM60	Mu-Xiang-You-Fang	Disease18756	injury	27396346:treat
+CPM27	DanShen	Disease765	acute ischaemic stroke	17443544:null
+CPM27	DanShen	Disease19786	ischaemic stroke	17443544:null
+CPM27	DanShen	Disease25	stroke	17443544:null
+CPM27	DanShen	Disease765	acute ischaemic stroke	15495099:null
+CPM27	DanShen	Disease19786	ischaemic stroke	15495099:null
+CPM27	DanShen	Disease25	stroke	15495099:null
+CPM27	DanShen	Disease765	acute ischaemic stroke	15495099:causing
+CPM27	DanShen	Disease19786	ischaemic stroke	15495099:causing
+CPM27	DanShen	Disease25	stroke	15495099:causing
+CPM107	Huanglian-Zhizicouplet	Disease23099	middle cerebral artery	24707870:null
+CPM56	Maekmoondong-tang	Disease22150	lung cancer	30024544:null
+CPM27	DanShen	Disease22553	MD	27015174:null
+CPM27	DanShen	Disease22553	MD	27015174:reduced
+CPM77	Shuanghe-tang	Disease4654	BBB	29599893:attenuated
+CPM77	Shuanghe-tang	Disease3818	attenuated edema	29599893:null
+CPM27	DanShen	Disease20467	ischemic stroke	26477801:null
+CPM27	DanShen	Disease25	stroke	26477801:null
+CPM77	Shuanghe-tang	Disease5326	brain injury	29599893:protect
+CPM77	Shuanghe-tang	Disease19848	ischemia	29599893:protect
+CPM94	Yan-Hu-Suo	Disease27097	peptic ulcer disease	26549268:used
+CPM94	Yan-Hu-Suo	Disease5620	Bulbus Fritillariae Thunbergii	26549268:null
+CPM84	Tongxinluo	Disease20467	ischemic stroke	29247478:alleviates
+CPM84	Tongxinluo	Disease25	stroke	29247478:alleviates
+CPM84	Tongxinluo	Disease33206	vascular endothelial function	29247478:alleviates
+CPM78	Shuanghe-Tang	Disease29881	Shuanghe-Tang Extract Attenuates Postischemic Brain Injury and Edema	29599893:null
+CPM78	Shuanghe-Tang	Disease25	Stroke	29599893:Listed
+CPM84	Tongxinluo	Disease20073	ischemia-reperfusion brain injury	23707212:null
+CPM65	palmul-chongmyeong-tang	Disease19848	ischemia	17268076:null
+CPM65	palmul-chongmyeong-tang	Disease22672	memory deficits	17268076:null
+CPM84	Tongxinluo	Disease13552	focal cerebral ischemia	29425910:null
+CPM84	Tongxinluo	Disease7249	cerebral ischemia	29425910:null
+CPM84	Tongxinluo	Disease28920	reperfusion injury	29425910:null
+CPM46	Injinoryung-San-Gagambang	Disease25	stroke	30572459:null
+CPM81	So-Pung-Tang	Disease7169	cerebral infarction	17931810:null
+CPM18	chongsanggeontong-tang	Disease23161	migraine	29538206:null
+CPM20	chungpyesagan-tang	Disease20467	ischemic stroke	12856857:null
+CPM20	chungpyesagan-tang	Disease25	stroke	12856857:null
+CPM84	Tongxinluo	Disease25	stroke	18051910:null
+CPM84	Tongxinluo	Disease19786	ischaemic stroke	30548093:null
+CPM84	Tongxinluo	Disease25	stroke	30548093:null
+CPM21	Chungsim-Yeunja-Tang	Disease7169	cerebral infarction	12675197:null
+CPM84	Tongxinluo	Disease765	acute ischaemic stroke	18843664:improve
+CPM84	Tongxinluo	Disease19786	ischaemic stroke	18843664:improve
+CPM84	Tongxinluo	Disease25	stroke	18843664:improve
+CPM84	Tongxinluo	Disease13552	focal cerebral ischemia	26805466:null
+CPM84	Tongxinluo	Disease7249	cerebral ischemia	26805466:null
+CPM84	Tongxinluo	Disease28920	reperfusion injury	26805466:null
+CPM13	Bojungikki-Tang	Disease20467	Ischemic Stroke	29599812:null
+CPM13	Bojungikki-Tang	Disease25	Stroke	29599812:null
+CPM84	Tongxinluo	Disease7304	cerebral ischemia-reperfusion injury	16793599:null
+CPM84	Tongxinluo	Disease7249	cerebral ischemia	16793599:null
+CPM14	Bo-Yang-Hwan-O-Tang	Disease7169	cerebral infarction	21492172:null
+CPM14	Bo-Yang-Hwan-O-Tang	Disease24813	neurological deficit	21492172:null
+CPM84	Tongxinluo	Disease20087	ischemia-reperfusion injury	29483388:decrease
+CPM36	Gal-geun-dang-gwi-tang	Disease16583	hypertension	25416139:used
+CPM36	Gal-geun-dang-gwi-tang	Disease18554	inflammatory disorders	25416139:used
+CPM36	Gal-geun-dang-gwi-tang	Disease25	stroke	25416139:used
+CPM84	Tongxinluo	Disease7169	cerebral infarction	18543480:null
+CPM84	Tongxinluo	Disease23956	myocardial infarction	23707212:used
+CPM84	Tongxinluo	Disease20467	ischemic stroke	23707212:used
+CPM84	Tongxinluo	Disease25	stroke	23707212:used
+CPM14	Bo-Yang-Hwan-O-Tang	Disease25	stroke	21893393:used
+CPM14	Bo-Yang-Hwan-O-Tang	Disease33147	vascular dementia	21893393:used
+CPM30	Danggui-Sini-Jia-Wuzhuyu-Shengian-Tang	Disease33167	vascular diseases	29844404:treat
+CPM84	Tongxinluo	Disease20467	ischemic stroke	23469609:null
+CPM84	Tongxinluo	Disease25	stroke	23469609:null
+CPM84	Tongxinluo	Disease7333	cerebral ischemic infraction	26805468:proved
+CPM84	Tongxinluo	Disease1800	angina pectoris	19527824:approved
+CPM84	Tongxinluo	Disease20467	ischemic stroke	19527824:approved
+CPM84	Tongxinluo	Disease25	stroke	19527824:approved
+CPM14	Bo-Yang-Hwan-O-Tang	Disease19786	ischaemic stroke	21492172:used
+CPM14	Bo-Yang-Hwan-O-Tang	Disease25	stroke	21492172:used
+CPM84	Tongxinluo	Disease6079	cardio-cerebrovascular diseases	26805466:used
+CPM46	Injinoryung-San-Gagambang	Disease15453	hepatic dysfunction	30572459:improves
+CPM46	Injinoryung-San-Gagambang	Disease25	stroke	30572459:improves
+CPM21	Chungsim-Yeunja-Tang	Disease7169	cerebral infarction	21108840:used
+CPM84	Tongxinluo	Disease7785	cerebrovascular diseases	24927788:used
+CPM22	Chung-Sim-Youn-Ja-Tang	Disease9774	CST	25755734:null
+CPM22	Chung-Sim-Youn-Ja-Tang	Disease7777	cerebrovascular disease	25755734:treats
+CPM98	YQFM	Disease17482	hypoxia	27473956:null
+CPM98	YQFM	Disease17482	hypoxia	27473956:assessed
+CPM84	Tongxinluo	Disease20087	ischemia-reperfusion injury	16793599:null
+CPM95	Yeoldahanso-tang	Disease26878	Parkinson׳s disease	25449460:null
+CPM95	Yeoldahanso-tang	Disease26990	PD	25449460:null
+CPM84	Tongxinluo	Disease7249	cerebral ischemia	25221578:null
+CPM15	bu-yang-huan-wu-tang	Disease23956	myocardial infarction	22465277:null
+CPM15	bu-yang-huan-wu-tang	Disease20467	ischemic stroke	22465277:null
+CPM15	bu-yang-huan-wu-tang	Disease25	stroke	22465277:null
+CPM84	Tongxinluo	Disease28599	Qi-deficiency and blood-stasis syndrome	22779193:null
+CPM84	Tongxinluo	Disease7169	cerebral infarction	22779193:null
+CPM84	Tongxinluo	Disease25	stroke	22779193:null
+CPM84	Tongxinluo	Disease23117	middle cerebral artery occlusion	25221578:administered
+CPM98	YQFM	Disease17482	hypoxia	29435096:null
+CPM84	Tongxinluo	Disease7150	cerebral I	29425910:helps
+CPM98	YQFM	Disease23099	middle cerebral artery	27087890:null
+CPM98	YQFM	Disease27359	pheochromocytoma	27087890:induced
+CPM98	YQFM	Disease7249	cerebral ischemia	29435096:inhibited
+CPM98	YQFM	Disease7169	cerebral infarction	29435096:producing
+CPM98	YQFM	Disease5265	brain edema	26834461:null
+CPM98	YQFM	Disease4654	BBB	26834461:null
+CPM98	YQFM	Disease7249	cerebral ischemia	26834461:null
+CPM80	Sipjeondaebo-tang	Disease5736	cancer	29982213:null
+CPM80	Sipjeondaebo-tang	Disease13341	fatigue	29982213:null
+CPM84	Tongxinluo	Disease23099	middle cerebral artery	24927788:given
+CPM8	Banhabaekchulchunma-tang	Disease23161	migraine	29538206:used
+CPM19	Chongsanggeontong-tang	Disease23161	migraine	29538206:used
+CPM84	Tongxinluo	Disease7249	cerebral ischemia	25221578:greater
+CPM98	YQFM	Disease24821	neurological deficits	26834461:increased
+CPM84	Tongxinluo	Disease7159	cerebral infarct	25221578:showed
+CPM84	Tongxinluo	Disease24813	neurological deficit	25632575:null
+CPM84	Tongxinluo	Disease13552	Focal cerebral ischemia	16793599:null
+CPM84	Tongxinluo	Disease7249	cerebral ischemia	25221578:exhibits
+CPM84	Tongxinluo	Disease28920	reperfusion injury	25221578:exhibits
+CPM20	chungpyesagan-tang	Disease25	stroke	12856857:have
+CPM98	YQFM	Disease5391	brain metabolism	26834461:ameliorate
+CPM102	Zengsunsiwu-tang	Disease4654	BBB	29599893:null
+CPM102	Zengsunsiwu-tang	Disease3818	attenuated edema	29599893:null
+CPM98	YQFM	Disease4654	BBB	26834461:reduced
+CPM98	YQFM	Disease23294	mitochondrial dysfunction	29435096:ameliorates
+CPM98	YQFM	Disease20467	ischemic stroke	29435096:ameliorates
+CPM98	YQFM	Disease25	stroke	29435096:ameliorates
+CPM98	YQFM	Disease34257	YQFM ameliorates cerebral ischemic injury	27087890:null
+CPM98	YQFM	Disease7259	cerebral ischemia diseases	27087890:ameliorates
+CPM98	YQFM	Disease7249	cerebral ischemia	27087890:ameliorates
+CPM98	YQFM	Disease7150	cerebral I	26834461:provides
+CPM98	YQFM	Disease4657	BBB dysfunction	26834461:provides
+CPM98	YQFM	Disease20467	ischemic stroke	29435096:expand
+CPM98	YQFM	Disease25	stroke	29435096:expand
+CPM41	Hai-Piao-Xiao	Disease27097	peptic ulcer disease	26549268:used
+CPM41	Hai-Piao-Xiao	Disease5620	Bulbus Fritillariae Thunbergii	26549268:null
+CPM89	Xingnaojing injection	Disease7169	cerebral infarction	29728025:treating
+CPM108	XueShuanTong injection	Disease7169	cerebral infarction	26525022:null
+CPM62	NaoXinTong	Disease7249	Cerebral Ischemia	31015890:Reversing
+CPM89	Xingnaojing injection	Disease25	stroke	28912713:used
+CPM89	Xingnaojing injection	Disease25	stroke	29037226:used
+CPM57	Mailuoning injection	Disease19848	ischemia	25204154:null
+CPM62	NaoXinTong	Disease15	cerebrovascular	31015890:prescribed
+CPM62	NaoXinTong	Disease6312	cardiovascular diseases	31015890:prescribed
+CPM28	DanShenagents	Disease765	acute ischaemic stroke	17443544:null
+CPM28	DanShenagents	Disease19786	ischaemic stroke	17443544:null
+CPM28	DanShenagents	Disease25	stroke	17443544:null
+CPM28	DanShenagents	Disease765	acute ischaemic stroke	15495099:null
+CPM28	DanShenagents	Disease19786	ischaemic stroke	15495099:null
+CPM28	DanShenagents	Disease25	stroke	15495099:null
+CPM108	XueShuanTong injection	Disease525	acute cerebral infarction	26525022:null
+CPM89	Xingnaojing injection	Disease5265	brain edema	25276983:null
+CPM89	Xingnaojing injection	Disease16802	hypertensive basal ganglia hemorrhage	25276983:null
+CPM89	Xingnaojing injection	Disease7109	cerebral hemorrhage	25276983:null
+CPM28	DanShenagents	Disease765	acute ischaemic stroke	15495099:causing
+CPM28	DanShenagents	Disease19786	ischaemic stroke	15495099:causing
+CPM28	DanShenagents	Disease25	stroke	15495099:causing
+CPM28	DanShenagents	Disease22553	MD	27015174:null
+CPM28	DanShenagents	Disease22553	MD	27015174:reduced
+CPM66	Puerarin injection	Disease20467	ischemic stroke	28072733:treating
+CPM66	Puerarin injection	Disease25	stroke	28072733:treating
+CPM89	Xingnaojing injection	Disease5265	brain edema	25276983:reduce
+CPM89	Xingnaojing injection	Disease16802	hypertensive basal ganglia hemorrhage	25276983:promote

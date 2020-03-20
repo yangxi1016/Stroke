@@ -1,0 +1,119 @@
+Entity1ID	Entity1	Entity2ID	Entity2	PMID:keyword
+CPM86	Xiangfu	GENE513 	Alba	28868875:null
+CPM88	Xie-Xin-Tang	GENE13421 	Xin	26549268:null
+CPM32	Di-Huang-Wan	GENE6417 	insulin	26817897:Liu-Wei-Di-Huang-Wan
+CPM32	Di-Huang-Wan	FamilyName3320	insulin	26817897:Liu-Wei-Di-Huang-Wan
+CPM58	Mai-Men-Dong-Tang	GENE7379 	Mai	30024544:null
+CPM58	Mai-Men-Dong-Tang	FamilyName3851	Mai	30024544:null
+CPM50	Jie-Du-Tang	GENE5643 	HIF-1	24751364:null
+CPM50	Jie-Du-Tang	FamilyName2921	HIF-1	24751364:null
+CPM42	Huang-Lian-Jie-Du-Tang	GENE5643 	HIF-1	24751364:null
+CPM42	Huang-Lian-Jie-Du-Tang	FamilyName2921	HIF-1	24751364:null
+CPM97	You-Fang	FamilyName3142	I/R	27396346:treat
+CPM99	Yu-Quan-Wan	GENE6417 	insulin	26817897:Liu-Wei-Di-Huang-Wan
+CPM99	Yu-Quan-Wan	FamilyName3320	insulin	26817897:Liu-Wei-Di-Huang-Wan
+CPM10	Ban-Xia-Xie-Xin-Tang	GENE13421 	Xin	26549268:null
+CPM15	Bu-Yang-Huan-Wu-Tang	GENE4574 	follistatin	25237385:increase
+CPM27	DanShen	GENE3437 	Dan	17443544:null
+CPM27	DanShen	GENE3437 	Dan	15495099:null
+CPM60	Mu-Xiang-You-Fang	FamilyName3142	I/R	27396346:treat
+CPM27	DanShen	GENE2632 	CHP	26477801:null
+CPM77	Shuanghe-tang	GENE9269 	occludin	29599893:null
+CPM77	Shuanghe-tang	FamilyName4757	occludin	29599893:null
+CPM77	Shuanghe-tang	GENE13519 	ZO-1	29599893:null
+CPM77	Shuanghe-tang	GENE1136 	AQP4	29599893:null
+CPM55	Liu-Wei-Di-Huang-Wan	GENE6417 	insulin	26817897:Liu-Wei-Di-Huang-Wan
+CPM55	Liu-Wei-Di-Huang-Wan	FamilyName3320	insulin	26817897:Liu-Wei-Di-Huang-Wan
+CPM84	Tongxinluo	GENE7645 	MEK1/2	29425910:associated
+CPM84	Tongxinluo	GENE4151 	ERK1/2	29425910:associated
+CPM84	Tongxinluo	GENE9614 	p90RSK	29425910:associated
+CPM21	Chungsim-Yeunja-Tang	GENE12432 	TH1	12675197:null
+CPM21	Chungsim-Yeunja-Tang	FamilyName6501	TH1	12675197:null
+CPM21	Chungsim-Yeunja-Tang	FamilyName6502	TH1	12675197:null
+CPM84	Tongxinluo	GENE10096 	PI3K	26805466:null
+CPM84	Tongxinluo	FamilyName5182	PI3K	26805466:null
+CPM84	Tongxinluo	FamilyName5183	PI3K	26805466:null
+CPM84	Tongxinluo	GENE486 	Akt	26805466:null
+CPM84	Tongxinluo	FamilyName278	Akt	26805466:null
+CPM84	Tongxinluo	FamilyName279	Akt	26805466:null
+CPM84	Tongxinluo	FamilyName280	Akt	26805466:null
+CPM84	Tongxinluo	GENE8759 	Nestin	16793599:null
+CPM84	Tongxinluo	GENE13002 	TXL	29483388:null
+CPM84	Tongxinluo	FamilyName6872	TXL	29483388:null
+CPM84	Tongxinluo	GENE13002 	TXL	18543480:null
+CPM84	Tongxinluo	FamilyName6872	TXL	18543480:null
+CPM84	Tongxinluo	GENE13002 	TXL	23707212:null
+CPM84	Tongxinluo	FamilyName6872	TXL	23707212:null
+CPM84	Tongxinluo	GENE13002 	TXL	23469609:null
+CPM84	Tongxinluo	FamilyName6872	TXL	23469609:null
+CPM84	Tongxinluo	GENE13002 	TXL	26805468:null
+CPM84	Tongxinluo	FamilyName6872	TXL	26805468:null
+CPM84	Tongxinluo	GENE13002 	TXL	26805466:null
+CPM84	Tongxinluo	FamilyName6872	TXL	26805466:null
+CPM22	Chung-Sim-Youn-Ja-Tang	GENE3136 	CST	25755734:null
+CPM22	Chung-Sim-Youn-Ja-Tang	DomainMotif135	CST	25755734:null
+CPM84	Tongxinluo	GENE8759 	nestin	16793599:null
+CPM84	Tongxinluo	FamilyName4325	nestin	16793599:null
+CPM95	Yeoldahanso-tang	GENE8530 	MYH	25449460:null
+CPM84	Tongxinluo	GENE13002 	TXL	29425910:null
+CPM84	Tongxinluo	FamilyName6872	TXL	29425910:null
+CPM84	Tongxinluo	GENE7645 	MEK1/2	29425910:involved
+CPM84	Tongxinluo	GENE4151 	ERK1/2	29425910:involved
+CPM98	YQFM	GENE9282 	OGD	27087890:induced
+CPM98	YQFM	FamilyName4764	OGD	27087890:induced
+CPM98	YQFM	DomainMotif452	OGD	27087890:induced
+CPM98	YQFM	GENE3800 	dynamin-related protein 1	29435096:inhibited
+CPM98	YQFM	GENE3752 	Drp1	29435096:inhibited
+CPM8	Banhabaekchulchunma-tang	GENE2578 	CGT	29538206:used
+CPM19	Chongsanggeontong-tang	GENE2578 	CGT	29538206:null
+CPM84	Tongxinluo	GENE4400 	FDG	25221578:greater
+CPM84	Tongxinluo	FamilyName2202	FDG	25221578:greater
+CPM84	Tongxinluo	GENE8759 	nestin	16793599:increased
+CPM84	Tongxinluo	FamilyName4325	nestin	16793599:increased
+CPM98	YQFM	GENE2113 	caspase-3	27087890:decrease
+CPM98	YQFM	GENE9282 	OGD	27087890:inhibit
+CPM98	YQFM	FamilyName4764	OGD	27087890:inhibit
+CPM98	YQFM	DomainMotif452	OGD	27087890:inhibit
+CPM98	YQFM	GENE2113 	caspase-3	27087890:modulate
+CPM98	YQFM	GENE1498 	Bcl-2	27087890:modulate
+CPM98	YQFM	FamilyName747	Bcl-2	27087890:modulate
+CPM98	YQFM	FamilyName748	Bcl-2	27087890:modulate
+CPM98	YQFM	FamilyName749	Bcl-2	27087890:modulate
+CPM98	YQFM	FamilyName2030	ER stress-related marker	27087890:modulate
+CPM84	Tongxinluo	GENE7241 	LPA	25632575:null
+CPM84	Tongxinluo	FamilyName3788	LPA	25632575:null
+CPM84	Tongxinluo	GENE4400 	FDG	25221578:null
+CPM84	Tongxinluo	FamilyName2202	FDG	25221578:null
+CPM98	YQFM	GENE2113 	caspase-3	27087890:null
+CPM98	YQFM	GENE9282 	OGD	27087890:null
+CPM98	YQFM	FamilyName4764	OGD	27087890:null
+CPM98	YQFM	DomainMotif452	OGD	27087890:null
+CPM98	YQFM	FamilyName5230	PKC	29435096:inhibited
+CPM98	YQFM	GENE3752 	Drp1	29435096:null
+CPM98	YQFM	GENE13522 	zona occludens-1	26834461:upregulated
+CPM98	YQFM	GENE13519 	ZO-1	26834461:upregulated
+CPM98	YQFM	GENE9269 	occludin	26834461:upregulated
+CPM98	YQFM	FamilyName4757	occludin	26834461:upregulated
+CPM98	YQFM	GENE3752 	Drp1	29435096:ameliorates
+CPM41	Hai-Piao-Xiao	GENE13421 	Xin	26549268:null
+CPM62	NaoXinTong	GENE1737 	BNC	31015890:null
+CPM62	NaoXinTong	FamilyName837	BNC	31015890:null
+CPM28	DanShenagents	GENE3437 	Dan	17443544:null
+CPM28	DanShenagents	GENE3437 	Dan	15495099:null
+CPM89	Xingnaojing injection	GENE1152 	aquaporin-4	25276983:null
+CPM89	Xingnaojing injection	GENE1136 	AQP4	25276983:null
+CPM57	Mailuoning injection	GENE4901 	GFAP	25204154:reduce
+CPM57	Mailuoning injection	FamilyName2455	GFAP	25204154:reduce
+CPM57	Mailuoning injection	FamilyName2456	GFAP	25204154:reduce
+CPM57	Mailuoning injection	GENE12644 	TNF-alpha	25204154:decrease
+CPM57	Mailuoning injection	FamilyName6608	TNF-alpha	25204154:decrease
+CPM57	Mailuoning injection	GENE6261 	IL-1beta	25204154:decrease
+CPM57	Mailuoning injection	GENE13223 	VCAM-1	25204154:decrease
+CPM57	Mailuoning injection	GENE6057 	ICAM-1	25204154:decrease
+CPM57	Mailuoning injection	FamilyName3157	ICAM-1	25204154:decrease
+CPM108	XueShuanTong injection	GENE6302 	IL-2	26525022:higher
+CPM108	XueShuanTong injection	GENE2576 	CGRP	26525022:higher
+CPM108	XueShuanTong injection	FamilyName1238	CGRP	26525022:higher
+CPM108	XueShuanTong injection	GENE6302 	IL-2	26525022:null
+CPM108	XueShuanTong injection	GENE2576 	CGRP	26525022:null
+CPM108	XueShuanTong injection	FamilyName1238	CGRP	26525022:null

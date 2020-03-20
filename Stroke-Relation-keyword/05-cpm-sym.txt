@@ -1,0 +1,136 @@
+Entity1ID	Entity1	Entity2ID	Entity2	PMID:keyword
+CPM101	Zengsunsiwu	Symptom204	edema	29599893:null
+CPM4	Baifuzi	Symptom630	stress	21364615:null
+CPM4	Baifuzi	Symptom631	stroke	17408986:used
+CPM53	Kanliji	Symptom277	heart failure	16800986:null
+CPM4	Baifuzi	Symptom631	stroke	24946143:results
+CPM4	Baifuzi	Symptom631	stroke	24946143:null
+CPM4	Baifuzi	Symptom631	stroke	24946143:exert
+CPM82	Taorencheng	Symptom631	stroke	31682375:null
+CPM48	Jiaonang	Symptom631	stroke	19164787:null
+CPM48	Jiaonang	Symptom631	stroke	19164787:compared
+CPM48	Jiaonang	Symptom631	stroke	18417963:modify
+CPM48	Jiaonang	Symptom631	stroke	18417963:showed
+CPM71	Shangwan	Symptom177	disease	21058487:null
+CPM7	BaiYao	Symptom134	colitis	22797968:null
+CPM7	BaiYao	Symptom681	ulcerative colitis	22797968:null
+CPM88	Xie-Xin-Tang	Symptom501	peptic ulcer	26549268:used
+CPM58	Mai-Men-Dong-Tang	Symptom177	disease	30024544:used
+CPM58	Mai-Men-Dong-Tang	Symptom144	cough	30024544:used
+CPM26	Da-Bu-Tang	Symptom231	fatigue	29982213:null
+CPM50	Jie-Du-Tang	Symptom631	stroke	24751364:treat
+CPM50	Jie-Du-Tang	Symptom340	injury	12204769:reduce
+CPM50	Jie-Du-Tang	Symptom340	injury	12204769:null
+CPM42	Huang-Lian-Jie-Du-Tang	Symptom631	stroke	24751364:treat
+CPM75	Shi-Quan-Da-Bu-Tang	Symptom231	fatigue	29982213:null
+CPM59	Mu-Li-Tang	Symptom162	depression	30235703:null
+CPM59	Mu-Li-Tang	Symptom631	stroke	30235703:null
+CPM59	Mu-Li-Tang	Symptom162	depression	31601868:null
+CPM59	Mu-Li-Tang	Symptom631	stroke	31601868:null
+CPM97	You-Fang	Symptom340	injury	27396346:null
+CPM97	You-Fang	Symptom340	injury	27396346:treat
+CPM97	You-Fang	Symptom631	stroke	27396346:treat
+CPM16	Chai-Hu-Jia-Long-Gu-Mu-Li-Tang	Symptom162	depression	30235703:null
+CPM16	Chai-Hu-Jia-Long-Gu-Mu-Li-Tang	Symptom631	stroke	30235703:null
+CPM16	Chai-Hu-Jia-Long-Gu-Mu-Li-Tang	Symptom162	depression	31601868:null
+CPM16	Chai-Hu-Jia-Long-Gu-Mu-Li-Tang	Symptom631	stroke	31601868:null
+CPM10	Ban-Xia-Xie-Xin-Tang	Symptom501	peptic ulcer	26549268:used
+CPM15	Bu-Yang-Huan-Wu-Tang	Symptom421	MS	22952787:null
+CPM15	Bu-Yang-Huan-Wu-Tang	Symptom631	stroke	25237385:null
+CPM60	Mu-Xiang-You-Fang	Symptom340	injury	27396346:null
+CPM27	DanShen	Symptom631	stroke	17443544:used
+CPM27	DanShen	Symptom631	stroke	15495099:used
+CPM60	Mu-Xiang-You-Fang	Symptom340	injury	27396346:treat
+CPM60	Mu-Xiang-You-Fang	Symptom631	stroke	27396346:treat
+CPM27	DanShen	Symptom631	stroke	17443544:null
+CPM27	DanShen	Symptom631	stroke	15495099:null
+CPM27	DanShen	Symptom631	stroke	15495099:causing
+CPM56	Maekmoondong-tang	Symptom144	cough	30024544:null
+CPM56	Maekmoondong-tang	Symptom388	lung cancer	30024544:null
+CPM56	Maekmoondong-tang	Symptom421	MS	30024544:null
+CPM77	Shuanghe-tang	Symptom204	edema	29599893:attenuated
+CPM27	DanShen	Symptom631	stroke	26477801:null
+CPM77	Shuanghe-tang	Symptom115	chemical	29599893:null
+CPM77	Shuanghe-tang	Symptom340	injury	29599893:protect
+CPM94	Yan-Hu-Suo	Symptom501	peptic ulcer	26549268:used
+CPM84	Tongxinluo	Symptom631	stroke	29247478:alleviates
+CPM78	Shuanghe-Tang	Symptom631	Stroke	29599893:Listed
+CPM78	Shuanghe-Tang	Symptom204	Edema	29599893:Listed
+CPM78	Shuanghe-Tang	Symptom340	Injury	29599893:Listed
+CPM22	Chung-Sim-Youn-Ja-Tang	Symptom551	RA	25755734:null
+CPM84	Tongxinluo	Symptom340	injury	23707212:null
+CPM65	palmul-chongmyeong-tang	Symptom402	memory deficits	17268076:null
+CPM84	Tongxinluo	Symptom340	injury	29425910:null
+CPM46	Injinoryung-San-Gagambang	Symptom631	stroke	30572459:null
+CPM18	chongsanggeontong-tang	Symptom414	migraine	29538206:null
+CPM23	Chunsimyeolda-tang	Symptom177	disease	26593210:null
+CPM20	chungpyesagan-tang	Symptom631	stroke	12856857:null
+CPM84	Tongxinluo	Symptom631	stroke	18051910:null
+CPM84	Tongxinluo	Symptom631	stroke	30548093:null
+CPM84	Tongxinluo	Symptom631	stroke	18843664:improve
+CPM84	Tongxinluo	Symptom340	injury	26805466:null
+CPM13	Bojungikki-Tang	Symptom631	Stroke	29599812:null
+CPM84	Tongxinluo	Symptom14	aging	25221578:null
+CPM84	Tongxinluo	Symptom340	injury	16793599:null
+CPM84	Tongxinluo	Symptom340	injury	29483388:decrease
+CPM36	Gal-geun-dang-gwi-tang	Symptom631	stroke	25416139:used
+CPM84	Tongxinluo	Symptom631	stroke	23707212:used
+CPM14	Bo-Yang-Hwan-O-Tang	Symptom159	dementia	21893393:used
+CPM14	Bo-Yang-Hwan-O-Tang	Symptom698	vascular dementia	21893393:used
+CPM14	Bo-Yang-Hwan-O-Tang	Symptom631	stroke	21893393:used
+CPM30	Danggui-Sini-Jia-Wuzhuyu-Shengian-Tang	Symptom177	disease	29844404:treat
+CPM84	Tongxinluo	Symptom631	stroke	23469609:null
+CPM84	Tongxinluo	Symptom631	stroke	19527824:approved
+CPM14	Bo-Yang-Hwan-O-Tang	Symptom631	stroke	21492172:used
+CPM84	Tongxinluo	Symptom177	disease	26805466:used
+CPM84	Tongxinluo	Symptom177	disease	26805466:formulated
+CPM46	Injinoryung-San-Gagambang	Symptom631	stroke	30572459:improves
+CPM46	Injinoryung-San-Gagambang	Symptom551	RA	30572459:null
+CPM84	Tongxinluo	Symptom177	disease	24927788:used
+CPM22	Chung-Sim-Youn-Ja-Tang	Symptom177	disease	25755734:treats
+CPM95	Yeoldahanso-tang	Symptom177	disease	25449460:null
+CPM15	bu-yang-huan-wu-tang	Symptom631	stroke	22465277:null
+CPM84	Tongxinluo	Symptom631	stroke	22779193:null
+CPM98	YQFM	Symptom177	disease	29435096:null
+CPM84	Tongxinluo	Symptom340	injury	29425910:helps
+CPM84	Tongxinluo	Symptom545	ptosis	29425910:helps
+CPM98	YQFM	Symptom545	ptosis	27087890:null
+CPM98	YQFM	Symptom630	stress	27087890:null
+CPM98	YQFM	Symptom545	ptosis	29435096:inhibited
+CPM98	YQFM	Symptom340	injury	26834461:null
+CPM98	YQFM	Symptom204	edema	26834461:null
+CPM80	Sipjeondaebo-tang	Symptom231	fatigue	29982213:null
+CPM8	Banhabaekchulchunma-tang	Symptom414	migraine	29538206:used
+CPM19	Chongsanggeontong-tang	Symptom414	migraine	29538206:used
+CPM84	Tongxinluo	Symptom14	aging	25221578:greater
+CPM98	YQFM	Symptom630	stress	27087890:modulate
+CPM98	YQFM	Symptom545	ptosis	27087890:inhibit
+CPM98	YQFM	Symptom630	stress	29435096:inhibited
+CPM84	Tongxinluo	Symptom340	injury	25221578:exhibits
+CPM20	chungpyesagan-tang	Symptom631	stroke	12856857:have
+CPM98	YQFM	Symptom14	aging	26834461:able
+CPM102	Zengsunsiwu-tang	Symptom204	edema	29599893:null
+CPM98	YQFM	Symptom545	ptosis	29435096:ameliorates
+CPM98	YQFM	Symptom631	stroke	29435096:ameliorates
+CPM98	YQFM	Symptom177	disease	27087890:ameliorates
+CPM98	YQFM	Symptom340	injury	27087890:ameliorates
+CPM98	YQFM	Symptom630	stress	27087890:ameliorates
+CPM98	YQFM	Symptom340	injury	26834461:provides
+CPM98	YQFM	Symptom631	stroke	29435096:expand
+CPM41	Hai-Piao-Xiao	Symptom501	peptic ulcer	26549268:used
+CPM84	Tongxinluo	Symptom421	MS	15932703:was
+CPM84	Tongxinluo	Symptom421	MS	15932703:null
+CPM84	Tongxinluo	Symptom421	MS	15932703:different
+CPM89	Xingnaojing injection	Symptom346	intoxication	25800798:null
+CPM89	Xingnaojing injection	Symptom631	stroke	28912713:used
+CPM89	Xingnaojing injection	Symptom631	stroke	29037226:used
+CPM57	Mailuoning injection	Symptom340	injury	25204154:null
+CPM62	NaoXinTong	Symptom177	disease	31015890:prescribed
+CPM28	DanShenagents	Symptom631	stroke	17443544:null
+CPM28	DanShenagents	Symptom631	stroke	15495099:null
+CPM89	Xingnaojing injection	Symptom295	hemorrhage	25276983:null
+CPM89	Xingnaojing injection	Symptom204	edema	25276983:null
+CPM28	DanShenagents	Symptom631	stroke	15495099:causing
+CPM66	Puerarin injection	Symptom631	stroke	28072733:treating
+CPM89	Xingnaojing injection	Symptom295	hemorrhage	25276983:promote
+CPM89	Xingnaojing injection	Symptom204	edema	25276983:reduce

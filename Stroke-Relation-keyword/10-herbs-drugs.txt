@@ -1,0 +1,3283 @@
+Entity1ID	Entity1	Entity2ID	Entity2	PMID:keyword
+Herb117	Fu-Zi	Drug657	Fu	31331548:null
+Herb409	Zhi-Mu	Drug657	Fu	31331548:null
+Herb345	Tian-Hua-Fen	Drug657	Fu	31331548:null
+Herb139	Gua-Lou	Drug1039	ng	25710597:null
+Herb306	Sheng-Ma	Drug1039	ng	27868379:null
+Herb306	Sheng-Ma	Drug657	Fu	26322893:null
+Herb220	Lou-Gu	Drug1039	ng	25710597:null
+Herb185	Huang-Wan	Drug792	insulin	26817897:Liu-Wei-Di-Huang-Wan
+Herb144	Gui-Zhi	Drug657	Fu	31331548:null
+Herb144	Gui-Zhi	Drug1039	ng	25710597:null
+Herb144	Gui-Zhi	Drug657	Fu	13678228:null
+Herb390	Yan-Hu-Suo	Drug657	Fu	28213110:null
+Herb93	Du-Huo	Drug657	Fu	28213110:null
+Herb88	Di-Huang	Drug792	insulin	26817897:Liu-Wei-Di-Huang-Wan
+Herb244	Niu-Xi	Drug657	Fu	28213110:null
+Herb341	Tao-Ren	Drug146	aspirin	28168001:null
+Herb125	Ge-Gen	Drug657	Fu	31331548:null
+Herb407	Zhi-Gan-Cao	Drug657	Fu	26322893:null
+Herb170	Hua-Fen	Drug657	Fu	31331548:null
+Herb119	Gan-Cao	Drug657	Fu	31331548:null
+Herb119	Gan-Cao	Drug657	Fu	26322893:null
+Herb76	Da-Huang	Drug792	insulin	26817897:null
+Herb82	Dan-Shen	Drug657	Fu	31331548:null
+Herb82	Dan-Shen	Drug657	Fu	28213110:null
+Herb82	Dan-Shen	Drug792	insulin	26817897:null
+Herb177	Huang-Lian	Drug195	Berberine	28894512:null
+Herb177	Huang-Lian	Drug195	berberine	23628154:is
+Herb177	Huang-Lian	Drug195	berberine	31031621:investigated
+Herb113	Fu-Ling	Drug657	Fu	13678228:null
+Herb192	Jiang	Drug146	aspirin	28948649:null
+Herb302	Shao-Yao	Drug657	Fu	31331548:null
+Herb115	Fu-Mai	Drug657	Fu	27473956:null
+Herb418	Zhu-Yu	Drug657	Fu	28213110:null
+Herb418	Zhu-Yu	Drug657	Fu	26322893:null
+Herb418	Zhu-Yu	Drug657	Fu	21315142:null
+Herb120	Gan-Cao-Tan	Drug657	Fu	31331548:null
+Herb120	Gan-Cao-Tan	Drug657	Fu	26322893:null
+Herb267	Qiang	Drug452	digoxin	11477829:null
+Herb388	Yan-Hu	Drug657	Fu	28213110:null
+Herb200	Ji-Sheng	Drug657	Fu	28213110:null
+Herb216	Liu-Wei-Di-Huang-Wan	Drug792	insulin	26817897:Liu-Wei-Di-Huang-Wan
+Herb43	Cao-Tan	Drug657	Fu	31331548:null
+Herb43	Cao-Tan	Drug657	Fu	26322893:null
+Herb179	Huang-Lian-Jie-Du-Tang	Drug195	berberine	23628154:is
+Herb190	Hu-Suo	Drug657	Fu	28213110:null
+Herb410	Zhi-Shao	Drug657	Fu	31331548:null
+Herb389	Yan-Hu-Su	Drug657	Fu	28213110:null
+Herb319	Shu-Ji	Drug657	Fu	28213110:null
+Herb406	Zhi-Gan	Drug657	Fu	26322893:null
+Herb405	Zhi-Fu	Drug657	Fu	13678228:null
+Herb199	Ji-She	Drug657	Fu	28213110:null
+Herb316	Shui	Drug825	K	27482225:null
+Herb316	Shui	Drug825	K	27482225:associated
+Herb316	Shui	Drug628	fluoxetine	26383034:used
+Herb316	Shui	Drug628	fluoxetine	26571884:null
+Herb316	Shui	Drug313	Cisapride	18257178:thrice
+Herb175	Huang-Li	Drug195	Berberine	28894512:null
+Herb175	Huang-Li	Drug195	berberine	23628154:is
+Herb175	Huang-Li	Drug195	berberine	31031621:investigated
+Herb236	Mu-Tan	Drug657	Fu	31331548:null
+Herb353	Tongbian	Drug657	fu	24377218:null
+Herb291	sanqi	Drug689	ginsenoside Rg1	29896950:null
+Herb291	sanqi	Drug825	K	21293466:inhibit
+Herb291	sanqi	Drug687	ginseng	21293466:null
+Herb291	sanqi	Drug689	ginsenoside Rg1	29896951:null
+Herb291	sanqi	Drug244	camphor	19449344:null
+Herb291	Sanqi	Drug682	ginkgo biloba	25532388:null
+Herb78	Danggui	Drug331	clopidogrel	31471773:null
+Herb78	Danggui	Drug331	clopidogrel	31471773:decrease
+Herb138	Gualou	Drug239	calcium	29185359:reverses
+Herb305	Shengma	Drug331	clopidogrel	27459888:null
+Herb305	Shengma	Drug687	ginseng	16883630:comprising
+Herb305	Shengma	Drug1055	nitric oxide	15879682:protects
+Herb305	Shengma	Drug1055	nitric oxide	15879682:null
+Herb305	Shengma	Drug87	aminoguanidine	15879682:administered
+Herb305	Shengma	Drug87	aminoguanidine	15879682:shared
+Herb305	Shengma	Drug87	aminoguanidine	15879682:null
+Herb305	Shengma	Drug331	clopidogrel	31471773:null
+Herb97	ercha	Drug643	Fondaparinux sodium	16022574:null
+Herb97	ercha	Drug726	heparin	16022574:null
+Herb97	ercha	Drug881	LMWH	10549724:noninterchangeable
+Herb97	ercha	Drug946	methionine	10894822:null
+Herb97	ercha	Drug861	leucine	10894822:null
+Herb97	ercha	Drug860	leu	9756579:null
+Herb97	ercha	Drug946	methionine	9756579:null
+Herb97	ercha	Drug861	leucine	9756579:null
+Herb404	Zhenzhu	Drug825	k	31602864:null
+Herb142	guiding	Drug1088	omeprazole	30892487:using
+Herb142	guiding	Drug933	met	23074499:null
+Herb142	guiding	Drug1003	MRA	1727307:null
+Herb142	guiding	Drug208	BNP	21804778:null
+Herb21	baifuzi	Drug239	calcium	17408986:null
+Herb21	Baifuzi	Drug825	K	21364615:reduces
+Herb21	Baifuzi	Drug563	ethanol	21364615:null
+Herb21	Baifuzi	Drug825	K	21364615:null
+Herb21	Baifuzi	Drug563	ethanol	21364615:purified
+Herb21	Baifuzi	Drug825	K	21364615:purified
+Herb21	Baifuzi	Drug825	K	21364615:activated
+Herb380	xixin	Drug682	ginkgo biloba	25532388:null
+Herb143	Guizhi	Drug239	calcium	29185359:reverses
+Herb242	Niuhuang	Drug599	fat	27880884:null
+Herb242	Niuhuang	Drug1590	vitamin D3	27880884:null
+Herb242	Niuhuang	Drug1107	pa	25951631:null
+Herb290	Sanger	Drug1366	SHH	28640243:null
+Herb366	Wuli	Drug628	Fluoxetine	24906594:comparing
+Herb366	Wuli	Drug1363	Sertraline	24906594:comparing
+Herb366	Wuli	Drug1129	Paroxetine	24906594:comparing
+Herb366	Wuli	Drug315	Citalopram	24906594:comparing
+Herb366	Wuli	Drug628	Fluoxetine	24906594:null
+Herb366	Wuli	Drug1363	Sertraline	24906594:null
+Herb366	Wuli	Drug1129	Paroxetine	24906594:null
+Herb366	Wuli	Drug315	Citalopram	24906594:null
+Herb203	JUPI	Drug298	Cholesterol	28450350:null
+Herb203	JUPI	Drug1338	Rosuvastatin	28450350:Evaluating
+Herb203	JUPI	Drug298	cholesterol	28450350:null
+Herb203	JUPI	Drug298	cholesterol	28450350:Evaluating
+Herb203	JUPI	Drug1338	rosuvastatin	28450350:compared
+Herb203	JUPI	Drug1338	rosuvastatin	22883507:assigned
+Herb203	JUPI	Drug1338	rosuvastatin	21493817:allocated
+Herb203	JUPI	Drug298	cholesterol	21493817:allocated
+Herb203	JUPI	Drug1338	rosuvastatin	21493817:null
+Herb203	JUPI	Drug127	Arg	21493817:effective
+Herb203	JUPI	Drug1338	Rosuvastatin	20026779:null
+Herb203	JUPI	Drug298	cholesterol	20026779:allocated
+Herb203	JUPI	Drug1338	rosuvastatin	20026779:allocated
+Herb203	JUPI	Drug298	cholesterol	16503422:null
+Herb203	JUPI	Drug1338	Rosuvastatin	16503422:null
+Herb249	oumi	Drug1598	warfarin	30359142:null
+Herb249	oumi	Drug7	acenocoumarol	30359142:null
+Herb379	Xixian	Drug825	K	31359683:promote
+Herb379	Xixian	Drug334	CoA	31090302:null
+Herb172	huaitong	Drug146	aspirin	25532381:null
+Herb172	huaitong	Drug792	insulin	25532381:null
+Herb61	chuanxiong	Drug687	ginseng	31359663:null
+Herb61	chuanxiong	Drug334	CoA	31090302:null
+Herb61	chuanxiong	Drug1051	nimodipine	18987534:null
+Herb61	Chuanxiong	Drug56	alcohol	30836247:null
+Herb61	Chuanxiong	Drug687	Ginseng	30028327:null
+Herb61	Chuanxiong	Drug687	Ginseng	30028327:deficiency-nourishing
+Herb61	Chuanxiong	Drug1039	ng	24789060:null
+Herb63	cigu	Drug471	DM	26520063:null
+Herb340	Taoren	Drug146	aspirin	31682375:null
+Herb124	Gegen	Drug825	K	24192211:produced
+Herb124	Gegen	Drug331	clopidogrel	31471773:null
+Herb124	Gegen	Drug331	clopidogrel	31471773:decrease
+Herb169	HUAFEN	Drug1065	norepinephrine	10073023:observed
+Herb169	HUAFEN	Drug529	epinephrine	10073023:observed
+Herb169	HUAFEN	Drug351	cortisol	10073023:observed
+Herb118	Gancao	Drug173	Baclofen	28875677:null
+Herb223	magen	Drug805	iron	18626608:null
+Herb223	magen	Drug1006	Myc	22986743:controls
+Herb223	magen	Drug1006	Myc	22986743:allowing
+Herb223	magen	Drug1006	Myc	22986743:protecting
+Herb53	CHIAN	Drug1586	vitamin B6	19303062:null
+Herb53	CHIAN	Drug1583	vitamin B12	19303062:null
+Herb53	CHIAN	Drug640	folate	19303062:null
+Herb53	chian	Drug1598	warfarin	22264366:null
+Herb81	danshen	Drug843	lactic acid	25765834:null
+Herb81	danshen	Drug825	K	21293466:proposed
+Herb81	danshen	Drug897	magnesium	21293466:null
+Herb81	danshen	Drug825	K	20438664:assumed
+Herb81	danshen	Drug897	magnesium	20438664:assumed
+Herb81	danshen	Drug1353	SDS	29984620:null
+Herb81	Danshen	Drug682	Ginkgo biloba	17463317:null
+Herb81	Danshen	Drug887	losartan	26806573:null
+Herb81	Danshen	Drug1166	phenanthrene	26521431:null
+Herb81	Danshen	Drug843	lactic acid	25765834:null
+Herb81	Danshen	Drug825	K	24192211:produced
+Herb81	Danshen	Drug1163	PGI2	23921303:null
+Herb81	Danshen	Drug1404	STS	21453766:null
+Herb81	Danshen	Drug897	magnesium	17439716:null
+Herb81	Danshen	Drug1095	ouabain	17439716:act
+Herb81	Danshen	Drug452	digoxin	17439716:act
+Herb81	Danshen	Drug825	K	17439716:null
+Herb81	Danshen	Drug897	Magnesium	15830837:null
+Herb81	Danshen	Drug1060	NMDA	15830837:null
+Herb81	Danshen	Drug1060	NMDA	15830837:evoked
+Herb81	Danshen	Drug897	magnesium	15830837:contained
+Herb81	Danshen	Drug331	clopidogrel	31471773:null
+Herb81	Danshen	Drug331	clopidogrel	31471773:decrease
+Herb81	Danshen	Drug933	met	15644072:null
+Herb81	Danshen	Drug1021	Naloxone	15644072:null
+Herb81	Danshen	Drug1021	Naloxone	15644072:favouring
+Herb112	Fuling	Drug1403	streptozotocin	27854047:null
+Herb205	kusen	Drug307	cilostazole	27847773:null
+Herb205	kusen	Drug146	Aspirin	27847773:null
+Herb192	jiang	Drug56	alcohol	25307434:evaluated
+Herb299	shanzhi	Drug1039	ng	20836895:null
+Herb301	Shaoyao	Drug173	Baclofen	28875677:null
+Herb374	XIFEN	Drug1065	norepinephrine	10073023:observed
+Herb374	XIFEN	Drug529	epinephrine	10073023:observed
+Herb374	XIFEN	Drug351	cortisol	10073023:observed
+Herb374	xifen	Drug557	estrogen	29255847:null
+Herb374	xifen	Drug1289	raloxifene	29255847:null
+Herb374	xifen	Drug348	conjugated estrogens	28132583:null
+Herb374	xifen	Drug558	estrogens	28132583:null
+Herb374	xifen	Drug557	estrogen	28132583:null
+Herb374	xifen	Drug1436	tamoxifen	26661211:null
+Herb374	xifen	Drug1289	Raloxifene	25435924:null
+Herb374	xifen	Drug576	etidronate	22372723:null
+Herb374	xifen	Drug60	alendronate	22372723:null
+Herb374	xifen	Drug1325	risedronate	22372723:null
+Herb374	xifen	Drug1289	raloxifene	22372723:null
+Herb374	xifen	Drug576	etidronate	22372723:reduced
+Herb374	xifen	Drug60	alendronate	22372723:reduced
+Herb374	xifen	Drug933	met	22372723:reduced
+Herb374	xifen	Drug1289	raloxifene	22372723:reduced
+Herb374	xifen	Drug576	etidronate	22372723:preventing
+Herb374	xifen	Drug1325	risedronate	22372723:inferior
+Herb374	xifen	Drug933	met	22372723:etidronate
+Herb374	xifen	Drug60	alendronate	22372723:fractures
+Herb374	xifen	Drug1325	risedronate	22372723:fractures
+Herb374	xifen	Drug1289	raloxifene	22338309:null
+Herb374	xifen	Drug60	alendronate	22018450:null
+Herb374	xifen	Drug1289	raloxifene	22018450:null
+Herb374	xifen	Drug237	calcitonin salmon	22018450:null
+Herb374	xifen	Drug1458	teriparatide	22018450:null
+Herb374	xifen	Drug557	estrogen	21902289:null
+Herb374	xifen	Drug557	estrogen	21902289:conjugated
+Herb374	xifen	Drug348	conjugated estrogens	21902289:null
+Herb374	xifen	Drug557	estrogen	21902289:given
+Herb374	xifen	Drug348	conjugated estrogens	21902289:given
+Herb374	xifen	Drug1289	raloxifene	20449570:null
+Herb374	xifen	Drug60	alendronate	20449570:whereas
+Herb374	xifen	Drug576	etidronate	20449570:whereas
+Herb374	xifen	Drug60	alendronate	20449570:null
+Herb374	xifen	Drug1289	Raloxifene	20449570:null
+Herb374	xifen	Drug558	estrogens	20336595:conjugated
+Herb374	xifen	Drug557	estrogen	20336595:conjugated
+Herb374	xifen	Drug558	estrogens	20336595:null
+Herb374	xifen	Drug557	estrogen	20336595:null
+Herb374	xifen	Drug1436	Tamoxifen	19105706:null
+Herb374	xifen	Drug1289	Raloxifene	19105706:null
+Herb374	xifen	Drug1436	tamoxifen	19105706:received
+Herb374	xifen	Drug1289	raloxifene	19105706:received
+Herb374	xifen	Drug1436	tamoxifen	19105706:null
+Herb374	xifen	Drug1289	raloxifene	19105706:null
+Herb374	xifen	Drug1436	tamoxifen	19060594:null
+Herb374	xifen	Drug1436	tamoxifen	19060594:improving
+Herb374	xifen	Drug1436	tamoxifen	19060594:effective
+Herb374	xifen	Drug557	estrogen	19060594:suppressing
+Herb374	xifen	Drug1289	Raloxifene	18778124:null
+Herb374	xifen	Drug557	estrogen	18778124:null
+Herb374	xifen	Drug557	estrogen	18778124:functions
+Herb374	xifen	Drug1289	raloxifene	18778124:null
+Herb374	xifen	Drug1436	tamoxifen	18778124:null
+Herb374	xifen	Drug1436	tamoxifen	18778124:associated
+Herb374	xifen	Drug557	estrogen	18457472:null
+Herb374	xifen	Drug557	estrogen	18457472:conjugated
+Herb374	xifen	Drug348	conjugated estrogens	18457472:is
+Herb374	xifen	Drug1289	raloxifene	17317318:null
+Herb374	xifen	Drug1437	tamoxifene	17317318:null
+Herb374	xifen	Drug1436	tamoxifen	17634835:null
+Herb374	xifen	Drug1436	Tamoxifen	17634835:null
+Herb374	xifen	Drug1289	raloxifene	17634835:null
+Herb374	xifen	Drug1436	tamoxifen	17634835:effective
+Herb374	xifen	Drug1289	raloxifene	17634835:effective
+Herb374	xifen	Drug1436	tamoxifen	17634835:appears
+Herb374	xifen	Drug1289	Raloxifene	17634835:null
+Herb374	xifen	Drug1289	Raloxifene	17634835:effective
+Herb374	xifen	Drug1436	Tamoxifen	17116309:null
+Herb374	xifen	Drug1436	tamoxifen	17116309:null
+Herb374	xifen	Drug1436	tamoxifen	16754727:null
+Herb374	xifen	Drug1289	raloxifene	16754727:null
+Herb374	xifen	Drug1436	Tamoxifen	16754727:null
+Herb374	xifen	Drug1289	Raloxifene	16754727:null
+Herb374	xifen	Drug1289	raloxifene	16754727:approved
+Herb374	xifen	Drug1436	Tamoxifen	16754727:approved
+Herb374	xifen	Drug1289	raloxifene	16373243:null
+Herb374	xifen	Drug1289	raloxifene	16197663:null
+Herb374	xifen	Drug1289	Raloxifene	16197663:null
+Herb374	xifen	Drug1289	raloxifene	16197663:examine
+Herb374	xifen	Drug1289	raloxifene	15756909:null
+Herb374	xifen	Drug1436	tamoxifen	12670833:null
+Herb374	xifen	Drug557	estrogen	12670833:null
+Herb374	xifen	Drug1436	tamoxifen	12093250:null
+Herb374	xifen	Drug1289	raloxifene	12093250:null
+Herb374	xifen	Drug1436	tamoxifen	12093250:observe
+Herb374	xifen	Drug1436	Tamoxifen	12093250:null
+Herb374	xifen	Drug557	estrogen	12093250:effective
+Herb374	xifen	Drug557	estrogen	12053012:null
+Herb374	xifen	Drug1243	progesterone	12053012:null
+Herb374	xifen	Drug1001	MPA	12053012:null
+Herb374	xifen	Drug1436	tamoxifen	12053012:null
+Herb374	xifen	Drug1436	tamoxifen	10668491:null
+Herb374	xifen	Drug557	estrogen	10668491:null
+Herb374	xifen	Drug1289	raloxifene	10668491:null
+Herb374	xifen	Drug1436	tamoxifen	27217380:null
+Herb374	xifen	Drug557	estrogen	15604281:null
+Herb374	xifen	Drug1436	Tamoxifen	15604281:null
+Herb374	xifen	Drug1436	tamoxifen	15604281:null
+Herb374	xifen	Drug1436	Tamoxifen	27601479:null
+Herb374	xifen	Drug1436	tamoxifen	29267372:null
+Herb374	xifen	Drug1436	tamoxifen	28213819:null
+Herb374	xifen	Drug1436	tamoxifen	28213819:served
+Herb374	xifen	Drug1436	Tamoxifen	28213819:null
+Herb374	xifen	Drug1436	tamoxifen	16464451:null
+Herb374	xifen	Drug1436	tamoxifen	24457293:null
+Herb374	xifen	Drug1436	tamoxifen	29301791:null
+Herb374	xifen	Drug1436	tamoxifen	26538583:null
+Herb374	xifen	Drug1436	tamoxifen	30354230:null
+Herb374	xifen	Drug555	estradiol	15950203:inhibited
+Herb374	xifen	Drug1436	tamoxifen	15950203:null
+Herb374	xifen	Drug1436	tamoxifen	26199228:null
+Herb374	xifen	Drug1289	raloxifene	16517945:null
+Herb374	xifen	Drug557	estrogen	16517945:have
+Herb374	xifen	Drug555	estradiol	16517945:compared
+Herb374	xifen	Drug555	estradiol	16517945:administered
+Herb374	xifen	Drug557	estrogen	16517945:null
+Herb374	xifen	Drug557	estrogen	16517945:pretreated
+Herb374	xifen	Drug1289	Raloxifene	16517945:null
+Herb374	xifen	Drug555	estradiol	16517945:null
+Herb374	xifen	Drug555	estradiol	16517945:increased
+Herb374	xifen	Drug1436	tamoxifen	31479143:null
+Herb374	xifen	Drug1289	raloxifene	31479143:null
+Herb374	xifen	Drug587	exemestane	31479143:associated
+Herb374	xifen	Drug109	anastrozole	31479143:associated
+Herb374	xifen	Drug1436	tamoxifen	31479143:associated
+Herb374	xifen	Drug1289	Raloxifene	31479143:null
+Herb374	xifen	Drug1289	Raloxifene	31479143:associated
+Herb374	xifen	Drug1289	raloxifene	31479143:associated
+Herb374	xifen	Drug1436	Tamoxifen	31479143:null
+Herb374	xifen	Drug1436	tamoxifen	31084931:null
+Herb374	xifen	Drug1436	tamoxifen	28960571:null
+Herb374	xifen	Drug1436	tamoxifen	29853569:null
+Herb374	xifen	Drug1436	tamoxifen	26435273:null
+Herb374	xifen	Drug557	estrogen	12390866:null
+Herb374	xifen	Drug1436	tamoxifen	12390866:null
+Herb374	xifen	Drug1289	raloxifene	12390866:null
+Herb374	xifen	Drug557	Estrogen	27389095:null
+Herb374	xifen	Drug557	estrogen	27389095:null
+Herb374	xifen	Drug557	estrogen	27389095:relaxed
+Herb374	xifen	Drug555	estradiol	27389095:relaxed
+Herb374	xifen	Drug1269	pyrazole	27389095:relaxed
+Herb374	xifen	Drug555	estradiol	27389095:null
+Herb374	xifen	Drug1269	pyrazole	27389095:null
+Herb374	xifen	Drug787	indomethacin	27389095:null
+Herb374	xifen	Drug825	K	27389095:null
+Herb374	xifen	Drug825	K	27389095:were
+Herb374	xifen	Drug1463	tetraethylammonium	27389095:were
+Herb374	xifen	Drug691	glibenclamide	27389095:were
+Herb374	xifen	Drug825	K	27389095:inhibited
+Herb374	xifen	Drug825	K	27389095:receptors;
+Herb374	xifen	Drug1436	tamoxifen	28594400:null
+Herb374	xifen	Drug1436	tamoxifen	28925083:null
+Herb374	xifen	Drug1436	tamoxifen	30043461:null
+Herb374	xifen	Drug1436	Tamoxifen	19457130:null
+Herb374	xifen	Drug1436	tamoxifen	19457130:null
+Herb374	xifen	Drug1436	Tamoxifen	29789575:null
+Herb374	xifen	Drug239	calcium	29789575:null
+Herb374	xifen	Drug1436	tamoxifen	29789575:null
+Herb374	xifen	Drug1499	TMX	29789575:null
+Herb374	xifen	Drug1436	tamoxifen	17006373:null
+Herb374	xifen	Drug1289	raloxifene	17006373:null
+Herb374	xifen	Drug557	estrogen	17006373:null
+Herb374	xifen	Drug1436	tamoxifen	25794850:null
+Herb374	xifen	Drug1436	tamoxifen	31180722:null
+Herb374	xifen	Drug557	Estrogen	31807255:null
+Herb374	xifen	Drug1436	Tamoxifen	31807255:null
+Herb374	xifen	Drug1436	tamoxifen	31807255:null
+Herb374	xifen	Drug1436	tamoxifen	31807255:had
+Herb374	xifen	Drug557	estrogen	28479229:null
+Herb374	xifen	Drug555	estradiol	28479229:null
+Herb374	xifen	Drug557	Estrogen	26484775:null
+Herb374	xifen	Drug1436	Tamoxifen	26484775:null
+Herb374	xifen	Drug557	estrogen	26484775:null
+Herb374	xifen	Drug1436	tamoxifen	26484775:null
+Herb374	xifen	Drug1436	tamoxifen	21836083:null
+Herb374	xifen	Drug1436	Tamoxifen	21836083:null
+Herb374	xifen	Drug555	estradiol	11368971:abolished
+Herb374	xifen	Drug557	estrogen	11368971:null
+Herb374	xifen	Drug1436	tamoxifen	11368971:null
+Herb374	xifen	Drug1289	raloxifene	22612608:null
+Herb374	xifen	Drug1436	tamoxifen	22612608:null
+Herb374	xifen	Drug557	estrogen	20518194:null
+Herb374	xifen	Drug557	Estrogen	20518194:null
+Herb374	xifen	Drug1289	raloxifene	20518194:null
+Herb374	xifen	Drug1289	raloxifene	17882669:null
+Herb145	hafen	Drug770	Ile	20216989:null
+Herb355	tusi	Drug1369	simvastatin	20599974:null
+Herb355	tusi	Drug981	minocycline	20599974:null
+Herb355	tusi	Drug235	caffeine	15684650:null
+Herb355	tusi	Drug563	ethanol	15684650:null
+Herb355	tusi	Drug723	haloperidol	2166617:used
+Herb355	tusi	Drug477	dobutamine	28599602:null
+Herb355	tusi	Drug239	calcium	15191812:null
+Herb355	tusi	Drug762	ibuprofen	24297045:measured
+Herb355	tusi	Drug956	methylprednisolone	7907169:null
+Herb355	tusi	Drug1284	quinolinic acid	7907169:null
+Herb355	tusi	Drug1060	NMDA	7907169:null
+Herb20	baifu	Drug239	calcium	17408986:null
+Herb20	Baifu	Drug825	K	21364615:reduces
+Herb20	Baifu	Drug563	ethanol	21364615:null
+Herb20	Baifu	Drug825	K	21364615:null
+Herb20	Baifu	Drug563	ethanol	21364615:purified
+Herb20	Baifu	Drug825	K	21364615:purified
+Herb20	Baifu	Drug825	K	21364615:activated
+Herb300	shao	Drug715	GSH	30347921:showed
+Herb300	Shao	Drug657	Fu	31331548:null
+Herb300	Shao	Drug173	Baclofen	28875677:null
+Herb165	hongpi	Drug1163	PGI2	7528716:null
+Herb315	shuai	Drug146	aspirin	25532381:null
+Herb315	shuai	Drug792	insulin	25532381:null
+Herb155	hepi	Drug1422	sumatriptan	1653072:affect
+Herb155	hepi	Drug1422	sumatriptan	1653072:null
+Herb51	chenmi	Drug689	ginsenoside Rg1	29710487:null
+Herb206	Lacha	Drug271	CC	31682388:null
+Herb58	chong	Drug628	fluoxetine	29231507:null
+Herb289	sang	Drug904	mannitol	12891289:null
+Herb289	sang	Drug145	aspartic acid	12891289:null
+Herb289	sang	Drug1581	vitamin A	18803283:null
+Herb289	sang	Drug1256	prostaglandin E2	11403359:null
+Herb289	sang	Drug1598	warfarin	25869052:null
+Herb289	sang	Drug628	fluoxetine	31477894:null
+Herb289	sang	Drug52	Ala	17359638:null
+Herb289	sang	Drug1130	PAS	10462141:null
+Herb289	sang	Drug1329	rivaroxaban	30957622:null
+Herb289	Sang	Drug1366	SHH	28640243:null
+Herb148	Hama	Drug1298	rapamycin	31100427:mediate
+Herb403	Zhenxi	Drug357	CSA	29354910:were
+Herb297	Shake	Drug1219	potassium	29279388:null
+Herb297	Shake	Drug825	K	29279388:null
+Herb297	Shake	Drug825	K	29581567:null
+Herb297	Shake	Drug825	K	24909510:null
+Herb297	Shake	Drug825	K	12691664:null
+Herb297	Shake	Drug825	K	12691664:measured
+Herb346	TIANLONG	Drug1065	norepinephrine	10073023:observed
+Herb346	TIANLONG	Drug529	epinephrine	10073023:observed
+Herb346	TIANLONG	Drug351	cortisol	10073023:observed
+Herb367	Wuling	Drug628	Fluoxetine	24906594:comparing
+Herb367	Wuling	Drug1363	Sertraline	24906594:comparing
+Herb367	Wuling	Drug1129	Paroxetine	24906594:comparing
+Herb367	Wuling	Drug315	Citalopram	24906594:comparing
+Herb367	Wuling	Drug628	Fluoxetine	24906594:null
+Herb367	Wuling	Drug1363	Sertraline	24906594:null
+Herb367	Wuling	Drug1129	Paroxetine	24906594:null
+Herb367	Wuling	Drug315	Citalopram	24906594:null
+Herb22	Baige	Drug563	ethanol	29944037:constituted
+Herb138	GuaLou	Drug1039	ng	24127065:inhibits
+Herb138	GuaLou	Drug1039	ng	24127065:administered
+Herb12	Angelica	Drug687	ginseng	31359663:null
+Herb12	Angelica	Drug56	alcohol	30836247:null
+Herb12	Angelica	Drug563	ethanol	29944037:null
+Herb12	Angelica	Drug687	Ginseng	30028327:null
+Herb12	Angelica	Drug687	Ginseng	30028327:deficiency-nourishing
+Herb12	Angelica	Drug932	Mesenchymal Stem Cells	30504677:null
+Herb12	Angelica	Drug689	Ginsenoside Rg1	24716802:maintain
+Herb12	Angelica	Drug780	IMp	23856091:null
+Herb12	Angelica	Drug687	ginseng	20148407:null
+Herb12	Angelica	Drug687	Ginseng	17268076:used
+Herb12	Angelica	Drug1352	scopolamine	15698848:improved
+Herb12	Angelica	Drug687	Ginseng	31191223:null
+Herb288	Sanchi	Drug146	aspirin	21094030:null
+Herb339	Tansy	Drug749	hydrocortisone	27956075:null
+Herb339	Tansy	Drug426	dexamethasone	27956075:null
+Herb339	Tansy	Drug444	diclofenac	27956075:null
+Herb339	Tansy	Drug1446	Tea	27956075:null
+Herb339	Tansy	Drug1278	quercetin	27956075:null
+Herb281	Rhubarb	Drug687	Ginseng	27632784:null
+Herb281	Rhubarb	Drug1514	tPA	15719749:reduce
+Herb281	Rhubarb	Drug386	danthron	31223328:derived
+Herb281	Rhubarb	Drug687	Ginseng	31572219:null
+Herb281	Rhubarb	Drug256	Carbenoxolone	31572219:group
+Herb281	Rhubarb	Drug269	CBX	31572219:group
+Herb129	Ginkgo Leaf	Drug467	Dipyridamole	31866861:null
+Herb123	Garlic	Drug298	cholesterol	10483684:reduces
+Herb38	Borneol	Drug1039	ng	23203054:null
+Herb38	Borneol	Drug1039	ng	23203054:used
+Herb257	Pericarp	Drug563	ethanol	23265538:null
+Herb352	Tomato	Drug239	calcium	31392691:null
+Herb352	Tomato	Drug715	GSH	26291433:null
+Herb285	Safflower	Drug689	Ginsenoside Rg1	24716802:null
+Herb285	Safflower	Drug684	Ginkgolide B	24716802:null
+Herb285	Safflower	Drug482	dopamine	19527825:regulating
+Herb188	Human Placenta	Drug644	Formaldehyde	28758930:null
+Herb9	American Ginseng	Drug687	Ginseng	31075951:null
+Herb136	Green Tea	Drug1446	Tea	30174686:null
+Herb136	Green Tea	Drug749	hydrocortisone	27956075:null
+Herb136	Green Tea	Drug426	dexamethasone	27956075:null
+Herb136	Green Tea	Drug444	diclofenac	27956075:null
+Herb136	Green Tea	Drug1446	Tea	27956075:null
+Herb136	Green Tea	Drug1278	quercetin	27956075:null
+Herb136	Green Tea	Drug1446	Tea	27206430:null
+Herb136	Green Tea	Drug1446	Tea	23777875:null
+Herb136	Green Tea	Drug1446	Tea	23777875:seem
+Herb292	Savin	Drug738	hub	30125806:null
+Herb85	Digitalis lanata	Drug451	digitoxin	30066080:null
+Herb85	Digitalis lanata	Drug452	digoxin	30066080:null
+Herb85	Digitalis lanata	Drug1095	ouabain	30066080:null
+Herb85	Digitalis lanata	Drug1039	ng	30066080:null
+Herb132	Glucose	Drug937	Metformin	31902326:Added
+Herb132	Glucose	Drug57	Aldosterone	29525327:null
+Herb132	Glucose	Drug792	Insulin	29138181:null
+Herb132	Glucose	Drug1219	Potassium	29138181:null
+Herb132	Glucose	Drug877	Liraglutide	28606340:Diabetes
+Herb132	Glucose	Drug792	Insulin	28606340:Diabetes
+Herb132	Glucose	Drug877	liraglutide	28606340:showing
+Herb132	Glucose	Drug1196	pioglitazone	28606340:showing
+Herb132	Glucose	Drug877	Liraglutide	28526186:Diabetes
+Herb132	Glucose	Drug792	Insulin	28526186:Diabetes
+Herb132	Glucose	Drug877	liraglutide	28526186:showing
+Herb132	Glucose	Drug1196	pioglitazone	28526186:showing
+Herb132	Glucose	Drug599	Fat	28504910:null
+Herb132	Glucose	Drug1309	Resveratrol	28957797:null
+Herb132	Glucose	Drug471	DM	27390996:improve
+Herb132	Glucose	Drug471	DM	18156611:null
+Herb132	Glucose	Drug1219	potassium	17434094:null
+Herb132	Glucose	Drug792	insulin	17434094:null
+Herb132	Glucose	Drug792	Insulin	17434094:null
+Herb132	Glucose	Drug792	insulin	17877135:focused
+Herb132	Glucose	Drug792	insulin	12656643:null
+Herb132	Glucose	Drug792	Insulin	12656643:null
+Herb132	Glucose	Drug792	insulin	12482794:null
+Herb132	Glucose	Drug1219	potassium	12482794:null
+Herb132	Glucose	Drug628	fluoxetine	11217873:improve
+Herb132	Glucose	Drug1219	potassium	2637619:null
+Herb132	Glucose	Drug239	calcium	2637619:null
+Herb132	Glucose	Drug65	alkaline phosphatase	2637619:null
+Herb132	Glucose	Drug1219	potassium	3538938:null
+Herb132	Glucose	Drug792	insulin	3538938:null
+Herb132	Glucose	Drug98	AMP	30428888:null
+Herb132	Glucose	Drug291	chloroquine	31647899:induced
+Herb132	Glucose	Drug792	insulin	11326082:triggers
+Herb132	Glucose	Drug239	Calcium	30919283:null
+Herb132	Glucose	Drug689	Ginsenoside Rg1	26693244:null
+Herb132	Glucose	Drug429	Dexmedetomidine	31654225:null
+Herb132	Glucose	Drug334	CoA	30911291:Activated
+Herb132	Glucose	Drug1309	Resveratrol	30008229:null
+Herb132	Glucose	Drug1183	phosphate	28823591:null
+Herb135	Grapefruit	Drug1307	repaglinide	15449971:interacting
+Herb135	Grapefruit	Drug1367	sibutramine	15449971:interacting
+Herb135	Grapefruit	Drug91	amiodarone	15449971:enhance
+Herb135	Grapefruit	Drug1282	quinidine	15449971:enhance
+Herb135	Grapefruit	Drug469	disopyramide	15449971:enhance
+Herb135	Grapefruit	Drug1246	propafenone	15449971:enhance
+Herb245	Oat	Drug1055	nitric oxide	10698074:null
+Herb245	Oat	Drug1392	spermine	10698074:null
+Herb245	Oat	Drug298	cholesterol	10754007:were
+Herb245	Oat	Drug15	acetylcholine	10754007:were
+Herb245	Oat	Drug239	calcium	10754007:null
+Herb245	Oat	Drug1055	Nitric oxide	16580782:null
+Herb245	Oat	Drug1055	nitric oxide	16762501:null
+Herb245	Oat	Drug1605	zinc	15564577:null
+Herb245	Oat	Drug1060	NMDA	15564577:null
+Herb245	Oat	Drug1055	nitric oxide	15564577:null
+Herb232	menthol	Drug316	citric acid	23907747:null
+Herb153	Hen	Drug1329	rivaroxaban	31506301:null
+Herb153	Hen	Drug1597	VPA	30592252:null
+Herb153	Hen	Drug331	clopidogrel	28855078:null
+Herb153	Hen	Drug298	cholesterol	28578514:tries
+Herb153	Hen	Drug1055	nitric oxide	28578514:tries
+Herb153	Hen	Drug1598	warfarin	27079417:null
+Herb153	Hen	Drug825	K	27079417:null
+Herb153	Hen	Drug792	insulin	26563590:null
+Herb153	Hen	Drug1514	tPA	24026771:null
+Herb153	Hen	Drug222	bumetanide	25590049:warranted;
+Herb153	Hen	Drug378	dabigatran etexilate	24605405:evaluated
+Herb153	Hen	Drug1329	rivaroxaban	24605405:evaluated
+Herb153	Hen	Drug120	apixaban	24605405:evaluated
+Herb153	Hen	Drug331	clopidogrel	24159780:treated
+Herb153	Hen	Drug135	ASA	24159780:treated
+Herb153	Hen	Drug487	doxorubicin	17638057:used
+Herb153	Hen	Drug314	cisplatin	17638057:used
+Herb153	Hen	Drug925	memantine	17678953:null
+Herb153	Hen	Drug1060	NMDA	15519530:null
+Herb153	Hen	Drug825	K	12822639:null
+Herb153	Hen	Drug1422	sumatriptan	8383561:inhibit
+Herb153	Hen	Drug57	aldosterone	8480501:preventing
+Herb153	Hen	Drug1183	phosphate	3814627:evaluated
+Herb153	Hen	Drug1183	phosphate	3814627:maintain
+Herb153	Hen	Drug27	Adenine	3814627:maintain
+Herb153	Hen	Drug155	ATP	3814627:maintain
+Herb153	Hen	Drug155	ATP	3814627:null
+Herb153	Hen	Drug1183	phosphate	3814627:null
+Herb153	Hen	Drug239	calcium	6491082:deteriorated
+Herb153	Hen	Drug746	hydralazine	6491082:increased
+Herb153	Hen	Drug732	HHT	25717337:null
+Herb153	Hen	Drug271	CC	24323584:associated
+Herb153	Hen	Drug792	insulin	30138626:null
+Herb153	Hen	Drug1039	ng	30138626:examined
+Herb153	Hen	Drug1039	ng	30138626:infused
+Herb153	Hen	Drug268	CB2	22926037:expressed
+Herb153	Hen	Drug1104	oxytocin	18088359:coupled;
+Herb153	Hen	Drug1569	vasopressin	18088359:coupled;
+Herb153	Hen	Drug1136	PDE4	25224348:studied
+Herb153	Hen	Drug1136	PDE4	25224348:using
+Herb153	Hen	Drug1289	raloxifene	16517945:null
+Herb153	Hen	Drug557	estrogen	16517945:null
+Herb153	Hen	Drug1209	plasmin	28686706:confers
+Herb153	Hen	Drug1309	resveratrol	27323784:null
+Herb153	Hen	Drug1055	nitric oxide	25747482:referred
+Herb153	Hen	Drug155	ATP	23179085:consumption
+Herb153	Hen	Drug825	K	16352918:null
+Herb153	Hen	Drug825	K	16352918:identified
+Herb153	Hen	Drug825	K	29480936:pretreated
+Herb153	Hen	Drug46	agomelatine	28012846:exists
+Herb153	Hen	Drug357	CsA	24508908:explore
+Herb153	Hen	Drug99	AMPA	23735822:null
+Herb153	Hen	Drug1060	NMDA	23735822:null
+Herb153	Hen	Drug555	estradiol	22747981:evaluated
+Herb153	Hen	Drug1209	plasmin	22262761:modulates
+Herb153	Hen	Drug1309	resveratrol	21850487:identified
+Herb153	Hen	Drug1514	tPA	12960961:possible
+Herb18	Baicalin	Drug195	Berberine	28894512:null
+Herb18	Baicalin	Drug689	Ginsenoside Rg1	24716802:null
+Herb18	Baicalin	Drug684	Ginkgolide B	24716802:null
+Herb32	Basil	Drug557	Estrogen	27389095:null
+Herb32	Basil	Drug1393	sphingosine	20850539:incubated
+Herb32	Basil	Drug1180	phenylephrine	20850539:exposed
+Herb130	Ginseng	Drug687	Ginseng	27868379:null
+Herb130	Ginseng	Drug1039	ng	27868379:null
+Herb130	Ginseng	Drug687	Ginseng	31075951:null
+Herb130	Ginseng	Drug687	Ginseng	30545139:null
+Herb130	Ginseng	Drug687	ginseng	30545139:derived
+Herb130	Ginseng	Drug687	Ginseng	30028327:null
+Herb130	Ginseng	Drug687	Ginseng	27632784:null
+Herb130	Ginseng	Drug687	Ginseng	23702039:null
+Herb130	Ginseng	Drug687	ginseng	23702039:composed
+Herb130	Ginseng	Drug687	Ginseng	22566158:null
+Herb130	Ginseng	Drug687	Ginseng	17268076:null
+Herb130	Ginseng	Drug687	Ginseng	17031036:null
+Herb130	Ginseng	Drug687	ginseng	17600519:null
+Herb130	Ginseng	Drug687	Ginseng	17600519:null
+Herb130	Ginseng	Drug687	Ginseng	29628876:null
+Herb130	Ginseng	Drug687	Ginseng	29628876:protects
+Herb130	Ginseng	Drug687	ginseng	30458277:null
+Herb130	Ginseng	Drug459	dimethyl fumarate	30458277:null
+Herb130	Ginseng	Drug687	Ginseng	30458277:null
+Herb130	Ginseng	Drug687	Ginseng	26306935:null
+Herb130	Ginseng	Drug687	ginseng	24004049:null
+Herb130	Ginseng	Drug687	Ginseng	24004049:null
+Herb130	Ginseng	Drug687	Ginseng	21073942:null
+Herb130	Ginseng	Drug687	ginseng	21073942:null
+Herb130	Ginseng	Drug687	Ginseng	19447300:null
+Herb130	Ginseng	Drug459	Dimethyl Fumarate	31494826:null
+Herb130	Ginseng	Drug687	Ginseng	31494826:null
+Herb130	Ginseng	Drug687	Ginseng	31191223:null
+Herb130	Ginseng	Drug687	Ginseng	26236231:null
+Herb130	Ginseng	Drug688	Ginsenoside Rb1	20353383:shown
+Herb130	Ginseng	Drug687	Ginseng	20353383:null
+Herb130	Ginseng	Drug687	Ginseng	31572219:null
+Herb130	Ginseng	Drug256	Carbenoxolone	31572219:group
+Herb130	Ginseng	Drug269	CBX	31572219:group
+Herb3	Aconite	Drug687	Ginseng	23702039:null
+Herb3	Aconite	Drug687	ginseng	23702039:composed
+Herb293	Schist	Drug1363	Sertraline	29343694:null
+Herb293	Schist	Drug1129	paroxetine	29343694:null
+Herb293	Schist	Drug293	chlorpromazine	29343694:null
+Herb324	Snail	Drug517	EMT	29844404:null
+Herb324	Snail	Drug517	EMT	30236600:null
+Herb324	Snail	Drug1006	MYC	26271976:null
+Herb262	Potato	Drug640	Folate	26670256:null
+Herb101	Ethanol	Drug56	alcohol	30608543:Reduced
+Herb101	Ethanol	Drug563	Ethanol	30608543:null
+Herb101	Ethanol	Drug563	Ethanol	30203312:null
+Herb101	Ethanol	Drug563	Ethanol	29686255:null
+Herb101	Ethanol	Drug563	Ethanol	28867580:null
+Herb101	Ethanol	Drug563	Ethanol	26714236:null
+Herb101	Ethanol	Drug301	Choline	26714236:Normalizes
+Herb101	Ethanol	Drug563	Ethanol	25800798:null
+Herb101	Ethanol	Drug563	Ethanol	23848301:null
+Herb101	Ethanol	Drug56	Alcohol	23848301:Reduced
+Herb101	Ethanol	Drug563	Ethanol	23875903:null
+Herb101	Ethanol	Drug563	Ethanol	22858389:null
+Herb101	Ethanol	Drug56	Alcohol	22858389:null
+Herb101	Ethanol	Drug825	K	22858389:null
+Herb101	Ethanol	Drug687	ginseng	19298198:null
+Herb101	Ethanol	Drug563	Ethanol	17499664:null
+Herb101	Ethanol	Drug563	Ethanol	9641479:null
+Herb101	Ethanol	Drug496	dt	9641479:caused
+Herb101	Ethanol	Drug563	Ethanol	9260994:null
+Herb101	Ethanol	Drug330	clonidine	9260994:produced
+Herb101	Ethanol	Drug746	hydralazine	9260994:given
+Herb101	Ethanol	Drug563	Ethanol	1442496:null
+Herb101	Ethanol	Drug563	Ethanol	3738772:null
+Herb101	Ethanol	Drug151	atenolol	6628423:null
+Herb101	Ethanol	Drug151	atenolol	6628423:tended
+Herb101	Ethanol	Drug563	Ethanol	6628423:null
+Herb101	Ethanol	Drug563	Ethanol	16884666:null
+Herb101	Ethanol	Drug563	Ethanol	12204015:null
+Herb101	Ethanol	Drug563	Ethanol	25489491:null
+Herb101	Ethanol	Drug563	Ethanol	30120732:null
+Herb101	Ethanol	Drug563	Ethanol	26820681:null
+Herb101	Ethanol	Drug563	Ethanol	16641869:null
+Herb101	Ethanol	Drug243	cAMP	16641869:null
+Herb101	Ethanol	Drug563	Ethanol	11299216:null
+Herb101	Ethanol	Drug563	Ethanol	26756191:null
+Herb235	Mushroom	Drug56	Alcohol	31558618:null
+Herb235	Mushroom	Drug563	Ethanol	26756191:null
+Herb235	Mushroom	Drug298	cholesterol	25685150:act
+Herb261	Pomegranate	Drug1309	resveratrol	17762204:null
+Herb5	Acorus gramineus	Drug816	isoproterenol	24420420:null
+Herb287	Salt	Drug620	Fludrocortisone	30105362:null
+Herb287	Salt	Drug331	Clopidogrel	27081185:null
+Herb287	Salt	Drug331	Clopidogrel	25782408:null
+Herb287	Salt	Drug56	Alcohol	20970072:null
+Herb287	Salt	Drug829	kaolin	12542452:treated
+Herb287	Salt	Drug1049	nilvadipine	8128525:administered
+Herb287	Salt	Drug29	Adenosine	29941515:null
+Herb287	Salt	Drug212	Bosutinib	29018127:null
+Herb287	Salt	Drug1083	olmesartan	22720058:null
+Herb287	Salt	Drug1083	olmesartan	22720058:azelnidipine
+Herb287	Salt	Drug747	hydrochlorothiazide	22720058:azelnidipine
+Herb287	Salt	Drug1107	PA	28780554:null
+Herb287	Salt	Drug1107	PA	28780554:dichotomised
+Herb2	Acetic acid	Drug13	Acetic acid	22741218:null
+Herb282	rice	Drug146	aspirin	26919833:null
+Herb282	rice	Drug1598	warfarin	26919833:normalized
+Herb282	rice	Drug57	aldosterone	31562418:null
+Herb282	rice	Drug877	liraglutide	31372015:null
+Herb282	rice	Drug1551	urate	30868398:null
+Herb282	rice	Drug1551	Urate	30868398:null
+Herb282	rice	Drug589	ezetimibe	30597485:have
+Herb282	rice	Drug1565	valsartan	29926351:null
+Herb282	rice	Drug56	alcohol	30022799:null
+Herb282	rice	Drug335	cocaine	29273597:using
+Herb282	rice	Drug727	heroin	29273597:using
+Herb282	rice	Drug75	alteplase	28536176:null
+Herb282	rice	Drug641	folic acid	28148501:null
+Herb282	rice	Drug518	enalapril	28148501:null
+Herb282	rice	Drug1489	ticagrelor	27735912:null
+Herb282	rice	Drug1489	ticagrelor	27735912:lower
+Herb282	rice	Drug331	clopidogrel	27735912:registered
+Herb282	rice	Drug331	clopidogrel	27735912:lower
+Herb282	rice	Drug331	clopidogrel	27735912:null
+Herb282	rice	Drug1489	ticagrelor	27735912:registered
+Herb282	rice	Drug135	ASA	27735912:lower
+Herb282	rice	Drug1489	ticagrelor	27735912:generics
+Herb282	rice	Drug135	ASA	27735912:generics
+Herb282	rice	Drug1489	ticagrelor	27735912:drugs
+Herb282	rice	Drug331	clopidogrel	27735912:drugs
+Herb282	rice	Drug135	ASA	27735912:drugs
+Herb282	rice	Drug1227	prasugrel	25896573:null
+Herb282	rice	Drug331	clopidogrel	25896573:null
+Herb282	rice	Drug682	ginkgo biloba	25532388:null
+Herb282	rice	Drug1509	tolvaptan	24930083:null
+Herb282	rice	Drug296	chlorthalidone	24526255:null
+Herb282	rice	Drug1598	warfarin	23232666:high
+Herb282	rice	Drug1369	simvastatin	29702841:null
+Herb282	rice	Drug1228	pravastatin	29702841:cost-effective
+Herb282	rice	Drug1369	simvastatin	29702841:cost-effective
+Herb282	rice	Drug1554	uric acid	21896142:occurs
+Herb282	rice	Drug1554	uric acid	21896142:contraindicate
+Herb282	rice	Drug66	allopurinol	21896142:contraindicate
+Herb282	rice	Drug1514	tPA	20876507:null
+Herb282	rice	Drug56	alcohol	21532778:null
+Herb282	rice	Drug57	aldosterone	21532778:null
+Herb282	rice	Drug57	aldosterone	21532778:is
+Herb282	rice	Drug1395	spironolactone	21532778:null
+Herb282	rice	Drug532	eplerenone	21532778:null
+Herb282	rice	Drug532	eplerenone	21532778:is
+Herb282	rice	Drug85	amiloride	21532778:null
+Herb282	rice	Drug206	bivalirudin	16553503:null
+Herb282	rice	Drug1278	quercetin	17012766:null
+Herb282	rice	Drug1009	myricetin	17012766:null
+Herb282	rice	Drug75	alteplase	15981557:null
+Herb282	rice	Drug1310	reteplase	15981557:null
+Herb282	rice	Drug1453	tenecteplase	15981557:null
+Herb282	rice	Drug290	chlorhexidine	28876734:containing
+Herb282	rice	Drug1527	triclosan	28876734:containing
+Herb282	rice	Drug290	chlorhexidine	28876734:effective
+Herb282	rice	Drug1527	triclosan	28876734:effective
+Herb282	rice	Drug482	Dopamine	15853562:null
+Herb282	rice	Drug481	donepezil	15853562:null
+Herb282	rice	Drug1497	tizanidine	14707322:occurred
+Herb282	rice	Drug1497	Tizanidine	14707322:scores
+Herb282	rice	Drug281	celecoxib	12914871:null
+Herb282	rice	Drug444	diclofenac	12914871:null
+Herb282	rice	Drug762	ibuprofen	12914871:null
+Herb282	rice	Drug1025	naproxen	12914871:(combined
+Herb282	rice	Drug151	atenolol	10170463:null
+Herb282	rice	Drug1527	triclosan	9238897:null
+Herb282	rice	Drug1527	triclosan	9238897:containing
+Herb282	rice	Drug146	aspirin	8225549:null
+Herb282	rice	Drug467	dipyridamole	2890951:null
+Herb282	rice	Drug19	acetylsalicylic acid	2890951:null
+Herb282	rice	Drug135	ASA	2890951:null
+Herb282	rice	Drug298	cholesterol	16328014:decreased
+Herb282	rice	Drug29	Adenosine	19292472:null
+Herb282	rice	Drug843	lactic acid	27821167:using
+Herb282	rice	Drug1278	quercetin	14715446:increased
+Herb282	rice	Drug1009	myricetin	14715446:null
+Herb282	rice	Drug826	kaempherol	14715446:did
+Herb282	rice	Drug1009	Myricetin	31130510:null
+Herb282	rice	Drug726	heparin	28191759:null
+Herb282	rice	Drug1009	Myricetin	27171848:null
+Herb282	rice	Drug1009	myricetin	27171848:null
+Herb282	rice	Drug481	donepezil	12081663:null
+Herb282	rice	Drug313	Cisapride	18257178:null
+Herb282	rice	Drug146	aspirin	17708138:null
+Herb282	rice	Drug1490	ticlopidine	17708138:null
+Herb282	rice	Drug331	clopidogrel	17708138:null
+Herb282	rice	Drug467	dipyridamole	17708138:null
+Herb282	rice	Drug1598	warfarin	17708138:null
+Herb282	rice	Drug904	mannitol	12817105:analyzed
+Herb282	rice	Drug1404	StS	31046620:null
+Herb282	rice	Drug1039	NG	23076512:null
+Herb282	rice	Drug1446	tea	19900027:null
+Herb282	rice	Drug1364	serum albumin	16708735:drawn
+Herb329	Stephania tetrandra	Drug1060	NMDA	12624526:null
+Herb329	Stephania tetrandra	Drug705	glycine	12624526:null
+Herb246	Olive	Drug435	DHA	31109078:null
+Herb246	Olive	Drug524	EPA	31109078:null
+Herb258	perilla oil	Drug435	DHA	10601699:null
+Herb151	Hawthorn	Drug1055	nitric oxide	19712738:(p<0;05)
+Herb151	Hawthorn	Drug700	glutathione	19712738:circumvents
+Herb151	Hawthorn	Drug1055	nitric oxide	19712738:attributed
+Herb361	Valerian	Drug749	hydrocortisone	27956075:null
+Herb361	Valerian	Drug426	dexamethasone	27956075:null
+Herb361	Valerian	Drug444	diclofenac	27956075:null
+Herb361	Valerian	Drug1446	Tea	27956075:null
+Herb361	Valerian	Drug1278	quercetin	27956075:null
+Herb358	Uncaria sinensis	Drug230	BV2	26364663:null
+Herb358	Uncaria sinensis	Drug730	hexane	22051882:null
+Herb222	Lycium barbarum	Drug1352	scopolamine	28508173:reported
+Herb222	Lycium barbarum	Drug1060	NMDA	29021742:Regulating
+Herb1	Acanthopanax senticosus	Drug687	ginseng	20148407:null
+Herb1	Acanthopanax senticosus	Drug687	ginseng	15852490:null
+Herb68	Cocoa	Drug1446	tea	27225434:null
+Herb108	Feverfew	Drug749	hydrocortisone	27956075:null
+Herb108	Feverfew	Drug426	dexamethasone	27956075:null
+Herb108	Feverfew	Drug444	diclofenac	27956075:null
+Herb108	Feverfew	Drug1446	Tea	27956075:null
+Herb108	Feverfew	Drug1278	quercetin	27956075:null
+Herb331	sucrose	Drug1411	sucrose	31180343:null
+Herb331	sucrose	Drug1411	sucrose	30194657:null
+Herb331	sucrose	Drug1411	sucrose	29125063:null
+Herb331	sucrose	Drug1411	sucrose	27988366:null
+Herb331	sucrose	Drug316	citric acid	27988366:dissolved
+Herb331	sucrose	Drug1283	quinine	27988366:dissolved
+Herb331	sucrose	Drug1411	sucrose	24447124:null
+Herb331	sucrose	Drug1411	sucrose	19086649:null
+Herb331	sucrose	Drug1411	sucrose	19356045:null
+Herb331	sucrose	Drug1411	sucrose	17504224:null
+Herb331	sucrose	Drug1411	sucrose	17173307:null
+Herb331	sucrose	Drug1411	sucrose	17173307:measured
+Herb331	sucrose	Drug1411	sucrose	17183686:null
+Herb331	sucrose	Drug1298	rapamycin	17183686:insensitive
+Herb331	sucrose	Drug1309	resveratrol	17183686:insensitive
+Herb331	sucrose	Drug1411	sucrose	15658101:null
+Herb331	sucrose	Drug825	K	15351891:null
+Herb331	sucrose	Drug1411	sucrose	14734649:null
+Herb331	sucrose	Drug1411	sucrose	12679559:null
+Herb331	sucrose	Drug1283	quinine	12679559:null
+Herb331	sucrose	Drug695	Glu	12679559:null
+Herb331	sucrose	Drug699	glutamic acid	12679559:null
+Herb331	sucrose	Drug1411	sucrose	10234740:null
+Herb331	sucrose	Drug1411	sucrose	9756602:null
+Herb331	sucrose	Drug1411	sucrose	8720246:null
+Herb331	sucrose	Drug660	furosemide	8720246:null
+Herb331	sucrose	Drug904	mannitol	2433816:null
+Herb331	sucrose	Drug1411	sucrose	2433816:null
+Herb331	sucrose	Drug825	K	2433816:null
+Herb331	sucrose	Drug235	caffeine	2433816:null
+Herb331	sucrose	Drug1411	sucrose	31064116:null
+Herb331	sucrose	Drug599	fat	31064116:null
+Herb331	sucrose	Drug298	cholesterol	31064116:null
+Herb331	sucrose	Drug903	maltose	9731289:null
+Herb331	sucrose	Drug1411	sucrose	9731289:null
+Herb331	sucrose	Drug1411	sucrose	24522018:null
+Herb331	sucrose	Drug599	fat	27551321:null
+Herb331	sucrose	Drug1411	sucrose	27551321:null
+Herb331	sucrose	Drug599	fat	28133767:null
+Herb331	sucrose	Drug1411	sucrose	28133767:null
+Herb331	sucrose	Drug1411	sucrose	15652512:null
+Herb331	sucrose	Drug1411	sucrose	10858457:null
+Herb331	sucrose	Drug599	fat	25231063:null
+Herb331	sucrose	Drug1411	sucrose	25231063:null
+Herb331	sucrose	Drug1411	sucrose	22912748:null
+Herb331	sucrose	Drug1411	sucrose	20038834:null
+Herb331	sucrose	Drug1411	sucrose	26604903:null
+Herb331	sucrose	Drug1411	sucrose	25449402:null
+Herb331	sucrose	Drug551	escitalopram	25675906:null
+Herb331	sucrose	Drug1411	sucrose	25675906:null
+Herb331	sucrose	Drug1411	sucrose	20493826:null
+Herb331	sucrose	Drug1411	sucrose	30386260:null
+Herb331	sucrose	Drug1411	sucrose	28134488:null
+Herb331	sucrose	Drug1411	sucrose	31190842:null
+Herb331	sucrose	Drug715	GSH	31190842:increased
+Herb331	sucrose	Drug1411	sucrose	29016795:null
+Herb331	sucrose	Drug1371	sitagliptin	24838371:null
+Herb331	sucrose	Drug1411	sucrose	24838371:null
+Herb331	sucrose	Drug1411	sucrose	19336246:null
+Herb331	sucrose	Drug482	dopamine	11160868:null
+Herb331	sucrose	Drug1411	sucrose	11160868:null
+Herb331	sucrose	Drug1411	sucrose	1381652:null
+Herb331	sucrose	Drug1411	sucrose	30759063:null
+Herb331	sucrose	Drug1411	sucrose	28583576:null
+Herb331	sucrose	Drug1411	sucrose	25937213:null
+Herb331	sucrose	Drug1411	sucrose	22832603:null
+Herb98	Ergot	Drug1610	zolmitriptan	9350383:had
+Herb98	Ergot	Drug544	Ergotamine	9350383:null
+Herb279	Red Ginseng	Drug687	Ginseng	29628876:null
+Herb279	Red Ginseng	Drug459	Dimethyl Fumarate	31494826:null
+Herb279	Red Ginseng	Drug687	Ginseng	31494826:null
+Herb17	Auricula	Drug146	Aspirin	11641591:null
+Herb86	digitalis leaf	Drug451	digitoxin	30066080:null
+Herb86	digitalis leaf	Drug452	digoxin	30066080:null
+Herb86	digitalis leaf	Drug1095	ouabain	30066080:null
+Herb86	digitalis leaf	Drug1039	ng	30066080:null
+Herb57	chlorogenic acid	Drug235	caffeine	31487926:null
+Herb57	chlorogenic acid	Drug1278	quercetin	24012531:null
+Herb57	chlorogenic acid	Drug1341	rutin	24012531:null
+Herb328	starch	Drug273	CD	25266794:null
+Herb328	starch	Drug135	ASA	24184996:null
+Herb328	starch	Drug135	ASA	19151303:null
+Herb328	starch	Drug1605	zinc	16632297:null
+Herb328	starch	Drug1000	MP4	14729723:null
+Herb328	starch	Drug1261	PS	14729723:null
+Herb328	starch	Drug904	mannitol	9707191:null
+Herb328	starch	Drug146	aspirin	11477812:null
+Herb328	starch	Drug477	dobutamine	7689762:null
+Herb328	starch	Drug1219	potassium	1424021:null
+Herb328	starch	Drug682	ginkgo biloba	3327270:acting
+Herb328	starch	Drug628	fluoxetine	29960288:tablets
+Herb288	sanchi	Drug146	aspirin	21094030:null
+Herb288	sanchi	Drug146	aspirin	21094030:capsule
+Herb288	sanchi	Drug146	aspirin	21094030:(increased
+Herb224	magnetite	Drug805	iron	20641719:null
+Herb281	rhubarb	Drug1514	tPA	15719749:related
+Herb281	rhubarb	Drug386	danthron	31223328:null
+Herb213	licorice	Drug57	aldosterone	31562418:null
+Herb213	licorice	Drug56	alcohol	30022799:null
+Herb213	licorice	Drug56	alcohol	21532778:null
+Herb213	licorice	Drug57	aldosterone	21532778:null
+Herb213	licorice	Drug57	aldosterone	21532778:is
+Herb213	licorice	Drug1395	spironolactone	21532778:null
+Herb213	licorice	Drug532	eplerenone	21532778:null
+Herb213	licorice	Drug532	eplerenone	21532778:is
+Herb213	licorice	Drug85	amiloride	21532778:null
+Herb129	ginkgo leaf	Drug1051	nimodipine	22641427:tablet
+Herb129	ginkgo leaf	Drug1051	nimodipine	22641427:null
+Herb129	ginkgo leaf	Drug467	dipyridamole	24843962:null
+Herb123	garlic	Drug687	ginseng	21117445:null
+Herb123	garlic	Drug298	cholesterol	11238801:shown
+Herb123	garlic	Drug687	ginseng	16923460:null
+Herb123	garlic	Drug682	ginkgo biloba	16923460:were
+Herb123	garlic	Drug696	glucosamine	16923460:were
+Herb286	saffron	Drug700	glutathione	17215084:suppress
+Herb286	saffron	Drug715	GSH	17215084:suppress
+Herb286	saffron	Drug715	GSH	17215084:examined
+Herb286	saffron	Drug715	GSH	17215084:promotes
+Herb286	saffron	Drug687	ginseng	31565154:null
+Herb38	borneol	Drug1299	Ras	29728025:played
+Herb38	borneol	Drug1055	nitric oxide	24975100:inhibited
+Herb38	borneol	Drug730	hexane	18332082:null
+Herb38	borneol	Drug225	bupropion	18332082:had
+Herb38	borneol	Drug1055	nitric oxide	28808202:reducing
+Herb296	sesame oil	Drug1591	vitamin E	11768736:null
+Herb327	soybean oil	Drug435	DHA	10601699:null
+Herb327	soybean oil	Drug700	glutathione	21999921:null
+Herb327	soybean oil	Drug298	cholesterol	21999921:null
+Herb327	soybean oil	Drug700	glutathione	21999921:lower
+Herb327	soybean oil	Drug599	fat	14678230:null
+Herb327	soybean oil	Drug1460	Testosterone	20930468:null
+Herb327	soybean oil	Drug1460	testosterone	20930468:lower
+Herb327	soybean oil	Drug555	estradiol	20930468:lower
+Herb327	soybean oil	Drug1460	testosterone	20930468:decreased
+Herb327	soybean oil	Drug1460	testosterone	20930468:null
+Herb352	tomato	Drug19	acetylsalicylic acid	29131285:null
+Herb352	tomato	Drug135	ASA	29131285:null
+Herb352	tomato	Drug1461	tetrabenazine	25471210:null
+Herb352	tomato	Drug298	cholesterol	24136399:associated
+Herb352	tomato	Drug1446	tea	19051188:null
+Herb352	tomato	Drug146	Aspirin	17192817:null
+Herb352	tomato	Drug67	almitrine	9516074:null
+Herb352	tomato	Drug792	insulin	28283275:exhibit
+Herb352	tomato	Drug29	adenosine	23227097:null
+Herb352	tomato	Drug625	fluorescein	24589546:null
+Herb352	tomato	Drug1514	tPA	25440368:null
+Herb253	peanut	Drug1309	Resveratrol	30823590:present
+Herb104	fangchi	Drug239	calcium	9406900:null
+Herb285	safflower	Drug435	DHA	10601699:null
+Herb285	safflower	Drug435	DHA	10601699:higher
+Herb285	safflower	Drug435	DHA	10601699:suppresses
+Herb188	human placenta	Drug65	alkaline phosphatase	20028456:null
+Herb344	thyme	Drug778	immune globulin	17658970:null
+Herb54	chicken	Drug721	guanine	17065478:null
+Herb54	chicken	Drug740	huPA	23960123:producing
+Herb54	chicken	Drug740	huPA	23960123:null
+Herb54	chicken	Drug740	huPA	23960123:higher
+Herb54	chicken	Drug740	huPA	23960123:expressing
+Herb136	green tea	Drug1446	tea	31064352:null
+Herb136	green tea	Drug1446	tea	30174686:effective
+Herb136	green tea	Drug1446	tea	30174686:null
+Herb136	green tea	Drug1446	tea	28465087:avoids
+Herb136	green tea	Drug1446	tea	28465087:null
+Herb136	green tea	Drug1446	tea	28465087:shows
+Herb136	green tea	Drug1446	tea	28038897:null
+Herb136	green tea	Drug1446	tea	26626862:null
+Herb136	green tea	Drug1446	tea	24773045:null
+Herb136	green tea	Drug1309	resveratrol	24773045:null
+Herb136	green tea	Drug1446	tea	23870286:null
+Herb136	green tea	Drug1446	tea	22879598:null
+Herb136	green tea	Drug528	epigallocatechin	22879598:null
+Herb136	green tea	Drug1446	tea	22456725:null
+Herb136	green tea	Drug1446	tea	20444327:null
+Herb136	green tea	Drug1446	tea	19625686:null
+Herb136	green tea	Drug1446	tea	18260778:null
+Herb136	green tea	Drug1590	Vitamin D3	18260778:null
+Herb136	green tea	Drug1309	resveratrol	19191039:null
+Herb136	green tea	Drug1446	tea	19191039:null
+Herb136	green tea	Drug682	ginkgo biloba	15953828:null
+Herb136	green tea	Drug1446	tea	15953828:null
+Herb136	green tea	Drug1446	tea	15173662:null
+Herb136	green tea	Drug1446	tea	11146047:null
+Herb136	green tea	Drug1446	tea	11179838:null
+Herb136	green tea	Drug528	Epigallocatechin	16356650:null
+Herb136	green tea	Drug1446	tea	16356650:null
+Herb136	green tea	Drug528	Epigallocatechin	17000467:null
+Herb136	green tea	Drug1446	tea	17000467:null
+Herb136	green tea	Drug1446	tea	17928735:null
+Herb136	green tea	Drug682	Ginkgo biloba	14715446:null
+Herb136	green tea	Drug1446	tea	14715446:null
+Herb136	green tea	Drug1446	tea	31895874:null
+Herb136	green tea	Drug528	epigallocatechin	31895874:exert
+Herb136	green tea	Drug1446	tea	27864733:null
+Herb136	green tea	Drug528	Epigallocatechin	27206430:demonstrated
+Herb136	green tea	Drug1446	tea	27206430:null
+Herb136	green tea	Drug528	Epigallocatechin	28042007:null
+Herb136	green tea	Drug1446	tea	28042007:null
+Herb136	green tea	Drug528	Epigallocatechin	24193141:demonstrated
+Herb136	green tea	Drug1446	tea	24193141:null
+Herb136	green tea	Drug1446	tea	23777875:null
+Herb136	green tea	Drug1446	tea	23777875:show
+Herb136	green tea	Drug1219	potassium	12944100:null
+Herb136	green tea	Drug56	alcohol	12944100:null
+Herb136	green tea	Drug146	aspirin	12944100:null
+Herb136	green tea	Drug1446	tea	12944100:null
+Herb13	anise	Drug1170	phenobarbital	17658503:null
+Herb13	anise	Drug1170	phenobarbital	17658503:assessed
+Herb13	anise	Drug1028	natalizumab	15549357:null
+Herb13	anise	Drug1370	sirolimus	15549357:null
+Herb13	anise	Drug1457	teriflunomide	15549357:null
+Herb13	anise	Drug1521	Trastuzumab	16907652:null
+Herb292	savin	Drug146	aspirin	31564244:null
+Herb292	savin	Drug877	liraglutide	31372015:null
+Herb292	savin	Drug1371	sitagliptin	31372015:null
+Herb292	savin	Drug1565	valsartan	30160656:null
+Herb292	savin	Drug331	clopidogrel	29535091:null
+Herb292	savin	Drug75	alteplase	28536176:cost-effective
+Herb292	savin	Drug589	ezetimibe	28506979:null
+Herb292	savin	Drug589	ezetimibe	28506979:targeted
+Herb292	savin	Drug120	Apixaban	26832316:null
+Herb292	savin	Drug95	amlodipine	27330323:null
+Herb292	savin	Drug1565	valsartan	27330323:null
+Herb292	savin	Drug153	atorvastatin	27098970:null
+Herb292	savin	Drug1489	ticagrelor	27735912:null
+Herb292	savin	Drug1489	ticagrelor	27735912:was
+Herb292	savin	Drug331	clopidogrel	27735912:null
+Herb292	savin	Drug331	clopidogrel	27735912:lower
+Herb292	savin	Drug135	ASA	27735912:lower
+Herb292	savin	Drug1489	ticagrelor	27735912:lower
+Herb292	savin	Drug135	ASA	27735912:null
+Herb292	savin	Drug436	DHC	26130406:null
+Herb292	savin	Drug146	aspirin	25444455:considered
+Herb292	savin	Drug1514	tPA	25190439:null
+Herb292	savin	Drug95	amlodipine	29702856:null
+Herb292	savin	Drug1565	valsartan	29702856:null
+Herb292	savin	Drug803	irbesartan	29702856:null
+Herb292	savin	Drug95	Amlodipine	29702856:null
+Herb292	savin	Drug57	aldosterone	23814702:had
+Herb292	savin	Drug57	aldosterone	23814702:received
+Herb292	savin	Drug521	enoxaparin	22444784:cost-saving
+Herb292	savin	Drug21	ACTH	22531139:null
+Herb292	savin	Drug331	clopidogrel	22461122:evident
+Herb292	savin	Drug331	clopidogrel	22461122:compared
+Herb292	savin	Drug19	acetylsalicylic acid	23908814:null
+Herb292	savin	Drug135	ASA	23908814:contraindicated)
+Herb292	savin	Drug726	heparin	23908814:contraindicated)
+Herb292	savin	Drug206	bivalirudin	23908814:contraindicated)
+Herb292	savin	Drug521	enoxaparin	21159705:null
+Herb292	savin	Drug792	insulin	21061114:attributable
+Herb292	savin	Drug603	fenofibrate	17586072:null
+Herb292	savin	Drug603	fenofibrate	17586072:off-set
+Herb292	savin	Drug521	enoxaparin	18237596:null
+Herb292	savin	Drug75	alteplase	18072816:associated
+Herb292	savin	Drug206	bivalirudin	17213015:null
+Herb292	savin	Drug1338	rosuvastatin	17062315:null
+Herb292	savin	Drug933	met	17062315:null
+Herb292	savin	Drug338	coenzyme A	17062315:null
+Herb292	savin	Drug135	ASA	21289960:made;
+Herb292	savin	Drug153	atorvastatin	15714350:null
+Herb292	savin	Drug153	atorvastatin	15714350:obtained
+Herb292	savin	Drug151	atenolol	15717142:null
+Herb292	savin	Drug887	Losartan	15717142:null
+Herb292	savin	Drug887	losartan	15717142:cost-saving
+Herb292	savin	Drug151	atenolol	15717142:cost-saving
+Herb292	savin	Drug529	epinephrine	14694898:null
+Herb292	savin	Drug467	dipyridamole	10493274:null
+Herb292	savin	Drug146	aspirin	10493274:null
+Herb292	savin	Drug146	aspirin	10493274:effective
+Herb292	savin	Drug1329	rivaroxaban	30621559:null
+Herb292	savin	Drug146	aspirin	30621559:null
+Herb292	savin	Drug1329	rivaroxaban	28025962:null
+Herb292	savin	Drug1598	warfarin	28025962:evident
+Herb292	savin	Drug1514	tPA	19775424:null
+Herb292	savin	Drug738	hub	23212458:had
+Herb292	savin	Drug1107	PA	18706008:null
+Herb292	savin	Drug1514	tPA	29991653:null
+Herb292	savin	Drug1514	tPA	30442431:salvaged
+Herb292	savin	Drug75	alteplase	30442431:null
+Herb292	savin	Drug1514	tPA	30442431:null
+Herb7	alum	Drug471	DM	28486941:null
+Herb7	alum	Drug1403	streptozotocin	28486941:null
+Herb7	alum	Drug75	alteplase	23963368:null
+Herb7	alum	Drug563	ethanol	21762767:null
+Herb7	alum	Drug56	alcohol	20503468:null
+Herb7	alum	Drug155	ATP	18796513:null
+Herb7	alum	Drug1369	simvastatin	17087088:null
+Herb7	alum	Drug724	Halothane	16306935:null
+Herb7	alum	Drug724	Halothane	16339345:null
+Herb7	alum	Drug1003	MRA	16127202:detected
+Herb7	alum	Drug724	halothane	15644670:null
+Herb7	alum	Drug76	aluminium	11580308:null
+Herb7	alum	Drug76	aluminium	11580308:absorbed
+Herb7	alum	Drug76	aluminium	11580308:responsible
+Herb7	alum	Drug1183	phosphate	11580308:absorbed
+Herb7	alum	Drug1183	phosphate	11580308:null
+Herb7	alum	Drug1183	phosphate	11580308:responsible
+Herb7	alum	Drug724	Halothane	10884475:null
+Herb7	alum	Drug29	adenosine	10548683:null
+Herb7	alum	Drug87	Aminoguanidine	8571430:null
+Herb7	alum	Drug1065	norepinephrine	7670652:null
+Herb7	alum	Drug1514	tPA	15625301:null
+Herb7	alum	Drug1338	rosuvastatin	15625301:null
+Herb7	alum	Drug810	Isoflurane	19806476:null
+Herb7	alum	Drug1605	zinc	10548678:null
+Herb7	alum	Drug273	CD	10548684:null
+Herb7	alum	Drug681	GHB	18753748:treated
+Herb7	alum	Drug239	calcium	15269663:null
+Herb7	alum	Drug1598	warfarin	17049586:null
+Herb7	alum	Drug802	IRAP	21895534:null
+Herb7	alum	Drug77	aluminum	2561989:null
+Herb7	alum	Drug361	cyclic AMP	2561989:did
+Herb7	alum	Drug243	cAMP	2561989:did
+Herb7	alum	Drug724	Halothane	11935067:null
+Herb7	alum	Drug287	chloral hydrate	20107794:null
+Herb7	alum	Drug77	aluminum	12404343:null
+Herb7	alum	Drug805	iron	12404343:null
+Herb7	alum	Drug941	Methamphetamine	26568405:investigated;
+Herb7	alum	Drug361	cyclic AMP	11744000:null
+Herb7	alum	Drug98	AMP	11744000:null
+Herb7	alum	Drug273	CD	11387505:null
+Herb7	alum	Drug563	ethanol	25819503:injecting
+Herb7	alum	Drug1514	tPA	25819503:injecting
+Herb7	alum	Drug726	heparin	22345142:null
+Herb7	alum	Drug726	heparin	22345142:conducted
+Herb7	alum	Drug726	heparin	22345142:received
+Herb7	alum	Drug726	heparin	22345142:prove
+Herb132	glucose	Drug937	metformin	31902326:null
+Herb132	glucose	Drug792	insulin	31902326:null
+Herb132	glucose	Drug792	insulin	31924562:null
+Herb132	glucose	Drug155	ATP	31907865:null
+Herb132	glucose	Drug316	citric acid	31907865:null
+Herb132	glucose	Drug1196	pioglitazone	31379119:likely
+Herb132	glucose	Drug588	exenatide	31518433:null
+Herb132	glucose	Drug792	Insulin	31877001:null
+Herb132	glucose	Drug792	insulin	31877001:null
+Herb132	glucose	Drug792	insulin	31877001:improving
+Herb132	glucose	Drug599	fat	31877001:null
+Herb132	glucose	Drug599	fat	31877001:influence
+Herb132	glucose	Drug599	fat	31877001:support
+Herb132	glucose	Drug298	cholesterol	31157748:null
+Herb132	glucose	Drug792	insulin	31574841:fasting
+Herb132	glucose	Drug933	met	31313139:null
+Herb132	glucose	Drug1298	rapamycin	31313139:null
+Herb132	glucose	Drug792	insulin	31212747:null
+Herb132	glucose	Drug792	insulin	31212747:evaluated
+Herb132	glucose	Drug599	fat	31212747:measured
+Herb132	glucose	Drug599	fat	31212747:evaluated
+Herb132	glucose	Drug792	insulin	31212747:fasting
+Herb132	glucose	Drug298	cholesterol	31212747:fasting
+Herb132	glucose	Drug1349	saxagliptin	30767126:null
+Herb132	glucose	Drug69	alogliptin	30767126:null
+Herb132	glucose	Drug388	dapagliflozin	30920851:non-inferior
+Herb132	glucose	Drug388	dapagliflozin	30609272:null
+Herb132	glucose	Drug298	cholesterol	31060192:null
+Herb132	glucose	Drug792	insulin	31372172:inhibiting
+Herb132	glucose	Drug792	insulin	31372172:independent
+Herb132	glucose	Drug640	folate	30862697:had
+Herb132	glucose	Drug1183	phosphate	30381300:null
+Herb132	glucose	Drug1183	phosphate	30381300:impede
+Herb132	glucose	Drug443	dichloroacetate	30381300:restrained
+Herb132	glucose	Drug408	dehydroepiandrosterone	30381300:restrained
+Herb132	glucose	Drug792	insulin	30660824:null
+Herb132	glucose	Drug792	insulin	30626912:null
+Herb132	glucose	Drug792	insulin	30545359:null
+Herb132	glucose	Drug1371	sitagliptin	30328028:null
+Herb132	glucose	Drug298	cholesterol	29948740:null
+Herb132	glucose	Drug298	cholesterol	29649015:null
+Herb132	glucose	Drug246	canagliflozin	30075873:null
+Herb132	glucose	Drug937	metformin	30637228:null
+Herb132	glucose	Drug1059	nitroprusside	29673616:null
+Herb132	glucose	Drug57	aldosterone	29525327:null
+Herb132	glucose	Drug857	leptin	29359851:counterbalancing
+Herb132	glucose	Drug877	liraglutide	29807374:null
+Herb132	glucose	Drug246	canagliflozin	29807374:null
+Herb132	glucose	Drug1349	saxagliptin	29807374:null
+Herb132	glucose	Drug69	alogliptin	29807374:null
+Herb132	glucose	Drug1371	sitagliptin	29807374:null
+Herb132	glucose	Drug937	metformin	29807374:null
+Herb132	glucose	Drug682	Ginkgo biloba	29058254:null
+Herb132	glucose	Drug684	Ginkgolide B	29058254:null
+Herb132	glucose	Drug874	Linagliptin	29776406:null
+Herb132	glucose	Drug1298	rapamycin	29895489:null
+Herb132	glucose	Drug898	magnesium sulfate	29905566:able
+Herb132	glucose	Drug847	lamotrigine	29905566:able
+Herb132	glucose	Drug17	acetylcysteine	29905566:able
+Herb132	glucose	Drug897	magnesium	29905566:able
+Herb132	glucose	Drug1546	TXL	29483388:measured;
+Herb132	glucose	Drug298	cholesterol	29483388:null
+Herb132	glucose	Drug937	metformin	29320889:null
+Herb132	glucose	Drug792	insulin	29320889:null
+Herb132	glucose	Drug246	canagliflozin	29437648:null
+Herb132	glucose	Drug388	dapagliflozin	28771923:null
+Herb132	glucose	Drug239	calcium	29539583:enhanced
+Herb132	glucose	Drug792	insulin	30051787:null
+Herb132	glucose	Drug298	cholesterol	29325370:null
+Herb132	glucose	Drug298	cholesterol	29325370:lower
+Herb132	glucose	Drug298	cholesterol	29325370:smoking
+Herb132	glucose	Drug155	ATP	29165327:null
+Herb132	glucose	Drug792	insulin	29138181:null
+Herb132	glucose	Drug1219	potassium	29138181:null
+Herb132	glucose	Drug298	cholesterol	28457197:null
+Herb132	glucose	Drug239	calcium	28457197:null
+Herb132	glucose	Drug1196	pioglitazone	28522196:null
+Herb132	glucose	Drug792	insulin	28522196:null
+Herb132	glucose	Drug246	canagliflozin	28781064:null
+Herb132	glucose	Drug471	DM	29553668:null
+Herb132	glucose	Drug792	insulin	29553668:null
+Herb132	glucose	Drug792	insulin	29553668:taking
+Herb132	glucose	Drug471	DM	29553668:--was
+Herb132	glucose	Drug1594	voglibose	28779371:null
+Herb132	glucose	Drug900	malachite green	28549217:null
+Herb132	glucose	Drug937	metformin	28631762:null
+Herb132	glucose	Drug792	insulin	31646121:work
+Herb132	glucose	Drug471	DM	28486941:null
+Herb132	glucose	Drug599	fat	28504910:null
+Herb132	glucose	Drug482	dopamine	28360997:null
+Herb132	glucose	Drug1554	uric acid	28088910:null
+Herb132	glucose	Drug298	cholesterol	28056237:null
+Herb132	glucose	Drug599	fat	27812119:null
+Herb132	glucose	Drug857	leptin	27812119:null
+Herb132	glucose	Drug792	insulin	27812119:null
+Herb132	glucose	Drug1309	Resveratrol	27573874:null
+Herb132	glucose	Drug1309	resveratrol	27573874:null
+Herb132	glucose	Drug792	insulin	30609476:able
+Herb132	glucose	Drug155	ATP	27207539:null
+Herb132	glucose	Drug1505	tolbutamide	27207539:null
+Herb132	glucose	Drug792	insulin	27434443:null
+Herb132	glucose	Drug161	AVP	27107944:caused
+Herb132	glucose	Drug357	CsA	27247192:null
+Herb132	glucose	Drug795	insulin glargine	27210264:null
+Herb132	glucose	Drug1349	saxagliptin	27210264:null
+Herb132	glucose	Drug69	alogliptin	27210264:show
+Herb132	glucose	Drug1371	sitagliptin	27210264:show
+Herb132	glucose	Drug792	insulin	27210264:null
+Herb132	glucose	Drug69	alogliptin	27210264:null
+Herb132	glucose	Drug1371	sitagliptin	27210264:null
+Herb132	glucose	Drug298	cholesterol	27009625:increase
+Herb132	glucose	Drug792	insulin	26547662:null
+Herb132	glucose	Drug937	metformin	26769243:null
+Herb132	glucose	Drug792	insulin	26769243:null
+Herb132	glucose	Drug933	met	26769243:null
+Herb132	glucose	Drug435	DHA	26771636:null
+Herb132	glucose	Drug792	insulin	26542377:null
+Herb132	glucose	Drug471	DM	25850539:null
+Herb132	glucose	Drug298	cholesterol	26343869:null
+Herb132	glucose	Drug792	insulin	26343869:null
+Herb132	glucose	Drug792	insulin	26265069:null
+Herb132	glucose	Drug1219	potassium	26265069:null
+Herb132	glucose	Drug937	metformin	26063450:null
+Herb132	glucose	Drug792	insulin	26063450:null
+Herb132	glucose	Drug298	cholesterol	26316711:found
+Herb132	glucose	Drug298	cholesterol	26295437:null
+Herb132	glucose	Drug792	insulin	26131323:null
+Herb132	glucose	Drug1552	urea	26245596:null
+Herb132	glucose	Drug792	insulin	25640912:null
+Herb132	glucose	Drug56	alcohol	26268056:null
+Herb132	glucose	Drug641	folic acid	26268056:null
+Herb132	glucose	Drug792	Insulin	25885963:null
+Herb132	glucose	Drug155	ATP	25427756:null
+Herb132	glucose	Drug155	ATP	25427756:up-regulated
+Herb132	glucose	Drug1309	resveratrol	25871875:null
+Herb132	glucose	Drug1309	resveratrol	25871875:pretreated
+Herb132	glucose	Drug146	aspirin	26238468:higher
+Herb132	glucose	Drug353	creatine	25490795:null
+Herb132	glucose	Drug1003	MRA	25490795:null
+Herb132	glucose	Drug937	metformin	24827939:safe
+Herb132	glucose	Drug298	cholesterol	24214336:null
+Herb132	glucose	Drug792	insulin	24777909:null
+Herb132	glucose	Drug298	cholesterol	25055851:null
+Herb132	glucose	Drug599	fat	25055851:null
+Herb132	glucose	Drug471	DM	24777546:null
+Herb132	glucose	Drug792	insulin	24777546:null
+Herb132	glucose	Drug298	cholesterol	25174465:null
+Herb132	glucose	Drug937	metformin	24671665:null
+Herb132	glucose	Drug3	acarbose	24671665:null
+Herb132	glucose	Drug298	cholesterol	26587436:null
+Herb132	glucose	Drug937	Metformin	24292206:null
+Herb132	glucose	Drug353	creatine	24395553:null
+Herb132	glucose	Drug437	DHEA	24520334:null
+Herb132	glucose	Drug555	estradiol	24520334:null
+Herb132	glucose	Drug155	ATP	24323707:null
+Herb132	glucose	Drug792	insulin	23999037:fasting
+Herb132	glucose	Drug1106	p75	24818251:null
+Herb132	glucose	Drug1278	quercetin	25345505:null
+Herb132	glucose	Drug149	at 10	25345505:null
+Herb132	glucose	Drug933	MET	24043256:null
+Herb132	glucose	Drug298	cholesterol	24172239:null
+Herb132	glucose	Drug780	IMp	23856091:null
+Herb132	glucose	Drug1552	urea	23664806:null
+Herb132	glucose	Drug298	cholesterol	23810877:null
+Herb132	glucose	Drug792	insulin	23730503:null
+Herb132	glucose	Drug792	insulin	23137345:null
+Herb132	glucose	Drug793	Insulin aspart	23137345:null
+Herb132	glucose	Drug143	aspart	23137345:null
+Herb132	glucose	Drug298	cholesterol	22703634:null
+Herb132	glucose	Drug298	Cholesterol	23622626:null
+Herb132	glucose	Drug792	insulin	23319869:stimulated
+Herb132	glucose	Drug1164	PHE	23935674:null
+Herb132	glucose	Drug831	ketamine	23479767:observed
+Herb132	glucose	Drug287	chloral hydrate	23479767:observed
+Herb132	glucose	Drug1252	propofol	23479767:observed
+Herb132	glucose	Drug810	isoflurane	23479767:observed
+Herb132	glucose	Drug724	halothane	23479767:observed
+Herb132	glucose	Drug810	isoflurane	23479767:null
+Herb132	glucose	Drug1146	pentobarbital	23479767:null
+Herb132	glucose	Drug1446	tea	22879598:null
+Herb132	glucose	Drug1446	tea	22879598:protects
+Herb132	glucose	Drug528	epigallocatechin	22879598:protects
+Herb132	glucose	Drug155	ATP	22659084:null
+Herb132	glucose	Drug1219	potassium	22659084:null
+Herb132	glucose	Drug792	insulin	22888312:dependent
+Herb132	glucose	Drug792	insulin	22888312:null
+Herb132	glucose	Drug792	insulin	22434581:null
+Herb132	glucose	Drug783	Indapamide	22725706:null
+Herb132	glucose	Drug1446	tea	22456725:increased
+Herb132	glucose	Drug298	cholesterol	22456725:increased
+Herb132	glucose	Drug1219	potassium	22893984:null
+Herb132	glucose	Drug1337	rosiglitazone	22038523:null
+Herb132	glucose	Drug1196	pioglitazone	22038523:null
+Herb132	glucose	Drug792	insulin	22715547:null
+Herb132	glucose	Drug792	insulin	22188858:null
+Herb132	glucose	Drug239	calcium	20598761:score
+Herb132	glucose	Drug298	cholesterol	20598761:null
+Herb132	glucose	Drug726	heparin	20598761:score
+Herb132	glucose	Drug792	insulin	21713592:able
+Herb132	glucose	Drug298	cholesterol	21383313:null
+Herb132	glucose	Drug1219	potassium	21383313:null
+Herb132	glucose	Drug1554	uric acid	21383313:null
+Herb132	glucose	Drug1095	ouabain	21273307:null
+Herb132	glucose	Drug452	digoxin	21102541:null
+Herb132	glucose	Drug1220	potassium chloride	21102541:digoxin
+Herb132	glucose	Drug471	DM	21966327:null
+Herb132	glucose	Drug792	Insulin	21966327:null
+Herb132	glucose	Drug792	insulin	20848328:null
+Herb132	glucose	Drug792	insulin	20848328:added;
+Herb132	glucose	Drug792	insulin	20848328:consider
+Herb132	glucose	Drug792	insulin	20513336:null
+Herb132	glucose	Drug1565	valsartan	20228403:receive
+Herb132	glucose	Drug1029	nateglinide	20228403:receive
+Herb132	glucose	Drug1565	valsartan	20228403:reduce
+Herb132	glucose	Drug155	ATP	20029962:null
+Herb132	glucose	Drug471	DM	20734573:null
+Herb132	glucose	Drug792	insulin	20298558:glycosylated
+Herb132	glucose	Drug471	DM	20179266:null
+Herb132	glucose	Drug298	cholesterol	20179266:null
+Herb132	glucose	Drug1554	uric acid	20192932:null
+Herb132	glucose	Drug1196	pioglitazone	20158090:null
+Herb132	glucose	Drug1367	sibutramine	20860415:null
+Herb132	glucose	Drug792	insulin	20860415:null
+Herb132	glucose	Drug1554	uric acid	20150726:null
+Herb132	glucose	Drug1071	novocaine	20559274:null
+Herb132	glucose	Drug792	insulin	20228001:null
+Herb132	glucose	Drug298	cholesterol	19938872:circulating
+Herb132	glucose	Drug298	cholesterol	19938872:null
+Herb132	glucose	Drug792	insulin	19938872:fasting
+Herb132	glucose	Drug792	insulin	20409967:stimulating
+Herb132	glucose	Drug1337	Rosiglitazone	19501900:null
+Herb132	glucose	Drug792	insulin	19501900:null
+Herb132	glucose	Drug937	metformin	19501900:null
+Herb132	glucose	Drug1337	rosiglitazone	19501900:null
+Herb132	glucose	Drug1155	perindopril	19483505:null
+Herb132	glucose	Drug783	indapamide	19483505:null
+Herb132	glucose	Drug692	gliclazide	19483505:(targeting
+Herb132	glucose	Drug1250	propidium	19468252:induced
+Herb132	glucose	Drug922	melatonin	19299628:null
+Herb132	glucose	Drug943	methazolamide	19299628:null
+Herb132	glucose	Drug943	Methazolamide	19299628:null
+Herb132	glucose	Drug792	insulin	19164583:null
+Herb132	glucose	Drug435	DHA	19753760:enhances
+Herb132	glucose	Drug792	insulin	19105694:null
+Herb132	glucose	Drug298	cholesterol	19827647:null
+Herb132	glucose	Drug1554	uric acid	19827647:null
+Herb132	glucose	Drug1058	nitroglycerin	18812325:null
+Herb132	glucose	Drug792	insulin	18812325:null
+Herb132	glucose	Drug298	cholesterol	18628275:null
+Herb132	glucose	Drug937	metformin	18717979:null
+Herb132	glucose	Drug153	atorvastatin	18975505:null
+Herb132	glucose	Drug937	metformin	18975505:null
+Herb132	glucose	Drug692	gliclazide	18539916:defined
+Herb132	glucose	Drug692	gliclazide	18539916:involving
+Herb132	glucose	Drug243	cAMP	18427132:null
+Herb132	glucose	Drug298	cholesterol	18773746:null
+Herb132	glucose	Drug725	HCTZ	23334875:null
+Herb132	glucose	Drug1031	nebivolol	23334875:null
+Herb132	glucose	Drug792	insulin	18379534:null
+Herb132	glucose	Drug1070	nortriptyline	18174477:null
+Herb132	glucose	Drug1070	Nortriptyline	18174477:null
+Herb132	glucose	Drug298	cholesterol	18227370:(calculated
+Herb132	glucose	Drug53	alanine	18417963:null
+Herb132	glucose	Drug149	at 10	18187093:null
+Herb132	glucose	Drug792	insulin	17719327:null
+Herb132	glucose	Drug792	insulin	17630927:null
+Herb132	glucose	Drug353	creatine	17499664:null
+Herb132	glucose	Drug1219	potassium	17434094:null
+Herb132	glucose	Drug792	insulin	17434094:null
+Herb132	glucose	Drug792	insulin	17434094:assigned
+Herb132	glucose	Drug599	fat	17416424:null
+Herb132	glucose	Drug792	insulin	17121785:null
+Herb132	glucose	Drug239	calcium	17547473:null
+Herb132	glucose	Drug1055	nitric oxide	17488145:null
+Herb132	glucose	Drug57	aldosterone	17488145:null
+Herb132	glucose	Drug792	insulin	17488145:null
+Herb132	glucose	Drug254	carbamazepine	17054941:null
+Herb132	glucose	Drug1182	phenytoin	17054941:null
+Herb132	glucose	Drug1261	PS	17054941:null
+Herb132	glucose	Drug298	cholesterol	17068303:null
+Herb132	glucose	Drug792	insulin	16503818:null
+Herb132	glucose	Drug1196	pioglitazone	16503818:null
+Herb132	glucose	Drug792	insulin	16685123:null
+Herb132	glucose	Drug792	insulin	16685123:dropped
+Herb132	glucose	Drug792	insulin	16651823:null
+Herb132	glucose	Drug1219	potassium	16651823:null
+Herb132	glucose	Drug897	magnesium	16651823:using
+Herb132	glucose	Drug805	iron	16651823:albumin
+Herb132	glucose	Drug99	AMPA	16651823:albumin
+Herb132	glucose	Drug1107	PA	16651823:albumin
+Herb132	glucose	Drug3	Acarbose	16627376:null
+Herb132	glucose	Drug792	Insulin	16627376:Prevent
+Herb132	glucose	Drug3	acarbose	16627376:null
+Herb132	glucose	Drug872	lidocaine	16102862:null
+Herb132	glucose	Drug1238	procaine	16102862:null
+Herb132	glucose	Drug1196	pioglitazone	16402538:null
+Herb132	glucose	Drug792	insulin	16402538:null
+Herb132	glucose	Drug1196	pioglitazone	16214598:null
+Herb132	glucose	Drug872	lidocaine	16192539:null
+Herb132	glucose	Drug1479	thiopental	16192539:null
+Herb132	glucose	Drug1479	thiopental	16192539:reduced
+Herb132	glucose	Drug872	Lidocaine	16192539:reduced
+Herb132	glucose	Drug792	insulin	16259218:null
+Herb132	glucose	Drug681	GHb	16059716:null
+Herb132	glucose	Drug765	icodextrin	15972319:associated
+Herb132	glucose	Drug765	icodextrin	15972319:null
+Herb132	glucose	Drug765	icodextrin	15972319:(buffered
+Herb132	glucose	Drug765	icodextrin	15972319:higher
+Herb132	glucose	Drug93	amitriptyline	16389718:correlated
+Herb132	glucose	Drug880	lithium	16389718:appears
+Herb132	glucose	Drug1563	valproate	16389718:tend
+Herb132	glucose	Drug332	clozapine	16389718:seem
+Herb132	glucose	Drug1081	olanzapine	16389718:seem
+Herb132	glucose	Drug880	lithium	16389718:null
+Herb132	glucose	Drug792	insulin	16389718:null
+Herb132	glucose	Drug298	cholesterol	16389718:null
+Herb132	glucose	Drug1219	potassium	15863418:null
+Herb132	glucose	Drug792	insulin	15863418:null
+Herb132	glucose	Drug1396	staurosporine	15857689:null
+Herb132	glucose	Drug239	calcium	15592972:null
+Herb132	glucose	Drug792	insulin	15592972:null
+Herb132	glucose	Drug1296	ranitidine	15322300:null
+Herb132	glucose	Drug563	ethanol	15302233:null
+Herb132	glucose	Drug1245	promethazine	15263028:null
+Herb132	glucose	Drug792	insulin	15220241:null
+Herb132	glucose	Drug937	metformin	15220241:null
+Herb132	glucose	Drug3	Acarbose	15073402:null
+Herb132	glucose	Drug792	insulin	14694290:null
+Herb132	glucose	Drug1219	potassium	14694290:null
+Herb132	glucose	Drug792	insulin	14694290:treated;
+Herb132	glucose	Drug1219	potassium	14694290:treated;
+Herb132	glucose	Drug471	DM	12653455:known
+Herb132	glucose	Drug792	insulin	12656643:null
+Herb132	glucose	Drug792	insulin	12656643:infused
+Herb132	glucose	Drug792	insulin	12482794:null
+Herb132	glucose	Drug1219	potassium	12482794:null
+Herb132	glucose	Drug529	epinephrine	14694898:null
+Herb132	glucose	Drug482	dopamine	12468800:null
+Herb132	glucose	Drug792	insulin	12349850:null
+Herb132	glucose	Drug1462	tetracycline	11884613:null
+Herb132	glucose	Drug1155	perindopril	11596665:null
+Herb132	glucose	Drug783	indapamide	11596665:null
+Herb132	glucose	Drug692	gliclazide	11596665:null
+Herb132	glucose	Drug792	insulin	11509279:null
+Herb132	glucose	Drug1293	ramipril	12768220:null
+Herb132	glucose	Drug298	cholesterol	12768220:null
+Herb132	glucose	Drug792	insulin	11343941:null
+Herb132	glucose	Drug1219	potassium	11343941:null
+Herb132	glucose	Drug599	fat	11580308:undertaken
+Herb132	glucose	Drug1045	nicotine	11580308:undertaken
+Herb132	glucose	Drug298	cholesterol	11580308:null
+Herb132	glucose	Drug550	erythromycin	11785917:null
+Herb132	glucose	Drug827	kanamycin	11785917:null
+Herb132	glucose	Drug19	acetylsalicylic acid	11785917:null
+Herb132	glucose	Drug1060	NMDA	11785917:null
+Herb132	glucose	Drug1219	potassium	10822211:null
+Herb132	glucose	Drug1183	phosphate	10713253:null
+Herb132	glucose	Drug239	calcium	10662826:null
+Herb132	glucose	Drug239	Calcium	10662826:null
+Herb132	glucose	Drug792	insulin	10641958:null
+Herb132	glucose	Drug734	histidine	10509981:null
+Herb132	glucose	Drug193	bepridil	10436122:null
+Herb132	glucose	Drug3	acarbose	10367099:null
+Herb132	glucose	Drug268	CB2	10191316:insensitive
+Herb132	glucose	Drug933	met	10491731:null
+Herb132	glucose	Drug783	indapamide	10491731:null
+Herb132	glucose	Drug443	Dichloroacetate	9853180:null
+Herb132	glucose	Drug397	DCA	9853180:null
+Herb132	glucose	Drug792	insulin	9742976:null
+Herb132	glucose	Drug792	insulin	9742976:assigned
+Herb132	glucose	Drug294	chlorpropamide	9742976:assigned
+Herb132	glucose	Drug691	glibenclamide	9742976:assigned
+Herb132	glucose	Drug694	glipizide	9742976:assigned
+Herb132	glucose	Drug792	Insulin	9745422:null
+Herb132	glucose	Drug239	calcium	9571349:null
+Herb132	glucose	Drug298	cholesterol	9571349:null
+Herb132	glucose	Drug792	insulin	9571349:null
+Herb132	glucose	Drug691	glibenclamide	9529955:null
+Herb132	glucose	Drug294	chlorpropamide	9529955:null
+Herb132	glucose	Drug1316	ribose	9863092:null
+Herb132	glucose	Drug792	insulin	9863092:null
+Herb132	glucose	Drug1220	potassium chloride	9863092:null
+Herb132	glucose	Drug1539	troglitazone	9032099:null
+Herb132	glucose	Drug792	insulin	9032099:null
+Herb132	glucose	Drug239	calcium	9218205:null
+Herb132	glucose	Drug792	insulin	9218205:null
+Herb132	glucose	Drug792	insulin	9240757:null
+Herb132	glucose	Drug792	insulin	9240757:quintiles
+Herb132	glucose	Drug792	insulin	9240757:different
+Herb132	glucose	Drug298	cholesterol	9240757:null
+Herb132	glucose	Drug1219	potassium	8573991:null
+Herb132	glucose	Drug1554	uric acid	8573991:null
+Herb132	glucose	Drug792	insulin	7499722:examine
+Herb132	glucose	Drug471	DM	7554321:null
+Herb132	glucose	Drug792	insulin	11850700:null
+Herb132	glucose	Drug239	calcium	11850700:put
+Herb132	glucose	Drug792	insulin	8649135:null
+Herb132	glucose	Drug1219	potassium	8649135:null
+Herb132	glucose	Drug792	insulin	7787408:null
+Herb132	glucose	Drug1219	potassium	7787408:null
+Herb132	glucose	Drug897	magnesium	7787408:null
+Herb132	glucose	Drug1183	phosphate	7787408:null
+Herb132	glucose	Drug155	ATP	7798124:null
+Herb132	glucose	Drug298	cholesterol	8068603:null
+Herb132	glucose	Drug700	glutathione	7910380:null
+Herb132	glucose	Drug792	insulin	8297536:null
+Herb132	glucose	Drug482	dopamine	8101981:used
+Herb132	glucose	Drug705	glycine	8095311:null
+Herb132	glucose	Drug792	insulin	8095311:null
+Herb132	glucose	Drug239	calcium	1575176:null
+Herb132	glucose	Drug904	mannitol	1911794:null
+Herb132	glucose	Drug792	insulin	1911794:null
+Herb132	glucose	Drug792	insulin	2018054:null
+Herb132	glucose	Drug792	insulin	1994710:null
+Herb132	glucose	Drug557	estrogen	1678381:null
+Herb132	glucose	Drug1554	uric acid	1982770:null
+Herb132	glucose	Drug239	calcium	1701933:null
+Herb132	glucose	Drug1051	nimodipine	1701933:null
+Herb132	glucose	Drug1051	nimodipine	1701933:used
+Herb132	glucose	Drug1051	Nimodipine	1701933:null
+Herb132	glucose	Drug1183	phosphate	2381302:null
+Herb132	glucose	Drug155	ATP	2381302:administered
+Herb132	glucose	Drug792	insulin	2150640:null
+Herb132	glucose	Drug298	cholesterol	2691693:null
+Herb132	glucose	Drug298	cholesterol	2490826:null
+Herb132	glucose	Drug1182	phenytoin	3135512:taking
+Herb132	glucose	Drug1170	phenobarbital	3135512:taking
+Herb132	glucose	Drug1220	potassium chloride	3290588:null
+Herb132	glucose	Drug239	calcium	3290588:null
+Herb132	glucose	Drug1219	potassium	3290588:null
+Herb132	glucose	Drug239	calcium	3290588:modified
+Herb132	glucose	Drug239	calcium	3290588:tolerates
+Herb132	glucose	Drug298	cholesterol	3132245:null
+Herb132	glucose	Drug1219	potassium	3280282:null
+Herb132	glucose	Drug298	cholesterol	2883879:associated
+Herb132	glucose	Drug1219	potassium	3538938:null
+Herb132	glucose	Drug792	insulin	3538938:null
+Herb132	glucose	Drug298	cholesterol	3530704:null
+Herb132	glucose	Drug298	cholesterol	6869207:null
+Herb132	glucose	Drug1554	uric acid	6869207:null
+Herb132	glucose	Drug1219	potassium	6869207:null
+Herb132	glucose	Drug783	indapamide	6869207:null
+Herb132	glucose	Drug746	hydralazine	6869207:null
+Herb132	glucose	Drug792	insulin	6336606:null
+Herb132	glucose	Drug792	insulin	7039286:null
+Herb132	glucose	Drug1219	potassium	7039286:null
+Herb132	glucose	Drug792	insulin	7018431:null
+Herb132	glucose	Drug1219	potassium	7018431:null
+Herb132	glucose	Drug1220	potassium chloride	7458472:null
+Herb132	glucose	Drug872	lidocaine	7458472:null
+Herb132	glucose	Drug792	insulin	7458472:null
+Herb132	glucose	Drug1552	Urea	425772:null
+Herb132	glucose	Drug904	mannitol	425772:null
+Herb132	glucose	Drug792	insulin	659587:null
+Herb132	glucose	Drug1219	potassium	659587:null
+Herb132	glucose	Drug792	insulin	659587:administered
+Herb132	glucose	Drug1219	potassium	659587:administered
+Herb132	glucose	Drug726	heparin	659587:null
+Herb132	glucose	Drug904	mannitol	659587:null
+Herb132	glucose	Drug938	methacholine	851267:null
+Herb132	glucose	Drug158	atropine	851267:(IV)
+Herb132	glucose	Drug529	epinephrine	851267:(IV)
+Herb132	glucose	Drug1253	propranolol	851267:(IV)
+Herb132	glucose	Drug158	atropine	851267:null
+Herb132	glucose	Drug1222	Practolol	1253193:null
+Herb132	glucose	Drug1183	phosphate	1253193:null
+Herb132	glucose	Drug1219	potassium	1253193:null
+Herb132	glucose	Drug239	calcium	1253193:null
+Herb132	glucose	Drug897	magnesium	1253193:null
+Herb132	glucose	Drug792	insulin	5032525:null
+Herb132	glucose	Drug805	iron	22666436:expressed
+Herb132	glucose	Drug1581	vitamin A	18803283:null
+Herb132	glucose	Drug298	cholesterol	22452684:null
+Herb132	glucose	Drug230	BV2	25811992:null
+Herb132	glucose	Drug268	CB2	23414569:null
+Herb132	glucose	Drug1361	serine	28644439:null
+Herb132	glucose	Drug1514	tPA	28644439:null
+Herb132	glucose	Drug557	estrogen	26784014:null
+Herb132	glucose	Drug792	insulin	24437486:null
+Herb132	glucose	Drug1365	sevoflurane	24154701:null
+Herb132	glucose	Drug29	adenosine	19292472:improved
+Herb132	glucose	Drug1055	nitric oxide	19292472:null
+Herb132	glucose	Drug792	insulin	19292472:null
+Herb132	glucose	Drug857	leptin	19292472:null
+Herb132	glucose	Drug29	adenosine	19292472:altered
+Herb132	glucose	Drug29	adenosine	19292472:null
+Herb132	glucose	Drug29	Adenosine	30428888:fed
+Herb132	glucose	Drug599	fat	30428888:fed
+Herb132	glucose	Drug29	adenosine	30428888:fed
+Herb132	glucose	Drug29	adenosine	30428888:null
+Herb132	glucose	Drug98	AMP	30428888:null
+Herb132	glucose	Drug792	insulin	30428888:null
+Herb132	glucose	Drug599	fat	30428888:null
+Herb132	glucose	Drug792	Insulin	30428888:fasted
+Herb132	glucose	Drug45	agmatine	15296842:treated
+Herb132	glucose	Drug695	GLU	28552711:null
+Herb132	glucose	Drug792	insulin	8621203:null
+Herb132	glucose	Drug655	fructose	8621203:greater
+Herb132	glucose	Drug29	adenosine	20175942:improved
+Herb132	glucose	Drug792	insulin	20175942:null
+Herb132	glucose	Drug298	cholesterol	8172944:null
+Herb132	glucose	Drug1403	streptozotocin	23840196:null
+Herb132	glucose	Drug792	insulin	30135132:null
+Herb132	glucose	Drug298	cholesterol	23271305:null
+Herb132	glucose	Drug298	cholesterol	29390290:affect
+Herb132	glucose	Drug298	cholesterol	24190612:recorded
+Herb132	glucose	Drug792	insulin	20661421:null
+Herb132	glucose	Drug298	cholesterol	25658319:null
+Herb132	glucose	Drug298	cholesterol	23766027:null
+Herb132	glucose	Drug256	carbenoxolone	29976213:null
+Herb132	glucose	Drug269	CBX	29976213:null
+Herb132	glucose	Drug195	Berberine	17137520:null
+Herb132	glucose	Drug298	cholesterol	17137520:null
+Herb132	glucose	Drug204	biotin	15992682:null
+Herb132	glucose	Drug298	cholesterol	22203923:null
+Herb132	glucose	Drug792	insulin	28961383:null
+Herb132	glucose	Drug1250	propidium	16292251:assessed
+Herb132	glucose	Drug792	insulin	11118030:null
+Herb132	glucose	Drug792	insulin	11118030:packed
+Herb132	glucose	Drug291	chloroquine	31647899:null
+Herb132	glucose	Drug291	chloroquine	31647899:pronounced
+Herb132	glucose	Drug335	Cocaine	25010400:null
+Herb132	glucose	Drug100	amphetamine	25010400:null
+Herb132	glucose	Drug1483	Thr	16945373:null
+Herb132	glucose	Drug1060	NMDA	19636661:null
+Herb132	glucose	Drug239	calcium	17494711:null
+Herb132	glucose	Drug792	insulin	16596816:null
+Herb132	glucose	Drug903	maltose	9731289:null
+Herb132	glucose	Drug1411	sucrose	9731289:null
+Herb132	glucose	Drug273	CD	31062234:has
+Herb132	glucose	Drug349	corticotropin	31062234:has
+Herb132	glucose	Drug349	corticotropin	31062234:null
+Herb132	glucose	Drug471	DM	27916259:null
+Herb132	glucose	Drug271	CC	27916259:null
+Herb132	glucose	Drug271	CC	27315044:null
+Herb132	glucose	Drug1183	phosphate	26774962:null
+Herb132	glucose	Drug792	insulin	24886035:null
+Herb132	glucose	Drug792	insulin	15078145:null
+Herb132	glucose	Drug298	cholesterol	20730725:null
+Herb132	glucose	Drug127	Arg	20730725:null
+Herb132	glucose	Drug1294	RAN	31885705:null
+Herb132	glucose	Drug488	doxycycline	23395678:null
+Herb132	glucose	Drug58	aleglitazar	31147725:differ
+Herb132	glucose	Drug1021	naloxone	18457920:null
+Herb132	glucose	Drug792	insulin	29085434:null
+Herb132	glucose	Drug599	fat	29085434:null
+Herb132	glucose	Drug298	cholesterol	29085434:null
+Herb132	glucose	Drug1369	simvastatin	25476155:null
+Herb132	glucose	Drug932	mesenchymal stem cells	24265694:null
+Herb132	glucose	Drug1250	Propidium	29075304:null
+Herb132	glucose	Drug204	biotin	29075304:null
+Herb132	glucose	Drug1299	ras	29075304:null
+Herb132	glucose	Drug351	cortisol	31354619:null
+Herb132	glucose	Drug1065	norepinephrine	31354619:null
+Herb132	glucose	Drug1309	resveratrol	30873501:null
+Herb132	glucose	Drug792	insulin	30873501:null
+Herb132	glucose	Drug792	insulin	30873501:affects
+Herb132	glucose	Drug513	ellagic acid	28388366:investigate
+Herb132	glucose	Drug334	CoA	18220582:null
+Herb132	glucose	Drug1183	phosphate	2973643:water);
+Herb132	glucose	Drug1183	phosphate	2973643:null
+Herb132	glucose	Drug792	insulin	14756693:null
+Herb132	glucose	Drug298	cholesterol	14756693:null
+Herb132	glucose	Drug1107	PA	29929036:null
+Herb132	glucose	Drug58	Aleglitazar	24016490:null
+Herb132	glucose	Drug792	insulin	24016490:null
+Herb132	glucose	Drug239	calcium	25200599:decreased
+Herb132	glucose	Drug239	Calcium	25200599:decreased
+Herb132	glucose	Drug471	DM	9868317:null
+Herb132	glucose	Drug792	insulin	19631025:null
+Herb132	glucose	Drug792	insulin	19631025:present
+Herb132	glucose	Drug792	insulin	27821167:null
+Herb132	glucose	Drug1250	propidium	26801077:determined
+Herb132	glucose	Drug230	BV2	23246924:null
+Herb132	glucose	Drug239	calcium	11462790:buffering
+Herb132	glucose	Drug239	calcium	11474812:buffering
+Herb132	glucose	Drug792	insulin	12194918:null
+Herb132	glucose	Drug655	fructose	16269959:feeding
+Herb132	glucose	Drug56	alcohol	25498546:null
+Herb132	glucose	Drug792	insulin	25498546:null
+Herb132	glucose	Drug298	cholesterol	24548628:null
+Herb132	glucose	Drug680	GH	30380028:null
+Herb132	glucose	Drug680	GH	30380028:reduced
+Herb132	glucose	Drug599	fat	30380028:reduced
+Herb132	glucose	Drug625	fluorescein	21474800:null
+Herb132	glucose	Drug1043	nicotinamide	16919536:null
+Herb132	glucose	Drug27	adenine	16919536:null
+Herb132	glucose	Drug1183	phosphate	16919536:null
+Herb132	glucose	Drug471	DM	25086207:explain
+Herb132	glucose	Drug792	insulin	25086207:null
+Herb132	glucose	Drug792	insulin	25086207:able
+Herb132	glucose	Drug471	DM	25086207:act
+Herb132	glucose	Drug471	DM	25086207:null
+Herb132	glucose	Drug471	DM	25086207:required
+Herb132	glucose	Drug471	DM	25086207:contribute
+Herb132	glucose	Drug792	insulin	30830446:null
+Herb132	glucose	Drug696	Glucosamine	30830446:null
+Herb132	glucose	Drug557	estrogen	27113328:null
+Herb132	glucose	Drug726	Heparin	17873298:null
+Herb132	glucose	Drug726	heparin	17873298:null
+Herb132	glucose	Drug792	insulin	25285996:improves
+Herb132	glucose	Drug155	ATP	25285996:null
+Herb132	glucose	Drug805	iron	19671043:null
+Herb132	glucose	Drug792	insulin	17189875:enhanced
+Herb132	glucose	Drug792	insulin	17189875:enhance
+Herb132	glucose	Drug1043	Nicotinamide	21602486:null
+Herb132	glucose	Drug792	insulin	21602486:null
+Herb132	glucose	Drug298	cholesterol	23971757:null
+Herb132	glucose	Drug298	cholesterol	24462462:null
+Herb132	glucose	Drug792	insulin	11201732:null
+Herb132	glucose	Drug792	Insulin	11201732:null
+Herb132	glucose	Drug1055	nitric oxide	18842422:null
+Herb132	glucose	Drug792	insulin	29306595:regulated
+Herb132	glucose	Drug792	insulin	29306595:null
+Herb132	glucose	Drug792	insulin	23279876:null
+Herb132	glucose	Drug1187	phosphoenolpyruvate	23279876:null
+Herb132	glucose	Drug655	fructose	23279876:null
+Herb132	glucose	Drug1219	potassium	26404875:null
+Herb132	glucose	Drug696	glucosamine	26375300:deprivation
+Herb132	glucose	Drug805	iron	21861815:null
+Herb132	glucose	Drug792	insulin	29234441:fasting
+Herb132	glucose	Drug599	fat	29234441:null
+Herb132	glucose	Drug792	insulin	29234441:null
+Herb132	glucose	Drug1514	tPA	20140248:null
+Herb132	glucose	Drug239	calcium	30919283:null
+Herb132	glucose	Drug1183	phosphate	30919283:null
+Herb132	glucose	Drug298	cholesterol	18028965:null
+Herb132	glucose	Drug1083	olmesartan	18028965:null
+Herb132	glucose	Drug153	atorvastatin	27633957:null
+Herb132	glucose	Drug1060	NMDA	23839940:null
+Herb132	glucose	Drug239	calcium	23839940:null
+Herb132	glucose	Drug691	glibenclamide	18951957:increased
+Herb132	glucose	Drug792	insulin	8817238:null
+Herb132	glucose	Drug1365	sevoflurane	25329094:followed
+Herb132	glucose	Drug418	desflurane	25329094:followed
+Herb132	glucose	Drug810	isoflurane	25329094:followed
+Herb132	glucose	Drug792	insulin	20301409:null
+Herb132	glucose	Drug792	insulin	23107043:null
+Herb132	glucose	Drug1196	pioglitazone	23408111:null
+Herb132	glucose	Drug857	leptin	19023096:null
+Herb132	glucose	Drug857	Leptin	19023096:null
+Herb132	glucose	Drug693	glimepiride	29671019:superior
+Herb132	glucose	Drug792	insulin	29671019:null
+Herb132	glucose	Drug230	BV2	28630232:null
+Herb132	glucose	Drug127	Arg	28630232:increased
+Herb132	glucose	Drug1060	NMDA	22623673:null
+Herb132	glucose	Drug1060	NMDA	22623673:resistant
+Herb132	glucose	Drug703	glycerol	28235044:increases
+Herb132	glucose	Drug1219	potassium	28235044:increases
+Herb132	glucose	Drug298	cholesterol	23936596:null
+Herb132	glucose	Drug981	minocycline	25888869:null
+Herb132	glucose	Drug792	insulin	7629239:null
+Herb132	glucose	Drug792	insulin	7629239:assessed
+Herb132	glucose	Drug792	insulin	12890290:null
+Herb132	glucose	Drug155	ATP	31032919:reduced
+Herb132	glucose	Drug155	ATP	31032919:(ii)
+Herb132	glucose	Drug792	insulin	30171523:null
+Herb132	glucose	Drug1183	phosphate	30362349:associated
+Herb132	glucose	Drug98	AMP	30362349:null
+Herb132	glucose	Drug655	fructose	30362349:null
+Herb132	glucose	Drug1043	nicotinamide	30362349:associated
+Herb132	glucose	Drug27	adenine	30362349:associated
+Herb132	glucose	Drug937	metformin	25315906:explore
+Herb132	glucose	Drug937	metformin	25315906:null
+Herb132	glucose	Drug937	metformin	21572014:null
+Herb132	glucose	Drug792	Insulin	21572014:null
+Herb132	glucose	Drug15	acetylcholine	23311871:null
+Herb132	glucose	Drug230	BV2	30292407:null
+Herb132	glucose	Drug298	cholesterol	18258830:null
+Herb132	glucose	Drug792	insulin	28685672:null
+Herb132	glucose	Drug857	leptin	28685672:null
+Herb132	glucose	Drug298	cholesterol	12865608:null
+Herb132	glucose	Drug1106	p75	24573298:null
+Herb132	glucose	Drug1106	p75	24573298:observed
+Herb132	glucose	Drug230	BV2	29317607:null
+Herb132	glucose	Drug155	ATP	17940288:caused
+Herb132	glucose	Drug1476	thiamine	21130821:null
+Herb132	glucose	Drug1212	PLP	25441836:null
+Herb132	glucose	Drug511	eicosapentaenoic acid	26374481:null
+Herb132	glucose	Drug1185	phosphatidylserine	26374481:null
+Herb132	glucose	Drug1027	Naringenin	25483717:null
+Herb132	glucose	Drug1015	NADH	25483717:null
+Herb132	glucose	Drug230	BV2	19745171:null
+Herb132	glucose	Drug1072	NRG	16023588:null
+Herb132	glucose	Drug1072	NRG	16023588:have
+Herb132	glucose	Drug1309	resveratrol	31586626:null
+Herb132	glucose	Drug98	AMP	31586626:induced
+Herb132	glucose	Drug98	AMP	22103713:null
+Herb132	glucose	Drug298	cholesterol	22103713:null
+Herb132	glucose	Drug1055	nitric oxide	22103713:enhances
+Herb132	glucose	Drug230	BV2	28956063:null
+Herb132	glucose	Drug1514	tPA	25503547:null
+Herb132	glucose	Drug700	glutathione	26291433:null
+Herb132	glucose	Drug715	GSH	26291433:null
+Herb132	glucose	Drug1400	streptokinase	23400422:null
+Herb132	glucose	Drug1055	nitric oxide	10884482:induces
+Herb132	glucose	Drug1125	parecoxib	26033681:null
+Herb132	glucose	Drug1183	phosphate	29510140:null
+Herb132	glucose	Drug1361	serine	29510140:null
+Herb132	glucose	Drug792	insulin	29032144:null
+Herb132	glucose	Drug792	insulin	17441314:null
+Herb132	glucose	Drug298	cholesterol	17441314:were
+Herb132	glucose	Drug298	cholesterol	11728949:null
+Herb132	glucose	Drug298	cholesterol	22207115:null
+Herb132	glucose	Drug298	cholesterol	30214212:null
+Herb132	glucose	Drug1554	uric acid	30214212:null
+Herb132	glucose	Drug56	alcohol	30214212:null
+Herb132	glucose	Drug471	DM	27790247:null
+Herb132	glucose	Drug56	alcohol	16191856:null
+Herb132	glucose	Drug155	ATP	24766199:levels
+Herb132	glucose	Drug1396	staurosporine	24983209:null
+Herb132	glucose	Drug792	insulin	29560933:null
+Herb132	glucose	Drug1554	uric acid	29560933:null
+Herb132	glucose	Drug1278	quercetin	26578299:null
+Herb132	glucose	Drug1298	rapamycin	24462935:determine
+Herb132	glucose	Drug1298	rapamycin	23861877:null
+Herb132	glucose	Drug426	dexamethasone	17898873:null
+Herb132	glucose	Drug655	fructose	17898873:(but
+Herb132	glucose	Drug655	fructose	17898873:null
+Herb132	glucose	Drug1403	streptozotocin	10329982:null
+Herb132	glucose	Drug1403	streptozotocin	10329982:responsible
+Herb132	glucose	Drug230	BV2	28855861:null
+Herb132	glucose	Drug155	ATP	12122984:null
+Herb132	glucose	Drug271	CC	24040186:null
+Herb132	glucose	Drug298	cholesterol	24040186:null
+Herb132	glucose	Drug1309	Resveratrol	24840287:null
+Herb132	glucose	Drug1309	resveratrol	25854530:null
+Herb132	glucose	Drug1309	Resveratrol	25394648:null
+Herb132	glucose	Drug98	AMP	25394648:null
+Herb132	glucose	Drug792	insulin	25394648:null
+Herb132	glucose	Drug239	calcium	25452814:null
+Herb132	glucose	Drug857	leptin	26873941:null
+Herb132	glucose	Drug298	cholesterol	18221086:null
+Herb132	glucose	Drug298	cholesterol	24809258:null
+Herb132	glucose	Drug1337	Rosiglitazone	19397913:null
+Herb132	glucose	Drug15	acetylcholine	24699226:suppresses
+Herb132	glucose	Drug301	choline	24699226:suppresses
+Herb132	glucose	Drug557	estrogen	18976694:inhibited
+Herb132	glucose	Drug792	insulin	9880398:null
+Herb132	glucose	Drug1429	T3	26873887:null
+Herb132	glucose	Drug298	cholesterol	20957003:null
+Herb132	glucose	Drug792	insulin	24088404:null
+Herb132	glucose	Drug1407	succinate	28634116:induced
+Herb132	glucose	Drug1407	succinate	28634116:contributing
+Herb132	glucose	Drug599	fat	25114710:null
+Herb132	glucose	Drug792	insulin	25114710:null
+Herb132	glucose	Drug1309	resveratrol	29316653:associated
+Herb132	glucose	Drug1563	valproate	29316653:elicited
+Herb132	glucose	Drug586	Everolimus	30062636:evaluate
+Herb132	glucose	Drug1129	Paroxetine	30062636:evaluate
+Herb132	glucose	Drug1278	quercetin	26363153:null
+Herb132	glucose	Drug230	BV2	26693244:null
+Herb132	glucose	Drug792	insulin	25747336:null
+Herb132	glucose	Drug1299	Ras	26466330:null
+Herb132	glucose	Drug155	ATP	26847382:null
+Herb132	glucose	Drug1542	TRP	27826749:null
+Herb132	glucose	Drug792	insulin	25063351:null
+Herb132	glucose	Drug298	cholesterol	25063351:null
+Herb132	glucose	Drug599	fat	27207546:null
+Herb132	glucose	Drug1403	streptozotocin	27207546:null
+Herb132	glucose	Drug1055	nitric oxide	29521586:null
+Herb132	glucose	Drug792	insulin	27386434:null
+Herb132	glucose	Drug1278	quercetin	30834085:null
+Herb132	glucose	Drug1341	rutin	30834085:null
+Herb132	glucose	Drug1219	potassium	27129676:null
+Herb132	glucose	Drug144	aspartame	27129676:null
+Herb132	glucose	Drug599	fat	27129676:null
+Herb132	glucose	Drug687	ginseng	21664366:null
+Herb132	glucose	Drug687	ginseng	21219973:null
+Herb132	glucose	Drug687	ginseng	21185898:null
+Herb132	glucose	Drug1183	phosphate	31902795:null
+Herb132	glucose	Drug1446	tea	31227974:null
+Herb132	glucose	Drug230	BV2	31920554:null
+Herb132	glucose	Drug230	BV2	31793209:null
+Herb132	glucose	Drug1351	SCM	31827699:treated
+Herb132	glucose	Drug1351	SCM	31827699:null
+Herb132	glucose	Drug230	BV2	31329361:null
+Herb132	glucose	Drug230	BV2	31513843:assessed
+Herb132	glucose	Drug1349	saxagliptin	31737185:null
+Herb132	glucose	Drug995	modafinil	31542978:null
+Herb132	glucose	Drug1314	rhMBL	31495300:null
+Herb132	glucose	Drug1183	phosphate	31406177:metabolized
+Herb132	glucose	Drug700	glutathione	31406177:preserve
+Herb132	glucose	Drug792	insulin	31327319:null
+Herb132	glucose	Drug933	met	31248544:tomography/computed
+Herb132	glucose	Drug243	cAMP	31162142:stimulates
+Herb132	glucose	Drug98	AMP	30974042:null
+Herb132	glucose	Drug937	metformin	30905926:null
+Herb132	glucose	Drug933	Met	30905926:null
+Herb132	glucose	Drug874	linagliptin	30136405:null
+Herb132	glucose	Drug195	berberine	30136405:null
+Herb132	glucose	Drug1043	nicotinamide	30136405:null
+Herb132	glucose	Drug230	BV2	30911291:null
+Herb132	glucose	Drug1514	tPA	30552546:null
+Herb132	glucose	Drug1366	Shh	30552546:null
+Herb132	glucose	Drug792	insulin	30626440:null
+Herb132	glucose	Drug230	BV2	30528467:associated
+Herb132	glucose	Drug230	BV2	30528467:null
+Herb132	glucose	Drug1309	resveratrol	30008229:null
+Herb132	glucose	Drug56	alcohol	30291953:null
+Herb132	glucose	Drug195	berberine	30266998:null
+Herb132	glucose	Drug98	AMP	29787772:inducing
+Herb132	glucose	Drug271	CC	29787772:null
+Herb132	glucose	Drug1359	Selenocysteine	30106056:null
+Herb132	glucose	Drug613	fingolimod	29536648:essential
+Herb132	glucose	Drug230	BV2	29407213:null
+Herb132	glucose	Drug155	ATP	29361350:null
+Herb132	glucose	Drug98	AMP	29361350:associated
+Herb132	glucose	Drug1060	NMDA	29571866:null
+Herb132	glucose	Drug705	glycine	29571866:null
+Herb132	glucose	Drug937	Metformin	30786670:null
+Herb132	glucose	Drug98	AMP	30786670:null
+Herb132	glucose	Drug937	metformin	30786670:null
+Herb132	glucose	Drug1105	p54	30786670:null
+Herb132	glucose	Drug1175	phenserine	28963051:null
+Herb132	glucose	Drug702	glyburide	28961497:were
+Herb132	glucose	Drug239	calcium	29021742:reduced
+Herb132	glucose	Drug155	ATP	29088732:null
+Herb132	glucose	Drug1298	rapamycin	28625574:null
+Herb132	glucose	Drug1366	Shh	28391011:treated
+Herb132	glucose	Drug155	ATP	28495827:null
+Herb132	glucose	Drug1043	nicotinamide	28495827:null
+Herb132	glucose	Drug1043	nicotinamide	28495827:cleaved
+Herb132	glucose	Drug27	adenine	28495827:null
+Herb132	glucose	Drug1183	phosphate	28257891:null
+Herb132	glucose	Drug1514	tPA	28303501:null
+Herb132	glucose	Drug239	calcium	28424420:null
+Herb132	glucose	Drug557	estrogen	28256111:susceptible
+Herb132	glucose	Drug1298	rapamycin	27772541:null
+Herb132	glucose	Drug271	CC	27865838:null
+Herb132	glucose	Drug1187	phosphoenolpyruvate	28101056:null
+Herb132	glucose	Drug655	fructose	28101056:null
+Herb132	glucose	Drug810	isoflurane	27693962:null
+Herb132	glucose	Drug460	dimethyl sulfoxide	27693962:null
+Herb132	glucose	Drug473	DMSO	27693962:null
+Herb132	glucose	Drug792	insulin	27514532:null
+Herb132	glucose	Drug792	insulin	27514532:surprising
+Herb132	glucose	Drug1605	Zinc	27388935:null
+Herb132	glucose	Drug962	metoprolol	27496881:null
+Herb132	glucose	Drug962	metoprolol	27496881:showed
+Herb132	glucose	Drug700	glutathione	27083477:impairs
+Herb132	glucose	Drug715	GSH	27083477:impairs
+Herb132	glucose	Drug1009	myricetin	27171848:null
+Herb132	glucose	Drug1183	phosphate	27143001:null
+Herb132	glucose	Drug792	insulin	26689204:null
+Herb132	glucose	Drug1514	tPA	26881424:adding
+Herb132	glucose	Drug1514	tPA	26068590:null
+Herb132	glucose	Drug555	estradiol	25377795:returned
+Herb132	glucose	Drug1243	progesterone	25377795:returned
+Herb132	glucose	Drug155	ATP	26047733:null
+Herb132	glucose	Drug1514	tPA	25615590:null
+Herb132	glucose	Drug1060	NMDA	25615590:null
+Herb132	glucose	Drug361	cyclic AMP	25712659:null
+Herb132	glucose	Drug243	cAMP	25712659:null
+Herb132	glucose	Drug810	Isoflurane	25012594:null
+Herb132	glucose	Drug792	insulin	25350643:fasting
+Herb132	glucose	Drug1055	nitric oxide	24930357:null
+Herb132	glucose	Drug1183	phosphate	24872551:null
+Herb132	glucose	Drug742	hyaluronan	24486437:reduced
+Herb132	glucose	Drug1055	nitric oxide	24486437:related
+Herb132	glucose	Drug700	glutathione	24486437:related
+Herb132	glucose	Drug1183	phosphate	24414069:null
+Herb132	glucose	Drug1082	oleic acid	24414069:null
+Herb132	glucose	Drug792	insulin	24491065:null
+Herb132	glucose	Drug405	deferoxamine	23916558:null
+Herb132	glucose	Drug1544	tryptophan	23990339:null
+Herb132	glucose	Drug1060	NMDA	23363435:null
+Herb132	glucose	Drug1368	sildenafil	23415811:null
+Herb132	glucose	Drug902	malonate	23415811:administered
+Herb132	glucose	Drug792	insulin	23249272:decreasing
+Herb132	glucose	Drug1243	progesterone	23154302:null
+Herb132	glucose	Drug230	BV2	23333598:null
+Herb132	glucose	Drug792	insulin	23735822:null
+Herb132	glucose	Drug792	insulin	23735822:leptin
+Herb132	glucose	Drug857	leptin	23735822:null
+Herb132	glucose	Drug1514	tPA	22815500:null
+Herb132	glucose	Drug1514	tPA	22815500:induces
+Herb132	glucose	Drug1136	PDE4	22245243:null
+Herb132	glucose	Drug1514	tPA	22245243:null
+Herb132	glucose	Drug1183	phosphate	22300409:null
+Herb132	glucose	Drug715	GSH	22300409:null
+Herb132	glucose	Drug715	GSH	22300409:increased
+Herb132	glucose	Drug1597	VPA	22937209:null
+Herb132	glucose	Drug792	insulin	22276152:null
+Herb132	glucose	Drug700	glutathione	22260979:null
+Herb132	glucose	Drug1183	phosphate	22260979:null
+Herb132	glucose	Drug1183	phosphate	22277470:enhance
+Herb132	glucose	Drug941	methamphetamine	21635908:null
+Herb132	glucose	Drug792	insulin	21194385:null
+Herb132	glucose	Drug1112	palmitic acid	21194385:null
+Herb132	glucose	Drug1107	PA	21194385:null
+Herb132	glucose	Drug1183	phosphate	20491877:require
+Herb132	glucose	Drug1183	phosphate	20491877:null
+Herb132	glucose	Drug981	minocycline	19807907:null
+Herb132	glucose	Drug1060	NMDA	19343277:null
+Herb132	glucose	Drug195	Berberine	18838103:null
+Herb132	glucose	Drug243	cAMP	18668152:caused
+Herb132	glucose	Drug1299	Ras	18668152:decreased
+Herb132	glucose	Drug792	Insulin	22477366:null
+Herb132	glucose	Drug792	insulin	18566944:null
+Herb132	glucose	Drug264	carnitine	17319797:null
+Herb132	glucose	Drug603	fenofibrate	17215446:null
+Herb132	glucose	Drug555	estradiol	16777351:null
+Herb132	glucose	Drug1060	NMDA	17017544:exert
+Herb132	glucose	Drug792	insulin	16129731:null
+Herb132	glucose	Drug857	leptin	16129731:null
+Herb132	glucose	Drug298	cholesterol	15001798:null
+Herb132	glucose	Drug1219	potassium	14713306:null
+Herb132	glucose	Drug1183	phosphate	12844520:responsible
+Herb132	glucose	Drug555	estradiol	11368971:decreased
+Herb132	glucose	Drug1055	nitric oxide	9040698:null
+Herb132	glucose	Drug1055	nitric oxide	9040698:did
+Herb132	glucose	Drug787	indomethacin	9040698:null
+Herb132	glucose	Drug599	fat	9004032:null
+Herb132	glucose	Drug482	dopamine	1980132:null
+Herb132	glucose	Drug482	dopamine	1980132:studied
+Herb132	glucose	Drug1316	ribose	2511381:null
+Herb132	glucose	Drug155	ATP	2511381:null
+Herb132	glucose	Drug1407	succinate	2475923:null
+Herb132	glucose	Drug1407	succinate	3354025:citrate
+Herb132	glucose	Drug1183	phosphate	3505333:null
+Herb132	glucose	Drug1183	phosphate	2974916:null
+Herb132	glucose	Drug155	ATP	2974916:null
+Herb132	glucose	Drug361	cyclic AMP	2974916:null
+Herb132	glucose	Drug98	AMP	2974916:null
+Herb132	glucose	Drug155	ATP	6896095:null
+Herb132	glucose	Drug599	fat	148124:null
+Herb132	glucose	Drug640	folate	31865785:null
+Herb132	glucose	Drug298	cholesterol	31865785:null
+Herb132	glucose	Drug300	cholic acid	31290452:null
+Herb132	glucose	Drug695	Glu	31566916:null
+Herb132	glucose	Drug298	cholesterol	31566916:glycosylated
+Herb132	glucose	Drug599	fat	31082455:null
+Herb132	glucose	Drug1597	VPA	30611759:null
+Herb132	glucose	Drug981	minocycline	31282440:null
+Herb132	glucose	Drug471	DM	29603379:null
+Herb132	glucose	Drug298	cholesterol	29183105:null
+Herb132	glucose	Drug792	insulin	29183105:null
+Herb132	glucose	Drug792	insulin	29183105:higher
+Herb132	glucose	Drug1337	Rosiglitazone	29952413:null
+Herb132	glucose	Drug1403	Streptozotocin	28743390:decreased
+Herb132	glucose	Drug208	BNP	29696164:null
+Herb132	glucose	Drug792	insulin	29696164:Glycosylated
+Herb132	glucose	Drug1554	uric acid	29696164:Glycosylated
+Herb132	glucose	Drug298	cholesterol	26986707:considered
+Herb132	glucose	Drug792	insulin	25827654:fasting
+Herb132	glucose	Drug298	cholesterol	25827654:glycosylated
+Herb132	glucose	Drug792	insulin	25827654:null
+Herb132	glucose	Drug298	cholesterol	25827654:null
+Herb132	glucose	Drug792	insulin	25276034:null
+Herb132	glucose	Drug792	insulin	24231135:fasting
+Herb132	glucose	Drug792	insulin	24231135:null
+Herb132	glucose	Drug335	cocaine	23884173:null
+Herb132	glucose	Drug100	amphetamine	23884173:null
+Herb132	glucose	Drug659	fumarate	22265479:null
+Herb132	glucose	Drug791	inosine	22265479:null
+Herb132	glucose	Drug759	hypoxanthine	22265479:null
+Herb132	glucose	Drug1599	xanthine	22265479:null
+Herb132	glucose	Drug1550	uracil	22265479:null
+Herb132	glucose	Drug697	glucose 6 phosphate	21279683:null
+Herb132	glucose	Drug792	insulin	31382796:null
+Herb132	glucose	Drug792	insulin	23622737:null
+Herb132	glucose	Drug1514	tPA	27422152:null
+Herb132	glucose	Drug1514	tPA	15064210:older
+Herb132	glucose	Drug1364	serum albumin	22321930:null
+Herb132	glucose	Drug792	insulin	29602916:measured
+Herb132	glucose	Drug792	insulin	29602916:null
+Herb132	glucose	Drug1514	tPA	25813058:null
+Herb132	glucose	Drug792	insulin	18602106:null
+Herb132	glucose	Drug1514	tPA	15472110:determined
+Herb132	glucose	Drug792	insulin	17099262:contribute
+Herb132	glucose	Drug1514	tPA	24468069:null
+Herb132	glucose	Drug298	cholesterol	22394661:null
+Herb135	grapefruit	Drug887	losartan	15449971:null
+Herb135	grapefruit	Drug1573	verapamil	15449971:result
+Herb135	grapefruit	Drug544	ergotamine	15449971:null
+Herb18	baicalin	Drug195	Berberine	28894512:null
+Herb18	baicalin	Drug195	berberine	28894512:null
+Herb18	baicalin	Drug195	berberine	27779107:null
+Herb18	baicalin	Drug684	ginkgolide B	24345499:null
+Herb18	baicalin	Drug195	berberine	23628154:null
+Herb18	baicalin	Drug300	cholic acid	22622953:null
+Herb18	baicalin	Drug195	berberine	22387241:null
+Herb18	baicalin	Drug1051	nimodipine	17069775:consisting
+Herb18	baicalin	Drug1051	nimodipine	17069775:null
+Herb18	baicalin	Drug300	cholic acid	16841670:null
+Herb18	baicalin	Drug1558	ursodeoxycholic acid	22998140:null
+Herb18	baicalin	Drug195	Berberine	31031621:null
+Herb18	baicalin	Drug195	berberine	31031621:null
+Herb18	baicalin	Drug300	cholic acid	31290452:null
+Herb18	baicalin	Drug1403	Streptozotocin	28743390:decreased
+Herb255	pearl	Drug146	aspirin	25532381:null
+Herb255	pearl	Drug792	insulin	25532381:null
+Herb32	basil	Drug331	clopidogrel	30858000:effective
+Herb32	basil	Drug1180	phenylephrine	30386989:null
+Herb32	basil	Drug1432	tacrolimus	29198694:null
+Herb32	basil	Drug176	basiliximab	29198694:null
+Herb32	basil	Drug586	everolimus	29198694:null
+Herb32	basil	Drug1219	potassium	28480040:null
+Herb32	basil	Drug73	Alprostadil	28936832:females;
+Herb32	basil	Drug374	Cytidine	28936832:inhibiting
+Herb32	basil	Drug465	diphosphate	28936832:inhibiting
+Herb32	basil	Drug301	choline	28936832:inhibiting
+Herb32	basil	Drug93	amitriptyline	23435337:null
+Herb32	basil	Drug761	Ibudilast	21036126:null
+Herb32	basil	Drug1055	nitric oxide	21036126:null
+Herb32	basil	Drug761	ibudilast	21036126:null
+Herb32	basil	Drug1136	PDE4	21036126:null
+Herb32	basil	Drug1370	sirolimus	17143239:null
+Herb32	basil	Drug1108	paclitaxel	17143239:null
+Herb32	basil	Drug306	cilostazol	15746463:null
+Herb32	basil	Drug1610	zolmitriptan	15096229:reduced
+Herb32	basil	Drug1538	triptan	15096229:null
+Herb32	basil	Drug1538	triptan	15096229:reduced
+Herb32	basil	Drug1422	Sumatriptan	15096229:null
+Herb32	basil	Drug1055	nitric oxide	12669187:null
+Herb32	basil	Drug155	ATP	12669187:null
+Herb32	basil	Drug1219	potassium	12669187:null
+Herb32	basil	Drug1573	verapamil	8841350:null
+Herb32	basil	Drug361	cyclic AMP	1279255:associated
+Herb32	basil	Drug1490	ticlopidine	1734290:did
+Herb32	basil	Drug1490	ticlopidine	1734290:women
+Herb32	basil	Drug146	aspirin	1734290:null
+Herb32	basil	Drug941	methamphetamine	2124040:obtained
+Herb32	basil	Drug335	cocaine	2124040:obtained
+Herb32	basil	Drug100	amphetamine	2124040:obtained
+Herb32	basil	Drug941	methamphetamine	2124040:null
+Herb32	basil	Drug335	cocaine	2124040:null
+Herb32	basil	Drug100	amphetamine	2124040:null
+Herb32	basil	Drug904	mannitol	2433816:relaxed
+Herb32	basil	Drug1411	sucrose	2433816:relaxed
+Herb32	basil	Drug904	mannitol	2433816:null
+Herb32	basil	Drug1411	sucrose	2433816:null
+Herb32	basil	Drug293	chlorpromazine	6583879:null
+Herb32	basil	Drug93	amitriptyline	6583879:null
+Herb32	basil	Drug1256	prostaglandin E2	6583879:null
+Herb32	basil	Drug146	aspirin	6401878:entered
+Herb32	basil	Drug467	Dipyridamole	6401878:entered
+Herb32	basil	Drug146	aspirin	685753:null
+Herb32	basil	Drug196	betahistine	1092033:null
+Herb32	basil	Drug15	acetylcholine	18154952:augmented
+Herb32	basil	Drug887	losartan	23988026:null
+Herb32	basil	Drug887	losartan	23988026:determined;
+Herb32	basil	Drug15	acetylcholine	15054117:null
+Herb32	basil	Drug555	estradiol	15054117:null
+Herb32	basil	Drug1549	uPA	22173868:null
+Herb32	basil	Drug1055	nitric oxide	9731624:null
+Herb32	basil	Drug1055	nitric oxide	9731624:have
+Herb32	basil	Drug1059	nitroprusside	12215601:examined
+Herb32	basil	Drug734	histidine	9075589:null
+Herb32	basil	Drug811	isoleucine	9075589:null
+Herb32	basil	Drug1406	Substance P	9075589:null
+Herb32	basil	Drug15	acetylcholine	16269632:demonstrated
+Herb32	basil	Drug1393	sphingosine	20850539:null
+Herb32	basil	Drug792	insulin	31682800:stimulated
+Herb32	basil	Drug1294	ran	25422785:null
+Herb32	basil	Drug1045	nicotine	22209310:null
+Herb32	basil	Drug124	arachidonic acid	22209310:signaling
+Herb32	basil	Drug124	arachidonic acid	22209310:null
+Herb32	basil	Drug1369	simvastatin	22392066:null
+Herb32	basil	Drug473	DMSO	15947258:null
+Herb32	basil	Drug1393	Sphingosine	11739995:null
+Herb32	basil	Drug1183	phosphate	11739995:null
+Herb32	basil	Drug563	Ethanol	11299216:null
+Herb32	basil	Drug1055	nitric oxide	7570749:null
+Herb32	basil	Drug1003	MRA	7831690:null
+Herb32	basil	Drug155	ATP	3388459:null
+Herb32	basil	Drug56	alcohol	30696413:null
+Herb32	basil	Drug75	alteplase	12949321:null
+Herb32	basil	Drug1107	PA	21922224:treated
+Herb32	basil	Drug1557	urokinase	21922224:treated
+Herb32	basil	Drug1003	MRA	17540973:used
+Herb32	basil	Drug75	alteplase	22605850:treated
+Herb32	basil	Drug1134	PCP	18204390:null
+Herb32	basil	Drug1557	urokinase	19012003:null
+Herb32	basil	Drug1557	urokinase	15261240:obtained
+Herb32	basil	Drug1107	PA	23838705:null
+Herb342	taro	Drug1446	tea	30174686:was
+Herb342	taro	Drug306	cilostazol	26579817:were
+Herb342	taro	Drug416	DES	26579817:null
+Herb342	taro	Drug416	DES	26579817:unclear
+Herb342	taro	Drug586	everolimus	26579817:null
+Herb342	taro	Drug1055	nitric oxide	23566818:measured
+Herb342	taro	Drug1183	phosphate	22156696:null
+Herb342	taro	Drug1392	spermine	15533319:null
+Herb342	taro	Drug331	clopidogrel	27368038:null
+Herb342	taro	Drug416	DES	27368038:null
+Herb342	taro	Drug1370	sirolimus	27368038:null
+Herb342	taro	Drug1108	paclitaxel	27368038:null
+Herb342	taro	Drug586	everolimus	27368038:null
+Herb342	taro	Drug58	aleglitazar	31147725:impaired
+Herb342	taro	Drug715	GSH	26440581:suppressed
+Herb342	taro	Drug715	GSH	26440581:suppressing
+Herb342	taro	Drug715	GSH	26440581:null
+Herb130	ginseng	Drug687	ginseng	31048033:null
+Herb130	ginseng	Drug687	ginseng	31359663:null
+Herb130	ginseng	Drug334	CoA	31090302:null
+Herb130	ginseng	Drug687	ginseng	29870296:null
+Herb130	ginseng	Drug687	ginseng	29870296:used
+Herb130	ginseng	Drug687	Ginseng	30545139:null
+Herb130	ginseng	Drug687	ginseng	30545139:null
+Herb130	ginseng	Drug687	ginseng	26899592:null
+Herb130	ginseng	Drug687	ginseng	27459888:null
+Herb130	ginseng	Drug689	ginsenoside Rg1	29896950:null
+Herb130	ginseng	Drug687	ginseng	26657497:null
+Herb130	ginseng	Drug146	Aspirin	25632575:null
+Herb130	ginseng	Drug689	Ginsenoside Rg1	24716802:null
+Herb130	ginseng	Drug684	Ginkgolide B	24716802:null
+Herb130	ginseng	Drug687	ginseng	24520334:null
+Herb130	ginseng	Drug1106	p75	24818251:influencing
+Herb130	ginseng	Drug1106	p75	24818251:null
+Herb130	ginseng	Drug1106	p75	24818251:saponins
+Herb130	ginseng	Drug687	Ginseng	23702039:null
+Herb130	ginseng	Drug687	ginseng	23702039:null
+Herb130	ginseng	Drug687	ginseng	23240589:null
+Herb130	ginseng	Drug687	ginseng	23240589:conditions
+Herb130	ginseng	Drug687	ginseng	23240589:protective
+Herb130	ginseng	Drug687	ginseng	22566158:null
+Herb130	ginseng	Drug687	ginseng	22606332:null
+Herb130	ginseng	Drug687	ginseng	21293466:null
+Herb130	ginseng	Drug687	ginseng	21213400:null
+Herb130	ginseng	Drug687	ginseng	21117445:null
+Herb130	ginseng	Drug687	ginseng	20148407:null
+Herb130	ginseng	Drug687	ginseng	21274269:null
+Herb130	ginseng	Drug687	ginseng	19298198:null
+Herb130	ginseng	Drug687	ginseng	17031036:null
+Herb130	ginseng	Drug687	ginseng	17031036:leaves
+Herb130	ginseng	Drug1446	tea	17031036:null
+Herb130	ginseng	Drug687	ginseng	16883630:null
+Herb130	ginseng	Drug687	ginseng	15970412:null
+Herb130	ginseng	Drug1446	tea	15970412:null
+Herb130	ginseng	Drug687	ginseng	15970412:prepared
+Herb130	ginseng	Drug687	ginseng	15852490:null
+Herb130	ginseng	Drug687	ginseng	15706927:null
+Herb130	ginseng	Drug687	ginseng	12872393:null
+Herb130	ginseng	Drug563	ethanol	7260731:null
+Herb130	ginseng	Drug687	ginseng	7260731:null
+Herb130	ginseng	Drug687	ginseng	7260731:prepared
+Herb130	ginseng	Drug687	ginseng	157842:null
+Herb130	ginseng	Drug724	halothane	157842:null
+Herb130	ginseng	Drug724	halothane	157842:administered
+Herb130	ginseng	Drug563	ethanol	157841:null
+Herb130	ginseng	Drug687	ginseng	157841:null
+Herb130	ginseng	Drug724	halothane	157841:null
+Herb130	ginseng	Drug724	halothane	157841:administered
+Herb130	ginseng	Drug687	ginseng	750170:null
+Herb130	ginseng	Drug724	halothane	750170:null
+Herb130	ginseng	Drug687	ginseng	26081140:null
+Herb130	ginseng	Drug689	Ginsenoside Rg1	30794781:null
+Herb130	ginseng	Drug687	ginseng	30794781:null
+Herb130	ginseng	Drug689	Ginsenoside Rg1	30262824:null
+Herb130	ginseng	Drug687	ginseng	30262824:null
+Herb130	ginseng	Drug689	Ginsenoside Rg1	24462216:null
+Herb130	ginseng	Drug687	ginseng	24462216:null
+Herb130	ginseng	Drug687	ginseng	30360145:null
+Herb130	ginseng	Drug687	ginseng	17600519:null
+Herb130	ginseng	Drug687	Ginseng	17600519:null
+Herb130	ginseng	Drug687	ginseng	30458277:null
+Herb130	ginseng	Drug459	dimethyl fumarate	30458277:null
+Herb130	ginseng	Drug687	Ginseng	30458277:null
+Herb130	ginseng	Drug687	ginseng	16163298:null
+Herb130	ginseng	Drug689	Ginsenoside Rg1	29710487:null
+Herb130	ginseng	Drug687	ginseng	29710487:null
+Herb130	ginseng	Drug687	ginseng	26306935:null
+Herb130	ginseng	Drug687	ginseng	24004049:null
+Herb130	ginseng	Drug687	Ginseng	24004049:null
+Herb130	ginseng	Drug687	Ginseng	21073942:null
+Herb130	ginseng	Drug687	ginseng	21073942:null
+Herb130	ginseng	Drug471	DM	17317368:null
+Herb130	ginseng	Drug687	ginseng	17317368:null
+Herb130	ginseng	Drug687	ginseng	16923460:null
+Herb130	ginseng	Drug682	ginkgo biloba	16923460:were
+Herb130	ginseng	Drug696	glucosamine	16923460:were
+Herb130	ginseng	Drug687	ginseng	27503022:null
+Herb130	ginseng	Drug687	ginseng	24792734:null
+Herb130	ginseng	Drug687	ginseng	24376419:null
+Herb130	ginseng	Drug687	ginseng	22925661:null
+Herb130	ginseng	Drug687	ginseng	21664366:null
+Herb130	ginseng	Drug687	ginseng	21647765:null
+Herb130	ginseng	Drug687	ginseng	21219973:null
+Herb130	ginseng	Drug687	ginseng	21185898:null
+Herb130	ginseng	Drug239	calcium	31756514:exerted
+Herb130	ginseng	Drug459	dimethyl fumarate	31494826:null
+Herb130	ginseng	Drug687	ginseng	31494826:null
+Herb130	ginseng	Drug687	ginseng	31565154:null
+Herb130	ginseng	Drug687	ginseng	26236231:null
+Herb130	ginseng	Drug557	estrogen	26236231:null
+Herb130	ginseng	Drug1055	nitric oxide	26236231:production
+Herb130	ginseng	Drug688	ginsenoside Rb1	28065779:null
+Herb130	ginseng	Drug688	ginsenoside Rb1	28065779:used
+Herb130	ginseng	Drug689	ginsenoside Rg1	29896951:null
+Herb130	ginseng	Drug687	ginseng	26869821:null
+Herb130	ginseng	Drug689	Ginsenoside Rg1	26579457:shown
+Herb130	ginseng	Drug687	ginseng	26579457:null
+Herb130	ginseng	Drug687	ginseng	25498890:null
+Herb130	ginseng	Drug244	camphor	19449344:null
+Herb47	centipede	Drug155	ATP	18083032:using
+Herb324	snail	Drug1043	nicotinamide	24483328:shown
+Herb324	snail	Drug27	adenine	24483328:shown
+Herb324	snail	Drug1183	phosphate	24483328:shown
+Herb324	snail	Drug517	EMT	28758930:associated
+Herb72	coral	Drug240	calcium carbonate	28876734:null
+Herb214	lime	Drug792	insulin	28097882:null
+Herb214	lime	Drug937	metformin	28097882:null
+Herb214	lime	Drug1337	rosiglitazone	28097882:null
+Herb214	lime	Drug1196	pioglitazone	28097882:null
+Herb214	lime	Drug702	glyburide	28097882:null
+Herb214	lime	Drug694	glipizide	28097882:null
+Herb214	lime	Drug693	glimepiride	28097882:null
+Herb214	lime	Drug3	acarbose	28097882:null
+Herb214	lime	Drug977	miglitol	28097882:null
+Herb214	lime	Drug588	exenatide	28097882:null
+Herb214	lime	Drug877	liraglutide	28097882:null
+Herb214	lime	Drug1225	pramlintide	28097882:null
+Herb214	lime	Drug69	alogliptin	28097882:null
+Herb214	lime	Drug874	linagliptin	28097882:null
+Herb214	lime	Drug1349	saxagliptin	28097882:null
+Herb214	lime	Drug1371	sitagliptin	28097882:null
+Herb214	lime	Drug246	canagliflozin	28097882:null
+Herb214	lime	Drug388	dapagliflozin	28097882:null
+Herb214	lime	Drug218	bromocriptine	28097882:null
+Herb214	lime	Drug693	glimepiride	26276240:null
+Herb214	lime	Drug795	insulin glargine	26276240:null
+Herb214	lime	Drug796	insulin lispro	26276240:null
+Herb214	lime	Drug877	liraglutide	26276240:null
+Herb214	lime	Drug1196	pioglitazone	26276240:null
+Herb214	lime	Drug1371	sitagliptin	26276240:null
+Herb214	lime	Drug874	linagliptin	23730503:null
+Herb214	lime	Drug693	glimepiride	23730503:null
+Herb214	lime	Drug874	linagliptin	23730503:favourable
+Herb214	lime	Drug693	glimepiride	23319869:null
+Herb214	lime	Drug877	liraglutide	21653676:null
+Herb214	lime	Drug937	metformin	21653676:null
+Herb214	lime	Drug693	glimepiride	21653676:null
+Herb214	lime	Drug1337	rosiglitazone	21653676:null
+Herb214	lime	Drug795	insulin glargine	21653676:null
+Herb214	lime	Drug1196	pioglitazone	20158090:null
+Herb214	lime	Drug693	glimepiride	20158090:null
+Herb214	lime	Drug146	aspirin	9781830:null
+Herb214	lime	Drug271	CC	8417708:null
+Herb214	lime	Drug406	Defibrotide	2102624:null
+Herb214	lime	Drug693	Glimepiride	31704276:null
+Herb214	lime	Drug691	glibenclamide	31704276:null
+Herb214	lime	Drug691	glibenclamide	31704276:has
+Herb214	lime	Drug693	glimepiride	31704276:null
+Herb214	lime	Drug693	glimepiride	31704276:receive
+Herb214	lime	Drug691	glibenclamide	31704276:had
+Herb214	lime	Drug691	glibenclamide	31704276:shows
+Herb214	lime	Drug693	glimepiride	29671019:null
+Herb214	lime	Drug792	insulin	29671019:superior
+Herb70	coconut oil	Drug271	CC	30380754:null
+Herb70	coconut oil	Drug298	cholesterol	18028965:null
+Herb336	talc	Drug1051	nimodipine	10851845:null
+Herb336	talc	Drug1052	nisoldipine	10851845:null
+Herb336	talc	Drug3	acarbose	10851845:null
+Herb336	talc	Drug1052	nisoldipine	10367099:null
+Herb336	talc	Drug1051	nimodipine	10367099:null
+Herb336	talc	Drug3	acarbose	10367099:null
+Herb336	talc	Drug1051	nimodipine	10218354:null
+Herb336	talc	Drug1052	nisoldipine	10218354:null
+Herb336	talc	Drug3	acarbose	10218354:null
+Herb262	potato	Drug640	folate	26670256:represent
+Herb262	potato	Drug640	folate	26670256:null
+Herb262	potato	Drug640	folate	26670256:identified;
+Herb262	potato	Drug640	folate	26670256:increase
+Herb191	inga	Drug599	Fat	28504910:Ameliorates
+Herb191	inga	Drug377	dabigatran	25319314:null
+Herb191	inga	Drug1329	rivaroxaban	25319314:null
+Herb191	inga	Drug1598	warfarin	25319314:null
+Herb191	inga	Drug1329	Rivaroxaban	25319314:alternative
+Herb191	inga	Drug641	folic acid	16397167:null
+Herb191	inga	Drug1583	vitamin B12	16397167:null
+Herb191	inga	Drug1368	sildenafil	12025521:null
+Herb191	inga	Drug1368	Sildenafil	12025521:taken
+Herb191	inga	Drug298	cholesterol	1324734:null
+Herb191	inga	Drug1393	sphingosine	1324734:null
+Herb191	inga	Drug155	ATP	1324734:null
+Herb362	vinegar	Drug98	AMP	24248330:achieve
+Herb362	vinegar	Drug937	metformin	24248330:achieve
+Herb362	vinegar	Drug195	berberine	24248330:achieve
+Herb362	vinegar	Drug56	alcohol	24248330:null
+Herb74	cumin	Drug195	berberine	30668430:null
+Herb74	cumin	Drug1309	resveratrol	30668430:null
+Herb74	cumin	Drug1278	quercetin	30668430:null
+Herb74	cumin	Drug749	hydrocortisone	27956075:null
+Herb74	cumin	Drug426	dexamethasone	27956075:null
+Herb74	cumin	Drug444	diclofenac	27956075:null
+Herb74	cumin	Drug1446	Tea	27956075:null
+Herb74	cumin	Drug1278	quercetin	27956075:null
+Herb74	cumin	Drug603	fenofibrate	29163755:null
+Herb74	cumin	Drug1371	sitagliptin	29163755:null
+Herb74	cumin	Drug195	berberine	29163755:null
+Herb74	cumin	Drug1272	pyridoxal phosphate	26850195:null
+Herb74	cumin	Drug1309	resveratrol	25230523:null
+Herb74	cumin	Drug528	epigallocatechin	25230523:null
+Herb74	cumin	Drug1269	pyrazole	21054387:null
+Herb74	cumin	Drug1309	resveratrol	19191039:null
+Herb74	cumin	Drug1446	tea	19191039:null
+Herb74	cumin	Drug1309	resveratrol	18648607:null
+Herb74	cumin	Drug331	clopidogrel	31471773:null
+Herb74	cumin	Drug599	fat	31571647:null
+Herb74	cumin	Drug1309	resveratrol	31571647:null
+Herb141	guarana	Drug527	ephedrine	15537744:null
+Herb141	guarana	Drug235	caffeine	15537744:null
+Herb141	guarana	Drug526	ephedra	15537744:banned
+Herb100	essence	Drug1263	PTC	31720730:null
+Herb100	essence	Drug1106	p75	23427407:null
+Herb100	essence	Drug51	ajmaline	1697372:null
+Herb100	essence	Drug555	estradiol	18508594:null
+Herb66	citric acid	Drug155	ATP	31907865:null
+Herb66	citric acid	Drug316	citric acid	31907865:null
+Herb66	citric acid	Drug809	isocitric acid	31907865:null
+Herb66	citric acid	Drug699	glutamic acid	31907865:null
+Herb66	citric acid	Drug1277	pyruvic acid	31907865:null
+Herb66	citric acid	Drug1263	PTC	31720730:null
+Herb66	citric acid	Drug316	citric acid	31720730:null
+Herb66	citric acid	Drug1411	sucrose	27988366:dissolved
+Herb66	citric acid	Drug316	citric acid	27988366:null
+Herb66	citric acid	Drug1283	quinine	27988366:null
+Herb66	citric acid	Drug316	citric acid	23907747:null
+Herb66	citric acid	Drug316	citric acid	8023775:null
+Herb66	citric acid	Drug1114	palmitoyl	31236794:null
+Herb66	citric acid	Drug316	citric acid	31236794:null
+Herb66	citric acid	Drug700	glutathione	31236794:null
+Herb66	citric acid	Drug1012	NAAG	31236794:null
+Herb66	citric acid	Drug1407	succinate	25383517:null
+Herb66	citric acid	Drug316	citric acid	25383517:null
+Herb95	echinacea	Drug687	ginseng	16923460:null
+Herb95	echinacea	Drug682	ginkgo biloba	16923460:were
+Herb95	echinacea	Drug696	glucosamine	16923460:were
+Herb251	peach	Drug334	CoA	31090302:null
+Herb251	peach	Drug298	cholesterol	30669336:reduce
+Herb251	peach	Drug599	fat	30669336:reduce
+Herb101	ethanol	Drug563	ethanol	31730793:null
+Herb101	ethanol	Drug261	cardiolipin	31242454:null
+Herb101	ethanol	Drug124	arachidonic acid	31242454:null
+Herb101	ethanol	Drug1184	phosphatidylethanolamine	31242454:null
+Herb101	ethanol	Drug700	glutathione	31242454:null
+Herb101	ethanol	Drug15	acetylcholine	31242454:improving
+Herb101	ethanol	Drug646	formic acid	30836247:null
+Herb101	ethanol	Drug563	ethanol	30141144:null
+Herb101	ethanol	Drug473	DMSO	30141144:was
+Herb101	ethanol	Drug563	ethanol	30444083:null
+Herb101	ethanol	Drug146	aspirin	30479459:null
+Herb101	ethanol	Drug563	ethanol	30479459:null
+Herb101	ethanol	Drug563	ethanol	29944037:null
+Herb101	ethanol	Drug563	ethanol	29686255:null
+Herb101	ethanol	Drug563	ethanol	29686255:understanding
+Herb101	ethanol	Drug563	ethanol	29903436:ethanol;
+Herb101	ethanol	Drug563	ethanol	28867580:null
+Herb101	ethanol	Drug563	ethanol	28931618:null
+Herb101	ethanol	Drug56	alcohol	28931618:null
+Herb101	ethanol	Drug563	ethanol	26965388:null
+Herb101	ethanol	Drug563	ethanol	28745354:null
+Herb101	ethanol	Drug730	hexane	28502905:fractionated
+Herb101	ethanol	Drug346	Compound 6	28502905:resulted
+Herb101	ethanol	Drug912	MEA	28638888:null
+Herb101	ethanol	Drug700	glutathione	28638888:compared
+Herb101	ethanol	Drug700	glutathione	28638888:evaluated
+Herb101	ethanol	Drug1599	xanthine	28638888:compared
+Herb101	ethanol	Drug1278	quercetin	28638888:evaluated
+Herb101	ethanol	Drug563	ethanol	30549606:null
+Herb101	ethanol	Drug1041	nicardipine	30549606:null
+Herb101	ethanol	Drug563	ethanol	27688945:null
+Herb101	ethanol	Drug563	ethanol	26006090:null
+Herb101	ethanol	Drug56	Alcohol	26006090:null
+Herb101	ethanol	Drug563	ethanol	26006090:containing
+Herb101	ethanol	Drug563	ethanol	26006090:toxic
+Herb101	ethanol	Drug56	alcohol	26006090:toxicity
+Herb101	ethanol	Drug568	ethiodized oil	26549370:null
+Herb101	ethanol	Drug563	ethanol	26549370:null
+Herb101	ethanol	Drug487	doxorubicin	26549370:added
+Herb101	ethanol	Drug563	ethanol	26205314:null
+Herb101	ethanol	Drug335	cocaine	26205314:null
+Herb101	ethanol	Drug563	ethanol	25800798:null
+Herb101	ethanol	Drug1400	Streptokinase	25902818:null
+Herb101	ethanol	Drug730	hexane	25902818:null
+Herb101	ethanol	Drug563	ethanol	27012130:null
+Herb101	ethanol	Drug235	caffeine	27012130:null
+Herb101	ethanol	Drug730	hexane	24885709:null
+Herb101	ethanol	Drug1172	phenol	24885709:examined
+Herb101	ethanol	Drug730	hexane	24885709:possessed
+Herb101	ethanol	Drug730	Hexane	24534954:null
+Herb101	ethanol	Drug730	hexane	25538351:fractionated
+Herb101	ethanol	Drug646	formic acid	24036516:null
+Herb101	ethanol	Drug563	ethanol	23884101:null
+Herb101	ethanol	Drug563	ethanol	23875903:null
+Herb101	ethanol	Drug787	indomethacin	23612703:null
+Herb101	ethanol	Drug146	aspirin	23612703:null
+Herb101	ethanol	Drug1308	reserpine	23612703:null
+Herb101	ethanol	Drug563	ethanol	23612703:null
+Herb101	ethanol	Drug13	acetic acid	23612703:null
+Herb101	ethanol	Drug563	ethanol	23265538:null
+Herb101	ethanol	Drug564	ethanolamine	23046519:null
+Herb101	ethanol	Drug563	ethanol	21535289:null
+Herb101	ethanol	Drug646	formic acid	21893393:null
+Herb101	ethanol	Drug730	hexane	22051882:null
+Herb101	ethanol	Drug563	ethanol	21762767:null
+Herb101	ethanol	Drug563	ethanol	20969537:null
+Herb101	ethanol	Drug700	glutathione	20025954:showed
+Herb101	ethanol	Drug715	GSH	20025954:showed
+Herb101	ethanol	Drug235	caffeine	20044532:null
+Herb101	ethanol	Drug563	ethanol	20044532:null
+Herb101	ethanol	Drug1060	NMDA	20044532:null
+Herb101	ethanol	Drug563	ethanol	21364615:null
+Herb101	ethanol	Drug563	ethanol	19595441:null
+Herb101	ethanol	Drug482	dopamine	19527825:stronger;
+Herb101	ethanol	Drug482	dopamine	19527825:up-regulate
+Herb101	ethanol	Drug1065	norepinephrine	19527825:stronger;
+Herb101	ethanol	Drug1065	norepinephrine	19527825:up-regulate
+Herb101	ethanol	Drug56	alcohol	19527825:null
+Herb101	ethanol	Drug563	ethanol	19527825:null
+Herb101	ethanol	Drug563	ethanol	19343477:null
+Herb101	ethanol	Drug1352	scopolamine	19343477:null
+Herb101	ethanol	Drug1352	scopolamine	19343477:administered
+Herb101	ethanol	Drug1352	scopolamine	19343477:prevented
+Herb101	ethanol	Drug1352	scopolamine	19343477:attenuated
+Herb101	ethanol	Drug235	caffeine	19251183:null
+Herb101	ethanol	Drug563	ethanol	19251183:null
+Herb101	ethanol	Drug563	ethanol	18688884:null
+Herb101	ethanol	Drug563	ethanol	18700555:null
+Herb101	ethanol	Drug563	ethanol	18590618:null
+Herb101	ethanol	Drug563	ethanol	18590618:cause
+Herb101	ethanol	Drug715	GSH	18485149:increased
+Herb101	ethanol	Drug268	CB2	17369778:involved
+Herb101	ethanol	Drug703	glycerol	17369778:null
+Herb101	ethanol	Drug646	formic acid	17432581:null
+Herb101	ethanol	Drug1446	tea	17012766:null
+Herb101	ethanol	Drug235	caffeine	15569874:null
+Herb101	ethanol	Drug563	ethanol	15569874:null
+Herb101	ethanol	Drug235	caffeine	15684650:null
+Herb101	ethanol	Drug563	ethanol	15684650:null
+Herb101	ethanol	Drug563	ethanol	15302233:null
+Herb101	ethanol	Drug563	ethanol	15219773:null
+Herb101	ethanol	Drug56	Alcohol	14557684:null
+Herb101	ethanol	Drug563	ethanol	14557684:null
+Herb101	ethanol	Drug563	ethanol	12890173:null
+Herb101	ethanol	Drug298	cholesterol	12890173:null
+Herb101	ethanol	Drug298	cholesterol	12890173:fed
+Herb101	ethanol	Drug563	ethanol	12723756:null
+Herb101	ethanol	Drug564	ethanolamine	12505646:null
+Herb101	ethanol	Drug563	ethanol	12394780:null
+Herb101	ethanol	Drug563	ethanol	12187753:null
+Herb101	ethanol	Drug529	epinephrine	12187753:null
+Herb101	ethanol	Drug563	ethanol	12095652:null
+Herb101	ethanol	Drug1055	nitric oxide	11535362:inhibited
+Herb101	ethanol	Drug563	ethanol	10698017:null
+Herb101	ethanol	Drug235	caffeine	10698017:null
+Herb101	ethanol	Drug235	Caffeine	10698017:null
+Herb101	ethanol	Drug563	ethanol	10470837:null
+Herb101	ethanol	Drug730	hexane	10198720:null
+Herb101	ethanol	Drug563	ethanol	10198720:null
+Herb101	ethanol	Drug235	caffeine	9890396:null
+Herb101	ethanol	Drug563	ethanol	9890396:null
+Herb101	ethanol	Drug235	Caffeine	9890396:null
+Herb101	ethanol	Drug1046	Nicotinic acid	9825949:null
+Herb101	ethanol	Drug1040	niacin	9825949:null
+Herb101	ethanol	Drug146	aspirin	9825949:null
+Herb101	ethanol	Drug19	acetylsalicylic acid	9825949:null
+Herb101	ethanol	Drug56	alcohol	9825949:null
+Herb101	ethanol	Drug563	ethanol	9825949:null
+Herb101	ethanol	Drug1045	nicotine	9641479:given
+Herb101	ethanol	Drug563	ethanol	9641479:null
+Herb101	ethanol	Drug1045	nicotine	9641479:null
+Herb101	ethanol	Drug496	dt	9641479:null
+Herb101	ethanol	Drug1045	nicotine	9641479:administered
+Herb101	ethanol	Drug496	dt	9641479:administered
+Herb101	ethanol	Drug1045	nicotine	9641479:had
+Herb101	ethanol	Drug563	ethanol	9542113:null
+Herb101	ethanol	Drug563	ethanol	9260994:null
+Herb101	ethanol	Drug330	clonidine	9260994:null
+Herb101	ethanol	Drug330	clonidine	9260994:counteracts
+Herb101	ethanol	Drug1060	NMDA	9121686:null
+Herb101	ethanol	Drug563	ethanol	9121686:null
+Herb101	ethanol	Drug563	ethanol	8994229:null
+Herb101	ethanol	Drug1184	phosphatidylethanolamine	8829775:null
+Herb101	ethanol	Drug563	ethanol	7847586:null
+Herb101	ethanol	Drug155	ATP	7847586:results
+Herb101	ethanol	Drug1183	phosphate	7847586:results
+Herb101	ethanol	Drug56	alcohol	7847586:considered
+Herb101	ethanol	Drug335	cocaine	1442496:null
+Herb101	ethanol	Drug563	ethanol	1442496:null
+Herb101	ethanol	Drug335	cocaine	1442496:examined
+Herb101	ethanol	Drug563	ethanol	1442496:examined
+Herb101	ethanol	Drug335	Cocaine	1442496:null
+Herb101	ethanol	Drug335	cocaine	1442496:enhance
+Herb101	ethanol	Drug563	ethanol	1992832:null
+Herb101	ethanol	Drug335	cocaine	1992832:null
+Herb101	ethanol	Drug1045	nicotine	1992832:null
+Herb101	ethanol	Drug235	caffeine	1992832:null
+Herb101	ethanol	Drug1181	phenylpropanolamine	1992832:null
+Herb101	ethanol	Drug1184	phosphatidylethanolamine	2722225:null
+Herb101	ethanol	Drug563	ethanol	3738772:null
+Herb101	ethanol	Drug563	ethanol	3738772:administered
+Herb101	ethanol	Drug563	ethanol	6658966:null
+Herb101	ethanol	Drug439	diazepam	6658966:null
+Herb101	ethanol	Drug1051	nimodipine	6658966:null
+Herb101	ethanol	Drug563	ethanol	6628423:null
+Herb101	ethanol	Drug151	atenolol	6628423:null
+Herb101	ethanol	Drug563	ethanol	6628423:enhances
+Herb101	ethanol	Drug563	ethanol	6628423:decreasing
+Herb101	ethanol	Drug563	ethanol	6421271:null
+Herb101	ethanol	Drug563	ethanol	7260731:null
+Herb101	ethanol	Drug687	ginseng	7260731:null
+Herb101	ethanol	Drug687	ginseng	7260731:prepared
+Herb101	ethanol	Drug731	hexobarbital	7436631:(respired
+Herb101	ethanol	Drug1146	pentobarbital	7436631:(respired
+Herb101	ethanol	Drug1356	secobarbital	7436631:(respired
+Herb101	ethanol	Drug1355	secbutabarbital	7436631:(respired
+Herb101	ethanol	Drug942	methaqualone	7436631:(respired
+Herb101	ethanol	Drug287	chloral hydrate	7436631:null
+Herb101	ethanol	Drug1553	urethane	7436631:null
+Herb101	ethanol	Drug563	ethanol	7436631:null
+Herb101	ethanol	Drug929	meprobamate	7436631:null
+Herb101	ethanol	Drug439	diazepam	7436631:null
+Herb101	ethanol	Drug293	chlorpromazine	7436631:null
+Herb101	ethanol	Drug287	Chloral hydrate	7436631:null
+Herb101	ethanol	Drug563	ethanol	157841:null
+Herb101	ethanol	Drug687	ginseng	157841:null
+Herb101	ethanol	Drug724	halothane	157841:null
+Herb101	ethanol	Drug724	halothane	157841:administered
+Herb101	ethanol	Drug298	cholesterol	28232172:null
+Herb101	ethanol	Drug56	alcohol	28232172:null
+Herb101	ethanol	Drug563	ethanol	28232172:null
+Herb101	ethanol	Drug599	fat	28232172:null
+Herb101	ethanol	Drug563	ethanol	16884666:null
+Herb101	ethanol	Drug563	ethanol	22363810:null
+Herb101	ethanol	Drug1299	Ras	31558618:null
+Herb101	ethanol	Drug563	ethanol	31558618:null
+Herb101	ethanol	Drug38	adrenaline	26761434:null
+Herb101	ethanol	Drug1062	noradrenaline	12215477:null
+Herb101	ethanol	Drug563	ethanol	8217036:null
+Herb101	ethanol	Drug208	BNP	8217036:increases
+Herb101	ethanol	Drug208	BNP	8217036:null
+Herb101	ethanol	Drug563	ethanol	8217036:received
+Herb101	ethanol	Drug563	ethanol	8217036:implicate
+Herb101	ethanol	Drug563	ethanol	27106042:null
+Herb101	ethanol	Drug56	alcohol	27106042:null
+Herb101	ethanol	Drug1552	urea	22944204:null
+Herb101	ethanol	Drug563	ethanol	22944204:null
+Herb101	ethanol	Drug1184	phosphatidylethanolamine	30171723:null
+Herb101	ethanol	Drug1605	zinc	30171723:null
+Herb101	ethanol	Drug933	met	11121073:null
+Herb101	ethanol	Drug922	melatonin	31354619:null
+Herb101	ethanol	Drug563	ethanol	31354619:null
+Herb101	ethanol	Drug38	adrenaline	1303174:null
+Herb101	ethanol	Drug38	adrenaline	1303174:catalyzing
+Herb101	ethanol	Drug529	epinephrine	1303174:catalyzing
+Herb101	ethanol	Drug529	epinephrine	1303174:null
+Herb101	ethanol	Drug1065	norepinephrine	1303174:null
+Herb101	ethanol	Drug563	ethanol	24690765:null
+Herb101	ethanol	Drug974	midazolam	27959401:determined;
+Herb101	ethanol	Drug974	midazolam	27959401:null
+Herb101	ethanol	Drug563	ethanol	11404314:null
+Herb101	ethanol	Drug56	Alcohol	11404314:reduces
+Herb101	ethanol	Drug1065	norepinephrine	11344198:epinephrine;
+Herb101	ethanol	Drug529	epinephrine	11344198:epinephrine;
+Herb101	ethanol	Drug529	epinephrine	11344198:null
+Herb101	ethanol	Drug239	calcium	28424593:null
+Herb101	ethanol	Drug703	glycerol	28424593:null
+Herb101	ethanol	Drug563	ethanol	25489491:null
+Herb101	ethanol	Drug563	ethanol	25641040:null
+Herb101	ethanol	Drug888	lovastatin	22621227:null
+Herb101	ethanol	Drug1107	PA	22621227:null
+Herb101	ethanol	Drug563	ethanol	22621227:null
+Herb101	ethanol	Drug888	lovastatin	22621227:studied
+Herb101	ethanol	Drug563	ethanol	22621227:studied
+Herb101	ethanol	Drug888	lovastatin	22621227:used
+Herb101	ethanol	Drug563	ethanol	22621227:used
+Herb101	ethanol	Drug563	ethanol	24382882:null
+Herb101	ethanol	Drug1065	norepinephrine	17102092:catalyzes
+Herb101	ethanol	Drug529	epinephrine	17102092:catalyzes
+Herb101	ethanol	Drug730	hexane	28217983:null
+Herb101	ethanol	Drug563	ethanol	28217983:null
+Herb101	ethanol	Drug730	hexane	28134488:null
+Herb101	ethanol	Drug563	ethanol	28134488:null
+Herb101	ethanol	Drug563	ethanol	31638092:null
+Herb101	ethanol	Drug563	ethanol	22293345:null
+Herb101	ethanol	Drug56	alcohol	9666695:null
+Herb101	ethanol	Drug563	ethanol	9666695:null
+Herb101	ethanol	Drug1114	palmitoyl	31236794:null
+Herb101	ethanol	Drug316	citric acid	31236794:null
+Herb101	ethanol	Drug700	glutathione	31236794:null
+Herb101	ethanol	Drug1012	NAAG	31236794:null
+Herb101	ethanol	Drug563	ethanol	30120732:null
+Herb101	ethanol	Drug1298	rapamycin	30120732:protected
+Herb101	ethanol	Drug563	ethanol	28840832:null
+Herb101	ethanol	Drug563	ethanol	28840832:extracted
+Herb101	ethanol	Drug1107	PA	26820681:enhanced
+Herb101	ethanol	Drug563	ethanol	26820681:null
+Herb101	ethanol	Drug564	ethanolamine	28955964:null
+Herb101	ethanol	Drug563	ethanol	23689279:null
+Herb101	ethanol	Drug155	ATP	22469272:null
+Herb101	ethanol	Drug1184	phosphatidylethanolamine	22469272:null
+Herb101	ethanol	Drug563	ethanol	21348830:null
+Herb101	ethanol	Drug563	ethanol	16641869:null
+Herb101	ethanol	Drug563	ethanol	11299216:null
+Herb101	ethanol	Drug563	ethanol	26756191:null
+Herb101	ethanol	Drug563	ethanol	25819503:null
+Herb101	ethanol	Drug1514	tPA	25819503:null
+Herb101	ethanol	Drug563	ethanol	23622737:null
+Herb101	ethanol	Drug563	ethanol	23920008:null
+Herb101	ethanol	Drug563	ethanol	23920008:seen
+Herb101	ethanol	Drug563	ethanol	23920008:compared
+Herb101	ethanol	Drug563	ethanol	23512978:null
+Herb101	ethanol	Drug563	ethanol	25620099:null
+Herb235	mushroom	Drug56	alcohol	31558618:null
+Herb235	mushroom	Drug56	alcohol	31558618:abolishes
+Herb235	mushroom	Drug1446	tea	29317985:null
+Herb235	mushroom	Drug599	fat	25685150:low
+Herb235	mushroom	Drug298	cholesterol	25685150:cholesterol-free;
+Herb235	mushroom	Drug1219	potassium	25685150:null
+Herb235	mushroom	Drug1315	riboflavin	25685150:null
+Herb235	mushroom	Drug1040	niacin	25685150:null
+Herb261	pomegranate	Drug1164	PHE	23935674:juice
+Herb261	pomegranate	Drug1164	PHE	23935674:has
+Herb261	pomegranate	Drug1446	tea	19051188:null
+Herb261	pomegranate	Drug1309	resveratrol	17762204:null
+Herb167	horseradish	Drug1407	succinate	2475923:null
+Herb45	carp	Drug1193	pilocarpine	31672789:null
+Herb45	carp	Drug791	inosine	29576055:protected
+Herb45	carp	Drug791	inosine	29576055:null
+Herb45	carp	Drug1193	pilocarpine	28212985:null
+Herb45	carp	Drug253	carbachol	28212985:null
+Herb45	carp	Drug880	lithium	28042096:null
+Herb45	carp	Drug1193	pilocarpine	28042096:null
+Herb45	carp	Drug749	hydrocortisone	27956075:null
+Herb45	carp	Drug426	dexamethasone	27956075:null
+Herb45	carp	Drug444	diclofenac	27956075:null
+Herb45	carp	Drug1446	Tea	27956075:null
+Herb45	carp	Drug1278	quercetin	27956075:null
+Herb45	carp	Drug1172	phenol	24885709:null
+Herb45	carp	Drug730	hexane	24885709:null
+Herb45	carp	Drug1172	phenol	24885709:examined
+Herb45	carp	Drug1172	phenol	24885709:showed
+Herb45	carp	Drug146	aspirin	23713086:continue
+Herb45	carp	Drug563	ethanol	23265538:null
+Herb45	carp	Drug1193	pilocarpine	7760144:null
+Herb45	carp	Drug253	carbachol	7760144:null
+Herb45	carp	Drug253	carbachol	7760144:greater
+Herb45	carp	Drug1183	phosphate	27303606:null
+Herb45	carp	Drug1193	pilocarpine	27303606:null
+Herb45	carp	Drug1193	pilocarpine	23308228:null
+Herb45	carp	Drug880	lithium	18479396:null
+Herb45	carp	Drug1193	pilocarpine	18479396:null
+Herb45	carp	Drug1193	pilocarpine	31534531:null
+Herb45	carp	Drug1130	PAS	29274471:radialis
+Herb45	carp	Drug1193	Pilocarpine	29312110:null
+Herb45	carp	Drug1193	pilocarpine	29312110:null
+Herb45	carp	Drug1261	PS	15622129:radialis
+Herb45	carp	Drug1236	probucol	1779233:null
+Herb333	sulfur	Drug946	methionine	29299040:derived
+Herb333	sulfur	Drug933	Met	29299040:derived
+Herb333	sulfur	Drug946	methionine	11467646:formed
+Herb333	sulfur	Drug700	glutathione	28132764:reported
+Herb333	sulfur	Drug1556	uridine	7797780:null
+Herb333	sulfur	Drug946	methionine	19967264:derived
+Herb333	sulfur	Drug946	methionine	19967264:null
+Herb333	sulfur	Drug946	methionine	16596805:acts
+Herb333	sulfur	Drug946	methionine	10537928:formed
+Herb333	sulfur	Drug946	methionine	25324876:generated
+Herb333	sulfur	Drug1460	testosterone	17537983:null
+Herb333	sulfur	Drug334	CoA	31660701:essential
+Herb333	sulfur	Drug805	iron	31660701:null
+Herb333	sulfur	Drug353	creatine	30373890:null
+Herb333	sulfur	Drug946	methionine	30371177:formed
+Herb333	sulfur	Drug946	methionine	27932944:null
+Herb333	sulfur	Drug640	folate	27932944:null
+Herb333	sulfur	Drug1583	vitamin B12	27932944:null
+Herb333	sulfur	Drug700	glutathione	25463282:maintain
+Herb333	sulfur	Drug715	GSH	25463282:maintain
+Herb333	sulfur	Drug715	GSH	18035085:performed
+Herb333	sulfur	Drug136	ascorbate	18035085:performed
+Herb333	sulfur	Drug946	methionine	18035085:null
+Herb333	sulfur	Drug715	GSH	18035085:null
+Herb333	sulfur	Drug155	ATP	12081500:null
+Herb252	peach kernel	Drug334	CoA	31090302:null
+Herb252	peach kernel	Drug298	cholesterol	30669336:reduce
+Herb252	peach kernel	Drug599	fat	30669336:reduce
+Herb8	amber	Drug1565	valsartan	25858003:null
+Herb8	amber	Drug1407	succinate	23457968:null
+Herb8	amber	Drug1407	succinate	23457968:stronger
+Herb8	amber	Drug1278	quercetin	20349963:null
+Herb8	amber	Drug1379	sodium hyaluronate	16857513:filled
+Herb8	amber	Drug743	hyaluronate	16857513:filled
+Herb8	amber	Drug743	hyaluronate	16857513:null
+Herb8	amber	Drug933	met	23074499:null
+Herb8	amber	Drug32	Adenosine triphosphate	15890883:null
+Herb8	amber	Drug155	ATP	15890883:null
+Herb8	amber	Drug293	chlorpromazine	15201091:null
+Herb8	amber	Drug471	DM	15246245:formation
+Herb8	amber	Drug792	insulin	12460697:null
+Herb8	amber	Drug265	carvedilol	11579363:null
+Herb8	amber	Drug810	isoflurane	9728819:null
+Herb8	amber	Drug529	epinephrine	8419710:null
+Herb8	amber	Drug1107	Pa	23885059:null
+Herb8	amber	Drug45	agmatine	21145312:null
+Herb8	amber	Drug230	BV2	21145312:null
+Herb8	amber	Drug477	dobutamine	18325466:null
+Herb8	amber	Drug155	ATP	18951957:null
+Herb8	amber	Drug155	ATP	18951957:selective
+Herb8	amber	Drug239	calcium	22386719:null
+Herb8	amber	Drug625	fluorescein	9321827:necessary
+Herb8	amber	Drug932	mesenchymal stem cells	25559502:null
+Herb287	salt	Drug57	aldosterone	31562418:null
+Herb287	salt	Drug117	antidiuretic hormone	31722353:null
+Herb287	salt	Drug599	fat	31448738:null
+Herb287	salt	Drug267	cathinone	30338489:null
+Herb287	salt	Drug267	cathinone	30338489:capture
+Herb287	salt	Drug503	ecstasy	30338489:capture
+Herb287	salt	Drug620	fludrocortisone	30105362:null
+Herb287	salt	Drug57	aldosterone	29655877:null
+Herb287	salt	Drug1395	spironolactone	29655877:null
+Herb287	salt	Drug56	alcohol	30022799:null
+Herb287	salt	Drug1411	sucrose	27988366:dissolved
+Herb287	salt	Drug316	citric acid	27988366:null
+Herb287	salt	Drug1283	quinine	27988366:null
+Herb287	salt	Drug1411	sucrose	27988366:null
+Herb287	salt	Drug331	clopidogrel	27081185:null
+Herb287	salt	Drug331	clopidogrel	27081185:receive
+Herb287	salt	Drug100	amphetamine	27579185:null
+Herb287	salt	Drug331	clopidogrel	25782408:null
+Herb287	salt	Drug331	clopidogrel	25782408:receive
+Herb287	salt	Drug146	aspirin	24280110:null
+Herb287	salt	Drug243	cAMP	24107588:exerts
+Herb287	salt	Drug331	clopidogrel	23828609:null
+Herb287	salt	Drug331	clopidogrel	23828609:resinate
+Herb287	salt	Drug331	clopidogrel	23828609:binds
+Herb287	salt	Drug1219	potassium	22254117:replacers
+Herb287	salt	Drug1219	potassium	22254117:null
+Herb287	salt	Drug56	alcohol	21474174:null
+Herb287	salt	Drug56	alcohol	21532778:null
+Herb287	salt	Drug15	acetylcholine	19669865:null
+Herb287	salt	Drug599	fat	19556450:null
+Herb287	salt	Drug57	aldosterone	19556450:attenuated
+Herb287	salt	Drug707	glyphosate	19663613:null
+Herb287	salt	Drug1183	phosphate	18533035:null
+Herb287	salt	Drug56	alcohol	18258834:null
+Herb287	salt	Drug239	calcium	18184024:give
+Herb287	salt	Drug56	alcohol	19018737:null
+Herb287	salt	Drug1055	nitric oxide	17201735:null
+Herb287	salt	Drug15	acetylcholine	17201735:null
+Herb287	salt	Drug1059	nitroprusside	17201735:impaired
+Herb287	salt	Drug57	aldosterone	12959913:present;
+Herb287	salt	Drug1065	norepinephrine	12959913:present;
+Herb287	salt	Drug57	aldosterone	12574082:null
+Herb287	salt	Drug384	dalteparin	14570069:null
+Herb287	salt	Drug1060	NMDA	11963643:null
+Herb287	salt	Drug301	choline	11963643:null
+Herb287	salt	Drug95	amlodipine	11724758:null
+Herb287	salt	Drug95	amlodipine	11724758:drinking
+Herb287	salt	Drug1300	Rasagiline	11716145:null
+Herb287	salt	Drug1300	rasagiline	11716145:null
+Herb287	salt	Drug397	DCA	11025625:null
+Herb287	salt	Drug56	alcohol	11416551:recommended;
+Herb287	salt	Drug56	alcohol	10678592:null
+Herb287	salt	Drug235	caffeine	9694424:null
+Herb287	salt	Drug56	alcohol	9694424:null
+Herb287	salt	Drug85	amiloride	9530228:null
+Herb287	salt	Drug1569	vasopressin	9530228:null
+Herb287	salt	Drug1065	norepinephrine	9530228:null
+Herb287	salt	Drug239	calcium	8924057:null
+Herb287	salt	Drug1261	PS	7750510:tended
+Herb287	salt	Drug56	alcohol	7769495:null
+Herb287	salt	Drug1219	potassium	8199766:null
+Herb287	salt	Drug1219	potassium	8199766:enriched
+Herb287	salt	Drug897	magnesium	8199766:null
+Herb287	salt	Drug1220	potassium chloride	8199766:enriched
+Herb287	salt	Drug1281	quinapril	8244213:null
+Herb287	salt	Drug518	enalapril	8244213:null
+Herb287	salt	Drug149	at 10	8244213:null
+Herb287	salt	Drug239	calcium	12344838:supplemented
+Herb287	salt	Drug897	magnesium	12344838:supplemented
+Herb287	salt	Drug1605	zinc	12344838:supplemented
+Herb287	salt	Drug57	aldosterone	8480501:null
+Herb287	salt	Drug330	clonidine	2306622:null
+Herb287	salt	Drug57	aldosterone	2573964:observed;
+Herb287	salt	Drug251	captopril	2976170:null
+Herb287	salt	Drug783	indapamide	2976170:null
+Herb287	salt	Drug1230	prazosin	2976170:null
+Herb287	salt	Drug1230	prazosin	2970955:null
+Herb287	salt	Drug251	captopril	2970955:null
+Herb287	salt	Drug783	indapamide	2970955:null
+Herb287	salt	Drug747	hydrochlorothiazide	2970955:null
+Herb287	salt	Drug1219	potassium	320724:null
+Herb287	salt	Drug239	calcium	8762091:null
+Herb287	salt	Drug29	adenosine	29941515:null
+Herb287	salt	Drug57	aldosterone	30343334:null
+Herb287	salt	Drug87	Aminoguanidine	12473873:null
+Herb287	salt	Drug1055	nitric oxide	12473873:null
+Herb287	salt	Drug87	aminoguanidine	12473873:null
+Herb287	salt	Drug249	candesartan cilexetil	9655651:null
+Herb287	salt	Drug887	losartan	9655651:null
+Herb287	salt	Drug249	candesartan cilexetil	9655651:increased
+Herb287	salt	Drug537	eprosartan	11907153:null
+Herb287	salt	Drug599	fat	11907153:null
+Herb287	salt	Drug1055	nitric oxide	25489058:null
+Herb287	salt	Drug1055	nitric oxide	25489058:phosphorylated
+Herb287	salt	Drug57	aldosterone	9453014:salt-sensitive;
+Herb287	salt	Drug239	calcium	9453014:null
+Herb287	salt	Drug1219	potassium	9453014:null
+Herb287	salt	Drug1569	vasopressin	23108654:increased
+Herb287	salt	Drug1043	nicotinamide	23108654:null
+Herb287	salt	Drug27	adenine	23108654:null
+Herb287	salt	Drug1183	phosphate	23108654:null
+Herb287	salt	Drug1569	vasopressin	23108654:plays
+Herb287	salt	Drug1104	oxytocin	18088359:null
+Herb287	salt	Drug1569	vasopressin	18088359:null
+Herb287	salt	Drug1569	Vasopressin	18088359:maintained
+Herb287	salt	Drug1219	potassium	26023797:null
+Herb287	salt	Drug1219	potassium	23297375:null
+Herb287	salt	Drug700	glutathione	21999921:reduced
+Herb287	salt	Drug298	cholesterol	21999921:increased
+Herb287	salt	Drug700	glutathione	21999921:lower
+Herb287	salt	Drug298	cholesterol	21999921:higher
+Herb287	salt	Drug298	cholesterol	21999921:null
+Herb287	salt	Drug57	aldosterone	11327640:null
+Herb287	salt	Drug57	Aldosterone	11327640:null
+Herb287	salt	Drug1055	nitric oxide	9509892:mice
+Herb287	salt	Drug1104	oxytocin	18655870:null
+Herb287	salt	Drug1569	vasopressin	18655870:null
+Herb287	salt	Drug161	Avp	18655870:null
+Herb287	salt	Drug603	Fenofibrate	29278547:null
+Herb287	salt	Drug603	fenofibrate	29278547:evaluated
+Herb287	salt	Drug603	fenofibrate	29278547:null
+Herb287	salt	Drug603	fenofibrate	10841431:null
+Herb287	salt	Drug599	fat	1446409:null
+Herb287	salt	Drug298	cholesterol	1446409:accelerated
+Herb287	salt	Drug599	fat	1446409:accelerated
+Herb287	salt	Drug1062	noradrenaline	30151830:null
+Herb287	salt	Drug1065	norepinephrine	30151830:null
+Herb287	salt	Drug1062	Noradrenaline	30151830:null
+Herb287	salt	Drug57	aldosterone	28052878:sensitive
+Herb287	salt	Drug124	arachidonic acid	31635131:leads
+Herb287	salt	Drug239	calcium	7741745:null
+Herb287	salt	Drug298	cholesterol	18028965:null
+Herb287	salt	Drug1083	olmesartan	18028965:null
+Herb287	salt	Drug298	cholesterol	18028965:drinking
+Herb287	salt	Drug1083	olmesartan	18028965:effective
+Herb287	salt	Drug599	fat	18028965:null
+Herb287	salt	Drug57	aldosterone	22730392:null
+Herb287	salt	Drug57	aldosterone	25084306:null
+Herb287	salt	Drug1219	potassium	27594970:null
+Herb287	salt	Drug599	fat	17438656:null
+Herb287	salt	Drug1015	NADH	31679456:null
+Herb287	salt	Drug1486	thymine	31679456:null
+Herb287	salt	Drug792	insulin	17531155:null
+Herb287	salt	Drug239	calcium	9814624:enhanced
+Herb287	salt	Drug239	calcium	9814624:null
+Herb287	salt	Drug1219	potassium	16835352:null
+Herb287	salt	Drug265	carvedilol	11682445:null
+Herb287	salt	Drug599	fat	11682445:null
+Herb287	salt	Drug15	acetylcholine	16269632:were
+Herb287	salt	Drug456	dihydrotestosterone	20588319:null
+Herb287	salt	Drug239	calcium	19724161:correlated
+Herb287	salt	Drug239	calcium	19724161:associated
+Herb287	salt	Drug298	cholesterol	23762494:increased
+Herb287	salt	Drug700	glutathione	23762494:increased
+Herb287	salt	Drug1065	norepinephrine	23762494:reduced
+Herb287	salt	Drug1065	norepinephrine	23762494:null
+Herb287	salt	Drug57	aldosterone	30875275:used
+Herb287	salt	Drug599	fat	28885137:null
+Herb287	salt	Drug599	fat	25679527:null
+Herb287	salt	Drug57	aldosterone	30170653:null
+Herb287	salt	Drug168	Azilsartan	30170653:beneficial
+Herb287	salt	Drug168	Azilsartan	30170653:null
+Herb287	salt	Drug1294	RAN	27179211:administered
+Herb287	salt	Drug1062	noradrenaline	26034203:null
+Herb287	salt	Drug253	carbachol	26034203:null
+Herb287	salt	Drug146	aspirin	25278289:null
+Herb287	salt	Drug742	hyaluronan	24486437:null
+Herb287	salt	Drug1065	norepinephrine	23096235:fed
+Herb287	salt	Drug1065	norepinephrine	23096235:null
+Herb287	salt	Drug239	Calcium	22720058:null
+Herb287	salt	Drug1083	olmesartan	22720058:null
+Herb287	salt	Drug747	hydrochlorothiazide	22720058:null
+Herb287	salt	Drug792	Insulin	22477366:null
+Herb287	salt	Drug471	DM	18192218:null
+Herb287	salt	Drug56	alcohol	23388703:null
+Herb287	salt	Drug56	alcohol	27371106:null
+Herb287	salt	Drug1446	tea	19900027:null
+Herb15	apple	Drug1446	tea	27225434:null
+Herb15	apple	Drug1278	quercetin	17951477:null
+Herb2	acetic acid	Drug13	acetic acid	27777944:null
+Herb2	acetic acid	Drug785	indole	26118651:null
+Herb2	acetic acid	Drug13	acetic acid	26118651:null
+Herb2	acetic acid	Drug13	acetic acid	24784876:null
+Herb2	acetic acid	Drug787	indomethacin	23612703:null
+Herb2	acetic acid	Drug146	aspirin	23612703:null
+Herb2	acetic acid	Drug1308	reserpine	23612703:null
+Herb2	acetic acid	Drug563	ethanol	23612703:null
+Herb2	acetic acid	Drug13	acetic acid	23612703:null
+Herb2	acetic acid	Drug13	acetic acid	23010365:null
+Herb2	acetic acid	Drug13	acetic acid	21510978:null
+Herb2	acetic acid	Drug1337	rosiglitazone	21484566:null
+Herb2	acetic acid	Drug1196	pioglitazone	21484566:null
+Herb2	acetic acid	Drug599	fat	21484566:encouraged
+Herb2	acetic acid	Drug201	bezafibrate	21484566:encouraged
+Herb2	acetic acid	Drug603	fenofibrate	21484566:null
+Herb2	acetic acid	Drug1065	norepinephrine	15175858:null
+Herb2	acetic acid	Drug529	epinephrine	15175858:null
+Herb2	acetic acid	Drug482	dopamine	15175858:null
+Herb2	acetic acid	Drug1065	norepinephrine	15219773:null
+Herb2	acetic acid	Drug482	dopamine	15219773:null
+Herb2	acetic acid	Drug99	AMPA	12365832:null
+Herb2	acetic acid	Drug397	DCA	11025625:null
+Herb2	acetic acid	Drug482	dopamine	10882041:null
+Herb2	acetic acid	Drug694	glipizide	10882041:null
+Herb2	acetic acid	Drug785	indole	8846747:null
+Herb2	acetic acid	Drug13	acetic acid	8846747:null
+Herb2	acetic acid	Drug887	losartan	7959414:null
+Herb2	acetic acid	Drug419	Desipramine	8245356:null
+Herb2	acetic acid	Drug1308	reserpine	1649861:similar
+Herb2	acetic acid	Drug1564	valproic acid	2117062:null
+Herb2	acetic acid	Drug843	lactic acid	2117062:null
+Herb2	acetic acid	Drug186	benzoic acid	2117062:null
+Herb2	acetic acid	Drug1046	nicotinic acid	2117062:null
+Herb2	acetic acid	Drug192	benzylpenicillin	2117062:null
+Herb2	acetic acid	Drug276	cefazolin	2117062:null
+Herb2	acetic acid	Drug301	choline	2117062:null
+Herb2	acetic acid	Drug1345	salicylic acid	2117062:null
+Herb2	acetic acid	Drug13	acetic acid	2417926:null
+Herb2	acetic acid	Drug13	acetic acid	2991803:null
+Herb2	acetic acid	Drug158	Atropine	6989034:null
+Herb2	acetic acid	Drug1473	theophylline	6989034:null
+Herb2	acetic acid	Drug1182	phenytoin	6989034:null
+Herb2	acetic acid	Drug1563	valproate	24272321:null
+Herb2	acetic acid	Drug13	acetic acid	26000808:null
+Herb2	acetic acid	Drug13	acetic acid	22366199:null
+Herb2	acetic acid	Drug13	acetic acid	29107671:null
+Herb2	acetic acid	Drug705	Glycine	8220914:null
+Herb2	acetic acid	Drug482	dopamine	8220914:null
+Herb2	acetic acid	Drug482	dopamine	8220914:indicating
+Herb2	acetic acid	Drug482	dopamine	25456742:null
+Herb2	acetic acid	Drug1065	norepinephrine	25456742:null
+Herb2	acetic acid	Drug13	acetic acid	17167170:null
+Herb2	acetic acid	Drug13	acetic acid	20680247:null
+Herb2	acetic acid	Drug279	ceftazidime	14662918:null
+Herb2	acetic acid	Drug278	cefoperazone	14662918:null
+Herb2	acetic acid	Drug508	EDTA	21979279:null
+Herb2	acetic acid	Drug1065	norepinephrine	25829070:null
+Herb2	acetic acid	Drug13	acetic acid	24974727:null
+Herb2	acetic acid	Drug239	calcium	23239879:null
+Herb2	acetic acid	Drug482	dopamine	24054148:superior
+Herb2	acetic acid	Drug1065	norepinephrine	7760062:null
+Herb2	acetic acid	Drug1062	noradrenaline	7760062:null
+Herb2	acetic acid	Drug482	dopamine	31920641:null
+Herb35	bitter	Drug1411	sucrose	27988366:dissolved
+Herb35	bitter	Drug316	citric acid	27988366:null
+Herb35	bitter	Drug1283	quinine	27988366:null
+Herb35	bitter	Drug687	ginseng	12872393:null
+Herb35	bitter	Drug1254	propylthiouracil	29575306:null
+Herb246	olive	Drug1065	norepinephrine	7670652:smaller
+Herb246	olive	Drug599	fat	25940230:supplemented
+Herb246	olive	Drug599	fat	31547615:assigned
+Herb246	olive	Drug435	DHA	31109078:containing
+Herb246	olive	Drug524	EPA	31109078:containing
+Herb246	olive	Drug599	fat	31109078:containing
+Herb246	olive	Drug511	eicosapentaenoic acid	31109078:containing
+Herb246	olive	Drug435	DHA	31109078:null
+Herb246	olive	Drug524	EPA	31109078:null
+Herb246	olive	Drug599	fat	31109078:null
+Herb246	olive	Drug511	eicosapentaenoic acid	31109078:null
+Herb246	olive	Drug640	folate	23735822:null
+Herb246	olive	Drug1586	vitamin B6	23735822:null
+Herb246	olive	Drug1583	vitamin B12	23735822:null
+Herb246	olive	Drug1446	tea	23777875:null
+Herb246	olive	Drug1446	tea	23777875:show
+Herb69	coconut	Drug271	CC	30380754:null
+Herb69	coconut	Drug298	cholesterol	18028965:null
+Herb364	wheat	Drug1391	spermidine	29315079:containing
+Herb364	wheat	Drug1407	succinate	2475923:null
+Herb247	opium	Drug1494	tiotropium	31297545:null
+Herb247	opium	Drug647	formoterol	31306366:null
+Herb247	opium	Drug706	glycopyrrolate	31306366:null
+Herb247	opium	Drug781	indacaterol	31306366:null
+Herb247	opium	Drug1346	Salmeterol	31306366:null
+Herb247	opium	Drug1494	tiotropium	31306366:null
+Herb247	opium	Drug599	fat	31448738:null
+Herb247	opium	Drug1494	Tiotropium	30104044:null
+Herb247	opium	Drug1494	tiotropium	30104044:null
+Herb247	opium	Drug1473	theophylline	30104044:null
+Herb247	opium	Drug529	epinephrine	28862480:null
+Herb247	opium	Drug158	atropine	28862480:null
+Herb247	opium	Drug660	furosemide	28862480:null
+Herb247	opium	Drug91	amiodarone	28862480:null
+Herb247	opium	Drug55	albuterol	28862480:null
+Herb247	opium	Drug1494	tiotropium	27554300:null
+Herb247	opium	Drug1494	Tiotropium	22217233:null
+Herb247	opium	Drug1494	tiotropium	22217233:null
+Herb247	opium	Drug800	ipratropium bromide	22217233:null
+Herb247	opium	Drug1346	salmeterol	22217233:null
+Herb247	opium	Drug781	Indacaterol	22217233:noninferior
+Herb247	opium	Drug1494	tiotropium	22217233:demonstrated
+Herb247	opium	Drug781	indacaterol	21227674:null
+Herb247	opium	Drug647	formoterol	21227674:null
+Herb247	opium	Drug1346	salmeterol	21227674:null
+Herb247	opium	Drug1494	tiotropium	21227674:null
+Herb247	opium	Drug781	indacaterol	21227674:showed
+Herb247	opium	Drug1494	tiotropium	21227674:showed
+Herb247	opium	Drug1494	tiotropium	20738041:null
+Herb247	opium	Drug1494	tiotropium	20659403:null
+Herb247	opium	Drug800	ipratropium bromide	20659403:null
+Herb247	opium	Drug1100	oxybutynin	20659403:null
+Herb247	opium	Drug1249	propantheline	20659403:null
+Herb247	opium	Drug1383	solifenacin	20659403:null
+Herb247	opium	Drug1507	tolterodine	20659403:null
+Herb247	opium	Drug1494	tiotropium	19916997:null
+Herb247	opium	Drug800	ipratropium bromide	19916997:null
+Herb247	opium	Drug637	fluticasone propionate	19916997:null
+Herb247	opium	Drug1346	salmeterol	19916997:null
+Herb247	opium	Drug800	ipratropium bromide	18488440:null
+Herb247	opium	Drug800	ipratropium bromide	2864891:null
+Herb247	opium	Drug606	fenoterol	2864891:monitored
+Herb247	opium	Drug606	fenoterol	2864891:null
+Herb247	opium	Drug606	fenoterol	2864891:administered
+Herb247	opium	Drug606	fenoterol	2864891:produces
+Herb247	opium	Drug158	atropine	6239562:null
+Herb247	opium	Drug1270	pyridostigmine	6239562:null
+Herb247	opium	Drug800	ipratropium bromide	6239562:null
+Herb10	aminopyrine	Drug118	antipyrine	15263079:null
+Herb10	aminopyrine	Drug89	aminopyrine	15263079:null
+Herb248	orris	Drug195	berberine	24177287:null
+Herb248	orris	Drug1573	verapamil	24177287:null
+Herb248	orris	Drug925	memantine	23270238:null
+Herb248	orris	Drug301	choline	23270238:null
+Herb248	orris	Drug1352	scopolamine	15698848:null
+Herb248	orris	Drug1352	scopolamine	15698848:deficits
+Herb248	orris	Drug1261	PS	12117317:maze
+Herb248	orris	Drug273	CD	21864831:null
+Herb248	orris	Drug15	acetylcholine	26324516:null
+Herb248	orris	Drug1429	T3	28202057:null
+Herb248	orris	Drug1107	PA	18621107:maze
+Herb248	orris	Drug251	captopril	18621107:maze
+Herb248	orris	Drug1366	Shh	31898187:used
+Herb248	orris	Drug301	choline	29241675:maze
+Herb248	orris	Drug153	atorvastatin	26597376:performed
+Herb248	orris	Drug625	fluorescein	24589546:examined
+Herb248	orris	Drug1403	streptozotocin	24303204:null
+Herb248	orris	Drug700	glutathione	16645134:ionized
+Herb248	orris	Drug239	calcium	16645134:ionized
+Herb68	cocoa	Drug1446	tea	27225434:null
+Herb68	cocoa	Drug1446	tea	27225434:associated
+Herb68	cocoa	Drug1055	nitric oxide	19577379:have
+Herb68	cocoa	Drug1055	nitric oxide	19577379:mask
+Herb68	cocoa	Drug1055	nitric oxide	19577379:null
+Herb68	cocoa	Drug1446	tea	19051188:tomatoes
+Herb68	cocoa	Drug1446	tea	21440100:null
+Herb68	cocoa	Drug1446	tea	29317985:null
+Herb68	cocoa	Drug792	insulin	19289648:null
+Herb68	cocoa	Drug1055	nitric oxide	19289648:exert
+Herb68	cocoa	Drug1446	tea	27864733:null
+Herb68	cocoa	Drug1446	tea	20442725:null
+Herb326	soybean	Drug435	DHA	10601699:null
+Herb326	soybean	Drug700	glutathione	21999921:null
+Herb326	soybean	Drug298	cholesterol	21999921:null
+Herb326	soybean	Drug700	glutathione	21999921:lower
+Herb326	soybean	Drug599	fat	14678230:null
+Herb326	soybean	Drug1460	Testosterone	20930468:null
+Herb326	soybean	Drug1460	testosterone	20930468:lower
+Herb326	soybean	Drug555	estradiol	20930468:lower
+Herb326	soybean	Drug1460	testosterone	20930468:decreased
+Herb326	soybean	Drug1460	testosterone	20930468:null
+Herb326	soybean	Drug677	Genistein	22490611:null
+Herb326	soybean	Drug677	Genistein	31595881:null
+Herb326	soybean	Drug677	Genistein	25715966:null
+Herb160	honey	Drug687	ginseng	26899592:null
+Herb160	honey	Drug687	ginseng	26657497:null
+Herb160	honey	Drug687	ginseng	24520334:null
+Herb98	ergot	Drug1538	triptan	27793777:null
+Herb98	ergot	Drug512	eletriptan	27793777:null
+Herb98	ergot	Drug1230	prazosin	27793777:null
+Herb98	ergot	Drug453	dihydroergotamine	27793777:null
+Herb98	ergot	Drug454	dihydroergotoxine mesylate	28875680:null
+Herb98	ergot	Drug1538	triptan	25246519:null
+Herb98	ergot	Drug544	ergotamine	25246519:null
+Herb98	ergot	Drug1538	triptan	25246519:(three
+Herb98	ergot	Drug1538	triptan	15209685:null
+Herb98	ergot	Drug544	ergotamine	15449971:null
+Herb98	ergot	Drug544	ergotamine	14606052:null
+Herb98	ergot	Drug146	aspirin	14606052:null
+Herb98	ergot	Drug1158	pethidine	12357088:null
+Herb98	ergot	Drug726	heparin	12381232:null
+Herb98	ergot	Drug146	aspirin	12381232:null
+Herb98	ergot	Drug1598	warfarin	12381232:null
+Herb98	ergot	Drug453	dihydroergotamine	12381232:null
+Herb98	ergot	Drug521	enoxaparin	12381232:suggest
+Herb98	ergot	Drug384	dalteparin	12381232:suggest
+Herb98	ergot	Drug521	enoxaparin	12381232:null
+Herb98	ergot	Drug384	dalteparin	12381232:null
+Herb98	ergot	Drug1610	zolmitriptan	9350383:null
+Herb98	ergot	Drug544	ergotamine	9350383:null
+Herb98	ergot	Drug1610	Zolmitriptan	9350383:null
+Herb98	ergot	Drug453	dihydroergotamine	9474712:null
+Herb98	ergot	Drug1422	sumatriptan	9474712:null
+Herb98	ergot	Drug544	ergotamine	8714724:null
+Herb98	ergot	Drug1422	sumatriptan	8714724:null
+Herb98	ergot	Drug482	dopamine	7630152:null
+Herb98	ergot	Drug812	isometheptene	8248996:null
+Herb98	ergot	Drug1422	sumatriptan	1327382:null
+Herb98	ergot	Drug453	dihydroergotamine	1327382:null
+Herb98	ergot	Drug453	dihydroergotamine	1530677:null
+Herb98	ergot	Drug975	midodrine	1530677:null
+Herb98	ergot	Drug453	Dihydroergotamine	1663596:null
+Herb98	ergot	Drug1422	sumatriptan	1663596:null
+Herb98	ergot	Drug453	dihydroergotamine	1663596:null
+Herb98	ergot	Drug1364	serum albumin	1653072:null
+Herb98	ergot	Drug1422	sumatriptan	1653072:null
+Herb98	ergot	Drug453	dihydroergotamine	1653072:null
+Herb98	ergot	Drug544	ergotamine	1653072:null
+Herb98	ergot	Drug958	methysergide	1653072:null
+Herb98	ergot	Drug544	ergotamine	2046918:null
+Herb98	ergot	Drug544	ergotamine	3810743:null
+Herb98	ergot	Drug453	dihydroergotamine	3810743:null
+Herb98	ergot	Drug632	flurbiprofen	6229735:null
+Herb98	ergot	Drug544	ergotamine	6658970:null
+Herb98	ergot	Drug311	cinnarizine	6349963:null
+Herb98	ergot	Drug623	flunarizine	6349963:null
+Herb98	ergot	Drug1098	oxpentifylline	6349963:null
+Herb98	ergot	Drug301	choline	6349963:null
+Herb98	ergot	Drug88	aminophylline	5111583:null
+Herb98	ergot	Drug544	ergotamine	5111583:null
+Herb98	ergot	Drug12	acetazolamide	5111583:null
+Herb98	ergot	Drug544	ergotamine	31643527:include
+Herb98	ergot	Drug453	dihydroergotamine	31643527:include
+Herb98	ergot	Drug544	ergotamine	31643527:null
+Herb98	ergot	Drug453	dihydroergotamine	31643527:null
+Herb98	ergot	Drug1422	sumatriptan	8389008:null
+Herb275	ragweed	Drug938	methacholine	3522533:null
+Herb277	rapeseed	Drug52	ALA	20036742:null
+Herb277	rapeseed	Drug435	DHA	10601699:higher
+Herb277	rapeseed	Drug435	DHA	10601699:suppresses
