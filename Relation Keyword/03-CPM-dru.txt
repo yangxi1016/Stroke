@@ -1,0 +1,15 @@
+DANHONGINJECTION	DB00125	0 @@PMID: 27107944 #En1: Danhong injection #En2: arginine *KeyWords: attenuates/count: 1
+HUOLUOTONGNAOTABLET	DB04540	0 @@PMID: 25090686 #En1: Huoluotongnao tablet #En2: cholesterol *KeyWords: used;/1 @@PMID: 25090686 #En1: Huoluotongnao tablet #En2: cholesterol *KeyWords: inhibit/count: 2
+KUDIEZIINJECTION	DB00160	0 @@PMID: 29329654 #En1: Kudiezi injection #En2: alanine *KeyWords: related/count: 1
+KUDIEZIINJECTION	DB00120	0 @@PMID: 29329654 #En1: Kudiezi injection #En2: phenylalanine *KeyWords: related/count: 1
+KUDIEZIINJECTION	DB00150	0 @@PMID: 29329654 #En1: Kudiezi injection #En2: tryptophan *KeyWords: related/count: 1
+KUDIEZIINJECTION	DB00135	0 @@PMID: 29329654 #En1: Kudiezi injection #En2: tyrosine *KeyWords: related/count: 1
+NRG1ΒINJECTION	DB00135	0 @@PMID: 28265860 #En1: NRG1β injection #En2: tyrosine *KeyWords: null/count: 1
+SHENMAIINJECTION	DB00640	0 @@PMID: 26591368 #En1: Shenmai Injection #En2: Adenosine *KeyWords: null/count: 1
+WULINGCAPSULE	DB00472	0 @@PMID: 24906594 #En1: Wuling capsule #En2: Fluoxetine *KeyWords: comparing/1 @@PMID: 24906594 #En1: Wuling capsule #En2: Fluoxetine *KeyWords: null/count: 2
+XUEBIJINGINJECTION	DB11846	0 @@PMID: 23168207 #En1: Xuebijing injection #En2: creatinine *KeyWords: null/count: 1
+CHAI-HU-SHU-GAN-SAN	DB00472	0 @@PMID: 29454341 #En1: Chai Hu Shu Gan San #En2: fluoxetine *KeyWords: null/count: 1
+HUANG-LIAN-JIE-DU-TANG	DB04115	0 @@PMID: 23628154 #En1: Huang-Lian-Jie-Du-Tang #En2: berberine *KeyWords: is/count: 1
+JIE-DU-TANG	DB04115	0 @@PMID: 23628154 #En1: Jie-Du-Tang #En2: berberine *KeyWords: is/count: 1
+SHENG-MAI-SAN	DB00536	0 @@PMID: 15879682 #En1: Shengmai San #En2: guanidine *KeyWords: administered/1 @@PMID: 15879682 #En1: Shengmai San #En2: guanidine *KeyWords: shared/2 @@PMID: 15879682 #En1: Shengmai San #En2: guanidine *KeyWords: null/count: 3
+SHU-GAN-SAN	DB00472	0 @@PMID: 29454341 #En1: Shu Gan San #En2: fluoxetine *KeyWords: null/count: 1

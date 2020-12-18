@@ -1,0 +1,995 @@
+HAN-SAN-QI	Gene_ID:1652	@<<GADExtractor>> PMID: 16114092 #En1: Radix Notoginseng #En2: DDT *KeyWords: null /***1
+CUN-DONG	Gene_ID:55213	@<<GADExtractor>> PMID: 27659001 #En1: Radix ophiopogonis #En2: GLP *KeyWords: null /***1
+CUN-DONG	Gene_ID:4864	@<<GADExtractor>> PMID: 30936832 #En1: Radix Ophiopogonis #En2: NPC *KeyWords: treat /***1
+CUN-DONG	Gene_ID:8737	@<<GADExtractor>> PMID: 29760660 #En1: Radix Ophiopogonis #En2: RIPK1 *KeyWords: Induces /***1
+CUN-DONG	Gene_ID:80218	@<<GADExtractor>> PMID: 12197603 #En1: Radix Ophiopogonis #En2: San *KeyWords: null /@<<GADExtractor>> PMID: 11527078 #En1: Radix Ophiopogonis #En2: san *KeyWords: null /***2
+CUN-DONG	Gene_ID:6611	@<<GADExtractor>> PMID: 12197603 #En1: Radix Ophiopogonis #En2: SMS *KeyWords: null /@<<GADExtractor>> PMID: 12197603 #En1: Radix Ophiopogonis #En2: SMS *KeyWords: related /@<<GADExtractor>> PMID: 11527078 #En1: Radix Ophiopogonis #En2: SMS *KeyWords: null /***3
+HANG-SHAO	Gene_ID:173	@<<GADExtractor>> PMID: 27619541 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 27619541 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 27619541 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 27619541 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 27619541 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 27619541 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25784949 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: absorbed /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28868875 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18453201 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18453201 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18453201 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 20707075 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 30028337 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 31461974 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 32140855 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 32140855 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 32140855 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28085537 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28085537 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21077251 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21077251 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21077251 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 26421050 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25042570 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25042570 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 23831700 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 23867078 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25422552 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 27626411 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 23023341 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25011060 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25011060 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 15790107 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 15790107 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 29201187 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 29201187 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25113615 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25113615 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25113615 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25113615 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 25113615 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 26747055 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 26747055 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 31790818 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 27633311 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: roots /@<<GADExtractor>> PMID: 17087079 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 17087079 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 17087079 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 17087079 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: controlled /@<<GADExtractor>> PMID: 29200734 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 19747436 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 19747436 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24348792 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24348792 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24348792 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24348792 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24348792 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24348792 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24348792 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 26412429 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 17518052 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 22366432 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 2364464 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24731420 #En1: Radix paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24731420 #En1: Radix paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24731420 #En1: Radix paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24731420 #En1: Radix paeoniae Alba #En2: Alba *KeyWords: described /@<<GADExtractor>> PMID: 24731420 #En1: Radix paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24731420 #En1: Radix paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24731420 #En1: Radix paeoniae Alba #En2: Alba *KeyWords: effective /@<<GADExtractor>> PMID: 19460686 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 19460686 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 23967634 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28730733 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 28730733 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 23060699 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 23060699 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24927419 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24927419 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24927419 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24927419 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24927419 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24927419 #En1: Radix Paeoniae Alba #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 30144752 #En1: white peony root #En2: Alba *KeyWords: null /***113
+HANG-SHAO	Gene_ID:7263	@<<GADExtractor>> PMID: 27619541 #En1: Radix Paeoniae Alba #En2: TST *KeyWords: carried /@<<GADExtractor>> PMID: 27619541 #En1: Radix Paeoniae Alba #En2: TST *KeyWords: decreased /***2
+HANG-SHAO	Gene_ID:6117	@<<GADExtractor>> PMID: 25784949 #En1: Radix Paeoniae Alba #En2: RPA *KeyWords: null /@<<GADExtractor>> PMID: 30672382 #En1: Radix paeoniae alba #En2: RPA *KeyWords: null /@<<GADExtractor>> PMID: 28085537 #En1: Radix Paeoniae Alba #En2: RPA *KeyWords: null /@<<GADExtractor>> PMID: 26421050 #En1: Radix Paeoniae Alba #En2: RPA *KeyWords: null /@<<GADExtractor>> PMID: 25042570 #En1: Radix Paeoniae Alba #En2: RPA *KeyWords: null /@<<GADExtractor>> PMID: 25011060 #En1: Radix Paeoniae Alba #En2: RPA *KeyWords: null /@<<GADExtractor>> PMID: 17518052 #En1: Radix Paeoniae Alba #En2: RPA *KeyWords: null /@<<GADExtractor>> PMID: 28730733 #En1: Radix Paeoniae Alba #En2: RPA *KeyWords: null /@<<GADExtractor>> PMID: 24927419 #En1: Radix Paeoniae Alba #En2: RPA *KeyWords: null /@<<GADExtractor>> PMID: 24927419 #En1: Radix Paeoniae Alba #En2: RPA *KeyWords: null /***10
+HANG-SHAO	Gene_ID:7047	@<<GADExtractor>> PMID: 30338648 #En1: Radix Paeoniae Alba #En2: TGP *KeyWords: null /@<<GADExtractor>> PMID: 23388327 #En1: radix paeoniae alba #En2: TGP *KeyWords: null /***2
+HANG-SHAO	Gene_ID:5594	@<<GADExtractor>> PMID: 29201187 #En1: Radix Paeoniae Alba #En2: ERK *KeyWords: better /***1
+HANG-SHAO	Gene_ID:2048	@<<GADExtractor>> PMID: 29201187 #En1: Radix Paeoniae Alba #En2: ERK *KeyWords: better /***1
+HANG-SHAO	Gene_ID:1385	@<<GADExtractor>> PMID: 29201187 #En1: Radix Paeoniae Alba #En2: CREB *KeyWords: better /***1
+HANG-SHAO	Gene_ID:627	@<<GADExtractor>> PMID: 29201187 #En1: Radix Paeoniae Alba #En2: BDNF *KeyWords: better /***1
+HANG-SHAO	Gene_ID:80218	@<<GADExtractor>> PMID: 25217704 #En1: Radix Paeoniae Alba #En2: San *KeyWords: null /@<<GADExtractor>> PMID: 10453576 #En1: white Peony Root #En2: San *KeyWords: null /***2
+HANG-SHAO	Gene_ID:2811	@<<GADExtractor>> PMID: 25217704 #En1: Radix Paeoniae Alba #En2: BSS *KeyWords: null /***1
+HANG-SHAO	Gene_ID:5972	@<<GADExtractor>> PMID: 22462235 #En1: Radix Paeoniae Alba #En2: Ren *KeyWords: null /***1
+HANG-SHAO	Gene_ID:1392	@<<GADExtractor>> PMID: 29248448 #En1: Radix Paeoniae alba #En2: CRF *KeyWords: cause /***1
+HANG-SHAO	Gene_ID:10882	@<<GADExtractor>> PMID: 29248448 #En1: Radix Paeoniae alba #En2: CRF *KeyWords: cause /***1
+HANG-SHAO	Gene_ID:5266	@<<GADExtractor>> PMID: 17518052 #En1: Radix Paeoniae Alba #En2: ESI *KeyWords: null /***1
+CHI-SHAO	Gene_ID:2520	@<<GADExtractor>> PMID: 16539851 #En1: Radix paeoniae rubra #En2: gas *KeyWords: null /***1
+CHI-SHAO	Gene_ID:79447	@<<GADExtractor>> PMID: 16539851 #En1: Radix paeoniae rubra #En2: gas *KeyWords: null /***1
+CHI-SHAO	Gene_ID:3680	@<<GADExtractor>> PMID: 16539851 #En1: Radix paeoniae rubra #En2: RLC *KeyWords: null /***1
+CHI-SHAO	Gene_ID:2137	@<<GADExtractor>> PMID: 16539851 #En1: Radix paeoniae rubra #En2: RPR *KeyWords: null /@<<GADExtractor>> PMID: 27446367 #En1: Radix Paeoniae Rubra #En2: RPR *KeyWords: null /@<<GADExtractor>> PMID: 22543176 #En1: Radix Paeoniae Rubra #En2: RPR *KeyWords: null /@<<GADExtractor>> PMID: 27521818 #En1: red peony root #En2: RPR *KeyWords: null /@<<GADExtractor>> PMID: 25151277 #En1: red peony root #En2: RPR *KeyWords: null /@<<GADExtractor>> PMID: 16025967 #En1: red peony root #En2: RPR *KeyWords: null /***6
+CHI-SHAO	Gene_ID:173	@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: absorbed /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18424022 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: decreased /@<<GADExtractor>> PMID: 18453201 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18453201 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 18453201 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: have /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 21710730 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 23060699 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 23060699 #En1: Radix Paeoniae Rubra #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 30144752 #En1: red peony root #En2: Alba *KeyWords: null /***20
+CHI-SHAO	Gene_ID:5290	@<<GADExtractor>> PMID: 28549860 #En1: Radix paeoniae rubra #En2: PI3K *KeyWords: protects /***1
+CHI-SHAO	Gene_ID:5294	@<<GADExtractor>> PMID: 28549860 #En1: Radix paeoniae rubra #En2: PI3K *KeyWords: protects /***1
+CHI-SHAO	Gene_ID:5293	@<<GADExtractor>> PMID: 28549860 #En1: Radix paeoniae rubra #En2: PI3K *KeyWords: protects /***1
+CHI-SHAO	Gene_ID:5295	@<<GADExtractor>> PMID: 28549860 #En1: Radix paeoniae rubra #En2: PI3K *KeyWords: protects /***1
+CHI-SHAO	Gene_ID:207	@<<GADExtractor>> PMID: 28549860 #En1: Radix paeoniae rubra #En2: AKT *KeyWords: protects /***1
+CHI-SHAO	Gene_ID:2475	@<<GADExtractor>> PMID: 28549860 #En1: Radix paeoniae rubra #En2: mTOR *KeyWords: protects /***1
+CHI-SHAO	Gene_ID:4137	@<<GADExtractor>> PMID: 19157131 #En1: Radix Paeoniae Rubra #En2: tau *KeyWords: null /***1
+CHI-SHAO	Gene_ID:165904	@<<GADExtractor>> PMID: 16377116 #En1: Radix Paeoniae Rubra #En2: Xin *KeyWords: null /***1
+CHI-SHAO	Gene_ID:348	@<<GADExtractor>> PMID: 15892282 #En1: Radix Paeoniae rubra #En2: ApoE *KeyWords: null /***1
+KU-JIE-GENG	Gene_ID:165904	@<<GADExtractor>> PMID: 19385174 #En1: Radix Platycodi #En2: xin *KeyWords: null /***1
+KU-JIE-GENG	Gene_ID:5972	@<<GADExtractor>> PMID: 22462235 #En1: Radix Platycodi #En2: Ren *KeyWords: null /***1
+HAI-ER-SHEN	Gene_ID:26155	@<<GADExtractor>> PMID: 19616914 #En1: Radix Pseudostellariae #En2: NIR *KeyWords: using /@<<GADExtractor>> PMID: 19616914 #En1: Radix Pseudostellariae #En2: NIR *KeyWords: null /@<<GADExtractor>> PMID: 19616914 #En1: Radix Pseudostellariae #En2: NIR *KeyWords: null /***3
+HAI-ER-SHEN	Gene_ID:722	@<<GADExtractor>> PMID: 20008077 #En1: Radix Pseudostellariae #En2: PRP *KeyWords: null /***1
+HAI-ER-SHEN	Gene_ID:5621	@<<GADExtractor>> PMID: 20008077 #En1: Radix Pseudostellariae #En2: PRP *KeyWords: null /***1
+DI-HUANG	Gene_ID:173	@<<GADExtractor>> PMID: 28868875 #En1: Radix Rehmanniae #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 30028337 #En1: Radix Rehmanniae #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 26421050 #En1: Radix Rehmanniae #En2: Alba *KeyWords: inhibited /***3
+DI-HUANG	Gene_ID:1822	@<<GADExtractor>> PMID: 28394931 #En1: Radix Rehmanniae #En2: HRS *KeyWords: null /***1
+DI-HUANG	Gene_ID:6117	@<<GADExtractor>> PMID: 26421050 #En1: Radix Rehmanniae #En2: RPA *KeyWords: inhibited /***1
+DI-HUANG	Gene_ID:10687	@<<GADExtractor>> PMID: 18382110 #En1: Radix Rehmanniae #En2: mm2 *KeyWords: null /@<<GADExtractor>> PMID: 18382110 #En1: Radix Rehmanniae #En2: mm2 *KeyWords: smaller /***2
+QIAN-CAO	Gene_ID:836	@<<GADExtractor>> PMID: 17912459 #En1: Radix Rubiae #En2: caspase-3 *KeyWords: activate /***1
+YUAN-SHEN	Gene_ID:26155	@<<GADExtractor>> PMID: 29869631 #En1: Radix Scrophulariae #En2: NIR *KeyWords: null /***1
+YUAN-SHEN	Gene_ID:2954	@<<GADExtractor>> PMID: 22750436 #En1: Radix Scrophulariae #En2: Mai *KeyWords: null /***1
+FEN-FANG-JI	Gene_ID:801	@<<GADExtractor>> PMID: 13680054 #En1: Radix Stephaniae Tetrandrae #En2: CAM *KeyWords: null /***1
+FEN-FANG-JI	Gene_ID:79823	@<<GADExtractor>> PMID: 13680054 #En1: Radix Stephaniae Tetrandrae #En2: CAM *KeyWords: null /***1
+FEN-FANG-JI	Gene_ID:116085	@<<GADExtractor>> PMID: 13680054 #En1: Radix Stephaniae Tetrandrae #En2: RST *KeyWords: null /@<<GADExtractor>> PMID: 11789286 #En1: Radix Stephaniae Tetrandrae #En2: RST *KeyWords: null /***2
+HUA-FEN	Gene_ID:1999	@<<GADExtractor>> PMID: 31085225 #En1: radix trichosanthis #En2: ERT *KeyWords: null /@<<GADExtractor>> PMID: 31085225 #En1: radix trichosanthis #En2: ERT *KeyWords: null /@<<GADExtractor>> PMID: 31085225 #En1: radix trichosanthis #En2: ERT *KeyWords: null /***3
+CAO-DI-MAO-GEN	Gene_ID:81502	@<<GADExtractor>> PMID: 19415338 #En1: Ranunculus acris #En2: spp *KeyWords: null /***1
+CAO-DI-MAO-GEN	Gene_ID:29940	@<<GADExtractor>> PMID: 11968944 #En1: Ranunculus acris #En2: DSE *KeyWords: null /***1
+LAI-FU	Gene_ID:100	@<<GADExtractor>> PMID: 30987561 #En1: Raphanus sativus #En2: ADA *KeyWords: demonstrated /***1
+HONG-CHE-ZHOU-CAO	Gene_ID:7832	@<<GADExtractor>> PMID: 14666653 #En1: red clover #En2: PC3 *KeyWords: bearing /***1
+HONG-CHE-ZHOU-CAO	Gene_ID:10777	@<<GADExtractor>> PMID: 31885485 #En1: red clover #En2: RCS *KeyWords: null /***1
+HONG-CHE-ZHOU-CAO	Gene_ID:5465	@<<GADExtractor>> PMID: 19779008 #En1: red clover #En2: PPAR *KeyWords: null /@<<GADExtractor>> PMID: 19779008 #En1: Trifolium pratense #En2: PPAR *KeyWords: null /***2
+HONG-SHEN	Gene_ID:1565	@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP2D6 *KeyWords: inhibit /@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP2D6 *KeyWords: inhibit /***2
+HONG-SHEN	Gene_ID:1555	@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP2B6 *KeyWords: inhibit /@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP2B6 *KeyWords: inhibit /***2
+HONG-SHEN	Gene_ID:1544	@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP1A2 *KeyWords: inhibit /@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP1A2 *KeyWords: inhibit /***2
+HONG-SHEN	Gene_ID:1576	@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP3A4 *KeyWords: inhibit /@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP3A4 *KeyWords: inhibit /***2
+HONG-SHEN	Gene_ID:1559	@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP2C9 *KeyWords: inhibit /@<<GADExtractor>> PMID: 32215046 #En1: red ginseng #En2: CYP2C9 *KeyWords: inhibit /***2
+HONG-SHEN	Gene_ID:28982	@<<GADExtractor>> PMID: 22742921 #En1: red ginseng #En2: PCA *KeyWords: discriminated /***1
+HONG-SHEN	Gene_ID:559	@<<GADExtractor>> PMID: 22742921 #En1: red ginseng #En2: PCA *KeyWords: discriminated /***1
+HONG-SHEN	Gene_ID:6794	@<<GADExtractor>> PMID: 23506615 #En1: Red ginseng #En2: LKB1 *KeyWords: abrogates /***1
+HONG-SHEN	Gene_ID:5562	@<<GADExtractor>> PMID: 23506615 #En1: Red ginseng #En2: AMPK *KeyWords: abrogates /***1
+HONG-SHEN	Gene_ID:5563	@<<GADExtractor>> PMID: 23506615 #En1: Red ginseng #En2: AMPK *KeyWords: abrogates /***1
+HONG-SHEN	Gene_ID:6098	@<<GADExtractor>> PMID: 23506615 #En1: red ginseng #En2: ROS *KeyWords: null /***1
+HONG-SHEN	Gene_ID:5925	@<<GADExtractor>> PMID: 28086165 #En1: red ginseng #En2: Rb1 *KeyWords: coupled /@<<GADExtractor>> PMID: 23263512 #En1: red ginseng #En2: Rb1 *KeyWords: null /***2
+HONG-SHEN	Gene_ID:5934	@<<GADExtractor>> PMID: 28086165 #En1: red ginseng #En2: Rb2 *KeyWords: coupled /@<<GADExtractor>> PMID: 23263512 #En1: red ginseng #En2: Rb2 *KeyWords: null /***2
+HONG-SHEN	Gene_ID:3664	@<<GADExtractor>> PMID: 26923348 #En1: red ginseng #En2: LPS *KeyWords: null /***1
+HONG-SHEN	Gene_ID:3630	@<<GADExtractor>> PMID: 23945406 #En1: red ginseng #En2: insulin *KeyWords: null /@<<GADExtractor>> PMID: 23945406 #En1: red ginseng #En2: insulin *KeyWords: has /@<<GADExtractor>> PMID: 23945406 #En1: red ginseng #En2: insulin *KeyWords: null /@<<GADExtractor>> PMID: 23945406 #En1: red ginseng #En2: insulin *KeyWords: null /@<<GADExtractor>> PMID: 23945406 #En1: red ginseng #En2: insulin *KeyWords: had /@<<GADExtractor>> PMID: 23945406 #En1: red ginseng #En2: insulin *KeyWords: improve /@<<GADExtractor>> PMID: 15979095 #En1: red ginseng #En2: insulin *KeyWords: reduced /@<<GADExtractor>> PMID: 15979095 #En1: red ginseng #En2: insulin *KeyWords: fed /***8
+HONG-SHEN	Gene_ID:5465	@<<GADExtractor>> PMID: 15979095 #En1: red ginseng #En2: PPAR-alpha *KeyWords: null /@<<GADExtractor>> PMID: 15979095 #En1: red ginseng #En2: PPAR *KeyWords: improve /***2
+HONG-SHEN	Gene_ID:5468	@<<GADExtractor>> PMID: 15979095 #En1: red ginseng #En2: PPAR-gamma *KeyWords: null /***1
+HONG-SHEN	Gene_ID:4023	@<<GADExtractor>> PMID: 15979095 #En1: red ginseng #En2: LPL *KeyWords: null /***1
+HONG-SHEN	Gene_ID:2352	@<<GADExtractor>> PMID: 27322312 #En1: red ginseng #En2: FRG *KeyWords: null /***1
+HONG-SHEN	Gene_ID:114548	@<<GADExtractor>> PMID: 24418475 #En1: red ginseng #En2: NLRP3 *KeyWords: inhibit /***1
+HONG-SHEN	Gene_ID:9447	@<<GADExtractor>> PMID: 24418475 #En1: red ginseng #En2: AIM2 *KeyWords: inhibit /***1
+HONG-SHEN	Gene_ID:1398	@<<GADExtractor>> PMID: 31645122 #En1: Red Ginseng #En2: P38 *KeyWords: null /***1
+HONG-SHEN	Gene_ID:5594	@<<GADExtractor>> PMID: 31645122 #En1: Red Ginseng #En2: P38 *KeyWords: null /***1
+HONG-SHEN	Gene_ID:7965	@<<GADExtractor>> PMID: 31645122 #En1: Red Ginseng #En2: P38 *KeyWords: null /***1
+HONG-SHEN	Gene_ID:1432	@<<GADExtractor>> PMID: 31645122 #En1: Red Ginseng #En2: P38 *KeyWords: null /***1
+HONG-SHEN	Gene_ID:5970	@<<GADExtractor>> PMID: 31645122 #En1: Red Ginseng #En2: p65 *KeyWords: null /***1
+HONG-SHEN	Gene_ID:65125	@<<GADExtractor>> PMID: 31645122 #En1: Red Ginseng #En2: p65 *KeyWords: null /***1
+HONG-SHEN	Gene_ID:64689	@<<GADExtractor>> PMID: 31645122 #En1: Red Ginseng #En2: p65 *KeyWords: null /***1
+HONG-SHEN	Gene_ID:6857	@<<GADExtractor>> PMID: 31645122 #En1: Red Ginseng #En2: p65 *KeyWords: null /***1
+CHI-SHAO	Gene_ID:11169	@<<GADExtractor>> PMID: 32277863 #En1: red peony root #En2: and 1 *KeyWords: null /***1
+CHI-SHAO	Gene_ID:325	@<<GADExtractor>> PMID: 18559232 #En1: red peony root #En2: SAP *KeyWords: treating /@<<GADExtractor>> PMID: 18559232 #En1: Red peony root #En2: SAP *KeyWords: effective /***2
+CHI-SHAO	Gene_ID:4068	@<<GADExtractor>> PMID: 18559232 #En1: red peony root #En2: SAP *KeyWords: treating /@<<GADExtractor>> PMID: 18559232 #En1: Red peony root #En2: SAP *KeyWords: effective /***2
+HONG-QU	Gene_ID:183	@<<GADExtractor>> PMID: 21764282 #En1: red yeast rice #En2: angiotensin II *KeyWords: attenuates /@<<GADExtractor>> PMID: 21764282 #En1: red yeast rice #En2: angiotensin II (AngII *KeyWords: suppressed /***2
+HONG-QU	Gene_ID:351	@<<GADExtractor>> PMID: 21764282 #En1: red yeast rice #En2: AAA *KeyWords: suppressed /@<<GADExtractor>> PMID: 21764282 #En1: Red yeast rice #En2: AAA *KeyWords: have /***2
+HONG-QU	Gene_ID:8086	@<<GADExtractor>> PMID: 21764282 #En1: red yeast rice #En2: AAA *KeyWords: suppressed /@<<GADExtractor>> PMID: 21764282 #En1: Red yeast rice #En2: AAA *KeyWords: have /***2
+HONG-QU	Gene_ID:285	@<<GADExtractor>> PMID: 21764282 #En1: Red yeast rice #En2: AngII *KeyWords: suppressed /***1
+HONG-QU	Gene_ID:738	@<<GADExtractor>> PMID: 21764282 #En1: Red yeast rice #En2: AngII *KeyWords: suppressed /***1
+HONG-QU	Gene_ID:348	@<<GADExtractor>> PMID: 28861889 #En1: red yeast rice #En2: ApoE *KeyWords: null /***1
+HONG-QU	Gene_ID:9370	@<<GADExtractor>> PMID: 23860021 #En1: red yeast rice #En2: adiponectin *KeyWords: null /@<<GADExtractor>> PMID: 23860021 #En1: red yeast rice #En2: adiponectin *KeyWords: null /@<<GADExtractor>> PMID: 23860021 #En1: Red yeast rice #En2: adiponectin *KeyWords: increase /***3
+HONG-QU	Gene_ID:3952	@<<GADExtractor>> PMID: 23860021 #En1: red yeast rice #En2: leptin *KeyWords: null /@<<GADExtractor>> PMID: 23860021 #En1: red yeast rice #En2: leptin *KeyWords: null /***2
+HONG-QU	Gene_ID:22796	@<<GADExtractor>> PMID: 23860021 #En1: red yeast rice #En2: LDL-C *KeyWords: null /@<<GADExtractor>> PMID: 23860021 #En1: Red yeast rice #En2: LDL-C *KeyWords: increase /***2
+HONG-QU	Gene_ID:857	@<<GADExtractor>> PMID: 23675421 #En1: red yeast rice #En2: caveolin-1 *KeyWords: suppressed /***1
+HONG-QU	Gene_ID:4846	@<<GADExtractor>> PMID: 23675421 #En1: red yeast rice #En2: eNOS *KeyWords: increased /***1
+HONG-QU	Gene_ID:2152	@<<GADExtractor>> PMID: 21697731 #En1: red yeast rice #En2: tissue factor *KeyWords: inhibited /***1
+HONG-QU	Gene_ID:3156	@<<GADExtractor>> PMID: 11123854 #En1: red yeast rice #En2: HMG-CoA reductase *KeyWords: discussed /***1
+GAN-DI-HUANG	Gene_ID:1121	@<<GADExtractor>> PMID: 28122837 #En1: Rehmannia glutinosa #En2: CHM *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:8139	@<<GADExtractor>> PMID: 28122837 #En1: Rehmannia glutinosa #En2: Gan *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:4843	@<<GADExtractor>> PMID: 23034094 #En1: Rehmannia glutinosa #En2: iNOS *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:51477	@<<GADExtractor>> PMID: 23034094 #En1: Rehmannia glutinosa #En2: iNOS *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:4359	@<<GADExtractor>> PMID: 20123001 #En1: Rehmannia glutinosa #En2: MPP *KeyWords: studied /***1
+GAN-DI-HUANG	Gene_ID:1576	@<<GADExtractor>> PMID: 23876595 #En1: Rehmannia glutinosa #En2: cytochrome P450 3A4 *KeyWords: investigated /@<<GADExtractor>> PMID: 23876595 #En1: Rehmannia glutinosa #En2: CYP3A4 *KeyWords: investigated /@<<GADExtractor>> PMID: 23876595 #En1: Rehmannia glutinosa #En2: CYP3A4 *KeyWords: null /@<<GADExtractor>> PMID: 23876595 #En1: Rehmannia glutinosa #En2: CYP3A4 *KeyWords: inhibited /@<<GADExtractor>> PMID: 23876595 #En1: Rehmannia glutinosa #En2: CYP3A4 *KeyWords: inhibited /@<<GADExtractor>> PMID: 23876595 #En1: Rehmannia glutinosa #En2: CYP3A4 *KeyWords: induced /@<<GADExtractor>> PMID: 23876595 #En1: Rehmannia glutinosa #En2: CYP3A4 *KeyWords: result /@<<GADExtractor>> PMID: 23876595 #En1: Rehmannia glutinosa #En2: CYP3A4 *KeyWords: result /***8
+GAN-DI-HUANG	Gene_ID:8856	@<<GADExtractor>> PMID: 23876595 #En1: Rehmannia glutinosa #En2: PXR *KeyWords: induced /***1
+GAN-DI-HUANG	Gene_ID:1574	@<<GADExtractor>> PMID: 22242435 #En1: Rehmannia glutinosa #En2: CYP3A *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:1571	@<<GADExtractor>> PMID: 22242435 #En1: Rehmannia glutinosa #En2: CYP2E1 *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:1544	@<<GADExtractor>> PMID: 22242435 #En1: Rehmannia glutinosa #En2: CYP1A2 *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:7422	@<<GADExtractor>> PMID: 23123441 #En1: Rehmannia glutinosa #En2: Vascular endothelial growth factor *KeyWords: null /@<<GADExtractor>> PMID: 23123441 #En1: Rehmannia glutinosa #En2: VEGF *KeyWords: null /***2
+GAN-DI-HUANG	Gene_ID:3082	@<<GADExtractor>> PMID: 23123441 #En1: Rehmannia glutinosa #En2: hepatocyte growth factor *KeyWords: null /@<<GADExtractor>> PMID: 23123441 #En1: Rehmannia glutinosa #En2: HGF *KeyWords: null /***2
+GAN-DI-HUANG	Gene_ID:1588	@<<GADExtractor>> PMID: 30949219 #En1: Rehmannia glutinosa #En2: aromatase *KeyWords: increased /***1
+GAN-DI-HUANG	Gene_ID:627	@<<GADExtractor>> PMID: 29468477 #En1: Rehmannia glutinosa #En2: BDNF *KeyWords: exerts /***1
+GAN-DI-HUANG	Gene_ID:6098	@<<GADExtractor>> PMID: 14698506 #En1: Rehmannia glutinosa #En2: ROS *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:3479	@<<GADExtractor>> PMID: 31443143 #En1: Rehmannia glutinosa #En2: IGF-1 *KeyWords: Regulating /***1
+GAN-DI-HUANG	Gene_ID:5290	@<<GADExtractor>> PMID: 31443143 #En1: Rehmannia glutinosa #En2: PI3K *KeyWords: Regulating /***1
+GAN-DI-HUANG	Gene_ID:5294	@<<GADExtractor>> PMID: 31443143 #En1: Rehmannia glutinosa #En2: PI3K *KeyWords: Regulating /***1
+GAN-DI-HUANG	Gene_ID:5293	@<<GADExtractor>> PMID: 31443143 #En1: Rehmannia glutinosa #En2: PI3K *KeyWords: Regulating /***1
+GAN-DI-HUANG	Gene_ID:5295	@<<GADExtractor>> PMID: 31443143 #En1: Rehmannia glutinosa #En2: PI3K *KeyWords: Regulating /***1
+GAN-DI-HUANG	Gene_ID:2475	@<<GADExtractor>> PMID: 31443143 #En1: Rehmannia glutinosa #En2: mTOR *KeyWords: Regulating /***1
+GAN-DI-HUANG	Gene_ID:4602	@<<GADExtractor>> PMID: 26147429 #En1: Rehmannia glutinosa #En2: MYB *KeyWords: null /@<<GADExtractor>> PMID: 26147429 #En1: Rehmannia glutinosa #En2: MYB *KeyWords: null /***2
+GAN-DI-HUANG	Gene_ID:1832	@<<GADExtractor>> PMID: 20353000 #En1: Rehmannia glutinosa #En2: DPI *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:6484	@<<GADExtractor>> PMID: 21391677 #En1: Rehmannia glutinosa #En2: STZ *KeyWords: using /***1
+GAN-DI-HUANG	Gene_ID:2668	@<<GADExtractor>> PMID: 16600621 #En1: Rehmannia glutinosa #En2: glial cell line-derived neurotrophic factor *KeyWords: null /@<<GADExtractor>> PMID: 16600621 #En1: Rehmannia glutinosa #En2: glial cell line-derived neurotrophic factor *KeyWords: found /@<<GADExtractor>> PMID: 16600621 #En1: Rehmannia glutinosa #En2: GDNF *KeyWords: found /***3
+GAN-DI-HUANG	Gene_ID:5595	@<<GADExtractor>> PMID: 16600621 #En1: Rehmannia glutinosa #En2: ERK1/2 *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:5594	@<<GADExtractor>> PMID: 16600621 #En1: Rehmannia glutinosa #En2: ERK1/2 *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:80320	@<<GADExtractor>> PMID: 28284792 #En1: Rehmannia glutinosa #En2: SP6 *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:221833	@<<GADExtractor>> PMID: 28284792 #En1: Rehmannia glutinosa #En2: SP8 *KeyWords: null /@<<GADExtractor>> PMID: 28284792 #En1: Rehmannia glutinosa #En2: SP8 *KeyWords: null /***2
+GAN-DI-HUANG	Gene_ID:637	@<<GADExtractor>> PMID: 23519822 #En1: Rehmannia glutinosa #En2: bid *KeyWords: null /***1
+GAN-DI-HUANG	Gene_ID:4580	@<<GADExtractor>> PMID: 8339032 #En1: Rehmannia glutinosa #En2: MTX *KeyWords: null /***1
+LOU-LU	Gene_ID:4025	@<<GADExtractor>> PMID: 8330332 #En1: Rhaponticum uniflorum #En2: LPO *KeyWords: exhibited /***1
+ZANG-BIAN-DA-HUANG	Gene_ID:717	@<<GADExtractor>> PMID: 24414969 #En1: Rheum emodi #En2: CO2 *KeyWords: studied /***1
+DA-HUANG	Gene_ID:1121	@<<GADExtractor>> PMID: 30327604 #En1: Rheum officinale #En2: CHM *KeyWords: null /@<<GADExtractor>> PMID: 20688304 #En1: Rheum palmatum #En2: CHM *KeyWords: null /@<<GADExtractor>> PMID: 20688304 #En1: Rheum palmatum #En2: CHM *KeyWords: null /@<<GADExtractor>> PMID: 20688304 #En1: Rheum palmatum #En2: CHM *KeyWords: null /@<<GADExtractor>> PMID: 20688304 #En1: Rheum palmatum #En2: CHM *KeyWords: null /***5
+DA-HUANG	Gene_ID:1636	@<<GADExtractor>> PMID: 29208203 #En1: Rheum officinale #En2: angiotensin-converting enzyme *KeyWords: null /@<<GADExtractor>> PMID: 22786510 #En1: Rheum officinale #En2: angiotensin-converting enzyme *KeyWords: null /***2
+DA-HUANG	Gene_ID:80218	@<<GADExtractor>> PMID: 24953035 #En1: Rheum officinale #En2: San *KeyWords: null /***1
+DA-HUANG	Gene_ID:165904	@<<GADExtractor>> PMID: 24953035 #En1: Rheum officinale #En2: Xin *KeyWords: null /@<<GADExtractor>> PMID: 27965575 #En1: Rheum palmatum #En2: xin *KeyWords: null /@<<GADExtractor>> PMID: 27965575 #En1: Rheum palmatum #En2: xin *KeyWords: null /***3
+DA-HUANG	Gene_ID:261727	@<<GADExtractor>> PMID: 22786510 #En1: Rheum officinale #En2: CrCl *KeyWords: null /***1
+DA-HUANG	Gene_ID:207	@<<GADExtractor>> PMID: 21805032 #En1: Rheum officinale #En2: Akt *KeyWords: null /***1
+DA-HUANG	Gene_ID:846	@<<GADExtractor>> PMID: 25363818 #En1: Rheum officinale #En2: Car *KeyWords: null /***1
+DA-HUANG	Gene_ID:6697	@<<GADExtractor>> PMID: 27225174 #En1: Rheum officinale #En2: SPR *KeyWords: null /***1
+DA-HUANG	Gene_ID:43	@<<GADExtractor>> PMID: 24401532 #En1: Rheum officinale #En2: acetylcholinesterase *KeyWords: screened /***1
+DA-HUANG	Gene_ID:3291	@<<GADExtractor>> PMID: 19483308 #En1: Rheum officinale #En2: AME *KeyWords: null /@<<GADExtractor>> PMID: 19483308 #En1: Rheum officinale #En2: AME *KeyWords: null /@<<GADExtractor>> PMID: 19483308 #En1: Rheum officinale #En2: AME *KeyWords: null /@<<GADExtractor>> PMID: 19483308 #En1: Rheum officinale #En2: AME *KeyWords: null /@<<GADExtractor>> PMID: 19483308 #En1: Rheum officinale #En2: AME *KeyWords: null /@<<GADExtractor>> PMID: 19483308 #En1: Rheum officinale #En2: AME *KeyWords: null /***6
+DA-HUANG	Gene_ID:1244	@<<GADExtractor>> PMID: 32028185 #En1: Rheum palmatum #En2: ABCC2 *KeyWords: null /@<<GADExtractor>> PMID: 32028185 #En1: Rheum palmatum #En2: ABCC2 *KeyWords: null /***2
+DA-HUANG	Gene_ID:6484	@<<GADExtractor>> PMID: 31013790 #En1: Rheum palmatum #En2: STZ *KeyWords: null /@<<GADExtractor>> PMID: 31013790 #En1: Rheum palmatum #En2: STZ *KeyWords: null /***2
+DA-HUANG	Gene_ID:2010	@<<GADExtractor>> PMID: 25673059 #En1: Rheum palmatum #En2: EMD *KeyWords: null /@<<GADExtractor>> PMID: 25673059 #En1: Rheum palmatum #En2: EMD *KeyWords: null /***2
+DA-HUANG	Gene_ID:27241	@<<GADExtractor>> PMID: 19863966 #En1: Rheum Palmatum #En2: C18 *KeyWords: showed /@<<GADExtractor>> PMID: 19863966 #En1: Rheum Palmatum #En2: C18 *KeyWords: showed /***2
+DA-HUANG	Gene_ID:6120	@<<GADExtractor>> PMID: 17785969 #En1: Rheum palmatum #En2: RPE *KeyWords: were /@<<GADExtractor>> PMID: 17785969 #En1: Rheum palmatum #En2: RPE *KeyWords: were /***2
+DA-HUANG	Gene_ID:5345	@<<GADExtractor>> PMID: 27138597 #En1: Rheum palmatum #En2: API *KeyWords: effective /@<<GADExtractor>> PMID: 27138597 #En1: Rheum palmatum #En2: API *KeyWords: considered /@<<GADExtractor>> PMID: 27138597 #En1: Rheum palmatum #En2: API *KeyWords: effective /@<<GADExtractor>> PMID: 27138597 #En1: Rheum palmatum #En2: API *KeyWords: considered /***4
+DA-HUANG	Gene_ID:84676	@<<GADExtractor>> PMID: 28861973 #En1: Rheum palmatum #En2: IRF *KeyWords: selected /@<<GADExtractor>> PMID: 28861973 #En1: Rheum palmatum #En2: IRF *KeyWords: respectively; /@<<GADExtractor>> PMID: 28861973 #En1: Rheum palmatum #En2: IRF *KeyWords: selected /@<<GADExtractor>> PMID: 28861973 #En1: Rheum palmatum #En2: IRF *KeyWords: respectively; /***4
+DA-HUANG	Gene_ID:137872	@<<GADExtractor>> PMID: 19459307 #En1: Rheum palmatum #En2: hot *KeyWords: null /@<<GADExtractor>> PMID: 19459307 #En1: Rheum palmatum #En2: hot *KeyWords: null /@<<GADExtractor>> PMID: 19459307 #En1: Rheum palmatum #En2: hot *KeyWords: null /@<<GADExtractor>> PMID: 19459307 #En1: Rheum palmatum #En2: hot *KeyWords: null /@<<GADExtractor>> PMID: 19459307 #En1: Rheum palmatum #En2: hot *KeyWords: null /@<<GADExtractor>> PMID: 19459307 #En1: Rheum palmatum #En2: hot *KeyWords: null /@<<GADExtractor>> PMID: 26747020 #En1: Rheum palmatum #En2: hot *KeyWords: (i;e; /@<<GADExtractor>> PMID: 26747020 #En1: Rheum palmatum #En2: hot *KeyWords: (i;e; /***8
+DA-HUANG	Gene_ID:7249	@<<GADExtractor>> PMID: 21364120 #En1: Rheum palmatum #En2: NAFLD *KeyWords: null /@<<GADExtractor>> PMID: 21364120 #En1: Rheum palmatum #En2: NAFLD *KeyWords: null /***2
+DA-HUANG	Gene_ID:3630	@<<GADExtractor>> PMID: 21364120 #En1: Rheum palmatum #En2: insulin *KeyWords: null /@<<GADExtractor>> PMID: 21364120 #En1: Rheum palmatum #En2: insulin *KeyWords: null /***2
+DA-HUANG	Gene_ID:6774	@<<GADExtractor>> PMID: 30553869 #En1: Rheum palmatum #En2: signal transducer and activator of transcription 3 *KeyWords: exerts /@<<GADExtractor>> PMID: 30553869 #En1: Rheum palmatum #En2: signal transducer and activator of transcription 3 *KeyWords: exerts /***2
+DA-HUANG	Gene_ID:7442	@<<GADExtractor>> PMID: 24530855 #En1: Rheum palmatum #En2: TRPV1 *KeyWords: exert /@<<GADExtractor>> PMID: 24530855 #En1: Rheum palmatum #En2: TRPV1 *KeyWords: exert /***2
+DA-HUANG	Gene_ID:79054	@<<GADExtractor>> PMID: 24530855 #En1: Rheum palmatum #En2: TRPM8 *KeyWords: exert /@<<GADExtractor>> PMID: 24530855 #En1: Rheum palmatum #En2: TRPM8 *KeyWords: exert /***2
+DA-HUANG	Gene_ID:5493	@<<GADExtractor>> PMID: 20603090 #En1: Rheum palmatum #En2: PPL *KeyWords: inhibited /@<<GADExtractor>> PMID: 20603090 #En1: Rheum palmatum #En2: PPL *KeyWords: inhibited /***2
+DA-HUANG	Gene_ID:3664	@<<GADExtractor>> PMID: 22735924 #En1: Rheum palmatum #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 22735924 #En1: Rheum palmatum #En2: LPS *KeyWords: null /***2
+DA-HUANG	Gene_ID:7099	@<<GADExtractor>> PMID: 22735924 #En1: Rheum palmatum #En2: toll-like receptor 4 *KeyWords: null /@<<GADExtractor>> PMID: 22735924 #En1: Rheum palmatum #En2: TLR4 *KeyWords: null /@<<GADExtractor>> PMID: 22735924 #En1: Rheum palmatum #En2: toll-like receptor 4 *KeyWords: null /@<<GADExtractor>> PMID: 22735924 #En1: Rheum palmatum #En2: TLR4 *KeyWords: null /***4
+DA-HUANG	Gene_ID:3569	@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: interleukin-6 *KeyWords: time /@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: interleukin-6 *KeyWords: time /***2
+DA-HUANG	Gene_ID:2520	@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: gas *KeyWords: improving /@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: gas *KeyWords: ameliorate /@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: gas *KeyWords: improving /@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: gas *KeyWords: ameliorate /***4
+DA-HUANG	Gene_ID:79447	@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: gas *KeyWords: improving /@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: gas *KeyWords: ameliorate /@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: gas *KeyWords: improving /@<<GADExtractor>> PMID: 28573250 #En1: Rheum palmatum #En2: gas *KeyWords: ameliorate /***4
+DA-HUANG	Gene_ID:4311	@<<GADExtractor>> PMID: 22436825 #En1: Rheum Palmatum #En2: SFE *KeyWords: using /@<<GADExtractor>> PMID: 22436825 #En1: Rheum Palmatum #En2: SFE *KeyWords: null /@<<GADExtractor>> PMID: 22436825 #En1: Rheum Palmatum #En2: SFE *KeyWords: using /@<<GADExtractor>> PMID: 22436825 #En1: Rheum Palmatum #En2: SFE *KeyWords: null /***4
+DA-HUANG	Gene_ID:1803	@<<GADExtractor>> PMID: 28507818 #En1: Rheum palmatum #En2: DPP4 *KeyWords: inhibits /@<<GADExtractor>> PMID: 28507818 #En1: Rheum palmatum #En2: DPP4 *KeyWords: inhibited /@<<GADExtractor>> PMID: 28507818 #En1: Rheum palmatum #En2: DPP4 *KeyWords: inhibits /@<<GADExtractor>> PMID: 28507818 #En1: Rheum palmatum #En2: DPP4 *KeyWords: inhibited /***4
+DA-HUANG	Gene_ID:51497	@<<GADExtractor>> PMID: 19788936 #En1: Rheum tanguticum #En2: Th1 *KeyWords: showed /@<<GADExtractor>> PMID: 19788936 #En1: Rheum tanguticum #En2: Th1 *KeyWords: showed /***2
+DA-HUANG	Gene_ID:28982	@<<GADExtractor>> PMID: 30989850 #En1: Rheum tanguticum #En2: PCA *KeyWords: null /@<<GADExtractor>> PMID: 30989850 #En1: Rheum tanguticum #En2: PCA *KeyWords: null /***2
+DA-HUANG	Gene_ID:559	@<<GADExtractor>> PMID: 30989850 #En1: Rheum tanguticum #En2: PCA *KeyWords: null /@<<GADExtractor>> PMID: 30989850 #En1: Rheum tanguticum #En2: PCA *KeyWords: null /***2
+ZHI-NAN-XING	Gene_ID:173	@<<GADExtractor>> PMID: 30028337 #En1: Rhizoma Arisaematis #En2: Alba *KeyWords: null /***1
+ZHI-NAN-XING	Gene_ID:27241	@<<GADExtractor>> PMID: 25902639 #En1: Rhizoma Arisaematis #En2: C18 *KeyWords: using /***1
+JIN-MAO-GOU-JI	Gene_ID:1621	@<<GADExtractor>> PMID: 24716104 #En1: Rhizoma Cibotii #En2: DBM *KeyWords: null /***1
+JIN-MAO-GOU-JI	Gene_ID:1491	@<<GADExtractor>> PMID: 24716104 #En1: Rhizoma Cibotii #En2: CTH *KeyWords: null /***1
+JIN-MAO-GOU-JI	Gene_ID:6301	@<<GADExtractor>> PMID: 24716104 #En1: Rhizoma Cibotii #En2: SARS *KeyWords: found /***1
+CHUAN-HUANG-LIAN	Gene_ID:5594	@<<GADExtractor>> PMID: 32337687 #En1: Rhizoma coptidis #En2: MAPK1 *KeyWords: associated /***1
+CHUAN-HUANG-LIAN	Gene_ID:6774	@<<GADExtractor>> PMID: 32337687 #En1: Rhizoma coptidis #En2: STAT3 *KeyWords: associated /***1
+CHUAN-HUANG-LIAN	Gene_ID:3643	@<<GADExtractor>> PMID: 32337687 #En1: Rhizoma coptidis #En2: INSR *KeyWords: associated /***1
+CHUAN-HUANG-LIAN	Gene_ID:1581	@<<GADExtractor>> PMID: 27713083 #En1: Rhizoma Coptidis #En2: CYP7A1 *KeyWords: induced /@<<GADExtractor>> PMID: 22554715 #En1: Rhizoma Coptidis #En2: CYP7A1 *KeyWords: related /***2
+CHUAN-HUANG-LIAN	Gene_ID:2539	@<<GADExtractor>> PMID: 22002596 #En1: Rhizoma coptidis #En2: glucose-6-phosphate dehydrogenase *KeyWords: banned /@<<GADExtractor>> PMID: 18515042 #En1: Rhizoma Coptidis #En2: G6PD *KeyWords: reduced /***2
+CHUAN-HUANG-LIAN	Gene_ID:3949	@<<GADExtractor>> PMID: 30335889 #En1: Rhizoma coptidis #En2: low-density lipoprotein receptor *KeyWords: has /@<<GADExtractor>> PMID: 26848702 #En1: Rhizoma Coptidis #En2: low-density lipoprotein receptor *KeyWords: accelerate /***2
+CHUAN-HUANG-LIAN	Gene_ID:57684	@<<GADExtractor>> PMID: 29747507 #En1: Rhizoma Coptidis #En2: BioReF *KeyWords: fingerprinting /@<<GADExtractor>> PMID: 29747507 #En1: Rhizoma Coptidis #En2: BioReF *KeyWords: null /@<<GADExtractor>> PMID: 29747507 #En1: Rhizoma Coptidis #En2: BioReF *KeyWords: using /***3
+CHUAN-HUANG-LIAN	Gene_ID:5562	@<<GADExtractor>> PMID: 29930696 #En1: Rhizoma coptidis #En2: AMPK *KeyWords: null /@<<GADExtractor>> PMID: 29930696 #En1: Rhizoma coptidis #En2: AMPK *KeyWords: exerted /@<<GADExtractor>> PMID: 29930696 #En1: Rhizoma coptidis #En2: AMPK *KeyWords: null /@<<GADExtractor>> PMID: 29344415 #En1: Rhizoma Coptidis #En2: AMPK *KeyWords: null /@<<GADExtractor>> PMID: 29344415 #En1: rhizoma coptidis #En2: AMPK *KeyWords: has /***5
+CHUAN-HUANG-LIAN	Gene_ID:5563	@<<GADExtractor>> PMID: 29930696 #En1: Rhizoma coptidis #En2: AMPK *KeyWords: null /@<<GADExtractor>> PMID: 29930696 #En1: Rhizoma coptidis #En2: AMPK *KeyWords: exerted /@<<GADExtractor>> PMID: 29930696 #En1: Rhizoma coptidis #En2: AMPK *KeyWords: null /@<<GADExtractor>> PMID: 29344415 #En1: Rhizoma Coptidis #En2: AMPK *KeyWords: null /@<<GADExtractor>> PMID: 29344415 #En1: rhizoma coptidis #En2: AMPK *KeyWords: has /***5
+CHUAN-HUANG-LIAN	Gene_ID:406906	@<<GADExtractor>> PMID: 29710498 #En1: Rhizoma coptidis #En2: miR-122 *KeyWords: exerts /***1
+CHUAN-HUANG-LIAN	Gene_ID:1757	@<<GADExtractor>> PMID: 20222425 #En1: Rhizoma Coptidis #En2: SDH *KeyWords: null /@<<GADExtractor>> PMID: 20222425 #En1: Rhizoma Coptidis #En2: SDH *KeyWords: null /@<<GADExtractor>> PMID: 20222425 #En1: Rhizoma Coptidis #En2: SDH *KeyWords: null /@<<GADExtractor>> PMID: 20353013 #En1: Rhizoma Coptidis #En2: SDH *KeyWords: null /@<<GADExtractor>> PMID: 20353013 #En1: Rhizoma Coptidis #En2: SDH *KeyWords: null /***5
+CHUAN-HUANG-LIAN	Gene_ID:7352	@<<GADExtractor>> PMID: 20222425 #En1: Rhizoma Coptidis #En2: UCP3 *KeyWords: null /***1
+CHUAN-HUANG-LIAN	Gene_ID:10278	@<<GADExtractor>> PMID: 19747439 #En1: Rhizoma Coptidis #En2: EFS *KeyWords: ranging /@<<GADExtractor>> PMID: 19747439 #En1: Rhizoma Coptidis #En2: EFS *KeyWords: increase /***2
+CHUAN-HUANG-LIAN	Gene_ID:173	@<<GADExtractor>> PMID: 20707075 #En1: Rhizoma Coptidis #En2: Alba *KeyWords: null /***1
+CHUAN-HUANG-LIAN	Gene_ID:1544	@<<GADExtractor>> PMID: 20707075 #En1: Rhizoma Coptidis #En2: CYP1A2 *KeyWords: suppress /***1
+CHUAN-HUANG-LIAN	Gene_ID:2703	@<<GADExtractor>> PMID: 22554715 #En1: Rhizoma Coptidis #En2: CAE *KeyWords: null /***1
+CHUAN-HUANG-LIAN	Gene_ID:3664	@<<GADExtractor>> PMID: 22086980 #En1: rhizoma coptidis #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 21924335 #En1: Rhizoma coptidis #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 21924335 #En1: Rhizoma coptidis #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 21924335 #En1: Rhizoma coptidis #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 21924335 #En1: Rhizoma coptidis #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 21924335 #En1: Rhizoma coptidis #En2: LPS *KeyWords: null /***6
+CHUAN-HUANG-LIAN	Gene_ID:54658	@<<GADExtractor>> PMID: 21855623 #En1: Rhizoma coptidis #En2: UGT1A1 *KeyWords: inducing /***1
+CHUAN-HUANG-LIAN	Gene_ID:51761	@<<GADExtractor>> PMID: 29713285 #En1: Rhizoma Coptidis #En2: mL-1 *KeyWords: null /@<<GADExtractor>> PMID: 29713285 #En1: Rhizoma Coptidis #En2: mL-1 *KeyWords: null /@<<GADExtractor>> PMID: 29713285 #En1: Rhizoma Coptidis #En2: mL-1 *KeyWords: null /***3
+CHUAN-HUANG-LIAN	Gene_ID:6690	@<<GADExtractor>> PMID: 29713285 #En1: Rhizoma Coptidis #En2: TCP *KeyWords: sufficient /***1
+CHUAN-HUANG-LIAN	Gene_ID:4512	@<<GADExtractor>> PMID: 21466840 #En1: Rhizoma coptidis #En2: COX-1/2 *KeyWords: showed /***1
+CHUAN-HUANG-LIAN	Gene_ID:3630	@<<GADExtractor>> PMID: 20939284 #En1: rhizoma coptidis #En2: insulin *KeyWords: null /@<<GADExtractor>> PMID: 20939284 #En1: Rhizoma Coptidis #En2: insulin *KeyWords: null /@<<GADExtractor>> PMID: 20939284 #En1: Rhizoma Coptidis #En2: insulin *KeyWords: reveal /@<<GADExtractor>> PMID: 20939284 #En1: Rhizoma Coptidis #En2: insulin *KeyWords: null /@<<GADExtractor>> PMID: 20939284 #En1: Rhizoma Coptidis #En2: insulin *KeyWords: null /@<<GADExtractor>> PMID: 20939284 #En1: Rhizoma Coptidis #En2: insulin *KeyWords: prevented /***6
+CHUAN-HUANG-LIAN	Gene_ID:1906	@<<GADExtractor>> PMID: 32132292 #En1: Rhizoma Coptidis #En2: ET-1 *KeyWords: decreased /@<<GADExtractor>> PMID: 32132292 #En1: Rhizoma Coptidis #En2: ET-1 *KeyWords: reduced /@<<GADExtractor>> PMID: 32132292 #En1: Rhizoma Coptidis #En2: ET-1 *KeyWords: reduced /***3
+CHUAN-HUANG-LIAN	Gene_ID:6647	@<<GADExtractor>> PMID: 32132292 #En1: Rhizoma Coptidis #En2: SOD *KeyWords: increased /@<<GADExtractor>> PMID: 32132292 #En1: Rhizoma Coptidis #En2: SOD *KeyWords: increased /***2
+CHUAN-HUANG-LIAN	Gene_ID:165904	@<<GADExtractor>> PMID: 27965575 #En1: Rhizoma Coptidis #En2: xin *KeyWords: null /***1
+CHUAN-HUANG-LIAN	Gene_ID:2053	@<<GADExtractor>> PMID: 27702689 #En1: Rhizoma coptidis #En2: sEH *KeyWords: null /@<<GADExtractor>> PMID: 27702689 #En1: Rhizoma Coptidis #En2: sEH *KeyWords: null /@<<GADExtractor>> PMID: 27702689 #En1: Rhizoma Coptidis #En2: sEH *KeyWords: anti-inflammatory /@<<GADExtractor>> PMID: 27702689 #En1: Rhizoma Coptidis #En2: sEH *KeyWords: contributes /***4
+CHUAN-HUANG-LIAN	Gene_ID:7351	@<<GADExtractor>> PMID: 20353013 #En1: Rhizoma Coptidis #En2: UCP2 *KeyWords: null /***1
+CHUAN-HUANG-LIAN	Gene_ID:28982	@<<GADExtractor>> PMID: 19894522 #En1: Rhizoma Coptidis #En2: PCA *KeyWords: using /***1
+CHUAN-HUANG-LIAN	Gene_ID:559	@<<GADExtractor>> PMID: 19894522 #En1: Rhizoma Coptidis #En2: PCA *KeyWords: using /***1
+CHUAN-HUANG-LIAN	Gene_ID:55079	@<<GADExtractor>> PMID: 17608185 #En1: rhizoma coptidis #En2: TOF *KeyWords: coptidis /***1
+XUAN-HU-SU	Gene_ID:7369	@<<GADExtractor>> PMID: 22258341 #En1: Rhizoma Corydalis #En2: THP *KeyWords: null /@<<GADExtractor>> PMID: 22258341 #En1: Rhizoma Corydalis #En2: THP *KeyWords: null /***2
+XUAN-HU-SU	Gene_ID:9569	@<<GADExtractor>> PMID: 26813088 #En1: Rhizoma Corydalis #En2: Ben *KeyWords: recorded /***1
+GUANG-XI-E-ZHU	Gene_ID:3949	@<<GADExtractor>> PMID: 16181535 #En1: Rhizoma Curcumae #En2: LDL receptor *KeyWords: null /***1
+GUANG-XI-E-ZHU	Gene_ID:4780	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: Nrf2 *KeyWords: null /@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: Nrf2 *KeyWords: null /***2
+GUANG-XI-E-ZHU	Gene_ID:2551	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: Nrf2 *KeyWords: null /@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: Nrf2 *KeyWords: null /***2
+GUANG-XI-E-ZHU	Gene_ID:836	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: caspase-3 *KeyWords: occurring /***1
+GUANG-XI-E-ZHU	Gene_ID:842	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: caspase-9 *KeyWords: occurring /***1
+GUANG-XI-E-ZHU	Gene_ID:596	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: Bcl-2 *KeyWords: showed /***1
+GUANG-XI-E-ZHU	Gene_ID:5594	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: p38 *KeyWords: showed /@<<GADExtractor>> PMID: 32186104 #En1: Rhizoma Curcumae #En2: ERK1/2 *KeyWords: showed /***2
+GUANG-XI-E-ZHU	Gene_ID:1398	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: p38 *KeyWords: showed /***1
+GUANG-XI-E-ZHU	Gene_ID:9402	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: p38 *KeyWords: showed /***1
+GUANG-XI-E-ZHU	Gene_ID:1432	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: p38 *KeyWords: showed /***1
+GUANG-XI-E-ZHU	Gene_ID:7965	@<<GADExtractor>> PMID: 30989920 #En1: Rhizoma Curcumae #En2: p38 *KeyWords: showed /***1
+GUANG-XI-E-ZHU	Gene_ID:1678	@<<GADExtractor>> PMID: 32185966 #En1: Rhizoma Curcumae #En2: MTS *KeyWords: null /***1
+GUANG-XI-E-ZHU	Gene_ID:7422	@<<GADExtractor>> PMID: 32186104 #En1: Rhizoma Curcumae #En2: vascular endothelial growth factor *KeyWords: inhibit /@<<GADExtractor>> PMID: 32186104 #En1: Rhizoma Curcumae #En2: VEGF *KeyWords: hindered /***2
+GUANG-XI-E-ZHU	Gene_ID:5595	@<<GADExtractor>> PMID: 32186104 #En1: Rhizoma Curcumae #En2: ERK1/2 *KeyWords: showed /@<<GADExtractor>> PMID: 32186104 #En1: Rhizoma Curcumae #En2: ERK1 *KeyWords: showed /***2
+GUANG-XI-E-ZHU	Gene_ID:6403	@<<GADExtractor>> PMID: 24474672 #En1: Rhizoma Curcumae #En2: P-selectin *KeyWords: null /***1
+GUANG-XI-E-ZHU	Gene_ID:722	@<<GADExtractor>> PMID: 24474672 #En1: Rhizoma Curcumae #En2: PRP *KeyWords: inhibited /@<<GADExtractor>> PMID: 24474672 #En1: Rhizoma Curcumae #En2: PRP *KeyWords: inhibited /***2
+GUANG-XI-E-ZHU	Gene_ID:5621	@<<GADExtractor>> PMID: 24474672 #En1: Rhizoma Curcumae #En2: PRP *KeyWords: inhibited /@<<GADExtractor>> PMID: 24474672 #En1: Rhizoma Curcumae #En2: PRP *KeyWords: inhibited /***2
+GUANG-XI-E-ZHU	Gene_ID:9768	@<<GADExtractor>> PMID: 24474672 #En1: Rhizoma Curcumae #En2: PAF *KeyWords: inhibited /***1
+GUANG-XI-E-ZHU	Gene_ID:173	@<<GADExtractor>> PMID: 19460686 #En1: Rhizoma Curcumae #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 19460686 #En1: Rhizoma Curcumae #En2: Alba *KeyWords: null /***2
+CHUAN-SHAN-LONG	Gene_ID:4311	@<<GADExtractor>> PMID: 18837474 #En1: Rhizoma dioscoreae #En2: SFE *KeyWords: null /@<<GADExtractor>> PMID: 18837474 #En1: Rhizoma dioscoreae #En2: SFE *KeyWords: dioscoreae /***2
+CHUAN-SHAN-LONG	Gene_ID:55079	@<<GADExtractor>> PMID: 32330320 #En1: Rhizoma Dioscoreae #En2: TOF *KeyWords: null /***1
+CHUAN-SHAN-LONG	Gene_ID:6387	@<<GADExtractor>> PMID: 23620384 #En1: Rhizoma Dioscoreae #En2: SDF-1 *KeyWords: based /@<<GADExtractor>> PMID: 23620384 #En1: Rhizoma Dioscoreae Nipponicae #En2: SDF-1 *KeyWords: based /***2
+BEI-DOU-GEN	Gene_ID:6468	@<<GADExtractor>> PMID: 29100416 #En1: Rhizoma Menispermi #En2: DAC *KeyWords: null /***1
+CHONG-LOU	Gene_ID:26155	@<<GADExtractor>> PMID: 26773264 #En1: Rhizoma paridis #En2: NIR *KeyWords: null /***1
+CHONG-LOU	Gene_ID:6120	@<<GADExtractor>> PMID: 22750432 #En1: Rhizoma Paridis #En2: RPE *KeyWords: null /***1
+CHONG-LOU	Gene_ID:4780	@<<GADExtractor>> PMID: 31746361 #En1: Rhizoma Paridis #En2: Nrf2 *KeyWords: alleviate /***1
+CHONG-LOU	Gene_ID:2551	@<<GADExtractor>> PMID: 31746361 #En1: Rhizoma Paridis #En2: Nrf2 *KeyWords: alleviate /***1
+HUANG-JING-ZHI	Gene_ID:836	@<<GADExtractor>> PMID: 25774182 #En1: Rhizoma Polygonati #En2: caspase-3 *KeyWords: downregulate /***1
+HUANG-JING-ZHI	Gene_ID:356	@<<GADExtractor>> PMID: 25774182 #En1: Rhizoma Polygonati #En2: FasL *KeyWords: downregulate /***1
+HUANG-JING-ZHI	Gene_ID:627	@<<GADExtractor>> PMID: 25774182 #En1: Rhizoma Polygonati #En2: brain-derived neurotrophic factor *KeyWords: downregulate /***1
+HUANG-JING-ZHI	Gene_ID:7054	@<<GADExtractor>> PMID: 25774182 #En1: Rhizoma Polygonati #En2: tyrosine hydroxylase *KeyWords: produce /***1
+SHENG-JUN	Gene_ID:80218	@<<GADExtractor>> PMID: 30607117 #En1: rhizoma rhei #En2: San *KeyWords: null /@<<GADExtractor>> PMID: 30607117 #En1: rhizoma rhei #En2: San *KeyWords: null /***2
+SHENG-JUN	Gene_ID:27241	@<<GADExtractor>> PMID: 18507349 #En1: Rhizoma Rhei ( #En2: C18 *KeyWords: null /@<<GADExtractor>> PMID: 18507349 #En1: Rhizoma Rhei ( #En2: C18 *KeyWords: null /***2
+SHENG-JUN	Gene_ID:619501	@<<GADExtractor>> PMID: 28219357 #En1: Rhizoma Rhei ( #En2: HCC *KeyWords: used /@<<GADExtractor>> PMID: 28219357 #En1: Rhizoma Rhei ( #En2: HCC *KeyWords: used /***2
+SHENG-JUN	Gene_ID:165904	@<<GADExtractor>> PMID: 27965575 #En1: Rhizoma Rhei ( #En2: xin *KeyWords: null /@<<GADExtractor>> PMID: 27965575 #En1: Rhizoma Rhei ( #En2: xin *KeyWords: null /***2
+SHENG-JUN	Gene_ID:348	@<<GADExtractor>> PMID: 15892282 #En1: Rhizoma Rhei ( #En2: ApoE *KeyWords: null /@<<GADExtractor>> PMID: 15892282 #En1: Rhizoma Rhei ( #En2: ApoE *KeyWords: null /***2
+XUAN-HU-SU	Gene_ID:173	@<<GADExtractor>> PMID: 29018346 #En1: Rhizoma-Corydalis #En2: Alba *KeyWords: null /***1
+DA-HUA-HONG-JING-TIAN	Gene_ID:2768	@<<GADExtractor>> PMID: 30518724 #En1: Rhodiola crenulata #En2: GEP *KeyWords: null /***1
+DA-HUA-HONG-JING-TIAN	Gene_ID:84676	@<<GADExtractor>> PMID: 28861973 #En1: Rhodiola crenulata #En2: IRF *KeyWords: selected /@<<GADExtractor>> PMID: 28861973 #En1: Rhodiola crenulata #En2: IRF *KeyWords: respectively; /***2
+DA-HUA-HONG-JING-TIAN	Gene_ID:1352	@<<GADExtractor>> PMID: 30878546 #En1: Rhodiola crenulata #En2: COX10 *KeyWords: attenuates /***1
+DA-HUA-HONG-JING-TIAN	Gene_ID:5562	@<<GADExtractor>> PMID: 28830211 #En1: Rhodiola crenulata #En2: AMPK *KeyWords: regulate /***1
+DA-HUA-HONG-JING-TIAN	Gene_ID:5563	@<<GADExtractor>> PMID: 28830211 #En1: Rhodiola crenulata #En2: AMPK *KeyWords: regulate /***1
+DA-HUA-HONG-JING-TIAN	Gene_ID:154	@<<GADExtractor>> PMID: 30292952 #En1: Rhodiola crenulata #En2: beta2-adrenergic receptor *KeyWords: containing /***1
+DA-HUA-HONG-JING-TIAN	Gene_ID:55079	@<<GADExtractor>> PMID: 30292952 #En1: Rhodiola crenulata #En2: TOF *KeyWords: using /***1
+DA-HUA-HONG-JING-TIAN	Gene_ID:3630	@<<GADExtractor>> PMID: 27405506 #En1: Rhodiola crenulata #En2: insulin *KeyWords: ameliorates /@<<GADExtractor>> PMID: 27405506 #En1: Rhodiola crenulata #En2: insulin *KeyWords: null /***2
+DA-HUA-HONG-JING-TIAN	Gene_ID:948	@<<GADExtractor>> PMID: 27405506 #En1: Rhodiola crenulata #En2: CD36 *KeyWords: ameliorates /***1
+DA-HUA-HONG-JING-TIAN	Gene_ID:43	@<<GADExtractor>> PMID: 28625836 #En1: Rhodiola crenulata #En2: AChE *KeyWords: ranged /***1
+DA-HUA-HONG-JING-TIAN	Gene_ID:4284	@<<GADExtractor>> PMID: 31054452 #En1: Rhodiola crenulata #En2: MIP *KeyWords: null /@<<GADExtractor>> PMID: 31054452 #En1: Rhodiola crenulata #En2: MIP *KeyWords: null /***2
+XIA-YE-HONG-JING-TIAN	Gene_ID:1080	@<<GADExtractor>> PMID: 25747701 #En1: Rhodiola kirilowii #En2: cystic fibrosis transmembrane conductance regulator *KeyWords: reveals /***1
+SHENG-DI-HONG-JING-TIAN	Gene_ID:7299	@<<GADExtractor>> PMID: 28028844 #En1: Rhodiola sacra #En2: tyrosinase *KeyWords: null /***1
+YAN-FU-ZI	Gene_ID:40	@<<GADExtractor>> PMID: 30772482 #En1: Rhus chinensis #En2: ASIC2 *KeyWords: null /@<<GADExtractor>> PMID: 30772482 #En1: Rhus chinensis #En2: ASIC2 *KeyWords: null /***2
+YAN-FU-ZI	Gene_ID:3553	@<<GADExtractor>> PMID: 10372651 #En1: Rhus semialata #En2: IL- 1beta *KeyWords: null /***1
+MI-JIU	Gene_ID:63826	@<<GADExtractor>> PMID: 31279866 #En1: rice wine #En2: SRR *KeyWords: steamed /***1
+MI-JIU	Gene_ID:55079	@<<GADExtractor>> PMID: 30247532 #En1: rice wine #En2: TOF *KeyWords: using /***1
+BI-MA-ZI-YU-BI-MA-YOU	Gene_ID:8190	@<<GADExtractor>> PMID: 27142000 #En1: Ricinus communis #En2: MIA *KeyWords: leaves /***1
+BA-JI	Gene_ID:4988	@<<GADExtractor>> PMID: 31180668 #En1: root of Morinda officinalis #En2: MOR *KeyWords: null /***1
+GUANG-MU-XIANG	Gene_ID:4843	@<<GADExtractor>> PMID: 11100933 #En1: root of Saussurea #En2: iNOS *KeyWords: found /@<<GADExtractor>> PMID: 11100933 #En1: root of Saussurea #En2: iNOS *KeyWords: found /***2
+GUANG-MU-XIANG	Gene_ID:51477	@<<GADExtractor>> PMID: 11100933 #En1: root of Saussurea #En2: iNOS *KeyWords: found /@<<GADExtractor>> PMID: 11100933 #En1: root of Saussurea #En2: iNOS *KeyWords: found /***2
+YUE-JI-HUA	Gene_ID:2475	@<<GADExtractor>> PMID: 31732156 #En1: Rosa chinensis #En2: FRAP *KeyWords: null /***1
+DA-MA-SHI-GE-QIANG-WEI	Gene_ID:43	@<<GADExtractor>> PMID: 24401532 #En1: Rosa damascena #En2: acetylcholinesterase *KeyWords: screened /***1
+JIN-YING-ZI	Gene_ID:3664	@<<GADExtractor>> PMID: 19420718 #En1: Rosa laevigata #En2: LPS *KeyWords: acnes /***1
+QIANG-WEI-GEN	Gene_ID:6595	@<<GADExtractor>> PMID: 30064041 #En1: Rosa multiflora #En2: BRM *KeyWords: null /***1
+QIANG-WEI-GEN	Gene_ID:5465	@<<GADExtractor>> PMID: 27854351 #En1: Rosa multiflora #En2: PPAR *KeyWords: null /@<<GADExtractor>> PMID: 27854351 #En1: Rosa multiflora #En2: PPAR *KeyWords: have /***2
+CI-LI	Gene_ID:4318	@<<GADExtractor>> PMID: 25556474 #En1: Rosa Roxburghii #En2: MMP-9 *KeyWords: suppressed /***1
+MEI-GUI-HUA	Gene_ID:6120	@<<GADExtractor>> PMID: 28213107 #En1: Rosa rugosa #En2: RPE *KeyWords: null /***1
+MEI-GUI-HUA	Gene_ID:6595	@<<GADExtractor>> PMID: 30064041 #En1: Rosa rugosa #En2: BRM *KeyWords: null /***1
+MEI-GUI-HUA	Gene_ID:5465	@<<GADExtractor>> PMID: 31100436 #En1: Rosa rugosa #En2: PPAR *KeyWords: exhibited /***1
+MEI-GUI-HUA	Gene_ID:345	@<<GADExtractor>> PMID: 31100436 #En1: Rosa rugosa #En2: Apolipoprotein C3 *KeyWords: used /@<<GADExtractor>> PMID: 31100436 #En1: Rosa rugosa #En2: ApoC3 *KeyWords: used /***2
+MEI-GUI-HUA	Gene_ID:51761	@<<GADExtractor>> PMID: 16945187 #En1: Rosa rugosa #En2: mL-1 *KeyWords: showed /***1
+Rosa[\-\(\)]*sp	Gene_ID:81502	@<<GADExtractor>> PMID: 25856320 #En1: Rosa sp #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 25856320 #En1: Rosa sp #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 25856320 #En1: Rosa sp #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 25856320 #En1: Rosa sp #En2: spp *KeyWords: null /***4
+MI-DIE-XIANG	Gene_ID:717	@<<GADExtractor>> PMID: 24647092 #En1: Rosmarinus officinalis #En2: CO2 *KeyWords: null /***1
+MI-DIE-XIANG	Gene_ID:1029	@<<GADExtractor>> PMID: 30796762 #En1: Rosmarinus officinalis #En2: MLM *KeyWords: null /***1
+QIAN-CAO-GEN	Gene_ID:2811	@<<GADExtractor>> PMID: 29126989 #En1: Rubia cordifolia #En2: BSS *KeyWords: cure /***1
+QIAN-CAO-GEN	Gene_ID:207	@<<GADExtractor>> PMID: 30816612 #En1: Rubia cordifolia #En2: AKT1 *KeyWords: null /***1
+QIAN-CAO-GEN	Gene_ID:1956	@<<GADExtractor>> PMID: 30816612 #En1: Rubia cordifolia #En2: epidermal growth factor receptor *KeyWords: involved; /***1
+QIAN-CAO-GEN	Gene_ID:55079	@<<GADExtractor>> PMID: 28800124 #En1: Rubia cordifolia #En2: TOF *KeyWords: null /***1
+QIAN-CAO-GEN	Gene_ID:3664	@<<GADExtractor>> PMID: 23774043 #En1: Rubia cordifolia #En2: LPS *KeyWords: null /***1
+QIAN-CAO-GEN	Gene_ID:5319	@<<GADExtractor>> PMID: 31894054 #En1: Rubia cordifolia #En2: PLA2 *KeyWords: inhibited /@<<GADExtractor>> PMID: 31894054 #En1: Rubia cordifolia #En2: PLA2 *KeyWords: inhibited /***2
+QIAN-CAO-GEN	Gene_ID:5320	@<<GADExtractor>> PMID: 31894054 #En1: Rubia cordifolia #En2: PLA2 *KeyWords: inhibited /@<<GADExtractor>> PMID: 31894054 #En1: Rubia cordifolia #En2: PLA2 *KeyWords: inhibited /***2
+QIAN-CAO-GEN	Gene_ID:6098	@<<GADExtractor>> PMID: 12622461 #En1: Rubia cordifolia #En2: ROS *KeyWords: caused /***1
+CHI-FU-LING	Gene_ID:722	@<<GADExtractor>> PMID: 31108794 #En1: Rubra Poria #En2: PRP *KeyWords: null /***1
+CHI-FU-LING	Gene_ID:5621	@<<GADExtractor>> PMID: 31108794 #En1: Rubra Poria #En2: PRP *KeyWords: null /***1
+CU-YE-XUAN-GOU-ZI	Gene_ID:4043	@<<GADExtractor>> PMID: 22121808 #En1: Rubus alceaefolius #En2: RAP *KeyWords: null /@<<GADExtractor>> PMID: 19848203 #En1: Rubus alceaefolius #En2: RAP *KeyWords: null /***2
+CU-YE-XUAN-GOU-ZI	Gene_ID:7249	@<<GADExtractor>> PMID: 22121808 #En1: Rubus alceaefolius #En2: NAFLD *KeyWords: null /@<<GADExtractor>> PMID: 25051256 #En1: Rubus alceaefolius #En2: NAFLD *KeyWords: evaluate /***2
+CU-YE-XUAN-GOU-ZI	Gene_ID:1571	@<<GADExtractor>> PMID: 19848203 #En1: Rubus alceaefolius #En2: CYP2E1 *KeyWords: null /@<<GADExtractor>> PMID: 19848203 #En1: Rubus alceaefolius #En2: CYP2E1 *KeyWords: null /***2
+SHEN-SHENG-XUAN-GOU-ZI	Gene_ID:3815	@<<GADExtractor>> PMID: 14522443 #En1: Rubus sanctus #En2: Kit *KeyWords: sanctus /***1
+SUAN-MO-YE	Gene_ID:207	@<<GADExtractor>> PMID: 26769840 #En1: Rumex acetosa #En2: Akt *KeyWords: induces /***1
+SUAN-MO-YE	Gene_ID:4846	@<<GADExtractor>> PMID: 26769840 #En1: Rumex acetosa #En2: eNOS *KeyWords: induces /***1
+YANG-TI	Gene_ID:717	@<<GADExtractor>> PMID: 24414969 #En1: Rumex nepalensis #En2: CO2 *KeyWords: studied /@<<GADExtractor>> PMID: 24414969 #En1: Rumex nepalensis #En2: CO2 *KeyWords: studied /***2
+NIU-XI-XI	Gene_ID:27241	@<<GADExtractor>> PMID: 29582611 #En1: Rumex patientia #En2: C18 *KeyWords: compared /@<<GADExtractor>> PMID: 29582611 #En1: Rumex patientia #En2: C18 *KeyWords: null /***2
+NIU-XI-XI	Gene_ID:6351	@<<GADExtractor>> PMID: 28539746 #En1: Rumex patientia #En2: CCl4 *KeyWords: null /***1
+YI-TANG	Gene_ID:173	@<<GADExtractor>> PMID: 31461974 #En1: Saccharum Granorum #En2: Alba *KeyWords: null /***1
+LIU-BAI-PI	Gene_ID:6611	@<<GADExtractor>> PMID: 29901171 #En1: Salix babylonica #En2: SPS *KeyWords: null /***1
+Salix[\-\(\)]*sp	Gene_ID:81502	@<<GADExtractor>> PMID: 28275210 #En1: Salix sp #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 28275210 #En1: Salix sp #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 28275210 #En1: Salix sp #En2: spp *KeyWords: null /***3
+Salix[\-\(\)]*sp	Gene_ID:5443	@<<GADExtractor>> PMID: 18191321 #En1: Salix sp #En2: Clip *KeyWords: null /***1
+Salix[\-\(\)]*spp	Gene_ID:81502	@<<GADExtractor>> PMID: 28275210 #En1: Salix spp #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 28275210 #En1: Salix spp #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 28275210 #En1: Salix spp #En2: spp *KeyWords: null /***3
+Salix[\-\(\)]*spp	Gene_ID:5443	@<<GADExtractor>> PMID: 18191321 #En1: Salix spp #En2: Clip *KeyWords: null /***1
+DAN-SHEN	Gene_ID:54957	@<<GADExtractor>> PMID: 31105564 #En1: Salvia miltiorrhiza #En2: DLP *KeyWords: null /@<<GADExtractor>> PMID: 31105564 #En1: Salvia miltiorrhiza #En2: DLP *KeyWords: null /***2
+DAN-SHEN	Gene_ID:1806	@<<GADExtractor>> PMID: 31105564 #En1: Salvia miltiorrhiza #En2: DHP *KeyWords: null /@<<GADExtractor>> PMID: 31105564 #En1: Salvia miltiorrhiza #En2: DHP *KeyWords: null /***2
+DAN-SHEN	Gene_ID:6606	@<<GADExtractor>> PMID: 31105564 #En1: Salvia miltiorrhiza #En2: SMA *KeyWords: mitigates /***1
+DAN-SHEN	Gene_ID:56994	@<<GADExtractor>> PMID: 30691497 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /@<<GADExtractor>> PMID: 22614784 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /@<<GADExtractor>> PMID: 27382351 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /@<<GADExtractor>> PMID: 28040437 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /@<<GADExtractor>> PMID: 26459366 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /***5
+DAN-SHEN	Gene_ID:79947	@<<GADExtractor>> PMID: 30691497 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /@<<GADExtractor>> PMID: 22614784 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /@<<GADExtractor>> PMID: 27382351 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /@<<GADExtractor>> PMID: 28040437 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /@<<GADExtractor>> PMID: 26459366 #En1: Salvia miltiorrhiza #En2: CPT *KeyWords: null /***5
+DAN-SHEN	Gene_ID:5465	@<<GADExtractor>> PMID: 31090336 #En1: Salvia miltiorrhiza #En2: PPAR *KeyWords: null /***1
+DAN-SHEN	Gene_ID:57447	@<<GADExtractor>> PMID: 27933510 #En1: Salvia miltiorrhiza #En2: NDRG2 *KeyWords: downstreamregulated /***1
+DAN-SHEN	Gene_ID:3664	@<<GADExtractor>> PMID: 23286451 #En1: Salvia miltiorrhiza #En2: LPS *KeyWords: induced /@<<GADExtractor>> PMID: 29328882 #En1: Salvia miltiorrhiza #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 31354766 #En1: Salvia miltiorrhiza #En2: PPS *KeyWords: null /@<<GADExtractor>> PMID: 22228586 #En1: Salvia miltiorrhiza #En2: LPS *KeyWords: inhibit /@<<GADExtractor>> PMID: 31074668 #En1: Salvia miltiorrhiza #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 26290634 #En1: Salvia miltiorrhiza #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 23236833 #En1: Salvia miltiorrhiza #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 23236833 #En1: Salvia miltiorrhiza #En2: LPS *KeyWords: null /***8
+DAN-SHEN	Gene_ID:9768	@<<GADExtractor>> PMID: 22095927 #En1: Salvia miltiorrhiza #En2: PAF *KeyWords: null /***1
+DAN-SHEN	Gene_ID:2167	@<<GADExtractor>> PMID: 30847712 #En1: Salvia miltiorrhiza #En2: AP2 *KeyWords: null /@<<GADExtractor>> PMID: 30847712 #En1: Salvia miltiorrhiza #En2: AP2 *KeyWords: null /@<<GADExtractor>> PMID: 30847712 #En1: Salvia miltiorrhiza #En2: AP2 *KeyWords: null /***3
+DAN-SHEN	Gene_ID:7020	@<<GADExtractor>> PMID: 30847712 #En1: Salvia miltiorrhiza #En2: AP2 *KeyWords: null /@<<GADExtractor>> PMID: 30847712 #En1: Salvia miltiorrhiza #En2: AP2 *KeyWords: null /@<<GADExtractor>> PMID: 30847712 #En1: Salvia miltiorrhiza #En2: AP2 *KeyWords: null /***3
+DAN-SHEN	Gene_ID:2077	@<<GADExtractor>> PMID: 30847712 #En1: Salvia miltiorrhiza #En2: ERF *KeyWords: null /@<<GADExtractor>> PMID: 30847712 #En1: Salvia miltiorrhiza #En2: ERF *KeyWords: null /@<<GADExtractor>> PMID: 30847712 #En1: Salvia miltiorrhiza #En2: ERF *KeyWords: null /***3
+DAN-SHEN	Gene_ID:5728	@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PTEN *KeyWords: null /@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PTEN *KeyWords: null /@<<GADExtractor>> PMID: 29254189 #En1: Salvia miltiorrhiza #En2: PTEN *KeyWords: inhibits /***3
+DAN-SHEN	Gene_ID:5290	@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PI3K *KeyWords: null /@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PI3K *KeyWords: null /***2
+DAN-SHEN	Gene_ID:5294	@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PI3K *KeyWords: null /@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PI3K *KeyWords: null /***2
+DAN-SHEN	Gene_ID:5293	@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PI3K *KeyWords: null /@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PI3K *KeyWords: null /***2
+DAN-SHEN	Gene_ID:5295	@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PI3K *KeyWords: null /@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: PI3K *KeyWords: null /@<<GADExtractor>> PMID: 27228090 #En1: Salvia miltiorrhiza #En2: GRb1 *KeyWords: used /***3
+DAN-SHEN	Gene_ID:207	@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: Akt *KeyWords: null /@<<GADExtractor>> PMID: 28088493 #En1: Salvia miltiorrhiza #En2: Akt *KeyWords: null /@<<GADExtractor>> PMID: 19610045 #En1: Salvia miltiorrhiza #En2: Akt *KeyWords: inhibits /@<<GADExtractor>> PMID: 26873077 #En1: Salvia Miltiorrhiza #En2: Akt *KeyWords: null /***4
+DAN-SHEN	Gene_ID:7124	@<<GADExtractor>> PMID: 16039554 #En1: Salvia miltiorrhiza #En2: tumor necrosis factor-alpha *KeyWords: attenuates /@<<GADExtractor>> PMID: 11500927 #En1: Salvia miltiorrhiza #En2: tumor necrosis factor-alpha *KeyWords: null /@<<GADExtractor>> PMID: 11500927 #En1: Salvia miltiorrhiza #En2: TNF-alpha *KeyWords: null /***3
+DAN-SHEN	Gene_ID:9467	@<<GADExtractor>> PMID: 19363236 #En1: Salvia miltiorrhiza #En2: SAB *KeyWords: null /@<<GADExtractor>> PMID: 12425809 #En1: Salvia miltiorrhiza #En2: SA-B *KeyWords: null /@<<GADExtractor>> PMID: 27228090 #En1: Salvia miltiorrhiza #En2: SAB *KeyWords: used /@<<GADExtractor>> PMID: 29782791 #En1: Salvia miltiorrhiza #En2: SAB *KeyWords: null /@<<GADExtractor>> PMID: 30530290 #En1: Salvia miltiorrhiza #En2: SAB *KeyWords: null /@<<GADExtractor>> PMID: 31031620 #En1: Salvia miltiorrhiza #En2: SA-B *KeyWords: attenuated /@<<GADExtractor>> PMID: 21860657 #En1: Salvia miltiorrhiza #En2: SA-B *KeyWords: null /@<<GADExtractor>> PMID: 17005083 #En1: Salvia Miltiorrhiza #En2: SAB *KeyWords: null /@<<GADExtractor>> PMID: 28603997 #En1: Salvia miltiorrhiza #En2: SAB *KeyWords: null /@<<GADExtractor>> PMID: 22579600 #En1: Salvia miltiorrhiza #En2: SAB *KeyWords: null /***10
+DAN-SHEN	Gene_ID:2875	@<<GADExtractor>> PMID: 30122581 #En1: Salvia miltiorrhiza #En2: GPT *KeyWords: sinensis /***1
+DAN-SHEN	Gene_ID:1121	@<<GADExtractor>> PMID: 30122581 #En1: Salvia miltiorrhiza #En2: CHM *KeyWords: sinensis /@<<GADExtractor>> PMID: 28807163 #En1: Salvia miltiorrhiza #En2: CHM *KeyWords: null /@<<GADExtractor>> PMID: 32147062 #En1: Salvia miltiorrhiza #En2: CHM *KeyWords: null /***3
+DAN-SHEN	Gene_ID:4597	@<<GADExtractor>> PMID: 28871685 #En1: Salvia miltiorrhiza #En2: MVD *KeyWords: null /***1
+DAN-SHEN	Gene_ID:5054	@<<GADExtractor>> PMID: 24247078 #En1: Salvia miltiorrhiza #En2: PAI-1 *KeyWords: suppresses /@<<GADExtractor>> PMID: 18257269 #En1: Salvia miltiorrhiza #En2: PAI-1 *KeyWords: null /***2
+DAN-SHEN	Gene_ID:80331	@<<GADExtractor>> PMID: 16369479 #En1: salvia miltiorrhiza #En2: CSP *KeyWords: null /***1
+DAN-SHEN	Gene_ID:3429	@<<GADExtractor>> PMID: 19610045 #En1: Salvia miltiorrhiza #En2: p27 *KeyWords: inhibits /***1
+DAN-SHEN	Gene_ID:51014	@<<GADExtractor>> PMID: 19610045 #En1: Salvia miltiorrhiza #En2: p27 *KeyWords: inhibits /***1
+DAN-SHEN	Gene_ID:3692	@<<GADExtractor>> PMID: 19610045 #En1: Salvia miltiorrhiza #En2: p27 *KeyWords: inhibits /***1
+DAN-SHEN	Gene_ID:412	@<<GADExtractor>> PMID: 29417948 #En1: Salvia miltiorrhiza #En2: STS *KeyWords: null /@<<GADExtractor>> PMID: 31545252 #En1: Salvia miltiorrhiza #En2: STS *KeyWords: null /@<<GADExtractor>> PMID: 30502766 #En1: Salvia miltiorrhiza #En2: STS *KeyWords: null /***3
+DAN-SHEN	Gene_ID:2099	@<<GADExtractor>> PMID: 17016654 #En1: Salvia miltiorrhiza #En2: estrogen receptor *KeyWords: using /@<<GADExtractor>> PMID: 25632478 #En1: Salvia miltiorrhiza #En2: ESR *KeyWords: examined /***2
+DAN-SHEN	Gene_ID:5066	@<<GADExtractor>> PMID: 22715716 #En1: Salvia miltiorrhiza #En2: PAL *KeyWords: null /@<<GADExtractor>> PMID: 27866193 #En1: Salvia miltiorrhiza #En2: PAL *KeyWords: abbreviated /***2
+DAN-SHEN	Gene_ID:2523	@<<GADExtractor>> PMID: 11058958 #En1: salvia miltiorrhiza #En2: HSC *KeyWords: null /@<<GADExtractor>> PMID: 11058958 #En1: salvia miltiorrhiza #En2: HSC *KeyWords: null /@<<GADExtractor>> PMID: 12425809 #En1: Salvia miltiorrhiza #En2: HSC *KeyWords: null /@<<GADExtractor>> PMID: 12425809 #En1: Salvia miltiorrhiza #En2: HSC *KeyWords: stimulated /@<<GADExtractor>> PMID: 19220659 #En1: Salvia miltiorrhiza #En2: HSC *KeyWords: suppress /***5
+DAN-SHEN	Gene_ID:3855	@<<GADExtractor>> PMID: 24063216 #En1: Salvia miltiorrhiza #En2: SCL *KeyWords: null /***1
+DAN-SHEN	Gene_ID:2668	@<<GADExtractor>> PMID: 24063216 #En1: Salvia miltiorrhiza #En2: GDNF *KeyWords: improve /***1
+DAN-SHEN	Gene_ID:1574	@<<GADExtractor>> PMID: 21425376 #En1: Salvia miltiorrhiza #En2: CYP3A *KeyWords: null /***1
+DAN-SHEN	Gene_ID:10763	@<<GADExtractor>> PMID: 24568774 #En1: Salvia miltiorrhiza #En2: Nestin *KeyWords: increased /@<<GADExtractor>> PMID: 23085027 #En1: Salvia miltiorrhiza #En2: nestin *KeyWords: promoted /***2
+DAN-SHEN	Gene_ID:4133	@<<GADExtractor>> PMID: 24568774 #En1: Salvia miltiorrhiza #En2: Microtubule-associated protein 2 *KeyWords: higher /@<<GADExtractor>> PMID: 24568774 #En1: Salvia miltiorrhiza #En2: MAP2 *KeyWords: null /@<<GADExtractor>> PMID: 24568774 #En1: Salvia miltiorrhiza #En2: MAP2 *KeyWords: null /***3
+DAN-SHEN	Gene_ID:4052	@<<GADExtractor>> PMID: 18257269 #En1: Salvia miltiorrhiza #En2: TGF-beta1 *KeyWords: null /@<<GADExtractor>> PMID: 16314058 #En1: Salvia miltiorrhiza #En2: TGF-beta1 *KeyWords: transforming /***2
+DAN-SHEN	Gene_ID:7040	@<<GADExtractor>> PMID: 18257269 #En1: Salvia miltiorrhiza #En2: TGF-beta1 *KeyWords: null /@<<GADExtractor>> PMID: 16314058 #En1: Salvia miltiorrhiza #En2: TGF-beta1 *KeyWords: transforming /***2
+DAN-SHEN	Gene_ID:6098	@<<GADExtractor>> PMID: 18257269 #En1: Salvia miltiorrhiza #En2: ROS *KeyWords: null /@<<GADExtractor>> PMID: 29032117 #En1: Salvia miltiorrhiza #En2: ROS *KeyWords: modulating /@<<GADExtractor>> PMID: 25632478 #En1: Salvia miltiorrhiza #En2: ROS *KeyWords: null /@<<GADExtractor>> PMID: 27579153 #En1: Salvia miltiorrhiza #En2: ROS *KeyWords: null /***4
+DAN-SHEN	Gene_ID:183	@<<GADExtractor>> PMID: 18257269 #En1: Salvia miltiorrhiza #En2: angiotensin II *KeyWords: null /@<<GADExtractor>> PMID: 26873077 #En1: Salvia Miltiorrhiza #En2: angiotensin II (Ang II *KeyWords: null /@<<GADExtractor>> PMID: 21102479 #En1: Salvia miltiorrhiza #En2: angiotensin II (Ang II *KeyWords: null /***3
+DAN-SHEN	Gene_ID:285	@<<GADExtractor>> PMID: 18257269 #En1: Salvia miltiorrhiza #En2: Ang II *KeyWords: induced /***1
+DAN-SHEN	Gene_ID:738	@<<GADExtractor>> PMID: 18257269 #En1: Salvia miltiorrhiza #En2: Ang II *KeyWords: induced /***1
+DAN-SHEN	Gene_ID:325	@<<GADExtractor>> PMID: 28573227 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: explored /@<<GADExtractor>> PMID: 28573227 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: null /@<<GADExtractor>> PMID: 28573227 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: exert /@<<GADExtractor>> PMID: 28936828 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: used /@<<GADExtractor>> PMID: 19283874 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: null /@<<GADExtractor>> PMID: 19283874 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: decreased /***6
+DAN-SHEN	Gene_ID:4068	@<<GADExtractor>> PMID: 28573227 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: explored /@<<GADExtractor>> PMID: 28573227 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: null /@<<GADExtractor>> PMID: 28573227 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: exert /@<<GADExtractor>> PMID: 28936828 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: used /@<<GADExtractor>> PMID: 19283874 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: null /@<<GADExtractor>> PMID: 19283874 #En1: Salvia miltiorrhiza #En2: SAP *KeyWords: decreased /***6
+DAN-SHEN	Gene_ID:4741	@<<GADExtractor>> PMID: 23085027 #En1: Salvia miltiorrhiza #En2: NF-M *KeyWords: differentiated /***1
+DAN-SHEN	Gene_ID:1464	@<<GADExtractor>> PMID: 23085027 #En1: Salvia miltiorrhiza #En2: NG2 *KeyWords: differentiated /***1
+DAN-SHEN	Gene_ID:2670	@<<GADExtractor>> PMID: 23085027 #En1: Salvia miltiorrhiza #En2: GFAP *KeyWords: differentiated /***1
+DAN-SHEN	Gene_ID:4858	@<<GADExtractor>> PMID: 23713291 #En1: Salvia Miltiorrhiza #En2: ANOVA *KeyWords: ameliorate /@<<GADExtractor>> PMID: 23397734 #En1: Salvia miltiorrhiza #En2: ANOVA *KeyWords: increase /***2
+DAN-SHEN	Gene_ID:137872	@<<GADExtractor>> PMID: 23397734 #En1: Salvia miltiorrhiza #En2: hot *KeyWords: stasis /***1
+DAN-SHEN	Gene_ID:23336	@<<GADExtractor>> PMID: 23346212 #En1: Salvia miltiorrhiza #En2: DMN *KeyWords: ameliorates /***1
+DAN-SHEN	Gene_ID:4780	@<<GADExtractor>> PMID: 22155388 #En1: Salvia miltiorrhiza #En2: Nrf2 *KeyWords: induces /@<<GADExtractor>> PMID: 24868852 #En1: Salvia miltiorrhiza #En2: Nrf2 *KeyWords: activating /***2
+DAN-SHEN	Gene_ID:2551	@<<GADExtractor>> PMID: 22155388 #En1: Salvia miltiorrhiza #En2: Nrf2 *KeyWords: induces /@<<GADExtractor>> PMID: 24868852 #En1: Salvia miltiorrhiza #En2: Nrf2 *KeyWords: activating /***2
+DAN-SHEN	Gene_ID:11261	@<<GADExtractor>> PMID: 25952167 #En1: Salvia Miltiorrhiza #En2: CHP *KeyWords: prescribed /@<<GADExtractor>> PMID: 26048045 #En1: Salvia Miltiorrhiza #En2: CHP *KeyWords: null /@<<GADExtractor>> PMID: 21824510 #En1: Salvia miltiorrhiza #En2: CHP *KeyWords: null /@<<GADExtractor>> PMID: 21824510 #En1: Salvia miltiorrhiza #En2: CHP *KeyWords: co-prescribed /***4
+DAN-SHEN	Gene_ID:8879	@<<GADExtractor>> PMID: 24112769 #En1: Salvia miltiorrhiza #En2: SPL *KeyWords: null /***1
+DAN-SHEN	Gene_ID:1760	@<<GADExtractor>> PMID: 28558633 #En1: Salvia miltiorrhiza #En2: DMPK *KeyWords: null /***1
+DAN-SHEN	Gene_ID:43	@<<GADExtractor>> PMID: 21787715 #En1: Salvia miltiorrhiza #En2: acetylcholinesterase *KeyWords: act /@<<GADExtractor>> PMID: 21189568 #En1: Salvia miltiorrhiza #En2: AChE *KeyWords: null /@<<GADExtractor>> PMID: 21189568 #En1: salvia miltiorrhiza #En2: AChE *KeyWords: null /@<<GADExtractor>> PMID: 25857808 #En1: Salvia miltiorrhiza #En2: acetylcholinesterase *KeyWords: exert /***4
+DAN-SHEN	Gene_ID:4843	@<<GADExtractor>> PMID: 21189568 #En1: Salvia miltiorrhiza #En2: iNOS *KeyWords: null /@<<GADExtractor>> PMID: 21189568 #En1: salvia miltiorrhiza #En2: iNOS *KeyWords: null /***2
+DAN-SHEN	Gene_ID:51477	@<<GADExtractor>> PMID: 21189568 #En1: Salvia miltiorrhiza #En2: iNOS *KeyWords: null /@<<GADExtractor>> PMID: 21189568 #En1: salvia miltiorrhiza #En2: iNOS *KeyWords: null /***2
+DAN-SHEN	Gene_ID:5925	@<<GADExtractor>> PMID: 27228090 #En1: Salvia miltiorrhiza #En2: Rb1 *KeyWords: used /***1
+DAN-SHEN	Gene_ID:4359	@<<GADExtractor>> PMID: 27866193 #En1: Salvia miltiorrhiza #En2: DSS *KeyWords: isolated /@<<GADExtractor>> PMID: 17306634 #En1: Salvia miltiorrhiza #En2: DSS *KeyWords: null /***2
+DAN-SHEN	Gene_ID:5376	@<<GADExtractor>> PMID: 27866193 #En1: Salvia miltiorrhiza #En2: DSS *KeyWords: isolated /@<<GADExtractor>> PMID: 17306634 #En1: Salvia miltiorrhiza #En2: DSS *KeyWords: null /***2
+DAN-SHEN	Gene_ID:190	@<<GADExtractor>> PMID: 27866193 #En1: Salvia miltiorrhiza #En2: DSS *KeyWords: isolated /@<<GADExtractor>> PMID: 17306634 #En1: Salvia miltiorrhiza #En2: DSS *KeyWords: null /***2
+DAN-SHEN	Gene_ID:29107	@<<GADExtractor>> PMID: 27785882 #En1: Salvia miltiorrhiza #En2: NXT *KeyWords: null /***1
+DAN-SHEN	Gene_ID:9514	@<<GADExtractor>> PMID: 31818704 #En1: Salvia miltiorrhiza #En2: CST *KeyWords: null /***1
+DAN-SHEN	Gene_ID:54897	@<<GADExtractor>> PMID: 31818704 #En1: Salvia miltiorrhiza #En2: CST *KeyWords: null /***1
+DAN-SHEN	Gene_ID:10559	@<<GADExtractor>> PMID: 31818704 #En1: Salvia miltiorrhiza #En2: CST *KeyWords: null /***1
+DAN-SHEN	Gene_ID:790	@<<GADExtractor>> PMID: 29133791 #En1: Salvia miltiorrhiza #En2: CAD *KeyWords: modulated /***1
+DAN-SHEN	Gene_ID:414	@<<GADExtractor>> PMID: 28886530 #En1: Salvia miltiorrhiza #En2: ASD *KeyWords: have /@<<GADExtractor>> PMID: 28886530 #En1: Salvia miltiorrhiza #En2: ASD *KeyWords: null /@<<GADExtractor>> PMID: 28886530 #En1: Salvia miltiorrhiza #En2: ASD *KeyWords: null /***3
+DAN-SHEN	Gene_ID:4681	@<<GADExtractor>> PMID: 31302425 #En1: Salvia miltiorrhiza #En2: Dan *KeyWords: null /@<<GADExtractor>> PMID: 28893092 #En1: Salvia Miltiorrhiza #En2: Dan *KeyWords: null /***2
+DAN-SHEN	Gene_ID:6287	@<<GADExtractor>> PMID: 23707334 #En1: Salvia miltiorrhiza #En2: SAA *KeyWords: null /@<<GADExtractor>> PMID: 29921812 #En1: Salvia miltiorrhiza #En2: SAA *KeyWords: null /@<<GADExtractor>> PMID: 28893092 #En1: Salvia Miltiorrhiza #En2: SAA *KeyWords: null /@<<GADExtractor>> PMID: 32121151 #En1: Salvia miltiorrhiza #En2: SAA *KeyWords: used /@<<GADExtractor>> PMID: 26873077 #En1: Salvia Miltiorrhiza #En2: SAA *KeyWords: null /@<<GADExtractor>> PMID: 29576054 #En1: Salvia Miltiorrhiza #En2: SAA *KeyWords: null /@<<GADExtractor>> PMID: 18506911 #En1: Salvia miltiorrhiza #En2: SAA *KeyWords: used /@<<GADExtractor>> PMID: 28603997 #En1: Salvia miltiorrhiza #En2: SAA *KeyWords: null /***8
+DAN-SHEN	Gene_ID:2012	@<<GADExtractor>> PMID: 11819604 #En1: Salvia miltiorrhiza #En2: TMP *KeyWords: increased /@<<GADExtractor>> PMID: 11819604 #En1: Salvia miltiorrhiza #En2: TMP *KeyWords: increased /@<<GADExtractor>> PMID: 11819604 #En1: Salvia miltiorrhiza #En2: TMP *KeyWords: null /***3
+DAN-SHEN	Gene_ID:6647	@<<GADExtractor>> PMID: 24586918 #En1: Salvia miltiorrhiza #En2: SOD *KeyWords: null /***1
+DAN-SHEN	Gene_ID:7099	@<<GADExtractor>> PMID: 31074668 #En1: Salvia miltiorrhiza #En2: TLR4 *KeyWords: Protects /***1
+DAN-SHEN	Gene_ID:4615	@<<GADExtractor>> PMID: 31074668 #En1: Salvia miltiorrhiza #En2: MyD88 *KeyWords: Protects /***1
+DAN-SHEN	Gene_ID:231	@<<GADExtractor>> PMID: 17639557 #En1: Salvia miltiorrhiza #En2: ADR *KeyWords: null /***1
+DAN-SHEN	Gene_ID:5594	@<<GADExtractor>> PMID: 29032117 #En1: Salvia miltiorrhiza #En2: ERK *KeyWords: modulating /@<<GADExtractor>> PMID: 17005083 #En1: Salvia Miltiorrhiza #En2: ERK *KeyWords: null /***2
+DAN-SHEN	Gene_ID:2048	@<<GADExtractor>> PMID: 29032117 #En1: Salvia miltiorrhiza #En2: ERK *KeyWords: modulating /@<<GADExtractor>> PMID: 17005083 #En1: Salvia Miltiorrhiza #En2: ERK *KeyWords: null /***2
+DAN-SHEN	Gene_ID:5319	@<<GADExtractor>> PMID: 19283874 #En1: Salvia miltiorrhiza #En2: PLA2 *KeyWords: reduced /***1
+DAN-SHEN	Gene_ID:5320	@<<GADExtractor>> PMID: 19283874 #En1: Salvia miltiorrhiza #En2: PLA2 *KeyWords: reduced /***1
+DAN-SHEN	Gene_ID:6817	@<<GADExtractor>> PMID: 26473821 #En1: Salvia miltiorrhiza #En2: STP *KeyWords: null /***1
+DAN-SHEN	Gene_ID:25759	@<<GADExtractor>> PMID: 26970983 #En1: Salvia miltiorrhiza #En2: SLI *KeyWords: null /***1
+DAN-SHEN	Gene_ID:5243	@<<GADExtractor>> PMID: 25172788 #En1: Salvia miltiorrhiza #En2: P-glycoprotein *KeyWords: null /***1
+DAN-SHEN	Gene_ID:283871	@<<GADExtractor>> PMID: 25172788 #En1: Salvia miltiorrhiza #En2: P-gp *KeyWords: null /@<<GADExtractor>> PMID: 25172788 #En1: Salvia miltiorrhiza #En2: P-gp *KeyWords: null /***2
+DAN-SHEN	Gene_ID:8740	@<<GADExtractor>> PMID: 27748194 #En1: Salvia miltiorrhiza #En2: Light *KeyWords: null /***1
+DAN-SHEN	Gene_ID:1513	@<<GADExtractor>> PMID: 25109459 #En1: Salvia miltiorrhiza #En2: cathepsin K *KeyWords: null /***1
+DAN-SHEN	Gene_ID:50943	@<<GADExtractor>> PMID: 24573301 #En1: Salvia miltiorrhiza #En2: Foxp3 *KeyWords: increases /***1
+DAN-SHEN	Gene_ID:7157	@<<GADExtractor>> PMID: 12127260 #En1: Salvia miltiorrhiza #En2: p53 *KeyWords: inhibits /***1
+DAN-SHEN	Gene_ID:55	@<<GADExtractor>> PMID: 25395310 #En1: Salvia miltiorrhiza #En2: mPAP *KeyWords: showed /@<<GADExtractor>> PMID: 25395310 #En1: Salvia miltiorrhiza #En2: mPAP *KeyWords: showed /***2
+DAN-SHEN	Gene_ID:5172	@<<GADExtractor>> PMID: 18471419 #En1: Salvia Miltiorrhiza #En2: PDS *KeyWords: induced /***1
+DAN-SHEN	Gene_ID:358	@<<GADExtractor>> PMID: 18471419 #En1: Salvia Miltiorrhiza #En2: aquaporin-1 *KeyWords: observe /@<<GADExtractor>> PMID: 18471419 #En1: Salvia Miltiorrhiza #En2: AQP-1 *KeyWords: observe /***2
+DAN-SHEN	Gene_ID:7082	@<<GADExtractor>> PMID: 18471419 #En1: Salvia Miltiorrhiza #En2: ZO-1 *KeyWords: observe /***1
+DAN-SHEN	Gene_ID:3141	@<<GADExtractor>> PMID: 23557601 #En1: Salvia miltiorrhiza #En2: HCS *KeyWords: null /@<<GADExtractor>> PMID: 23557601 #En1: Salvia miltiorrhiza #En2: HCS *KeyWords: null /@<<GADExtractor>> PMID: 23557601 #En1: Salvia miltiorrhiza #En2: HCS *KeyWords: null /***3
+DAN-SHEN	Gene_ID:84565	@<<GADExtractor>> PMID: 23557601 #En1: Salvia miltiorrhiza #En2: LCS *KeyWords: null /@<<GADExtractor>> PMID: 23557601 #En1: Salvia miltiorrhiza #En2: LCS *KeyWords: null /@<<GADExtractor>> PMID: 23557601 #En1: Salvia miltiorrhiza #En2: LCS *KeyWords: null /***3
+DAN-SHEN	Gene_ID:26136	@<<GADExtractor>> PMID: 23557601 #En1: Salvia miltiorrhiza #En2: TES *KeyWords: null /***1
+DAN-SHEN	Gene_ID:1636	@<<GADExtractor>> PMID: 15706878 #En1: Salvia miltiorrhiza #En2: angiotensin converting enzyme *KeyWords: null /@<<GADExtractor>> PMID: 15706878 #En1: Salvia miltiorrhiza #En2: angiotensin converting enzyme *KeyWords: null /***2
+DAN-SHEN	Gene_ID:5053	@<<GADExtractor>> PMID: 17306634 #En1: Salvia miltiorrhiza #En2: PAH *KeyWords: null /***1
+DAN-SHEN	Gene_ID:26155	@<<GADExtractor>> PMID: 28875634 #En1: Salvia miltiorrhiza #En2: NIR *KeyWords: null /@<<GADExtractor>> PMID: 30951995 #En1: Salvia miltiorrhiza #En2: NIR *KeyWords: based /@<<GADExtractor>> PMID: 30951995 #En1: Salvia miltiorrhiza #En2: NIR *KeyWords: applied /***3
+DAN-SHEN	Gene_ID:5266	@<<GADExtractor>> PMID: 15925261 #En1: Salvia miltiorrhiza #En2: ESI *KeyWords: null /@<<GADExtractor>> PMID: 15925261 #En1: Salvia miltiorrhiza #En2: ESI *KeyWords: null /@<<GADExtractor>> PMID: 15925261 #En1: Salvia miltiorrhiza #En2: ESI *KeyWords: null /@<<GADExtractor>> PMID: 15925261 #En1: Salvia miltiorrhiza #En2: ESI *KeyWords: null /***4
+DAN-SHEN	Gene_ID:1392	@<<GADExtractor>> PMID: 27916808 #En1: Salvia miltiorrhiza #En2: CRF *KeyWords: null /***1
+DAN-SHEN	Gene_ID:10882	@<<GADExtractor>> PMID: 27916808 #En1: Salvia miltiorrhiza #En2: CRF *KeyWords: null /***1
+DAN-SHEN	Gene_ID:3558	@<<GADExtractor>> PMID: 17616290 #En1: Salvia miltiorrhiza #En2: interleukin-2 *KeyWords: modulates /***1
+DAN-SHEN	Gene_ID:3458	@<<GADExtractor>> PMID: 17616290 #En1: Salvia miltiorrhiza #En2: interferon-gamma *KeyWords: modulates /***1
+DAN-SHEN	Gene_ID:3930	@<<GADExtractor>> PMID: 17616290 #En1: Salvia miltiorrhiza #En2: PHA *KeyWords: null /***1
+DAN-SHEN	Gene_ID:836	@<<GADExtractor>> PMID: 10630370 #En1: Salvia miltiorrhiza #En2: caspase-3 *KeyWords: induces /***1
+DAN-SHEN	Gene_ID:7001	@<<GADExtractor>> PMID: 25575944 #En1: Salvia miltiorrhiza #En2: TSA *KeyWords: null /@<<GADExtractor>> PMID: 30787991 #En1: Salvia miltiorrhiza #En2: TSA *KeyWords: null /@<<GADExtractor>> PMID: 32322336 #En1: Salvia miltiorrhiza #En2: TSA *KeyWords: null /***3
+DAN-SHEN	Gene_ID:7247	@<<GADExtractor>> PMID: 19653860 #En1: Salvia miltiorrhiza #En2: TSN *KeyWords: null /@<<GADExtractor>> PMID: 28550687 #En1: Salvia miltiorrhiza #En2: TSN *KeyWords: null /***2
+DAN-SHEN	Gene_ID:7422	@<<GADExtractor>> PMID: 29807443 #En1: Salvia miltiorrhiza #En2: VEGF *KeyWords: null /@<<GADExtractor>> PMID: 29807443 #En1: Salvia miltiorrhiza #En2: VEGF *KeyWords: targeting /***2
+DAN-SHEN	Gene_ID:3791	@<<GADExtractor>> PMID: 29807443 #En1: Salvia miltiorrhiza #En2: VEGFR *KeyWords: null /***1
+DAN-SHEN	Gene_ID:26578	@<<GADExtractor>> PMID: 20448359 #En1: salvia miltiorrhiza #En2: OSF *KeyWords: null /@<<GADExtractor>> PMID: 20448359 #En1: salvia miltiorrhiza #En2: OSF *KeyWords: (treated /@<<GADExtractor>> PMID: 20448359 #En1: salvia miltiorrhiza #En2: OSF *KeyWords: (treated /@<<GADExtractor>> PMID: 20448359 #En1: salvia miltiorrhiza #En2: OSF *KeyWords: null /***4
+DAN-SHEN	Gene_ID:100187907	@<<GADExtractor>> PMID: 20055164 #En1: Salvia miltiorrhiza #En2: TRAP *KeyWords: null /@<<GADExtractor>> PMID: 20055164 #En1: Salvia miltiorrhiza #En2: TRAP *KeyWords: null /@<<GADExtractor>> PMID: 20055164 #En1: Salvia miltiorrhiza #En2: TRAP *KeyWords: null /***3
+DAN-SHEN	Gene_ID:7076	@<<GADExtractor>> PMID: 10921385 #En1: Salvia miltiorrhiza #En2: TIMP *KeyWords: shown /***1
+DAN-SHEN	Gene_ID:6351	@<<GADExtractor>> PMID: 16640835 #En1: Salvia miltiorrhiza #En2: CCl4 *KeyWords: plays /***1
+DAN-SHEN	Gene_ID:25805	@<<GADExtractor>> PMID: 32185964 #En1: Salvia miltiorrhiza #En2: NMA *KeyWords: null /***1
+DAN-SHEN	Gene_ID:467	@<<GADExtractor>> PMID: 31667363 #En1: Salvia miltiorrhiza #En2: ATF3 *KeyWords: promoted /@<<GADExtractor>> PMID: 31667363 #En1: Salvia miltiorrhiza #En2: ATF3 *KeyWords: promoted /***2
+DAN-SHEN	Gene_ID:415	@<<GADExtractor>> PMID: 18161310 #En1: Salvia miltiorrhiza #En2: ASE *KeyWords: null /***1
+DAN-SHEN	Gene_ID:3146	@<<GADExtractor>> PMID: 19079688 #En1: Salvia miltiorrhiza #En2: HMGB1 *KeyWords: null /@<<GADExtractor>> PMID: 19779008 #En1: Salvia miltiorrhiza #En2: High Mobility Group Box 1 *KeyWords: protect /@<<GADExtractor>> PMID: 19779008 #En1: Salvia miltiorrhiza #En2: HMGB1 *KeyWords: protect /***3
+DAN-SHEN	Gene_ID:2222	@<<GADExtractor>> PMID: 32281345 #En1: Salvia miltiorrhiza #En2: squalene synthase *KeyWords: null /@<<GADExtractor>> PMID: 32281345 #En1: Salvia miltiorrhiza #En2: SQS *KeyWords: null /***2
+DAN-SHEN	Gene_ID:173	@<<GADExtractor>> PMID: 31118972 #En1: Salvia miltiorrhiza #En2: ALF *KeyWords: null /***1
+DAN-SHEN	Gene_ID:147719	@<<GADExtractor>> PMID: 30466607 #En1: Salvia miltiorrhiza #En2: SMR *KeyWords: null /***1
+DAN-SHEN	Gene_ID:5627	@<<GADExtractor>> PMID: 23785989 #En1: Salvia miltiorrhiza #En2: PSA *KeyWords: containing /***1
+DAN-SHEN	Gene_ID:354	@<<GADExtractor>> PMID: 23785989 #En1: Salvia miltiorrhiza #En2: PSA *KeyWords: containing /***1
+DAN-SHEN	Gene_ID:213	@<<GADExtractor>> PMID: 21127792 #En1: Salvia miltiorrhiza #En2: albumin *KeyWords: null /@<<GADExtractor>> PMID: 26926393 #En1: Salvia miltiorrhiza #En2: albumin *KeyWords: null /***2
+DAN-SHEN	Gene_ID:4760	@<<GADExtractor>> PMID: 11749813 #En1: Salvia miltiorrhiza #En2: beta2 *KeyWords: null /@<<GADExtractor>> PMID: 11749813 #En1: Salvia miltiorrhiza #En2: beta2 *KeyWords: induced /***2
+DAN-SHEN	Gene_ID:10242	@<<GADExtractor>> PMID: 11749813 #En1: Salvia miltiorrhiza #En2: beta2 *KeyWords: null /@<<GADExtractor>> PMID: 11749813 #En1: Salvia miltiorrhiza #En2: beta2 *KeyWords: induced /***2
+DAN-SHEN	Gene_ID:10383	@<<GADExtractor>> PMID: 11749813 #En1: Salvia miltiorrhiza #En2: beta2 *KeyWords: null /@<<GADExtractor>> PMID: 11749813 #En1: Salvia miltiorrhiza #En2: beta2 *KeyWords: induced /***2
+DAN-SHEN	Gene_ID:47	@<<GADExtractor>> PMID: 11749813 #En1: Salvia miltiorrhiza #En2: aCL *KeyWords: null /***1
+DAN-SHEN	Gene_ID:5242	@<<GADExtractor>> PMID: 23548131 #En1: Salvia miltiorrhiza #En2: PGS *KeyWords: null /***1
+DAN-SHEN	Gene_ID:8905	@<<GADExtractor>> PMID: 23548131 #En1: Salvia miltiorrhiza #En2: PGS *KeyWords: null /***1
+DAN-SHEN	Gene_ID:8083	@<<GADExtractor>> PMID: 30934811 #En1: Salvia miltiorrhiza #En2: KAR *KeyWords: null /***1
+DAN-SHEN	Gene_ID:7832	@<<GADExtractor>> PMID: 23888689 #En1: Salvia miltiorrhiza #En2: PC3 *KeyWords: showed /***1
+YAO-YONG-DAN-SHEN-YE	Gene_ID:2099	@<<GADExtractor>> PMID: 23415138 #En1: Salvia officinalis #En2: Era *KeyWords: dated /***1
+YAO-YONG-DAN-SHEN-YE	Gene_ID:80218	@<<GADExtractor>> PMID: 17173107 #En1: Salvia officinalis #En2: San *KeyWords: null /***1
+LI-ZHI-CAO	Gene_ID:5595	@<<GADExtractor>> PMID: 28847754 #En1: Salvia plebeia #En2: Erk1/2 *KeyWords: Regulates /***1
+LI-ZHI-CAO	Gene_ID:5594	@<<GADExtractor>> PMID: 28847754 #En1: Salvia plebeia #En2: Erk1/2 *KeyWords: Regulates /***1
+LI-ZHI-CAO	Gene_ID:3664	@<<GADExtractor>> PMID: 28847754 #En1: Salvia plebeia #En2: LPS *KeyWords: Regulates /***1
+LI-ZHI-CAO	Gene_ID:23541	@<<GADExtractor>> PMID: 26731101 #En1: Salvia plebeia #En2: SPF *KeyWords: null /@<<GADExtractor>> PMID: 26731101 #En1: Salvia plebeia #En2: SPF *KeyWords: null /***2
+LI-ZHI-CAO	Gene_ID:1822	@<<GADExtractor>> PMID: 28394931 #En1: Salvia plebeia #En2: HRS *KeyWords: null /***1
+LI-ZHI-CAO	Gene_ID:259	@<<GADExtractor>> PMID: 20211234 #En1: Salvia Plebeia #En2: UTI *KeyWords: treating /***1
+SALVIA--SPP	Gene_ID:81502	@<<GADExtractor>> PMID: 23653088 #En1: Salvia spp #En2: spp *KeyWords: null /***1
+SALVIA--SPP.	Gene_ID:81502	@<<GADExtractor>> PMID: 23653088 #En1: Salvia spp #En2: spp *KeyWords: null /***1
+YUN-NAN-SHU-WEI-CAO	Gene_ID:26155	@<<GADExtractor>> PMID: 30951995 #En1: Salvia yunnanensis #En2: NIR *KeyWords: based /@<<GADExtractor>> PMID: 30951995 #En1: Salvia yunnanensis #En2: NIR *KeyWords: applied /@<<GADExtractor>> PMID: 30951995 #En1: Salvia yunnanensis #En2: NIR *KeyWords: null /@<<GADExtractor>> PMID: 30951995 #En1: Salvia yunnanensis #En2: NIR *KeyWords: null /***4
+JIE-GU-MU	Gene_ID:415	@<<GADExtractor>> PMID: 18788745 #En1: Sambucus nigra #En2: ASE *KeyWords: extracted /@<<GADExtractor>> PMID: 18788745 #En1: Sambucus nigra #En2: ASE *KeyWords: extracted /***2
+XUE-JIE	Gene_ID:241	@<<GADExtractor>> PMID: 27681718 #En1: sanguis draconis #En2: flap *KeyWords: draconis /@<<GADExtractor>> PMID: 27681718 #En1: sanguis draconis #En2: flap *KeyWords: improve /***2
+XIAO-DI-YU	Gene_ID:5340	@<<GADExtractor>> PMID: 22348918 #En1: Sanguisorba minor #En2: plasmin *KeyWords: suppresses /@<<GADExtractor>> PMID: 22348918 #En1: Sanguisorba minor #En2: plasmin *KeyWords: null /***2
+DI-YU	Gene_ID:722	@<<GADExtractor>> PMID: 32252578 #En1: Sanguisorba officinalis #En2: PRP *KeyWords: null /***1
+DI-YU	Gene_ID:5621	@<<GADExtractor>> PMID: 32252578 #En1: Sanguisorba officinalis #En2: PRP *KeyWords: null /***1
+DI-YU	Gene_ID:47	@<<GADExtractor>> PMID: 32252578 #En1: Sanguisorba officinalis #En2: ACL *KeyWords: null /***1
+DI-YU	Gene_ID:5595	@<<GADExtractor>> PMID: 28360858 #En1: Sanguisorba officinalis #En2: Erk1/2 *KeyWords: Promoting /***1
+DI-YU	Gene_ID:5594	@<<GADExtractor>> PMID: 28360858 #En1: Sanguisorba officinalis #En2: Erk1/2 *KeyWords: Promoting /***1
+DI-YU	Gene_ID:80320	@<<GADExtractor>> PMID: 28284792 #En1: Sanguisorba officinalis #En2: SP6 *KeyWords: null /***1
+DI-YU	Gene_ID:221833	@<<GADExtractor>> PMID: 28284792 #En1: Sanguisorba officinalis #En2: SP8 *KeyWords: null /@<<GADExtractor>> PMID: 28284792 #En1: Sanguisorba officinalis #En2: SP8 *KeyWords: null /***2
+WU-HUAN-ZI-PI	Gene_ID:7249	@<<GADExtractor>> PMID: 24937450 #En1: Sapindus mukorossi #En2: NAFLD *KeyWords: null /***1
+WU-JIU-MU-GEN-PI	Gene_ID:6647	@<<GADExtractor>> PMID: 23545454 #En1: Sapium sebiferum #En2: SOD *KeyWords: null /***1
+WU-JIU-MU-GEN-PI	Gene_ID:3030	@<<GADExtractor>> PMID: 23545454 #En1: Sapium sebiferum #En2: TPA *KeyWords: increased /@<<GADExtractor>> PMID: 23545454 #En1: Sapium sebiferum #En2: TPA *KeyWords: null /***2
+WU-JIU-MU-GEN-PI	Gene_ID:5327	@<<GADExtractor>> PMID: 23545454 #En1: Sapium sebiferum #En2: TPA *KeyWords: increased /@<<GADExtractor>> PMID: 23545454 #En1: Sapium sebiferum #En2: TPA *KeyWords: null /***2
+WU-JIU-MU-GEN-PI	Gene_ID:65057	@<<GADExtractor>> PMID: 25576898 #En1: Sapium sebiferum #En2: ACD *KeyWords: evaluate /@<<GADExtractor>> PMID: 25576898 #En1: Sapium sebiferum #En2: ACD *KeyWords: exhibited /***2
+FANG-FENG	Gene_ID:6236	@<<GADExtractor>> PMID: 26514546 #En1: Saposhnikovia divaricata #En2: RAD *KeyWords: null /***1
+FANG-FENG	Gene_ID:1201	@<<GADExtractor>> PMID: 29423591 #En1: Saposhnikovia divaricata #En2: BTS *KeyWords: null /***1
+FANG-FENG	Gene_ID:1574	@<<GADExtractor>> PMID: 11388644 #En1: Saposhnikovia divaricata #En2: CYP3A *KeyWords: resulted /***1
+JIU-JIE-CHA	Gene_ID:5266	@<<GADExtractor>> PMID: 21818803 #En1: Sarcandra glabra #En2: ESI *KeyWords: reliable /***1
+JIU-JIE-CHA	Gene_ID:3664	@<<GADExtractor>> PMID: 27631138 #En1: Sarcandra glabra #En2: LPS *KeyWords: combined /@<<GADExtractor>> PMID: 27631138 #En1: Sarcandra glabra #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 27631138 #En1: Sarcandra glabra #En2: LPS *KeyWords: improve /@<<GADExtractor>> PMID: 27631138 #En1: Sarcandra glabra #En2: LPS *KeyWords: had /***4
+JIU-JIE-CHA	Gene_ID:3569	@<<GADExtractor>> PMID: 27631138 #En1: Sarcandra glabra #En2: IL-6 *KeyWords: suppress /***1
+MIAN-TOU-XUE-LIAN	Gene_ID:4043	@<<GADExtractor>> PMID: 27423108 #En1: Saussurea laniceps #En2: RAP *KeyWords: null /***1
+MIAN-TOU-XUE-LIAN	Gene_ID:3309	@<<GADExtractor>> PMID: 24841997 #En1: Saussurea laniceps #En2: Bip *KeyWords: null /@<<GADExtractor>> PMID: 24841997 #En1: Saussurea medusa #En2: Bip *KeyWords: null /@<<GADExtractor>> PMID: 24841997 #En1: Saussurea medusa #En2: Bip *KeyWords: null /***3
+MU-XIANG	Gene_ID:114548	@<<GADExtractor>> PMID: 32057354 #En1: Saussurea lappa #En2: NLRP3 *KeyWords: inhibited /@<<GADExtractor>> PMID: 32057354 #En1: Saussurea lappa #En2: NLRP3 *KeyWords: exerted /***2
+MU-XIANG	Gene_ID:834	@<<GADExtractor>> PMID: 32057354 #En1: Saussurea lappa #En2: caspase-1 *KeyWords: inhibited /***1
+MU-XIANG	Gene_ID:182	@<<GADExtractor>> PMID: 15467204 #En1: Saussurea lappa #En2: AGS *KeyWords: null /@<<GADExtractor>> PMID: 15467204 #En1: Saussurea lappa #En2: AGS *KeyWords: induce /***2
+MU-XIANG	Gene_ID:308	@<<GADExtractor>> PMID: 15467204 #En1: Saussurea lappa #En2: Annexin V *KeyWords: induce /***1
+MU-XIANG	Gene_ID:7157	@<<GADExtractor>> PMID: 15467204 #En1: Saussurea lappa #En2: p53 *KeyWords: increased /***1
+MU-XIANG	Gene_ID:581	@<<GADExtractor>> PMID: 15467204 #En1: Saussurea lappa #En2: Bax *KeyWords: increased /***1
+MU-XIANG	Gene_ID:836	@<<GADExtractor>> PMID: 15467204 #En1: Saussurea lappa #En2: caspase-3 *KeyWords: increased /***1
+MU-XIANG	Gene_ID:4843	@<<GADExtractor>> PMID: 11100933 #En1: Saussurea lappa #En2: iNOS *KeyWords: found /@<<GADExtractor>> PMID: 11100933 #En1: Saussurea lappa #En2: iNOS *KeyWords: found /***2
+MU-XIANG	Gene_ID:51477	@<<GADExtractor>> PMID: 11100933 #En1: Saussurea lappa #En2: iNOS *KeyWords: found /@<<GADExtractor>> PMID: 11100933 #En1: Saussurea lappa #En2: iNOS *KeyWords: found /***2
+ROU-MAO-XIAO-RU-XIANG	Gene_ID:1636	@<<GADExtractor>> PMID: 20185303 #En1: Schinus molle #En2: angiotensin I-converting enzyme *KeyWords: inhibited /@<<GADExtractor>> PMID: 20185303 #En1: Schinus molle #En2: ACE *KeyWords: inhibited /***2
+WU-WEI-ZI	Gene_ID:1385	@<<GADExtractor>> PMID: 32140977 #En1: Schisandra chinensis #En2: CREB *KeyWords: Induced /***1
+WU-WEI-ZI	Gene_ID:4254	@<<GADExtractor>> PMID: 25407144 #En1: Schisandra chinensis #En2: SCF *KeyWords: null /@<<GADExtractor>> PMID: 29986408 #En1: Schisandra chinensis #En2: SCF *KeyWords: null /@<<GADExtractor>> PMID: 29986408 #En1: Schisandra chinensis #En2: SCF *KeyWords: null /@<<GADExtractor>> PMID: 30821573 #En1: Schisandra chinensis #En2: SCF *KeyWords: null /@<<GADExtractor>> PMID: 29751698 #En1: Schisandra chinensis #En2: SCF *KeyWords: null /@<<GADExtractor>> PMID: 18442518 #En1: Schisandra sp #En2: SCF *KeyWords: null /@<<GADExtractor>> PMID: 18442518 #En1: Schisandra sphenanthera #En2: SCF *KeyWords: null /@<<GADExtractor>> PMID: 18442518 #En1: Schisandra sphenanthera #En2: SCF *KeyWords: null /***8
+WU-WEI-ZI	Gene_ID:1066	@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: CEH *KeyWords: investigated /@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: CEH *KeyWords: null /***2
+WU-WEI-ZI	Gene_ID:2571	@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: SCP *KeyWords: taking /@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: SCP *KeyWords: null /@<<GADExtractor>> PMID: 26230941 #En1: Schisandra chinensis #En2: SCP *KeyWords: null /@<<GADExtractor>> PMID: 27367669 #En1: Schisandra chinensis #En2: SCP *KeyWords: presented /@<<GADExtractor>> PMID: 27367669 #En1: Schisandra chinensis #En2: SCP *KeyWords: null /@<<GADExtractor>> PMID: 27545408 #En1: Schisandra chinensis #En2: SCP *KeyWords: null /@<<GADExtractor>> PMID: 30844489 #En1: Schisandra Chinensis #En2: SCP *KeyWords: null /***7
+WU-WEI-ZI	Gene_ID:4663	@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: NAC *KeyWords: taking /@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: NAC *KeyWords: null /***2
+WU-WEI-ZI	Gene_ID:22861	@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: NAC *KeyWords: taking /@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: NAC *KeyWords: null /***2
+WU-WEI-ZI	Gene_ID:7504	@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: NAC *KeyWords: taking /@<<GADExtractor>> PMID: 28167106 #En1: schisandra chinensis #En2: NAC *KeyWords: null /***2
+WU-WEI-ZI	Gene_ID:80218	@<<GADExtractor>> PMID: 18987970 #En1: Schisandra chinensis #En2: San *KeyWords: null /@<<GADExtractor>> PMID: 10547189 #En1: Schisandra Chinensis #En2: San *KeyWords: null /@<<GADExtractor>> PMID: 30384366 #En1: Schisandra chinensis #En2: San *KeyWords: null /***3
+WU-WEI-ZI	Gene_ID:6351	@<<GADExtractor>> PMID: 23888698 #En1: Schisandra chinensis #En2: CCl4 *KeyWords: null /@<<GADExtractor>> PMID: 10616961 #En1: Schisandra chinensis #En2: CCl4 *KeyWords: using /@<<GADExtractor>> PMID: 10616961 #En1: Schisandra chinensis #En2: CCl4 *KeyWords: null /***3
+WU-WEI-ZI	Gene_ID:6098	@<<GADExtractor>> PMID: 22438664 #En1: Schisandra chinensis #En2: ROS *KeyWords: null /@<<GADExtractor>> PMID: 22438664 #En1: Schisandra chinensis #En2: ROS *KeyWords: null /***2
+WU-WEI-ZI	Gene_ID:1544	@<<GADExtractor>> PMID: 23376044 #En1: Schisandra chinensis #En2: CYP1A2 *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:1571	@<<GADExtractor>> PMID: 23376044 #En1: Schisandra chinensis #En2: CYP2E1 *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:1576	@<<GADExtractor>> PMID: 23376044 #En1: Schisandra chinensis #En2: CYP3A4 *KeyWords: null /@<<GADExtractor>> PMID: 28344076 #En1: Schisandra chinensis #En2: CYP3A4 *KeyWords: null /@<<GADExtractor>> PMID: 28344076 #En1: Schisandra chinensis #En2: CYP3A4 *KeyWords: null /***3
+WU-WEI-ZI	Gene_ID:4311	@<<GADExtractor>> PMID: 18773416 #En1: Schisandra chinensis #En2: SFE *KeyWords: null /@<<GADExtractor>> PMID: 18773416 #En1: Schisandra chinensis #En2: SFE *KeyWords: null /@<<GADExtractor>> PMID: 18773416 #En1: Schisandra chinensis #En2: SFE *KeyWords: made /***3
+WU-WEI-ZI	Gene_ID:3661	@<<GADExtractor>> PMID: 30558163 #En1: Schisandra Chinensis #En2: IRF3 *KeyWords: Suppresses /***1
+WU-WEI-ZI	Gene_ID:3855	@<<GADExtractor>> PMID: 30558163 #En1: Schisandra Chinensis #En2: SCL *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:8856	@<<GADExtractor>> PMID: 21524698 #En1: Schisandra chinensis #En2: PXR *KeyWords: trans-activate /@<<GADExtractor>> PMID: 16267138 #En1: Schisandra chinensis #En2: PXR *KeyWords: activate /@<<GADExtractor>> PMID: 31336134 #En1: Schisandra sp #En2: pregnane X receptor *KeyWords: null /@<<GADExtractor>> PMID: 31336134 #En1: Schisandra sp #En2: PXR *KeyWords: exert /@<<GADExtractor>> PMID: 31336134 #En1: Schisandra sphenanthera #En2: pregnane X receptor *KeyWords: null /@<<GADExtractor>> PMID: 31336134 #En1: Schisandra sphenanthera #En2: PXR *KeyWords: exert /@<<GADExtractor>> PMID: 31336134 #En1: Schisandra sphenanthera #En2: pregnane X receptor *KeyWords: null /@<<GADExtractor>> PMID: 31336134 #En1: Schisandra sphenanthera #En2: PXR *KeyWords: exert /***8
+WU-WEI-ZI	Gene_ID:1577	@<<GADExtractor>> PMID: 28344076 #En1: Schisandra chinensis #En2: CYP3A5 *KeyWords: null /@<<GADExtractor>> PMID: 28344076 #En1: Schisandra chinensis #En2: CYP3A5 *KeyWords: null /***2
+WU-WEI-ZI	Gene_ID:101180900	@<<GADExtractor>> PMID: 28284081 #En1: Schisandra Chinensis #En2: MSE *KeyWords: fructus /***1
+WU-WEI-ZI	Gene_ID:1161	@<<GADExtractor>> PMID: 26355803 #En1: Schisandra chinensis #En2: CsA *KeyWords: coadministered /***1
+WU-WEI-ZI	Gene_ID:3313	@<<GADExtractor>> PMID: 26355803 #En1: Schisandra chinensis #En2: CsA *KeyWords: coadministered /***1
+WU-WEI-ZI	Gene_ID:1442	@<<GADExtractor>> PMID: 26355803 #En1: Schisandra chinensis #En2: CsA *KeyWords: coadministered /***1
+WU-WEI-ZI	Gene_ID:5925	@<<GADExtractor>> PMID: 24462784 #En1: Schisandra chinensis #En2: Rb1 *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:4035	@<<GADExtractor>> PMID: 32251761 #En1: Schisandra chinensis #En2: LRP-1 *KeyWords: acts /***1
+WU-WEI-ZI	Gene_ID:55079	@<<GADExtractor>> PMID: 29053630 #En1: Schisandra Chinensis #En2: TOF *KeyWords: null /@<<GADExtractor>> PMID: 31433414 #En1: Schisandra chinensis #En2: TOF *KeyWords: null /***2
+WU-WEI-ZI	Gene_ID:6611	@<<GADExtractor>> PMID: 14587874 #En1: Schisandra chinensis #En2: SMS *KeyWords: null /@<<GADExtractor>> PMID: 14587874 #En1: Schisandra chinensis #En2: SMS *KeyWords: rationalize /@<<GADExtractor>> PMID: 30384366 #En1: Schisandra chinensis #En2: SMS *KeyWords: null /***3
+WU-WEI-ZI	Gene_ID:7249	@<<GADExtractor>> PMID: 26972505 #En1: Schisandra chinensis #En2: NAFLD *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:4780	@<<GADExtractor>> PMID: 25552902 #En1: Schisandra chinensis #En2: Nrf2 *KeyWords: regulates /***1
+WU-WEI-ZI	Gene_ID:2551	@<<GADExtractor>> PMID: 25552902 #En1: Schisandra chinensis #En2: Nrf2 *KeyWords: regulates /***1
+WU-WEI-ZI	Gene_ID:2010	@<<GADExtractor>> PMID: 24813830 #En1: Schisandra chinensis #En2: STA *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:9213	@<<GADExtractor>> PMID: 16267138 #En1: Schisandra chinensis #En2: X receptor *KeyWords: activate /@<<GADExtractor>> PMID: 16267138 #En1: Schisandra chinensis #En2: X receptor *KeyWords: activate /***2
+WU-WEI-ZI	Gene_ID:173	@<<GADExtractor>> PMID: 31118972 #En1: Schisandra chinensis #En2: ALF *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:5266	@<<GADExtractor>> PMID: 21894347 #En1: Schisandra chinensis #En2: ESI *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:43	@<<GADExtractor>> PMID: 32148536 #En1: Schisandra chinensis #En2: AChE *KeyWords: null /@<<GADExtractor>> PMID: 32148536 #En1: Schisandra chinensis #En2: AChE *KeyWords: null /***2
+WU-WEI-ZI	Gene_ID:4149	@<<GADExtractor>> PMID: 16141532 #En1: Schisandra chinensis #En2: Max *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:3664	@<<GADExtractor>> PMID: 27794459 #En1: Schisandra chinensis #En2: PPS *KeyWords: null /***1
+WU-WEI-ZI	Gene_ID:5243	@<<GADExtractor>> PMID: 17318783 #En1: Schisandra chinensis #En2: P-glycoprotein *KeyWords: reverses /***1
+WU-WEI-ZI	Gene_ID:4771	@<<GADExtractor>> PMID: 17318783 #En1: Schisandra chinensis #En2: SCH *KeyWords: null /***1
+ZHONG-JIAN-WU-WEI-ZI	Gene_ID:101180900	@<<GADExtractor>> PMID: 29271166 #En1: Schisandra propinqua #En2: MSE *KeyWords: null /@<<GADExtractor>> PMID: 29271166 #En1: Schisandra propinqua #En2: MSE *KeyWords: null /***2
+ZHONG-JIAN-WU-WEI-ZI	Gene_ID:55079	@<<GADExtractor>> PMID: 29271166 #En1: Schisandra propinqua #En2: TOF *KeyWords: null /***1
+JING-JIE	Gene_ID:6783	@<<GADExtractor>> PMID: 28428548 #En1: Schizonepeta tenuifolia #En2: STE *KeyWords: null /***1
+WU-GONG	Gene_ID:6647	@<<GADExtractor>> PMID: 24168240 #En1: Scolopendra subspinipes mutilans #En2: hSOD1 *KeyWords: attenuates /***1
+XUAN-SHEN	Gene_ID:801	@<<GADExtractor>> PMID: 15010258 #En1: Scrophularia ningpoensis #En2: CAM *KeyWords: null /***1
+XUAN-SHEN	Gene_ID:79823	@<<GADExtractor>> PMID: 15010258 #En1: Scrophularia ningpoensis #En2: CAM *KeyWords: null /***1
+XUAN-SHEN	Gene_ID:1574	@<<GADExtractor>> PMID: 22242435 #En1: Scrophularia ningpoensis #En2: CYP3A *KeyWords: null /@<<GADExtractor>> PMID: 22242435 #En1: Scrophularia ningpoensis #En2: CYP3A *KeyWords: null /***2
+XUAN-SHEN	Gene_ID:1571	@<<GADExtractor>> PMID: 22242435 #En1: Scrophularia ningpoensis #En2: CYP2E1 *KeyWords: null /@<<GADExtractor>> PMID: 22242435 #En1: Scrophularia ningpoensis #En2: CYP2E1 *KeyWords: null /***2
+XUAN-SHEN	Gene_ID:1544	@<<GADExtractor>> PMID: 22242435 #En1: Scrophularia ningpoensis #En2: CYP1A2 *KeyWords: null /@<<GADExtractor>> PMID: 22242435 #En1: Scrophularia ningpoensis #En2: CYP1A2 *KeyWords: null /***2
+XUAN-SHEN	Gene_ID:10894	@<<GADExtractor>> PMID: 29355053 #En1: Scrophularia ningpoensis #En2: HAR *KeyWords: null /***1
+XUAN-SHEN	Gene_ID:4580	@<<GADExtractor>> PMID: 8339032 #En1: Scrophularia ningpoensis #En2: MTX *KeyWords: null /***1
+HUANG-QIN	Gene_ID:3664	@<<GADExtractor>> PMID: 31506998 #En1: Scutellaria baicalensis #En2: LPS *KeyWords: suppress /***1
+HUANG-QIN	Gene_ID:801	@<<GADExtractor>> PMID: 15010258 #En1: Scutellaria baicalensis #En2: CAM *KeyWords: null /***1
+HUANG-QIN	Gene_ID:79823	@<<GADExtractor>> PMID: 15010258 #En1: Scutellaria baicalensis #En2: CAM *KeyWords: null /***1
+HUANG-QIN	Gene_ID:4311	@<<GADExtractor>> PMID: 32045633 #En1: Scutellaria baicalensis #En2: SFE *KeyWords: null /***1
+HUANG-QIN	Gene_ID:7442	@<<GADExtractor>> PMID: 20380875 #En1: Scutellaria baicalensis #En2: TRPV1 *KeyWords: investigating /***1
+HUANG-QIN	Gene_ID:2099	@<<GADExtractor>> PMID: 9463939 #En1: Scutellaria baicalensis #En2: ESR *KeyWords: depressed /***1
+HUANG-QIN	Gene_ID:5562	@<<GADExtractor>> PMID: 23110126 #En1: Scutellaria baicalensis #En2: AMPK *KeyWords: protects /@<<GADExtractor>> PMID: 23110126 #En1: Scutellaria baicalensis #En2: AMPK *KeyWords: protects /@<<GADExtractor>> PMID: 29542003 #En1: Scutellaria baicalensis #En2: AMPK *KeyWords: regulates /***3
+HUANG-QIN	Gene_ID:5563	@<<GADExtractor>> PMID: 23110126 #En1: Scutellaria baicalensis #En2: AMPK *KeyWords: protects /@<<GADExtractor>> PMID: 23110126 #En1: Scutellaria baicalensis #En2: AMPK *KeyWords: protects /@<<GADExtractor>> PMID: 29542003 #En1: Scutellaria baicalensis #En2: AMPK *KeyWords: regulates /***3
+HUANG-QIN	Gene_ID:100294715	@<<GADExtractor>> PMID: 18346132 #En1: Scutellaria baicalensis #En2: BOP *KeyWords: modulates /***1
+HUANG-QIN	Gene_ID:2290	@<<GADExtractor>> PMID: 21804206 #En1: Scutellaria baicalensis #En2: Qin *KeyWords: null /@<<GADExtractor>> PMID: 27902752 #En1: Scutellaria baicalensis #En2: Qin *KeyWords: null /@<<GADExtractor>> PMID: 11053652 #En1: Scutellaria baicalensis #En2: Qin *KeyWords: null /@<<GADExtractor>> PMID: 28045676 #En1: Scutellaria baicalensis #En2: Qin *KeyWords: null /@<<GADExtractor>> PMID: 18070986 #En1: Scutellaria baicalensis #En2: Qin *KeyWords: null /@<<GADExtractor>> PMID: 19699788 #En1: Scutellaria baicalensis #En2: Qin *KeyWords: null /@<<GADExtractor>> PMID: 18755299 #En1: Scutellaria baicalensis #En2: Qin *KeyWords: null /***7
+HUANG-QIN	Gene_ID:100187907	@<<GADExtractor>> PMID: 11458449 #En1: Scutellaria baicalensis #En2: TRAP *KeyWords: null /***1
+HUANG-QIN	Gene_ID:80218	@<<GADExtractor>> PMID: 24953035 #En1: Scutellaria baicalensis #En2: San *KeyWords: null /***1
+HUANG-QIN	Gene_ID:165904	@<<GADExtractor>> PMID: 24953035 #En1: Scutellaria baicalensis #En2: Xin *KeyWords: null /@<<GADExtractor>> PMID: 27965575 #En1: Scutellaria baicalensis #En2: xin *KeyWords: null /@<<GADExtractor>> PMID: 28045676 #En1: Scutellaria baicalensis #En2: Xin *KeyWords: null /***3
+HUANG-QIN	Gene_ID:7157	@<<GADExtractor>> PMID: 21457722 #En1: Scutellaria baicalensis #En2: p53 *KeyWords: induce /***1
+HUANG-QIN	Gene_ID:581	@<<GADExtractor>> PMID: 21457722 #En1: Scutellaria baicalensis #En2: Bax *KeyWords: induce /@<<GADExtractor>> PMID: 22210104 #En1: Scutellaria baicalensis #En2: Bax *KeyWords: activating /@<<GADExtractor>> PMID: 25206402 #En1: Scutellaria baicalensis #En2: Bax *KeyWords: null /@<<GADExtractor>> PMID: 25206402 #En1: Scutellaria baicalensis #En2: Bax *KeyWords: baicalensis /***4
+HUANG-QIN	Gene_ID:5290	@<<GADExtractor>> PMID: 31424673 #En1: Scutellaria baicalensis #En2: PI3K *KeyWords: inducing /@<<GADExtractor>> PMID: 29861765 #En1: Scutellaria baicalensis #En2: PI3K *KeyWords: Attenuates /***2
+HUANG-QIN	Gene_ID:5294	@<<GADExtractor>> PMID: 31424673 #En1: Scutellaria baicalensis #En2: PI3K *KeyWords: inducing /@<<GADExtractor>> PMID: 29861765 #En1: Scutellaria baicalensis #En2: PI3K *KeyWords: Attenuates /***2
+HUANG-QIN	Gene_ID:5293	@<<GADExtractor>> PMID: 31424673 #En1: Scutellaria baicalensis #En2: PI3K *KeyWords: inducing /@<<GADExtractor>> PMID: 29861765 #En1: Scutellaria baicalensis #En2: PI3K *KeyWords: Attenuates /***2
+HUANG-QIN	Gene_ID:5295	@<<GADExtractor>> PMID: 31424673 #En1: Scutellaria baicalensis #En2: PI3K *KeyWords: inducing /@<<GADExtractor>> PMID: 29861765 #En1: Scutellaria baicalensis #En2: PI3K *KeyWords: Attenuates /***2
+HUANG-QIN	Gene_ID:207	@<<GADExtractor>> PMID: 31424673 #En1: Scutellaria baicalensis #En2: AKT *KeyWords: inducing /@<<GADExtractor>> PMID: 29861765 #En1: Scutellaria baicalensis #En2: Akt *KeyWords: Attenuates /***2
+HUANG-QIN	Gene_ID:6774	@<<GADExtractor>> PMID: 31424673 #En1: Scutellaria baicalensis #En2: STAT3 *KeyWords: inducing /***1
+HUANG-QIN	Gene_ID:1742	@<<GADExtractor>> PMID: 15185839 #En1: Scutellaria baicalensis #En2: PSD-95 *KeyWords: showed /***1
+HUANG-QIN	Gene_ID:260431	@<<GADExtractor>> PMID: 29861765 #En1: Scutellaria baicalensis #En2: COPD *KeyWords: Attenuates /***1
+HUANG-QIN	Gene_ID:2539	@<<GADExtractor>> PMID: 11599367 #En1: Scutellaria baicalensis #En2: G6PD *KeyWords: administered /***1
+HUANG-QIN	Gene_ID:4313	@<<GADExtractor>> PMID: 15225671 #En1: Scutellaria baicalensis #En2: MMP-2 and -9 *KeyWords: shown /***1
+HUANG-QIN	Gene_ID:4318	@<<GADExtractor>> PMID: 15225671 #En1: Scutellaria baicalensis #En2: MMP-2 and -9 *KeyWords: shown /***1
+HUANG-QIN	Gene_ID:5594	@<<GADExtractor>> PMID: 22210104 #En1: Scutellaria baicalensis #En2: ERK *KeyWords: activating /***1
+HUANG-QIN	Gene_ID:2048	@<<GADExtractor>> PMID: 22210104 #En1: Scutellaria baicalensis #En2: ERK *KeyWords: activating /***1
+HUANG-QIN	Gene_ID:5199	@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: null /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: (accounting /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: null /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: null /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: coupled /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: coupled /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: coupled /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: null /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: null /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: null /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: null /@<<GADExtractor>> PMID: 28862668 #En1: Scutellaria baicalensis #En2: CFP *KeyWords: null /***12
+HUANG-QIN	Gene_ID:356	@<<GADExtractor>> PMID: 25819872 #En1: Scutellaria baicalensis #En2: FasL *KeyWords: plays /***1
+HUANG-QIN	Gene_ID:2053	@<<GADExtractor>> PMID: 30980876 #En1: Scutellaria baicalensis #En2: sEH *KeyWords: null /@<<GADExtractor>> PMID: 30980876 #En1: Scutellaria baicalensis #En2: sEH *KeyWords: displayed /***2
+HUANG-QIN	Gene_ID:114548	@<<GADExtractor>> PMID: 30936012 #En1: Scutellaria baicalensis #En2: NLRP3 *KeyWords: ameliorates /***1
+HUANG-QIN	Gene_ID:595	@<<GADExtractor>> PMID: 21369700 #En1: Scutellaria baicalensis #En2: cyclin D1 *KeyWords: null /***1
+HUANG-QIN	Gene_ID:1026	@<<GADExtractor>> PMID: 21369700 #En1: Scutellaria baicalensis #En2: p21 *KeyWords: increased; /***1
+HUANG-QIN	Gene_ID:27065	@<<GADExtractor>> PMID: 21369700 #En1: Scutellaria baicalensis #En2: p21 *KeyWords: increased; /***1
+HUANG-QIN	Gene_ID:9338	@<<GADExtractor>> PMID: 21369700 #En1: Scutellaria baicalensis #En2: p21 *KeyWords: increased; /***1
+HUANG-QIN	Gene_ID:644914	@<<GADExtractor>> PMID: 21369700 #En1: Scutellaria baicalensis #En2: p21 *KeyWords: increased; /***1
+HUANG-QIN	Gene_ID:3569	@<<GADExtractor>> PMID: 17266043 #En1: Scutellaria baicalensis #En2: IL-6 *KeyWords: null /@<<GADExtractor>> PMID: 21731166 #En1: Scutellaria baicalensis #En2: IL-6 *KeyWords: null /***2
+HUANG-QIN	Gene_ID:5743	@<<GADExtractor>> PMID: 22634839 #En1: Scutellaria baicalensis #En2: cyclooxygenase-2 *KeyWords: alleviates /***1
+HUANG-QIN	Gene_ID:7249	@<<GADExtractor>> PMID: 29542003 #En1: Scutellaria baicalensis #En2: NAFLD *KeyWords: regulates /***1
+HUANG-QIN	Gene_ID:54205	@<<GADExtractor>> PMID: 25206402 #En1: Scutellaria baicalensis #En2: cytochrome c *KeyWords: null /@<<GADExtractor>> PMID: 25206402 #En1: Scutellaria baicalensis #En2: cytochrome c *KeyWords: baicalensis /***2
+HUANG-QIN	Gene_ID:836	@<<GADExtractor>> PMID: 25206402 #En1: Scutellaria baicalensis #En2: caspase-3 *KeyWords: null /@<<GADExtractor>> PMID: 25206402 #En1: Scutellaria baicalensis #En2: caspase-3 *KeyWords: baicalensis /***2
+HUANG-QIN	Gene_ID:596	@<<GADExtractor>> PMID: 25206402 #En1: Scutellaria baicalensis #En2: Bcl-2 *KeyWords: increased; /@<<GADExtractor>> PMID: 25206402 #En1: Scutellaria baicalensis #En2: Bcl-2 *KeyWords: baicalensis /***2
+HUANG-QIN	Gene_ID:173	@<<GADExtractor>> PMID: 27633311 #En1: Scutellaria baicalensis #En2: Alba *KeyWords: roots /@<<GADExtractor>> PMID: 24731420 #En1: Scutellaria baicalensis #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24731420 #En1: Scutellaria baicalensis #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24731420 #En1: Scutellaria baicalensis #En2: Alba *KeyWords: described /@<<GADExtractor>> PMID: 24731420 #En1: Scutellaria baicalensis #En2: Alba *KeyWords: described /@<<GADExtractor>> PMID: 24731420 #En1: Scutellaria baicalensis #En2: Alba *KeyWords: null /@<<GADExtractor>> PMID: 24731420 #En1: Scutellaria baicalensis #En2: Alba *KeyWords: described /@<<GADExtractor>> PMID: 24731420 #En1: Scutellaria baicalensis #En2: Alba *KeyWords: effective /@<<GADExtractor>> PMID: 24731420 #En1: Scutellaria baicalensis #En2: Alba *KeyWords: null /***9
+HUANG-QIN	Gene_ID:7422	@<<GADExtractor>> PMID: 29807443 #En1: Scutellaria baicalensis #En2: VEGF *KeyWords: null /@<<GADExtractor>> PMID: 29807443 #En1: Scutellaria baicalensis #En2: VEGF *KeyWords: targeting /***2
+HUANG-QIN	Gene_ID:3791	@<<GADExtractor>> PMID: 29807443 #En1: Scutellaria baicalensis #En2: VEGFR *KeyWords: null /***1
+HUANG-QIN	Gene_ID:6351	@<<GADExtractor>> PMID: 16293380 #En1: Scutellaria baicalensis #En2: CCL4 *KeyWords: protect /***1
+HUANG-QIN	Gene_ID:137872	@<<GADExtractor>> PMID: 26747020 #En1: Scutellaria baicalensis #En2: hot *KeyWords: null /***1
+HUANG-QIN	Gene_ID:4513	@<<GADExtractor>> PMID: 26770874 #En1: Scutellaria baicalensis #En2: COX-2 *KeyWords: reduced /***1
+HUANG-QIN	Gene_ID:181	@<<GADExtractor>> PMID: 29504922 #En1: Scutellaria baicalensis #En2: ART *KeyWords: null /***1
+HUANG-QIN	Gene_ID:5627	@<<GADExtractor>> PMID: 11836572 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: null /@<<GADExtractor>> PMID: 11836572 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: null /@<<GADExtractor>> PMID: 11836572 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: secreted /@<<GADExtractor>> PMID: 11836572 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: increased /@<<GADExtractor>> PMID: 12421879 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: down-regulated /***5
+HUANG-QIN	Gene_ID:354	@<<GADExtractor>> PMID: 11836572 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: null /@<<GADExtractor>> PMID: 11836572 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: null /@<<GADExtractor>> PMID: 11836572 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: secreted /@<<GADExtractor>> PMID: 11836572 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: increased /@<<GADExtractor>> PMID: 12421879 #En1: Scutellaria baicalensis #En2: PSA *KeyWords: down-regulated /***5
+HUANG-QIN	Gene_ID:1056	@<<GADExtractor>> PMID: 27220736 #En1: Scutellaria baicalensis #En2: BAL *KeyWords: null /***1
+BAN-ZHI-LIAN	Gene_ID:3664	@<<GADExtractor>> PMID: 24696703 #En1: Scutellaria barbata #En2: LPS *KeyWords: displayed /@<<GADExtractor>> PMID: 30384539 #En1: Scutellaria barbata #En2: LPS *KeyWords: induced /***2
+BAN-ZHI-LIAN	Gene_ID:207	@<<GADExtractor>> PMID: 22160152 #En1: Scutellaria barbata #En2: Akt/protein kinase B *KeyWords: null /@<<GADExtractor>> PMID: 22160152 #En1: Scutellaria barbata #En2: Akt/protein kinase B *KeyWords: determined /@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: AKT *KeyWords: mediating /@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: AKT *KeyWords: correlated /@<<GADExtractor>> PMID: 26989427 #En1: Scutellaria barbata #En2: Akt *KeyWords: Inhibiting /@<<GADExtractor>> PMID: 26989427 #En1: Scutellaria barbata #En2: Akt *KeyWords: reduce /@<<GADExtractor>> PMID: 29285087 #En1: Scutellaria barbata #En2: AKT *KeyWords: inhibits /@<<GADExtractor>> PMID: 23354912 #En1: Scutellaria barbata #En2: Akt *KeyWords: induces /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: AKT *KeyWords: inhibits /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: AKT *KeyWords: inhibit /***10
+BAN-ZHI-LIAN	Gene_ID:1121	@<<GADExtractor>> PMID: 28122837 #En1: Scutellaria barbata #En2: CHM *KeyWords: null /***1
+BAN-ZHI-LIAN	Gene_ID:8139	@<<GADExtractor>> PMID: 28122837 #En1: Scutellaria barbata #En2: Gan *KeyWords: null /***1
+BAN-ZHI-LIAN	Gene_ID:1081	@<<GADExtractor>> PMID: 15518168 #En1: Scutellaria barbata #En2: HCG *KeyWords: null /***1
+BAN-ZHI-LIAN	Gene_ID:5290	@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: PI3K *KeyWords: mediating /@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: PI3K *KeyWords: correlated /@<<GADExtractor>> PMID: 29285087 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibits /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibits /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibit /***5
+BAN-ZHI-LIAN	Gene_ID:5294	@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: PI3K *KeyWords: mediating /@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: PI3K *KeyWords: correlated /@<<GADExtractor>> PMID: 29285087 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibits /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibits /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibit /***5
+BAN-ZHI-LIAN	Gene_ID:5293	@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: PI3K *KeyWords: mediating /@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: PI3K *KeyWords: correlated /@<<GADExtractor>> PMID: 29285087 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibits /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibits /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibit /***5
+BAN-ZHI-LIAN	Gene_ID:5295	@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: PI3K *KeyWords: mediating /@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: PI3K *KeyWords: correlated /@<<GADExtractor>> PMID: 29285087 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibits /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibits /@<<GADExtractor>> PMID: 28849113 #En1: Scutellaria barbata #En2: PI3K *KeyWords: inhibit /***5
+BAN-ZHI-LIAN	Gene_ID:2475	@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: mTOR *KeyWords: mediating /@<<GADExtractor>> PMID: 29052399 #En1: Scutellaria barbata #En2: mTOR *KeyWords: correlated /***2
+BAN-ZHI-LIAN	Gene_ID:406947	@<<GADExtractor>> PMID: 29725352 #En1: Scutellaria barbata #En2: miR-155 *KeyWords: Regulating /@<<GADExtractor>> PMID: 26989427 #En1: Scutellaria barbata #En2: miR-155 *KeyWords: Downregulating /@<<GADExtractor>> PMID: 26989427 #En1: Scutellaria barbata #En2: miR-155 *KeyWords: reduce /***3
+BAN-ZHI-LIAN	Gene_ID:3569	@<<GADExtractor>> PMID: 26622533 #En1: Scutellaria barbata #En2: IL-6 *KeyWords: suppressing /***1
+BAN-ZHI-LIAN	Gene_ID:6774	@<<GADExtractor>> PMID: 26622533 #En1: Scutellaria barbata #En2: STAT3 *KeyWords: suppressing /@<<GADExtractor>> PMID: 26622533 #En1: Scutellaria barbata #En2: STAT3 *KeyWords: targets /***2
+BAN-ZHI-LIAN	Gene_ID:2064	@<<GADExtractor>> PMID: 26137135 #En1: Scutellaria barbata #En2: HER2 *KeyWords: inhibit /***1
+BAN-ZHI-LIAN	Gene_ID:7422	@<<GADExtractor>> PMID: 16351792 #En1: Scutellaria barbata #En2: vascular endothelial growth factor *KeyWords: null /@<<GADExtractor>> PMID: 16351792 #En1: Scutellaria barbata #En2: VEGF *KeyWords: null /@<<GADExtractor>> PMID: 16351792 #En1: Scutellaria barbata #En2: VEGF *KeyWords: lower /@<<GADExtractor>> PMID: 16351792 #En1: Scutellaria barbata #En2: VEGF *KeyWords: inhibit /@<<GADExtractor>> PMID: 22331677 #En1: Scutellaria barbata #En2: vascular endothelial growth factor *KeyWords: regulates /@<<GADExtractor>> PMID: 22331677 #En1: Scutellaria barbata #En2: VEGF *KeyWords: regulates /***6
+BAN-ZHI-LIAN	Gene_ID:5243	@<<GADExtractor>> PMID: 17457045 #En1: Scutellaria barbata #En2: P-glycoprotein *KeyWords: reverses /***1
+BAN-ZHI-LIAN	Gene_ID:5594	@<<GADExtractor>> PMID: 20558270 #En1: Scutellaria barbata #En2: ERK *KeyWords: enhances /***1
+BAN-ZHI-LIAN	Gene_ID:2048	@<<GADExtractor>> PMID: 20558270 #En1: Scutellaria barbata #En2: ERK *KeyWords: enhances /***1
+BAN-ZHI-LIAN	Gene_ID:2099	@<<GADExtractor>> PMID: 20558270 #En1: Scutellaria barbata #En2: estrogen receptor *KeyWords: enhances /***1
+BAN-ZHI-LIAN	Gene_ID:1994	@<<GADExtractor>> PMID: 24945402 #En1: Scutellaria barbata #En2: Hua *KeyWords: null /***1
+BAN-ZHI-LIAN	Gene_ID:3479	@<<GADExtractor>> PMID: 15922007 #En1: Scutellaria barbata #En2: IGF-I *KeyWords: null /***1
+BAN-ZHI-LIAN	Gene_ID:3565	@<<GADExtractor>> PMID: 30384539 #En1: Scutellaria barbata #En2: IL-4 *KeyWords: induced /***1
+BAN-ZHI-LIAN	Gene_ID:3596	@<<GADExtractor>> PMID: 30384539 #En1: Scutellaria barbata #En2: IL-13 *KeyWords: induced /***1
+BAN-ZHI-LIAN	Gene_ID:7157	@<<GADExtractor>> PMID: 23354912 #En1: Scutellaria barbata #En2: p53 *KeyWords: induces /***1
+BAN-ZHI-LIAN	Gene_ID:6469	@<<GADExtractor>> PMID: 22949805 #En1: Scutellaria barbata #En2: SHH *KeyWords: effective /***1
+BAN-ZHI-LIAN	Gene_ID:3091	@<<GADExtractor>> PMID: 22331677 #En1: Scutellaria barbata #En2: HIF-1 *KeyWords: inhibits /@<<GADExtractor>> PMID: 22331677 #En1: Scutellaria barbata #En2: HIF-1 *KeyWords: regulates /***2
+BAN-ZHI-LIAN	Gene_ID:29072	@<<GADExtractor>> PMID: 22331677 #En1: Scutellaria barbata #En2: HIF-1 *KeyWords: inhibits /@<<GADExtractor>> PMID: 22331677 #En1: Scutellaria barbata #En2: HIF-1 *KeyWords: regulates /***2
+BAN-ZHI-LIAN	Gene_ID:114548	@<<GADExtractor>> PMID: 29493156 #En1: Scutellaria barbata #En2: NLRP3 *KeyWords: prevents /@<<GADExtractor>> PMID: 29493156 #En1: Scutellaria barbata #En2: NLRP3 *KeyWords: null /@<<GADExtractor>> PMID: 29493156 #En1: Scutellaria barbata #En2: NLRP3 *KeyWords: null /***3
+BAN-ZHI-LIAN	Gene_ID:7076	@<<GADExtractor>> PMID: 23344202 #En1: Scutellaria barbata #En2: TIMP *KeyWords: inhibit /***1
+HAI-SHEN	Gene_ID:6395	@<<GADExtractor>> PMID: 28810632 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 18937312 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 19174693 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 19174693 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 26440226 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 26440226 #En1: Sea cucumber #En2: Sea *KeyWords: null /@<<GADExtractor>> PMID: 26440226 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 26440226 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 26440226 #En1: Sea cucumber #En2: Sea *KeyWords: null /@<<GADExtractor>> PMID: 27852126 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 26000949 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 26000949 #En1: sea cucumber #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 26000949 #En1: sea cucumber #En2: sea *KeyWords: null /***13
+HAI-SHEN	Gene_ID:801	@<<GADExtractor>> PMID: 18937312 #En1: sea cucumber #En2: CAM *KeyWords: null /***1
+HAI-SHEN	Gene_ID:79823	@<<GADExtractor>> PMID: 18937312 #En1: sea cucumber #En2: CAM *KeyWords: null /***1
+HAI-SHEN	Gene_ID:5406	@<<GADExtractor>> PMID: 26440226 #En1: sea cucumber #En2: pancreatic lipase *KeyWords: exhibit /@<<GADExtractor>> PMID: 26440226 #En1: sea cucumber #En2: pancreatic lipase *KeyWords: investigated /***2
+HAI-SHEN	Gene_ID:404677	@<<GADExtractor>> PMID: 22754943 #En1: sea cucumber #En2: CIMT *KeyWords: null /***1
+HAI-MA	Gene_ID:6395	@<<GADExtractor>> PMID: 28540223 #En1: sea horse #En2: sea *KeyWords: null /***1
+HAI-MA	Gene_ID:23583	@<<GADExtractor>> PMID: 31832727 #En1: Seahorse #En2: FDG *KeyWords: null /@<<GADExtractor>> PMID: 31832727 #En1: Seahorse #En2: FDG *KeyWords: null /***2
+HAI-MA	Gene_ID:4512	@<<GADExtractor>> PMID: 27871217 #En1: seahorse #En2: COI *KeyWords: null /@<<GADExtractor>> PMID: 27871217 #En1: seahorse #En2: COI *KeyWords: null /@<<GADExtractor>> PMID: 27871217 #En1: seahorse #En2: COI *KeyWords: null /***3
+HAI-MA	Gene_ID:308	@<<GADExtractor>> PMID: 30945068 #En1: Seahorse #En2: Annexin V *KeyWords: null /***1
+HAI-MA	Gene_ID:285	@<<GADExtractor>> PMID: 30945068 #En1: Seahorse #En2: Ang II *KeyWords: null /***1
+HAI-MA	Gene_ID:738	@<<GADExtractor>> PMID: 30945068 #En1: Seahorse #En2: Ang II *KeyWords: null /***1
+HAI-MA	Gene_ID:1406	@<<GADExtractor>> PMID: 12935898 #En1: seahorse #En2: CRD *KeyWords: null /***1
+HAI-MA	Gene_ID:4842	@<<GADExtractor>> PMID: 24607683 #En1: Seahorse #En2: NOS *KeyWords: increased /***1
+HAI-MA	Gene_ID:4843	@<<GADExtractor>> PMID: 24607683 #En1: Seahorse #En2: NOS *KeyWords: increased /***1
+HAI-MA	Gene_ID:627	@<<GADExtractor>> PMID: 31857128 #En1: Seahorse #En2: neurotrophin *KeyWords: restoring /@<<GADExtractor>> PMID: 31857128 #En1: Seahorse #En2: BDNF *KeyWords: reversed /@<<GADExtractor>> PMID: 31857128 #En1: Seahorse #En2: neurotrophin *KeyWords: attenuate /***3
+HAI-MA	Gene_ID:3553	@<<GADExtractor>> PMID: 31857128 #En1: Seahorse #En2: IL-1 *KeyWords: reversed /***1
+HAI-MA	Gene_ID:3552	@<<GADExtractor>> PMID: 31857128 #En1: Seahorse #En2: IL-1 *KeyWords: reversed /***1
+HAI-MA	Gene_ID:27179	@<<GADExtractor>> PMID: 31857128 #En1: Seahorse #En2: IL-1 *KeyWords: reversed /***1
+SHI-ZHI-JIA	Gene_ID:6741	@<<GADExtractor>> PMID: 22701282 #En1: Sedum sarmentosum #En2: SSB *KeyWords: null /@<<GADExtractor>> PMID: 31116450 #En1: Sedum sarmentosum #En2: SSB *KeyWords: null /***2
+SHI-ZHI-JIA	Gene_ID:8634	@<<GADExtractor>> PMID: 29556137 #En1: Sedum sarmentosum #En2: RTCA *KeyWords: null /@<<GADExtractor>> PMID: 29556137 #En1: Sedum Sarmentosum #En2: RTCA *KeyWords: null /***2
+DA-YE-CAI	Gene_ID:23621	@<<GADExtractor>> PMID: 27889245 #En1: Selaginella doederleinii #En2: BACE1 *KeyWords: null /***1
+JIANG-NAN-JUAN-BAI	Gene_ID:7167	@<<GADExtractor>> PMID: 31316606 #En1: Selaginella moellendorffii #En2: TIM *KeyWords: null /***1
+JUAN-BAI	Gene_ID:5141	@<<GADExtractor>> PMID: 28159622 #En1: Selaginella pulvinata #En2: PDE4 *KeyWords: null /@<<GADExtractor>> PMID: 28159622 #En1: Selaginella pulvinata #En2: PDE4 *KeyWords: null /***2
+JUAN-BAI	Gene_ID:5144	@<<GADExtractor>> PMID: 28159622 #En1: Selaginella pulvinata #En2: phosphodiesterase-4D *KeyWords: exhibited /@<<GADExtractor>> PMID: 28159622 #En1: Selaginella pulvinata #En2: PDE4D *KeyWords: exhibited /@<<GADExtractor>> PMID: 28159622 #En1: Selaginella pulvinata #En2: phosphodiesterase-4D *KeyWords: exhibited /@<<GADExtractor>> PMID: 28159622 #En1: Selaginella pulvinata #En2: PDE4D *KeyWords: exhibited /***4
+ZHONG-HUA-JUAN-BAI	Gene_ID:3291	@<<GADExtractor>> PMID: 31324010 #En1: Selaginella sinensis #En2: AME *KeyWords: null /***1
+JUAN-BAI	Gene_ID:6783	@<<GADExtractor>> PMID: 17113737 #En1: Selaginella tamariscina #En2: STE *KeyWords: null /***1
+KU-XING-REN	Gene_ID:9188	@<<GADExtractor>> PMID: 25102700 #En1: Semen Armeniacae Amarum #En2: Gua *KeyWords: null /@<<GADExtractor>> PMID: 25102700 #En1: Semen Armeniacae Amarum #En2: Gua *KeyWords: null /***2
+KU-XING-REN	Gene_ID:5972	@<<GADExtractor>> PMID: 22462235 #En1: Semen Armeniacae Amarum #En2: Ren *KeyWords: null /***1
+CAO-JUE-MING	Gene_ID:4681	@<<GADExtractor>> PMID: 28356117 #En1: Semen Cassiae #En2: Dan *KeyWords: null /***1
+SI-TU-ZI	Gene_ID:7299	@<<GADExtractor>> PMID: 24746484 #En1: Semen cuscutae #En2: tyrosinase *KeyWords: examining /@<<GADExtractor>> PMID: 24746484 #En1: Semen cuscutae #En2: tyrosinase *KeyWords: examining /@<<GADExtractor>> PMID: 24746484 #En1: Semen cuscutae #En2: tyrosinase *KeyWords: examining /***3
+SI-TU-ZI	Gene_ID:11261	@<<GADExtractor>> PMID: 26986137 #En1: Semen Cuscutae #En2: CHP *KeyWords: null /@<<GADExtractor>> PMID: 26986137 #En1: Semen Cuscutae #En2: CHP *KeyWords: used /***2
+SI-TU-ZI	Gene_ID:4129	@<<GADExtractor>> PMID: 25206603 #En1: Semen Cuscutae #En2: monoamine oxidase-B *KeyWords: (Desertliving /***1
+SI-TU-ZI	Gene_ID:627	@<<GADExtractor>> PMID: 25206603 #En1: Semen Cuscutae #En2: brain-derived neurotrophic factor *KeyWords: null /@<<GADExtractor>> PMID: 25206603 #En1: Semen Cuscutae #En2: brain-derived neurotrophic factor *KeyWords: null /***2
+SI-TU-ZI	Gene_ID:2668	@<<GADExtractor>> PMID: 25206603 #En1: Semen Cuscutae #En2: glial cell line-derived neurotrophic factor *KeyWords: null /***1
+SI-TU-ZI	Gene_ID:367	@<<GADExtractor>> PMID: 18640256 #En1: Semen cuscutae #En2: androgen receptor *KeyWords: reverse /@<<GADExtractor>> PMID: 18640256 #En1: Semen cuscutae #En2: androgen receptor *KeyWords: null /***2
+SI-TU-ZI	Gene_ID:5111	@<<GADExtractor>> PMID: 19260287 #En1: Semen cuscutae #En2: PCNA *KeyWords: null /***1
+SI-TU-ZI	Gene_ID:1839	@<<GADExtractor>> PMID: 19260287 #En1: Semen cuscutae #En2: HB-EGF *KeyWords: null /***1
+SI-TU-ZI	Gene_ID:2335	@<<GADExtractor>> PMID: 16334729 #En1: Semen Cuscutae #En2: fibronectin *KeyWords: enhance /***1
+QIAN-JIN-ZI-SHUANG	Gene_ID:359	@<<GADExtractor>> PMID: 30033405 #En1: Semen Euphorbiae Pulveratum #En2: AQP2 *KeyWords: null /@<<GADExtractor>> PMID: 30033405 #En1: semen Euphorbiae Pulveratum #En2: AQP2 *KeyWords: null /@<<GADExtractor>> PMID: 30033405 #En1: semen Euphorbiae Pulveratum #En2: AQP2 *KeyWords: null /***3
+QIAN-JIN-ZI-SHUANG	Gene_ID:361	@<<GADExtractor>> PMID: 30033405 #En1: Semen Euphorbiae Pulveratum #En2: AQP4 *KeyWords: null /***1
+QIAN-JIN-ZI-SHUANG	Gene_ID:5364	@<<GADExtractor>> PMID: 29692685 #En1: Semen Euphorbiae Pulveratum #En2: SEP *KeyWords: null /***1
+QIAN-JIN-ZI-SHUANG	Gene_ID:6414	@<<GADExtractor>> PMID: 29692685 #En1: Semen Euphorbiae Pulveratum #En2: SEP *KeyWords: null /***1
+GUA-LOU-ZI	Gene_ID:9188	@<<GADExtractor>> PMID: 25102700 #En1: Semen Trichosanthis #En2: Gua *KeyWords: null /***1
+QIAN-LI-GUANG	Gene_ID:10855	@<<GADExtractor>> PMID: 19918941 #En1: Senecio scandens #En2: HPA *KeyWords: null /***1
+QIAN-LI-GUANG	Gene_ID:5979	@<<GADExtractor>> PMID: 18022416 #En1: Senecio scandens #En2: RET *KeyWords: null /***1
+OU-ZHOU-QIAN-LI-GUANG	Gene_ID:836	@<<GADExtractor>> PMID: 18586292 #En1: Senecio vulgaris #En2: caspase-3 *KeyWords: induced /***1
+OU-ZHOU-QIAN-LI-GUANG	Gene_ID:598	@<<GADExtractor>> PMID: 18586292 #En1: Senecio vulgaris #En2: Bcl-xL *KeyWords: decreased /***1
+MA-YOU	Gene_ID:51497	@<<GADExtractor>> PMID: 15879017 #En1: sesame oil #En2: TH1 *KeyWords: resulted /***1
+MA-YOU	Gene_ID:22937	@<<GADExtractor>> PMID: 24680904 #En1: sesame oil #En2: SCAP *KeyWords: null /***1
+MA-YOU	Gene_ID:8788	@<<GADExtractor>> PMID: 29163181 #En1: sesame oil #En2: Dlk1 *KeyWords: null /@<<GADExtractor>> PMID: 29163181 #En1: sesame oil #En2: Dlk1 *KeyWords: higher /***2
+MA-YOU	Gene_ID:4513	@<<GADExtractor>> PMID: 29163181 #En1: sesame oil #En2: COX-2 *KeyWords: higher /***1
+MA-YOU	Gene_ID:2475	@<<GADExtractor>> PMID: 17285359 #En1: sesame oil #En2: FRAP *KeyWords: had /***1
+BAI-ZHI-MA	Gene_ID:81502	@<<GADExtractor>> PMID: 28275210 #En1: Sesamum indicum #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 28275210 #En1: Sesamum indicum #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 28275210 #En1: Sesamum indicum #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 28275210 #En1: Sesamum indicum #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 28275210 #En1: Sesamum indicum #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 28275210 #En1: Sesamum indicum #En2: spp *KeyWords: null /***6
+XI-XIAN	Gene_ID:11261	@<<GADExtractor>> PMID: 29720145 #En1: Siegesbeckia orientalis #En2: ChP *KeyWords: included /***1
+XI-XIAN	Gene_ID:3661	@<<GADExtractor>> PMID: 30012916 #En1: Siegesbeckia orientalis #En2: IRF3 *KeyWords: regulated /***1
+XI-XIAN	Gene_ID:3664	@<<GADExtractor>> PMID: 30012916 #En1: Siegesbeckia orientalis #En2: LPS *KeyWords: regulated /***1
+XI-XIAN	Gene_ID:181	@<<GADExtractor>> PMID: 27519711 #En1: Siegesbeckia orientalis #En2: ART *KeyWords: null /***1
+SHUI-FEI-JI	Gene_ID:8856	@<<GADExtractor>> PMID: 21524698 #En1: Silybum marianum #En2: PXR *KeyWords: trans-activate /***1
+SHUI-FEI-JI	Gene_ID:5266	@<<GADExtractor>> PMID: 15925261 #En1: Silybum marianum #En2: ESI *KeyWords: null /@<<GADExtractor>> PMID: 15925261 #En1: Silybum marianum #En2: ESI *KeyWords: null /@<<GADExtractor>> PMID: 15925261 #En1: Silybum marianum #En2: ESI *KeyWords: null /@<<GADExtractor>> PMID: 15925261 #En1: Silybum marianum #En2: ESI *KeyWords: null /***4
+SHUI-FEI-JI	Gene_ID:173	@<<GADExtractor>> PMID: 31118972 #En1: Silybum marianum #En2: ALF *KeyWords: null /***1
+SHUI-FEI-JI	Gene_ID:81502	@<<GADExtractor>> PMID: 23653088 #En1: Silybum marianum #En2: spp *KeyWords: null /***1
+QING-FENG-TENG	Gene_ID:4512	@<<GADExtractor>> PMID: 15139149 #En1: Sinomenium acutum #En2: COX-1 *KeyWords: null /@<<GADExtractor>> PMID: 15139149 #En1: Sinomenium acutum #En2: COX-1 *KeyWords: null /***2
+QING-FENG-TENG	Gene_ID:4513	@<<GADExtractor>> PMID: 15139149 #En1: Sinomenium acutum #En2: COX-2 *KeyWords: null /@<<GADExtractor>> PMID: 15139149 #En1: Sinomenium acutum #En2: COX-2 *KeyWords: null /***2
+LUO-HAN-GUO	Gene_ID:875	@<<GADExtractor>> PMID: 29192442 #En1: Siraitia grosvenorii #En2: CBS *KeyWords: null /***1
+LUO-HAN-GUO	Gene_ID:28982	@<<GADExtractor>> PMID: 21847918 #En1: Siraitia grosvenorii #En2: PCA *KeyWords: null /@<<GADExtractor>> PMID: 21847918 #En1: Siraitia grosvenorii #En2: PCA *KeyWords: null /***2
+LUO-HAN-GUO	Gene_ID:559	@<<GADExtractor>> PMID: 21847918 #En1: Siraitia grosvenorii #En2: PCA *KeyWords: null /@<<GADExtractor>> PMID: 21847918 #En1: Siraitia grosvenorii #En2: PCA *KeyWords: null /***2
+LUO-HAN-GUO	Gene_ID:2222	@<<GADExtractor>> PMID: 28303229 #En1: Siraitia grosvenorii #En2: squalene synthase *KeyWords: null /***1
+BA-QIA	Gene_ID:1593	@<<GADExtractor>> PMID: 24137319 #En1: Smilax china #En2: CTX *KeyWords: cultured /***1
+BA-QIA	Gene_ID:7099	@<<GADExtractor>> PMID: 32222576 #En1: Smilax china #En2: TLR-4 *KeyWords: inhibits /***1
+BA-QIA	Gene_ID:6647	@<<GADExtractor>> PMID: 31602890 #En1: Smilax china #En2: SOD *KeyWords: established /***1
+BA-QIA	Gene_ID:3569	@<<GADExtractor>> PMID: 31602890 #En1: Smilax china #En2: IL-6 *KeyWords: established /***1
+TU-FU-LING	Gene_ID:4864	@<<GADExtractor>> PMID: 31544233 #En1: Smilax glabra #En2: NPC *KeyWords: null /***1
+TU-FU-LING	Gene_ID:6262	@<<GADExtractor>> PMID: 25926285 #En1: Smilax glabra #En2: RyR2 *KeyWords: null /***1
+TU-FU-LING	Gene_ID:183	@<<GADExtractor>> PMID: 25926285 #En1: Smilax glabra #En2: angiotensin II *KeyWords: null /***1
+TU-FU-LING	Gene_ID:406991	@<<GADExtractor>> PMID: 30304552 #En1: Smilax glabra #En2: miR-21 *KeyWords: inhibits /***1
+TU-FU-LING	Gene_ID:5728	@<<GADExtractor>> PMID: 30304552 #En1: Smilax glabra #En2: PTEN *KeyWords: inhibits /***1
+TU-FU-LING	Gene_ID:173	@<<GADExtractor>> PMID: 2364464 #En1: Smilax glabra #En2: Alba *KeyWords: null /***1
+NIU-WEI-CAI	Gene_ID:6611	@<<GADExtractor>> PMID: 25617746 #En1: Smilax riparia #En2: SRS *KeyWords: saponins /***1
+SHE-DAN-ZHI	Gene_ID:5266	@<<GADExtractor>> PMID: 27760405 #En1: snake bile #En2: ESI *KeyWords: applied /@<<GADExtractor>> PMID: 27760405 #En1: snake bile #En2: ESI *KeyWords: null /***2
+MANG-XIAO	Gene_ID:4359	@<<GADExtractor>> PMID: 31687082 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 29538417 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 21367960 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 29361151 #En1: sodium sulfate #En2: DSS *KeyWords: led /@<<GADExtractor>> PMID: 29740735 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 30551499 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 30551499 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 30881446 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 21516492 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 32058214 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 25849732 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 27452656 #En1: sodium sulfate #En2: DSS *KeyWords: null /***12
+MANG-XIAO	Gene_ID:5376	@<<GADExtractor>> PMID: 31687082 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 29538417 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 21367960 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 29361151 #En1: sodium sulfate #En2: DSS *KeyWords: led /@<<GADExtractor>> PMID: 29740735 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 30551499 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 30551499 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 30881446 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 21516492 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 32058214 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 25849732 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 27452656 #En1: sodium sulfate #En2: DSS *KeyWords: null /***12
+MANG-XIAO	Gene_ID:190	@<<GADExtractor>> PMID: 31687082 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 29538417 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 21367960 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 29361151 #En1: sodium sulfate #En2: DSS *KeyWords: led /@<<GADExtractor>> PMID: 29740735 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 30551499 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 30551499 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 30881446 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 21516492 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 32058214 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 25849732 #En1: sodium sulfate #En2: DSS *KeyWords: null /@<<GADExtractor>> PMID: 27452656 #En1: sodium sulfate #En2: DSS *KeyWords: null /***12
+MANG-XIAO	Gene_ID:27178	@<<GADExtractor>> PMID: 30563054 #En1: sodium sulfate #En2: IL-37 *KeyWords: null /@<<GADExtractor>> PMID: 30563054 #En1: sodium sulfate #En2: IL-37 *KeyWords: null /***2
+MANG-XIAO	Gene_ID:1280	@<<GADExtractor>> PMID: 31803606 #En1: sodium sulfate #En2: AOM *KeyWords: null /@<<GADExtractor>> PMID: 21367960 #En1: sodium sulfate #En2: AOM *KeyWords: null /@<<GADExtractor>> PMID: 29361151 #En1: sodium sulfate #En2: AOM *KeyWords: null /***3
+MANG-XIAO	Gene_ID:5594	@<<GADExtractor>> PMID: 31139644 #En1: Sodium Sulfate #En2: ERK *KeyWords: null /***1
+MANG-XIAO	Gene_ID:2048	@<<GADExtractor>> PMID: 31139644 #En1: Sodium Sulfate #En2: ERK *KeyWords: null /***1
+MANG-XIAO	Gene_ID:6347	@<<GADExtractor>> PMID: 23536316 #En1: sodium sulfate #En2: monocyte chemotactic protein-1 *KeyWords: resulted /***1
+MANG-XIAO	Gene_ID:5743	@<<GADExtractor>> PMID: 23536316 #En1: sodium sulfate #En2: cyclooxygenase 2 *KeyWords: resulted /***1
+MANG-XIAO	Gene_ID:3569	@<<GADExtractor>> PMID: 23536316 #En1: sodium sulfate #En2: interleukin 6 *KeyWords: resulted /***1
+MANG-XIAO	Gene_ID:3664	@<<GADExtractor>> PMID: 27879679 #En1: sodium sulfate #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 32044657 #En1: sodium sulfate #En2: LPS *KeyWords: null /***2
+MANG-XIAO	Gene_ID:196	@<<GADExtractor>> PMID: 27900483 #En1: sodium sulfate #En2: aryl hydrocarbon receptor *KeyWords: null /***1
+MANG-XIAO	Gene_ID:9180	@<<GADExtractor>> PMID: 32332711 #En1: sodium sulfate #En2: OSMR *KeyWords: null /***1
+MANG-XIAO	Gene_ID:780904	@<<GADExtractor>> PMID: 31494294 #En1: sodium sulfate #En2: PSS *KeyWords: null /***1
+MANG-XIAO	Gene_ID:23162	@<<GADExtractor>> PMID: 24766737 #En1: sodium sulfate #En2: SYD *KeyWords: used /***1
+MANG-XIAO	Gene_ID:4615	@<<GADExtractor>> PMID: 27452656 #En1: sodium sulfate #En2: MyD88 *KeyWords: null /***1
+MANG-XIAO	Gene_ID:7099	@<<GADExtractor>> PMID: 27452656 #En1: sodium sulfate #En2: TLR4 *KeyWords: null /***1
+BAI-MAO-TENG	Gene_ID:1026	@<<GADExtractor>> PMID: 26477797 #En1: Solanum lyratum #En2: p21 *KeyWords: Induced /***1
+BAI-MAO-TENG	Gene_ID:27065	@<<GADExtractor>> PMID: 26477797 #En1: Solanum lyratum #En2: p21 *KeyWords: Induced /***1
+BAI-MAO-TENG	Gene_ID:9338	@<<GADExtractor>> PMID: 26477797 #En1: Solanum lyratum #En2: p21 *KeyWords: Induced /***1
+BAI-MAO-TENG	Gene_ID:644914	@<<GADExtractor>> PMID: 26477797 #En1: Solanum lyratum #En2: p21 *KeyWords: Induced /***1
+BAI-MAO-TENG	Gene_ID:1029	@<<GADExtractor>> PMID: 26477797 #En1: Solanum lyratum #En2: p16 *KeyWords: Induced /***1
+BAI-MAO-TENG	Gene_ID:6098	@<<GADExtractor>> PMID: 22121816 #En1: Solanum lyratum #En2: ROS *KeyWords: null /***1
+BAI-MAO-TENG	Gene_ID:56975	@<<GADExtractor>> PMID: 22121816 #En1: Solanum lyratum #En2: RNS *KeyWords: null /***1
+LONG-KUI	Gene_ID:3702	@<<GADExtractor>> PMID: 27136519 #En1: Solanum nigrum #En2: EMT *KeyWords: null /***1
+LONG-KUI	Gene_ID:2735	@<<GADExtractor>> PMID: 28951519 #En1: Solanum nigrum #En2: Gli1 *KeyWords: Inhibits /***1
+LONG-KUI	Gene_ID:177	@<<GADExtractor>> PMID: 26927042 #En1: Solanum nigrum #En2: RAGE *KeyWords: null /***1
+LONG-KUI	Gene_ID:5891	@<<GADExtractor>> PMID: 26927042 #En1: Solanum nigrum #En2: RAGE *KeyWords: null /***1
+KU-DOU-ZI	Gene_ID:6098	@<<GADExtractor>> PMID: 32196436 #En1: Sophora alopecuroides #En2: ROS *KeyWords: explore /***1
+KU-DOU-ZI	Gene_ID:4363	@<<GADExtractor>> PMID: 24956120 #En1: Sophora alopecuroides #En2: MRP1 *KeyWords: associated /@<<GADExtractor>> PMID: 24956120 #En1: Sophora alopecuroides #En2: MRP1 *KeyWords: applied /***2
+KU-DOU-ZI	Gene_ID:4194	@<<GADExtractor>> PMID: 24956120 #En1: Sophora alopecuroides #En2: MRP1 *KeyWords: associated /@<<GADExtractor>> PMID: 24956120 #En1: Sophora alopecuroides #En2: MRP1 *KeyWords: applied /***2
+KU-DOU-ZI	Gene_ID:6717	@<<GADExtractor>> PMID: 29102763 #En1: Sophora alopecuroides #En2: SRI *KeyWords: null /@<<GADExtractor>> PMID: 23069582 #En1: Sophora alopecuroides #En2: SRI *KeyWords: null /@<<GADExtractor>> PMID: 23069582 #En1: Sophora alopecuroides #En2: SRI *KeyWords: provide /***3
+KU-DOU-ZI	Gene_ID:160728	@<<GADExtractor>> PMID: 27823557 #En1: Sophora alopecuroides #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 16908416 #En1: Sophora alopecuroides #En2: Ait *KeyWords: null /***2
+KU-SHEN-SHI	Gene_ID:160728	@<<GADExtractor>> PMID: 28440447 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 23754270 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 18283616 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 22019524 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 10536849 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 26004313 #En1: Sophora flavescens #En2: Ait *KeyWords: beneficial /@<<GADExtractor>> PMID: 25322941 #En1: Sophora flavescens #En2: AIT *KeyWords: exhibited /@<<GADExtractor>> PMID: 20528251 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 24058371 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 29386091 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 31849679 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 29791786 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 23802436 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 32194169 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 32194169 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 21575502 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 21575502 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 21575502 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 21575502 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 21575502 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 27823557 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 16908416 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 2027343 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 30630799 #En1: Sophora flavescens #En2: Ait *KeyWords: null /@<<GADExtractor>> PMID: 20045933 #En1: Sophora flavescens #En2: AIT *KeyWords: null /***25
+KU-SHEN-SHI	Gene_ID:1994	@<<GADExtractor>> PMID: 19447452 #En1: Sophora flavescens #En2: Hua *KeyWords: present /***1
+KU-SHEN-SHI	Gene_ID:3684	@<<GADExtractor>> PMID: 24619838 #En1: Sophora flavescens #En2: CD11b *KeyWords: increased /***1
+KU-SHEN-SHI	Gene_ID:7422	@<<GADExtractor>> PMID: 23802436 #En1: Sophora flavescens #En2: VEGF *KeyWords: decreased /***1
+KU-SHEN-SHI	Gene_ID:207	@<<GADExtractor>> PMID: 31817093 #En1: Sophora flavescens #En2: Akt *KeyWords: Mediates /***1
+KU-SHEN-SHI	Gene_ID:5010	@<<GADExtractor>> PMID: 18479880 #En1: Sophora flavescens #En2: OSP *KeyWords: null /***1
+KU-SHEN-SHI	Gene_ID:262	@<<GADExtractor>> PMID: 24274456 #En1: Sophora flavescens #En2: AMD *KeyWords: show /***1
+KU-SHEN-SHI	Gene_ID:2290	@<<GADExtractor>> PMID: 26087234 #En1: Sophora flavescens #En2: Qin *KeyWords: null /***1
+KU-SHEN-SHI	Gene_ID:4780	@<<GADExtractor>> PMID: 30284461 #En1: Sophora flavescens #En2: Nrf2 *KeyWords: Activates /***1
+KU-SHEN-SHI	Gene_ID:2551	@<<GADExtractor>> PMID: 30284461 #En1: Sophora flavescens #En2: Nrf2 *KeyWords: Activates /***1
+KU-SHEN-SHI	Gene_ID:23607	@<<GADExtractor>> PMID: 18785039 #En1: Sophora flavescens #En2: CMS *KeyWords: prepared /***1
+KU-SHEN-SHI	Gene_ID:6779	@<<GADExtractor>> PMID: 30595220 #En1: Sophora flavescens #En2: STR *KeyWords: used /***1
+KU-SHEN-SHI	Gene_ID:2053	@<<GADExtractor>> PMID: 18729246 #En1: Sophora flavescens #En2: sEH *KeyWords: possessed /***1
+HUAI	Gene_ID:160728	@<<GADExtractor>> PMID: 23754270 #En1: Sophora japonica #En2: Ait *KeyWords: reported /***1
+HUAI	Gene_ID:3553	@<<GADExtractor>> PMID: 16047560 #En1: sophora japonica #En2: interleukin-1beta *KeyWords: null /***1
+HUAI	Gene_ID:7462	@<<GADExtractor>> PMID: 25709204 #En1: Sophora japonica #En2: lab *KeyWords: null /***1
+HUAI	Gene_ID:6611	@<<GADExtractor>> PMID: 29901171 #En1: Sophora japonica #En2: SPS *KeyWords: null /***1
+HUAI	Gene_ID:7299	@<<GADExtractor>> PMID: 16497459 #En1: Sophora japonica #En2: tyrosinase *KeyWords: exhibited /***1
+SHENG-HUAI-JIAO	Gene_ID:3553	@<<GADExtractor>> PMID: 16047560 #En1: sophora japonica l #En2: interleukin-1beta *KeyWords: null /***1
+SHENG-HUAI-JIAO	Gene_ID:7462	@<<GADExtractor>> PMID: 25709204 #En1: Sophora japonica L #En2: lab *KeyWords: null /***1
+SHENG-HUAI-JIAO	Gene_ID:6611	@<<GADExtractor>> PMID: 29901171 #En1: Sophora japonical #En2: SPS *KeyWords: null /***1
+SHAN-DOU-GEN	Gene_ID:160728	@<<GADExtractor>> PMID: 27823557 #En1: Sophora subprostrata #En2: Ait *KeyWords: null /***1
+DOU-YOU	Gene_ID:6351	@<<GADExtractor>> PMID: 25345787 #En1: soybean oil #En2: CCl4 *KeyWords: null /@<<GADExtractor>> PMID: 29573620 #En1: soybean oil #En2: CCl4 *KeyWords: null /@<<GADExtractor>> PMID: 29573620 #En1: soybean oil #En2: CCl4 *KeyWords: null /@<<GADExtractor>> PMID: 29573620 #En1: soybean oil #En2: CCl4 *KeyWords: null /@<<GADExtractor>> PMID: 31481526 #En1: soybean oil #En2: CCl4 *KeyWords: had /@<<GADExtractor>> PMID: 31481526 #En1: soybean oil #En2: CCl4 *KeyWords: treated /@<<GADExtractor>> PMID: 31481526 #En1: soybean oil #En2: CCl4 *KeyWords: induced /***7
+DOU-YOU	Gene_ID:22796	@<<GADExtractor>> PMID: 29282085 #En1: soybean oil #En2: LDL-C *KeyWords: null /@<<GADExtractor>> PMID: 29282085 #En1: soybean oil #En2: LDL-C *KeyWords: null /***2
+DOU-YOU	Gene_ID:1628	@<<GADExtractor>> PMID: 29282085 #En1: soybean oil #En2: DBP *KeyWords: null /***1
+DOU-YOU	Gene_ID:55764	@<<GADExtractor>> PMID: 29573620 #En1: soybean oil #En2: SPG *KeyWords: null /***1
+DOU-YOU	Gene_ID:820	@<<GADExtractor>> PMID: 30111020 #En1: soybean oil #En2: cAMP *KeyWords: null /***1
+DOU-YOU	Gene_ID:359	@<<GADExtractor>> PMID: 30111020 #En1: soybean oil #En2: aquaporin 2 *KeyWords: null /***1
+DOU-YOU	Gene_ID:26503	@<<GADExtractor>> PMID: 31481526 #En1: soybean oil #En2: AST *KeyWords: reduced /***1
+DOU-YOU	Gene_ID:5251	@<<GADExtractor>> PMID: 31481526 #En1: soybean oil #En2: HYP *KeyWords: reduced /***1
+MI-HUA-DOU	Gene_ID:6098	@<<GADExtractor>> PMID: 29668336 #En1: Spatholobus Suberectus #En2: ROS *KeyWords: null /***1
+MI-HUA-DOU	Gene_ID:27065	@<<GADExtractor>> PMID: 29668336 #En1: Spatholobus Suberectus #En2: P21 *KeyWords: null /***1
+MI-HUA-DOU	Gene_ID:2099	@<<GADExtractor>> PMID: 28096885 #En1: Spatholobus suberectus #En2: Estrogen Receptor *KeyWords: Inhibits /@<<GADExtractor>> PMID: 28096885 #En1: Spatholobus suberectus #En2: estrogen receptor *KeyWords: null /***2
+MI-HUA-DOU	Gene_ID:5290	@<<GADExtractor>> PMID: 28096885 #En1: Spatholobus suberectus #En2: PI3K *KeyWords: Suppressing /***1
+MI-HUA-DOU	Gene_ID:5294	@<<GADExtractor>> PMID: 28096885 #En1: Spatholobus suberectus #En2: PI3K *KeyWords: Suppressing /***1
+MI-HUA-DOU	Gene_ID:5293	@<<GADExtractor>> PMID: 28096885 #En1: Spatholobus suberectus #En2: PI3K *KeyWords: Suppressing /***1
+MI-HUA-DOU	Gene_ID:5295	@<<GADExtractor>> PMID: 28096885 #En1: Spatholobus suberectus #En2: PI3K *KeyWords: Suppressing /***1
+MI-HUA-DOU	Gene_ID:207	@<<GADExtractor>> PMID: 28096885 #En1: Spatholobus suberectus #En2: AKT *KeyWords: Suppressing /***1
+MI-HUA-DOU	Gene_ID:1576	@<<GADExtractor>> PMID: 28539725 #En1: Spatholobus suberectus #En2: CYP3A4 *KeyWords: null /@<<GADExtractor>> PMID: 28539725 #En1: Spatholobus suberectus #En2: CYP3A4 *KeyWords: null /@<<GADExtractor>> PMID: 28539725 #En1: Spatholobus suberectus #En2: CYP3A4 *KeyWords: inhibited /@<<GADExtractor>> PMID: 28539725 #En1: Spatholobus suberectus #En2: CYP3A4 *KeyWords: inhibit /***4
+MI-HUA-DOU	Gene_ID:7299	@<<GADExtractor>> PMID: 16497459 #En1: Spatholobus suberectus #En2: tyrosinase *KeyWords: exhibited /***1
+RONG-MAO-DAI-XING-CAO	Gene_ID:6098	@<<GADExtractor>> PMID: 12622461 #En1: Sphaeranthus indicus #En2: ROS *KeyWords: caused /***1
+ZAO-CI	Gene_ID:7099	@<<GADExtractor>> PMID: 31986326 #En1: Spina Gleditsiae #En2: TLR4 *KeyWords: ameliorate /***1
+ZAO-CI	Gene_ID:4615	@<<GADExtractor>> PMID: 31986326 #En1: Spina Gleditsiae #En2: MyD88 *KeyWords: ameliorate /***1
+ZAO-CI	Gene_ID:148022	@<<GADExtractor>> PMID: 31986326 #En1: Spina Gleditsiae #En2: TRIF *KeyWords: ameliorate /***1
+ZAO-CI	Gene_ID:140691	@<<GADExtractor>> PMID: 31986326 #En1: Spina Gleditsiae #En2: TRIF *KeyWords: ameliorate /***1
+ZAO-CI	Gene_ID:114548	@<<GADExtractor>> PMID: 31986326 #En1: Spina Gleditsiae #En2: NLRP3 *KeyWords: ameliorate /***1
+BO-CAI	Gene_ID:325	@<<GADExtractor>> PMID: 30769732 #En1: Spinacia oleracea #En2: sap *KeyWords: null /***1
+BA-JIAO-HUI--XIANG	Gene_ID:196	@<<GADExtractor>> PMID: 29191726 #En1: star anise #En2: AhR *KeyWords: null /@<<GADExtractor>> PMID: 29191726 #En1: star anise #En2: AhR *KeyWords: null /@<<GADExtractor>> PMID: 29191726 #En1: star anise #En2: AhR *KeyWords: null /@<<GADExtractor>> PMID: 29191726 #En1: star anise #En2: AhR *KeyWords: null /***4
+YE-MU-GUA	Gene_ID:9188	@<<GADExtractor>> PMID: 19427657 #En1: Stauntonia chinensis #En2: Gua *KeyWords: null /***1
+BAI-BU	Gene_ID:2010	@<<GADExtractor>> PMID: 31030094 #En1: Stemona tuberosa #En2: STA *KeyWords: null /***1
+FEN-FANG-JI	Gene_ID:2475	@<<GADExtractor>> PMID: 32201213 #En1: Stephania tetrandra #En2: mTOR *KeyWords: enhanced /***1
+FEN-FANG-JI	Gene_ID:3630	@<<GADExtractor>> PMID: 12612439 #En1: Stephania tetrandra #En2: insulin *KeyWords: null /***1
+FEN-FANG-JI	Gene_ID:6484	@<<GADExtractor>> PMID: 12612439 #En1: Stephania tetrandra #En2: STZ *KeyWords: falls /@<<GADExtractor>> PMID: 12222655 #En1: Stephania Tetrandra #En2: STZ *KeyWords: null /@<<GADExtractor>> PMID: 12222655 #En1: Stephania Tetrandra #En2: STZ *KeyWords: null /***3
+FEN-FANG-JI	Gene_ID:100	@<<GADExtractor>> PMID: 30987561 #En1: Stephania tetrandra #En2: ADA *KeyWords: demonstrated /***1
+FEN-FANG-JI	Gene_ID:8439	@<<GADExtractor>> PMID: 23452799 #En1: Stephania tetrandra #En2: FAN *KeyWords: null /***1
+FEN-FANG-JI	Gene_ID:4512	@<<GADExtractor>> PMID: 15810597 #En1: Stephania tetrandra #En2: COX-1 *KeyWords: null /***1
+FEN-FANG-JI	Gene_ID:2523	@<<GADExtractor>> PMID: 19220659 #En1: Stephania tetrandra #En2: HSC *KeyWords: enhance /@<<GADExtractor>> PMID: 19220659 #En1: Stephania tetrandra #En2: HSC *KeyWords: activating /***2
+PANG-DA-HAI.	Gene_ID:54704	@<<GADExtractor>> PMID: 30322606 #En1: Sterculia lychnophora #En2: PDH *KeyWords: used /***1
+HAI-SHEN-CHANG	Gene_ID:6395	@<<GADExtractor>> PMID: 19174693 #En1: Stichopus japonicus #En2: sea *KeyWords: null /@<<GADExtractor>> PMID: 26000949 #En1: stichopus japonicus #En2: sea *KeyWords: null /***2
+ZHI-JIANG-CAN	Gene_ID:55079	@<<GADExtractor>> PMID: 31640173 #En1: Stiff Silkworm #En2: TOF *KeyWords: Using /***1
+MA-QIAN-ZI	Gene_ID:6717	@<<GADExtractor>> PMID: 29298518 #En1: Strychnos nux-vomica #En2: Sri *KeyWords: grows /***1
+MA-QIAN-ZI	Gene_ID:5541	@<<GADExtractor>> PMID: 20349712 #En1: Strychnos nux-vomica #En2: SPC *KeyWords: null /@<<GADExtractor>> PMID: 20349712 #En1: Strychnos nux-vomica #En2: SPC *KeyWords: compare /***2
+GAN-SHU	Gene_ID:5290	@<<GADExtractor>> PMID: 30160115 #En1: Sweet Potato #En2: PI3K *KeyWords: null /***1
+GAN-SHU	Gene_ID:5294	@<<GADExtractor>> PMID: 30160115 #En1: Sweet Potato #En2: PI3K *KeyWords: null /***1
+GAN-SHU	Gene_ID:5293	@<<GADExtractor>> PMID: 30160115 #En1: Sweet Potato #En2: PI3K *KeyWords: null /***1
+GAN-SHU	Gene_ID:5295	@<<GADExtractor>> PMID: 30160115 #En1: Sweet Potato #En2: PI3K *KeyWords: null /***1
+GAN-SHU	Gene_ID:3630	@<<GADExtractor>> PMID: 30477357 #En1: sweet potato #En2: insulin *KeyWords: null /@<<GADExtractor>> PMID: 30477357 #En1: sweet potato #En2: insulin *KeyWords: null /***2
+ZI-HONG-ZHANG-YA-CAI	Gene_ID:5266	@<<GADExtractor>> PMID: 23136022 #En1: Swertia punicea #En2: ESI *KeyWords: applied /@<<GADExtractor>> PMID: 23136022 #En1: Swertia punicea #En2: ESI *KeyWords: null /@<<GADExtractor>> PMID: 23136022 #En1: Swertia punicea #En2: ESI *KeyWords: null /***3
+YANG-DAO-DOU	Gene_ID:3664	@<<GADExtractor>> PMID: 31645121 #En1: sword bean #En2: LPS *KeyWords: investigated /***1
+DING-XIANG	Gene_ID:9451	@<<GADExtractor>> PMID: 25590367 #En1: Syzygium aromaticum #En2: p-ERK *KeyWords: reverses /***1
+DING-XIANG	Gene_ID:627	@<<GADExtractor>> PMID: 25590367 #En1: Syzygium aromaticum #En2: brain-derived neurotrophic factor *KeyWords: reverses /***1
+DING-XIANG	Gene_ID:3630	@<<GADExtractor>> PMID: 15588682 #En1: Syzygium aromaticum #En2: insulin *KeyWords: acts /@<<GADExtractor>> PMID: 24999964 #En1: Syzygium aromaticum #En2: insulin *KeyWords: shown /***2
+DING-XIANG	Gene_ID:5106	@<<GADExtractor>> PMID: 15588682 #En1: Syzygium aromaticum #En2: PEPCK *KeyWords: acts /***1
+DING-XIANG	Gene_ID:2538	@<<GADExtractor>> PMID: 15588682 #En1: Syzygium aromaticum #En2: glucose 6-phosphatase *KeyWords: acts /***1
+DING-XIANG	Gene_ID:4512	@<<GADExtractor>> PMID: 23721591 #En1: Syzygium aromaticum #En2: COX-1 *KeyWords: showed /***1
+DING-XIANG	Gene_ID:137872	@<<GADExtractor>> PMID: 8891165 #En1: Syzygium aromaticum #En2: Hot *KeyWords: null /***1
+YANG-SHI-GUO	Gene_ID:6484	@<<GADExtractor>> PMID: 19761040 #En1: Syzygium cumin #En2: STZ *KeyWords: null /@<<GADExtractor>> PMID: 19761040 #En1: Syzygium cumini #En2: STZ *KeyWords: null /***2
+WEI-XIAO-WAN-SHOU-JU	Gene_ID:8972	@<<GADExtractor>> PMID: 20185303 #En1: Tagetes minuta #En2: alpha-glucosidase *KeyWords: had /***1
+WEI-XIAO-WAN-SHOU-JU	Gene_ID:279	@<<GADExtractor>> PMID: 20185303 #En1: Tagetes minuta #En2: alpha-amylase *KeyWords: had /***1
+SUAN-JIAO	Gene_ID:81502	@<<GADExtractor>> PMID: 25856320 #En1: Tamarindus indica #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 25856320 #En1: Tamarindus indica #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 25856320 #En1: Tamarindus indica #En2: spp *KeyWords: null /@<<GADExtractor>> PMID: 25856320 #En1: Tamarindus indica #En2: spp *KeyWords: null /***4
+CHENG-LIU	Gene_ID:57381	@<<GADExtractor>> PMID: 32256017 #En1: Tamarix chinensis #En2: TCL *KeyWords: null /***1
+CHU-AI-JU	Gene_ID:4792	@<<GADExtractor>> PMID: 10962577 #En1: tanacetum parthenium #En2: IkappaBalpha *KeyWords: mimicked /***1
+CHU-AI-JU	Gene_ID:6647	@<<GADExtractor>> PMID: 10962577 #En1: tanacetum parthenium #En2: SOD *KeyWords: inhibiting /***1
+PU-GONG-YING	Gene_ID:7099	@<<GADExtractor>> PMID: 26930562 #En1: Taraxacum mongolicum #En2: TLR4 *KeyWords: alleviates /***1
+PU-GONG-YING	Gene_ID:173	@<<GADExtractor>> PMID: 2364464 #En1: Taraxacum mongolicum #En2: Alba *KeyWords: null /***1
+YAO-YONG-PU-GONG-YING	Gene_ID:7124	@<<GADExtractor>> PMID: 28077102 #En1: Taraxacum Officinale #En2: tumor necrosis factor-alpha *KeyWords: null /***1
+YAO-YONG-PU-GONG-YING	Gene_ID:3664	@<<GADExtractor>> PMID: 28077102 #En1: Taraxacum Officinale #En2: LPS *KeyWords: null /***1
+YAO-YONG-PU-GONG-YING	Gene_ID:8972	@<<GADExtractor>> PMID: 15704495 #En1: Taraxacum officinale #En2: alpha-glucosidase *KeyWords: communis /***1
+HONG-DOU-SHAN	Gene_ID:801	@<<GADExtractor>> PMID: 15010258 #En1: Taxus chinensis #En2: CAM *KeyWords: null /***1
+HONG-DOU-SHAN	Gene_ID:79823	@<<GADExtractor>> PMID: 15010258 #En1: Taxus chinensis #En2: CAM *KeyWords: null /***1
+HONG-DOU-SHAN	Gene_ID:6606	@<<GADExtractor>> PMID: 29455733 #En1: Taxus chinensis #En2: SMA *KeyWords: null /***1
+HONG-DOU-SHAN	Gene_ID:4087	@<<GADExtractor>> PMID: 29455733 #En1: Taxus chinensis #En2: Smad2 *KeyWords: null /***1
+A-JIANG-LAN-REN.	Gene_ID:5250	@<<GADExtractor>> PMID: 25869517 #En1: Terminalia arjuna #En2: PHC *KeyWords: null /***1
+HE-ZI-HE	Gene_ID:6223	@<<GADExtractor>> PMID: 26402786 #En1: Terminalia chebula #En2: DBA/1 *KeyWords: induced /***1
+HE-ZI-HE	Gene_ID:7047	@<<GADExtractor>> PMID: 16472540 #En1: Terminalia chebula #En2: TGP *KeyWords: null /@<<GADExtractor>> PMID: 16472540 #En1: Terminalia chebula #En2: TGP *KeyWords: null /***2
+HE-ZI-HE	Gene_ID:4843	@<<GADExtractor>> PMID: 11100933 #En1: Terminalia chebula #En2: iNOS *KeyWords: found /@<<GADExtractor>> PMID: 11100933 #En1: Terminalia chebula #En2: iNOS *KeyWords: found /***2
+HE-ZI-HE	Gene_ID:51477	@<<GADExtractor>> PMID: 11100933 #En1: Terminalia chebula #En2: iNOS *KeyWords: found /@<<GADExtractor>> PMID: 11100933 #En1: Terminalia chebula #En2: iNOS *KeyWords: found /***2
+HE-ZI-HE	Gene_ID:137872	@<<GADExtractor>> PMID: 8891165 #En1: Terminalia chebula #En2: Hot *KeyWords: null /***1
+HE-ZI-HE	Gene_ID:3664	@<<GADExtractor>> PMID: 19203350 #En1: Terminaliachebula #En2: LPS *KeyWords: neutralize /@<<GADExtractor>> PMID: 19203350 #En1: Terminaliachebula Retz #En2: LPS *KeyWords: neutralize /***2
+DA-YE-TANG-SONG-CAO	Gene_ID:7157	@<<GADExtractor>> PMID: 22086402 #En1: Thalictrum fortunei #En2: P53 *KeyWords: induces /@<<GADExtractor>> PMID: 22086402 #En1: Thalictrum fortunei #En2: P53 *KeyWords: induces /***2
+SHE-XIANG-CAO	Gene_ID:2475	@<<GADExtractor>> PMID: 23768830 #En1: Thymus vulgaris #En2: FRAP *KeyWords: null /@<<GADExtractor>> PMID: 16104805 #En1: Thymus vulgaris #En2: FRAP *KeyWords: null /***2
+SHE-XIANG-CAO	Gene_ID:8030	@<<GADExtractor>> PMID: 23768830 #En1: Thymus vulgaris #En2: TPC *KeyWords: null /***1
+SHE-XIANG-CAO	Gene_ID:51428	@<<GADExtractor>> PMID: 29500540 #En1: Thymus vulgaris #En2: ABS *KeyWords: null /***1
+SHE-XIANG-CAO	Gene_ID:152185	@<<GADExtractor>> PMID: 30963044 #En1: Thymus vulgaris #En2: spice *KeyWords: vulgaris /***1
+XIN-XING-YE-QING-NIU-DAN	Gene_ID:3172	@<<GADExtractor>> PMID: 30670256 #En1: Tinospora cordifolia #En2: TCF *KeyWords: null /***1
+XIN-XING-YE-QING-NIU-DAN	Gene_ID:6484	@<<GADExtractor>> PMID: 19761040 #En1: Tinospora cordifolia #En2: STZ *KeyWords: null /***1
+XIN-XING-YE-QING-NIU-DAN	Gene_ID:3553	@<<GADExtractor>> PMID: 9324000 #En1: Tinospora cordifolia #En2: IL-1 *KeyWords: inhibited /***1
+XIN-XING-YE-QING-NIU-DAN	Gene_ID:3552	@<<GADExtractor>> PMID: 9324000 #En1: Tinospora cordifolia #En2: IL-1 *KeyWords: inhibited /***1
+XIN-XING-YE-QING-NIU-DAN	Gene_ID:27179	@<<GADExtractor>> PMID: 9324000 #En1: Tinospora cordifolia #En2: IL-1 *KeyWords: inhibited /***1
+XIN-XING-YE-QING-NIU-DAN	Gene_ID:7124	@<<GADExtractor>> PMID: 9324000 #En1: Tinospora cordifolia #En2: TNF-alpha *KeyWords: inhibited /***1
+ZHONG-BIN--JU	Gene_ID:619501	@<<GADExtractor>> PMID: 29200736 #En1: Tithonia diversifolia #En2: HCC *KeyWords: null /***1
+ZHONG-BIN--JU	Gene_ID:706	@<<GADExtractor>> PMID: 29200736 #En1: Tithonia diversifolia #En2: PBS *KeyWords: buffered /***1
+CHUN-BAI-PI	Gene_ID:10011	@<<GADExtractor>> PMID: 27525892 #En1: Toona sinensis #En2: SRAP *KeyWords: revealed /***1
+CHUN-BAI-PI	Gene_ID:7422	@<<GADExtractor>> PMID: 21130856 #En1: Toona sinensis #En2: vascular endothelial growth factor *KeyWords: inhibit /@<<GADExtractor>> PMID: 21130856 #En1: Toona sinensis #En2: VEGF *KeyWords: inhibit /@<<GADExtractor>> PMID: 21130856 #En1: Toona sinensis #En2: VEGF *KeyWords: sinensis /***3
+CHUN-BAI-PI	Gene_ID:6301	@<<GADExtractor>> PMID: 18762235 #En1: Toona sinensis #En2: SARS *KeyWords: sinensis /@<<GADExtractor>> PMID: 18762235 #En1: Toona sinensis #En2: SARS *KeyWords: have /@<<GADExtractor>> PMID: 18762235 #En1: Toona sinensis #En2: SARS *KeyWords: inhibit /@<<GADExtractor>> PMID: 18762235 #En1: Toona sinensis #En2: SARS *KeyWords: null /***4
+GUI-JIA	Gene_ID:28982	@<<GADExtractor>> PMID: 22257536 #En1: tortoise shell #En2: PCA *KeyWords: null /***1
+GUI-JIA	Gene_ID:559	@<<GADExtractor>> PMID: 22257536 #En1: tortoise shell #En2: PCA *KeyWords: null /***1
+JI-LI-GEN	Gene_ID:8654	@<<GADExtractor>> PMID: 29505934 #En1: Tribulus terrestris #En2: PDE5 *KeyWords: null /***1
+JI-LI-GEN	Gene_ID:5443	@<<GADExtractor>> PMID: 17259119 #En1: Tribulus terrestris #En2: MSH *KeyWords: null /@<<GADExtractor>> PMID: 17259119 #En1: Tribulus terrestris #En2: MSH *KeyWords: null /@<<GADExtractor>> PMID: 17259119 #En1: Tribulus terrestris #En2: MSH *KeyWords: administered /@<<GADExtractor>> PMID: 17259119 #En1: Tribulus terrestris #En2: MSH *KeyWords: increase /***4
+JI-LI-GEN	Gene_ID:7299	@<<GADExtractor>> PMID: 12433636 #En1: Tribulus terrestris #En2: tyrosinase *KeyWords: null /@<<GADExtractor>> PMID: 12433636 #En1: Tribulus terrestris #En2: tyrosinase *KeyWords: null /@<<GADExtractor>> PMID: 12433636 #En1: Tribulus terrestris #En2: tyrosinase *KeyWords: null /***3
+JI-LI-GEN	Gene_ID:5266	@<<GADExtractor>> PMID: 14766280 #En1: Tribulus terrestris #En2: ESI *KeyWords: null /***1
+TIAN-HUA-FEN	Gene_ID:801	@<<GADExtractor>> PMID: 15010258 #En1: Trichosanthes kirilowii #En2: CAM *KeyWords: showed /***1
+TIAN-HUA-FEN	Gene_ID:79823	@<<GADExtractor>> PMID: 15010258 #En1: Trichosanthes kirilowii #En2: CAM *KeyWords: showed /***1
+TIAN-HUA-FEN	Gene_ID:51083	@<<GADExtractor>> PMID: 10883735 #En1: Trichosanthes kirilowii #En2: Gal *KeyWords: contains /***1
+TIAN-HUA-FEN	Gene_ID:3643	@<<GADExtractor>> PMID: 28100206 #En1: Trichosanthes kirilowii #En2: insulin receptor *KeyWords: null /***1
+TIAN-HUA-FEN	Gene_ID:4973	@<<GADExtractor>> PMID: 30038056 #En1: Trichosanthes kirilowii #En2: LOX1 *KeyWords: inhibiting /***1
+TIAN-HUA-FEN	Gene_ID:842	@<<GADExtractor>> PMID: 30038056 #En1: Trichosanthes kirilowii #En2: caspase-9 *KeyWords: inhibiting /***1
+TIAN-HUA-FEN	Gene_ID:8856	@<<GADExtractor>> PMID: 21524698 #En1: Trichosanthes kirilowii #En2: PXR *KeyWords: trans-activate /***1
+TIAN-HUA-FEN	Gene_ID:1994	@<<GADExtractor>> PMID: 22957017 #En1: Trichosanthes kirilowii #En2: Hua *KeyWords: null /***1
+TIAN-HUA-FEN	Gene_ID:6497	@<<GADExtractor>> PMID: 12056850 #En1: Trichosanthes kirilowii #En2: SKI *KeyWords: null /@<<GADExtractor>> PMID: 12056850 #En1: Trichosanthes kirilowii #En2: SKI *KeyWords: null /***2
+ZHI-GEN-PI	Gene_ID:3664	@<<GADExtractor>> PMID: 23872723 #En1: trifoliate orange #En2: LPS *KeyWords: null /***1
+HONG-CHE-ZHOU-CAO	Gene_ID:29760	@<<GADExtractor>> PMID: 31859817 #En1: Trifolium pratense #En2: BCA *KeyWords: null /@<<GADExtractor>> PMID: 31859817 #En1: Trifolium pratense #En2: BCA *KeyWords: explore /***2
+SAN-XIAO-CAO	Gene_ID:717	@<<GADExtractor>> PMID: 28547109 #En1: Trifolium repens #En2: CO2 *KeyWords: null /***1
+YAN-LING-CAO	Gene_ID:4137	@<<GADExtractor>> PMID: 29863023 #En1: Trillium tschonoskii #En2: Tau *KeyWords: attenuates /@<<GADExtractor>> PMID: 29863023 #En1: Trillium tschonoskii #En2: Tau *KeyWords: lessen /***2
+YAN-LING-CAO	Gene_ID:114798	@<<GADExtractor>> PMID: 29931872 #En1: trillium tschonoskii #En2: TTM *KeyWords: null /@<<GADExtractor>> PMID: 31941010 #En1: Trillium tschonoskii #En2: TTM *KeyWords: null /@<<GADExtractor>> PMID: 29931965 #En1: Trillium tschonoskii #En2: TTM *KeyWords: null /@<<GADExtractor>> PMID: 29287199 #En1: Trillium tschonoskii #En2: TTM *KeyWords: evaluated /***4
+YAN-LING-CAO	Gene_ID:6484	@<<GADExtractor>> PMID: 29931872 #En1: trillium tschonoskii #En2: STZ *KeyWords: null /***1
+KUN-MING-SHAN-HAI-TANG	Gene_ID:3251	@<<GADExtractor>> PMID: 12473739 #En1: Tripterygium hypoglaucum #En2: HPRT *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:122042	@<<GADExtractor>> PMID: 30013034 #En1: Tripterygium wilfordii #En2: great *KeyWords: attracted /***1
+LEI-GONG-TENG	Gene_ID:2357	@<<GADExtractor>> PMID: 30407411 #En1: Tripterygium wilfordii #En2: fMLP *KeyWords: able /***1
+LEI-GONG-TENG	Gene_ID:9622	@<<GADExtractor>> PMID: 26552346 #En1: Tripterygium wilfordii #En2: kallikrein *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:3664	@<<GADExtractor>> PMID: 24157922 #En1: Tripterygium wilfordii #En2: LPS *KeyWords: investigated /@<<GADExtractor>> PMID: 20626064 #En1: Tripterygium wilfordii #En2: LPS *KeyWords: protected /***2
+LEI-GONG-TENG	Gene_ID:4780	@<<GADExtractor>> PMID: 29950302 #En1: Tripterygium wilfordii #En2: Nrf2 *KeyWords: involving /@<<GADExtractor>> PMID: 31280667 #En1: Tripterygium wilfordii #En2: Nrf2 *KeyWords: null /***2
+LEI-GONG-TENG	Gene_ID:2551	@<<GADExtractor>> PMID: 29950302 #En1: Tripterygium wilfordii #En2: Nrf2 *KeyWords: involving /@<<GADExtractor>> PMID: 31280667 #En1: Tripterygium wilfordii #En2: Nrf2 *KeyWords: null /***2
+LEI-GONG-TENG	Gene_ID:914	@<<GADExtractor>> PMID: 30551448 #En1: Tripterygium wilfordii #En2: T11 *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:4580	@<<GADExtractor>> PMID: 22152774 #En1: Tripterygium Wilfordii #En2: MTX *KeyWords: null /@<<GADExtractor>> PMID: 18559239 #En1: Tripterygium wilfordii #En2: MTX *KeyWords: null /@<<GADExtractor>> PMID: 23905389 #En1: Tripterygium wilfordii #En2: MTX *KeyWords: null /@<<GADExtractor>> PMID: 25027774 #En1: Tripterygium wilfordii #En2: MTX *KeyWords: null /@<<GADExtractor>> PMID: 30348207 #En1: Tripterygium wilfordii #En2: MTX *KeyWords: null /@<<GADExtractor>> PMID: 28088452 #En1: Tripterygium wilfordii #En2: MTX *KeyWords: used /***6
+LEI-GONG-TENG	Gene_ID:6469	@<<GADExtractor>> PMID: 22152774 #En1: Tripterygium Wilfordii #En2: TPT *KeyWords: null /@<<GADExtractor>> PMID: 23905389 #En1: Tripterygium wilfordii #En2: TPT *KeyWords: null /@<<GADExtractor>> PMID: 25027774 #En1: Tripterygium wilfordii #En2: TPT *KeyWords: null /@<<GADExtractor>> PMID: 22561680 #En1: Tripterygium wilfordii #En2: TPT *KeyWords: null /***4
+LEI-GONG-TENG	Gene_ID:9097	@<<GADExtractor>> PMID: 18559239 #En1: Tripterygium wilfordii #En2: TGT *KeyWords: tablet /***1
+LEI-GONG-TENG	Gene_ID:4488	@<<GADExtractor>> PMID: 30049895 #En1: Tripterygium wilfordii #En2: FPP *KeyWords: determined /***1
+LEI-GONG-TENG	Gene_ID:28954	@<<GADExtractor>> PMID: 28128232 #En1: Tripterygium wilfordii #En2: GES *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:6713	@<<GADExtractor>> PMID: 30125629 #En1: Tripterygium wilfordii #En2: squalene epoxidase *KeyWords: null /@<<GADExtractor>> PMID: 30125629 #En1: Tripterygium wilfordii #En2: squalene epoxidase *KeyWords: null /***2
+LEI-GONG-TENG	Gene_ID:28935	@<<GADExtractor>> PMID: 31388830 #En1: Tripterygium wilfordii #En2: A20 *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:7128	@<<GADExtractor>> PMID: 31388830 #En1: Tripterygium wilfordii #En2: A20 *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:27178	@<<GADExtractor>> PMID: 29403538 #En1: Tripterygium wilfordii #En2: IL-37 *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:5595	@<<GADExtractor>> PMID: 29403538 #En1: Tripterygium wilfordii #En2: ERK1/2 *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:5594	@<<GADExtractor>> PMID: 29403538 #En1: Tripterygium wilfordii #En2: ERK1/2 *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:3553	@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /***4
+LEI-GONG-TENG	Gene_ID:3552	@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /***4
+LEI-GONG-TENG	Gene_ID:27179	@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /@<<GADExtractor>> PMID: 8131658 #En1: Tripterygium Wilfordii #En2: IL-1 *KeyWords: activity; /***4
+LEI-GONG-TENG	Gene_ID:3383	@<<GADExtractor>> PMID: 16671908 #En1: Tripterygium Wilfordii #En2: ICAM-1 *KeyWords: has /***1
+LEI-GONG-TENG	Gene_ID:958	@<<GADExtractor>> PMID: 16671908 #En1: Tripterygium Wilfordii #En2: CD40 *KeyWords: has /***1
+LEI-GONG-TENG	Gene_ID:7364	@<<GADExtractor>> PMID: 32061080 #En1: Tripterygium wilfordii #En2: UGT2B7 *KeyWords: null /@<<GADExtractor>> PMID: 22874791 #En1: Tripterygium wilfordii #En2: UGT2B7 *KeyWords: null /@<<GADExtractor>> PMID: 22874791 #En1: Tripterygium wilfordii #En2: UGT2B7 *KeyWords: co-administered /***3
+LEI-GONG-TENG	Gene_ID:213	@<<GADExtractor>> PMID: 7783260 #En1: Tripterygium Wilfordii #En2: albumin *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:8743	@<<GADExtractor>> PMID: 12934102 #En1: Tripterygium wilfordii #En2: TRAIL *KeyWords: sensitizes /***1
+LEI-GONG-TENG	Gene_ID:406913	@<<GADExtractor>> PMID: 31100542 #En1: Tripterygium wilfordii #En2: miR-126 *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:25842	@<<GADExtractor>> PMID: 9716258 #En1: Tripterygium wilfordii #En2: CIA *KeyWords: extract) /***1
+LEI-GONG-TENG	Gene_ID:1992	@<<GADExtractor>> PMID: 23957087 #En1: Tripterygium Wilfordii #En2: Lei *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:7202	@<<GADExtractor>> PMID: 32216736 #En1: Tripterygium wilfordii #En2: TRI *KeyWords: has /***1
+LEI-GONG-TENG	Gene_ID:7124	@<<GADExtractor>> PMID: 19956437 #En1: Tripterygium wilfordii #En2: tumor necrosis factor (TNF)-alpha *KeyWords: associated /@<<GADExtractor>> PMID: 20626064 #En1: Tripterygium wilfordii #En2: TNFalpha *KeyWords: has /***2
+LEI-GONG-TENG	Gene_ID:3702	@<<GADExtractor>> PMID: 32237395 #En1: Tripterygium wilfordii #En2: EMT *KeyWords: improving /***1
+LEI-GONG-TENG	Gene_ID:952	@<<GADExtractor>> PMID: 17401680 #En1: Tripterygium wilfordii #En2: T10 *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:7454	@<<GADExtractor>> PMID: 28918484 #En1: tripterygium wilfordii #En2: THC *KeyWords: null /***1
+LEI-GONG-TENG	Gene_ID:3558	@<<GADExtractor>> PMID: 9741888 #En1: Tripterygium wilfordii #En2: interleukin 2 *KeyWords: null /***1
+XIAO-MAI	Gene_ID:2954	@<<GADExtractor>> PMID: 32224257 #En1: Triticum aestivum #En2: Mai *KeyWords: null /***1
+XIAO-MAI	Gene_ID:7454	@<<GADExtractor>> PMID: 28918484 #En1: Triticum aestivum #En2: THC *KeyWords: foodstuff /***1
+WU-LING-ZHI	Gene_ID:173	@<<GADExtractor>> PMID: 26421050 #En1: Trogopterus Dung #En2: Alba *KeyWords: null /***1
+WU-LING-ZHI	Gene_ID:6117	@<<GADExtractor>> PMID: 26421050 #En1: Trogopterus Dung #En2: RPA *KeyWords: null /***1
+JIN-LIAN-HUA	Gene_ID:3664	@<<GADExtractor>> PMID: 30150194 #En1: Trollius chinensis #En2: LPS *KeyWords: selected /***1
+JIN-LIAN-HUA	Gene_ID:3569	@<<GADExtractor>> PMID: 30150194 #En1: Trollius chinensis #En2: IL-6 *KeyWords: selected /***1
+JIN-LIAN-HUA	Gene_ID:4217	@<<GADExtractor>> PMID: 31147584 #En1: Trollius chinensis #En2: ASK1 *KeyWords: targeting /***1
+GUANG-CI-GU	Gene_ID:578	@<<GADExtractor>> PMID: 26622854 #En1: Tulipa edulis #En2: Bak *KeyWords: induces /@<<GADExtractor>> PMID: 26622854 #En1: Tulipa edulis #En2: Bak *KeyWords: null /***2
+BIE-JIA	Gene_ID:7057	@<<GADExtractor>> PMID: 27633729 #En1: Turtle shell #En2: TSP *KeyWords: null /@<<GADExtractor>> PMID: 27633729 #En1: turtle shell #En2: TSP *KeyWords: null /***2
+KUAN-DONG-HUA	Gene_ID:1994	@<<GADExtractor>> PMID: 3350333 #En1: Tussilago farfara #En2: Hua *KeyWords: null /***1
+KUAN-DONG-HUA	Gene_ID:4210	@<<GADExtractor>> PMID: 2611953 #En1: Tussilago farfara #En2: MEFV *KeyWords: measuring /***1
+TU-WEN-80	Gene_ID:706	@<<GADExtractor>> PMID: 31496695 #En1: Tween 80 #En2: PBS *KeyWords: null /***1
+TU-WEN-80	Gene_ID:6014	@<<GADExtractor>> PMID: 32110013 #En1: Tween 80 #En2: RIN *KeyWords: null /@<<GADExtractor>> PMID: 32110013 #En1: Tween 80 #En2: RIN *KeyWords: null /***2
+TU-WEN-80	Gene_ID:23209	@<<GADExtractor>> PMID: 27476949 #En1: tween 80 #En2: MLC *KeyWords: null /***1
+TU-WEN-80	Gene_ID:3664	@<<GADExtractor>> PMID: 22016946 #En1: Tween-80 #En2: LPS *KeyWords: null /***1
+TU-WEN-80	Gene_ID:213	@<<GADExtractor>> PMID: 27144180 #En1: Tween-80 #En2: albumin *KeyWords: null /***1
+PU-HUANG	Gene_ID:3664	@<<GADExtractor>> PMID: 28274161 #En1: Typha angustifolia #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 28274161 #En1: Typha angustifolia #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 28274161 #En1: Typha angustifolia #En2: LPS *KeyWords: null /@<<GADExtractor>> PMID: 28274161 #En1: Typha angustifolia #En2: LPS *KeyWords: null /***4
+PU-HUANG	Gene_ID:6326	@<<GADExtractor>> PMID: 28088360 #En1: Typha angustifolia #En2: HBA *KeyWords: null /@<<GADExtractor>> PMID: 28088360 #En1: Typha angustifolia #En2: HBA *KeyWords: null /***2
+DU-JIAO-LIAN	Gene_ID:4311	@<<GADExtractor>> PMID: 21959296 #En1: Typhonium giganteum Engl #En2: SFE *KeyWords: null /***1
+DU-JIAO-LIAN	Gene_ID:9941	@<<GADExtractor>> PMID: 21959296 #En1: Typhonium giganteum Engl #En2: Engl *KeyWords: null /@<<GADExtractor>> PMID: 21959296 #En1: Typhonium giganteum Engl #En2: Engl *KeyWords: null /***2
+GOU-TENG	Gene_ID:3918	@<<GADExtractor>> PMID: 27732148 #En1: Uncaria rhynchophylla #En2: CSF *KeyWords: null /***1
+GOU-TENG	Gene_ID:4129	@<<GADExtractor>> PMID: 14692725 #En1: Uncaria rhynchophylla #En2: MAO-B *KeyWords: exhibited /***1
+GOU-TENG	Gene_ID:6285	@<<GADExtractor>> PMID: 21837247 #En1: Uncaria rhynchophylla #En2: S100B *KeyWords: Modulating /@<<GADExtractor>> PMID: 21402140 #En1: Uncaria rhynchophylla #En2: S100B *KeyWords: reduces /***2
+GOU-TENG	Gene_ID:3383	@<<GADExtractor>> PMID: 26355225 #En1: Uncaria rhynchophylla #En2: CD54 *KeyWords: null /***1
+GOU-TENG	Gene_ID:6403	@<<GADExtractor>> PMID: 26355225 #En1: Uncaria rhynchophylla #En2: CD62P *KeyWords: null /***1
+GOU-TENG	Gene_ID:6014	@<<GADExtractor>> PMID: 26441223 #En1: Uncaria rhynchophylla #En2: RIN *KeyWords: null /***1
+GOU-TENG	Gene_ID:5290	@<<GADExtractor>> PMID: 31104137 #En1: Uncaria rhynchophylla #En2: PI3K *KeyWords: null /***1
+GOU-TENG	Gene_ID:5294	@<<GADExtractor>> PMID: 31104137 #En1: Uncaria rhynchophylla #En2: PI3K *KeyWords: null /***1
+GOU-TENG	Gene_ID:5293	@<<GADExtractor>> PMID: 31104137 #En1: Uncaria rhynchophylla #En2: PI3K *KeyWords: null /***1
+GOU-TENG	Gene_ID:5295	@<<GADExtractor>> PMID: 31104137 #En1: Uncaria rhynchophylla #En2: PI3K *KeyWords: null /***1
+GOU-TENG	Gene_ID:8803	@<<GADExtractor>> PMID: 16676329 #En1: Uncaria rhynchophylla #En2: Abeta *KeyWords: inhibited /@<<GADExtractor>> PMID: 16676329 #En1: Uncaria rhynchophylla #En2: Abeta *KeyWords: has /***2
+GOU-TENG	Gene_ID:351	@<<GADExtractor>> PMID: 16676329 #En1: Uncaria rhynchophylla #En2: Abeta *KeyWords: inhibited /@<<GADExtractor>> PMID: 16676329 #En1: Uncaria rhynchophylla #En2: Abeta *KeyWords: has /***2
+GOU-TENG	Gene_ID:4282	@<<GADExtractor>> PMID: 20626060 #En1: Uncaria rhynchophylla #En2: MIF *KeyWords: upregulates /***1
+QIAN-MA	Gene_ID:2475	@<<GADExtractor>> PMID: 24175819 #En1: Urtica dioica #En2: FRAP *KeyWords: null /@<<GADExtractor>> PMID: 24175819 #En1: Urtica dioica #En2: FRAP *KeyWords: null /***2
+QIAN-MA	Gene_ID:51428	@<<GADExtractor>> PMID: 29500540 #En1: Urtica dioica #En2: ABS *KeyWords: null /@<<GADExtractor>> PMID: 29500540 #En1: Urtica dioica #En2: ABS *KeyWords: null /***2
+QIAN-MA	Gene_ID:8972	@<<GADExtractor>> PMID: 15704495 #En1: Urtica dioica #En2: alpha-glucosidase *KeyWords: communis /@<<GADExtractor>> PMID: 15704495 #En1: Urtica dioica #En2: alpha-glucosidase *KeyWords: communis /***2
+QIAN-MA	Gene_ID:6717	@<<GADExtractor>> PMID: 31160545 #En1: Urtica dioica #En2: Sri *KeyWords: null /@<<GADExtractor>> PMID: 31160545 #En1: Urtica dioica #En2: Sri *KeyWords: null /***2
+SONG-LUO	Gene_ID:2261	@<<GADExtractor>> PMID: 28810520 #En1: Usnea diffracta #En2: Ach *KeyWords: null /@<<GADExtractor>> PMID: 28810520 #En1: Usnea diffracta #En2: Ach *KeyWords: null /@<<GADExtractor>> PMID: 26686561 #En1: Usnea longissima #En2: Ach *KeyWords: null /@<<GADExtractor>> PMID: 26686561 #En1: Usnea longissima #En2: Ach *KeyWords: null /@<<GADExtractor>> PMID: 29055065 #En1: Usnea longissima #En2: Ach *KeyWords: null /@<<GADExtractor>> PMID: 28810520 #En1: Usnea longissima #En2: Ach *KeyWords: null /***6
+Vaccinium[\-\(\)]*sp	Gene_ID:81502	@<<GADExtractor>> PMID: 30867679 #En1: Vaccinium Sp #En2: Spp *KeyWords: null /@<<GADExtractor>> PMID: 30867679 #En1: Vaccinium Sp #En2: Spp *KeyWords: null /***2
+XIE-CAO	Gene_ID:836	@<<GADExtractor>> PMID: 20575418 #En1: Valeriana amurensis #En2: caspase-3 *KeyWords: null /@<<GADExtractor>> PMID: 20575418 #En1: Valeriana amurensis #En2: Caspase-3 *KeyWords: null /@<<GADExtractor>> PMID: 20575418 #En1: Valeriana amurensis #En2: Caspase-3 *KeyWords: decreased /@<<GADExtractor>> PMID: 20575418 #En1: Valeriana amurensis #En2: Caspase-3 *KeyWords: decrease /@<<GADExtractor>> PMID: 20575418 #En1: Valeriana amurensis #En2: caspase-3 *KeyWords: null /@<<GADExtractor>> PMID: 20575418 #En1: Valeriana amurensis #En2: Caspase-3 *KeyWords: null /@<<GADExtractor>> PMID: 20575418 #En1: Valeriana amurensis #En2: Caspase-3 *KeyWords: decreased /@<<GADExtractor>> PMID: 20575418 #En1: Valeriana amurensis #En2: Caspase-3 *KeyWords: decrease /***8
+XIE-CAO	Gene_ID:4843	@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: null /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: reduce /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: reaction /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: null /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: reduce /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: reaction /***6
+XIE-CAO	Gene_ID:51477	@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: null /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: reduce /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: reaction /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: null /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: reduce /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: iNOS *KeyWords: reaction /***6
+XIE-CAO	Gene_ID:4513	@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: COX-2 *KeyWords: null /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: COX-2 *KeyWords: reduce /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: COX-2 *KeyWords: reaction /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: COX-2 *KeyWords: null /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: COX-2 *KeyWords: reduce /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: COX-2 *KeyWords: reaction /***6
+XIE-CAO	Gene_ID:4792	@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: IkappaB-alpha *KeyWords: reduce /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: IkappaB-alpha *KeyWords: reaction /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: IkappaB-alpha *KeyWords: reduce /@<<GADExtractor>> PMID: 20845789 #En1: Valeriana amurensis #En2: IkappaB-alpha *KeyWords: reaction /***4
+XIE-CAO	Gene_ID:717	@<<GADExtractor>> PMID: 31877546 #En1: Valeriana officinalis #En2: CO2 *KeyWords: null /@<<GADExtractor>> PMID: 31877546 #En1: Valeriana officinalis #En2: CO2 *KeyWords: null /***2
+XIE-CAO	Gene_ID:43	@<<GADExtractor>> PMID: 26976216 #En1: Valeriana officinalis #En2: acetylcholinesterase *KeyWords: null /@<<GADExtractor>> PMID: 26976216 #En1: Valeriana officinalis #En2: AchE *KeyWords: null /***2
+XIE-CAO	Gene_ID:5542	@<<GADExtractor>> PMID: 27419099 #En1: Valeriana officinalis #En2: PMS *KeyWords: null /***1
+Valeriana[\-\(\)]*sp	Gene_ID:81502	@<<GADExtractor>> PMID: 23653088 #En1: Valeriana sp #En2: spp *KeyWords: null /***1
+Valeriana[\-\(\)]*spp	Gene_ID:81502	@<<GADExtractor>> PMID: 23653088 #En1: Valeriana spp #En2: spp *KeyWords: null /***1
+HUANG-QIN-JIAO	Gene_ID:6546	@<<GADExtractor>> PMID: 27823623 #En1: Veratrilla baillonii #En2: NCX1 *KeyWords: promoting /***1
+HUANG-QIN-JIAO	Gene_ID:6331	@<<GADExtractor>> PMID: 27823623 #En1: Veratrilla baillonii #En2: SCN5A *KeyWords: promoting /***1
+WU-SU-LI-LI-LU	Gene_ID:6117	@<<GADExtractor>> PMID: 30672382 #En1: Veratrum nigrum #En2: RPA *KeyWords: null /***1
+BIAN-TAO-ZHUANG-BAN-JIU-JU	Gene_ID:801	@<<GADExtractor>> PMID: 20665458 #En1: Vernonia amygdalina #En2: CAM *KeyWords: aloe /***1
+BIAN-TAO-ZHUANG-BAN-JIU-JU	Gene_ID:79823	@<<GADExtractor>> PMID: 20665458 #En1: Vernonia amygdalina #En2: CAM *KeyWords: aloe /***1
+BIAN-TAO-ZHUANG-BAN-JIU-JU	Gene_ID:5243	@<<GADExtractor>> PMID: 23291634 #En1: Vernonia amygdalina #En2: P-glycoprotein *KeyWords: assessing /***1
+QU-CHONG-BAN-JIU-JU	Gene_ID:246319	@<<GADExtractor>> PMID: 30226537 #En1: Vernonia anthelmintica #En2: vitiligo *KeyWords: null /@<<GADExtractor>> PMID: 30226537 #En1: Vernonia anthelmintica #En2: vitiligo *KeyWords: used /***2
+ZI-HUA-DI-DING	Gene_ID:1994	@<<GADExtractor>> PMID: 15287078 #En1: Viola yedoensis #En2: Hua *KeyWords: null /***1
+HU-JI-SHENG	Gene_ID:4210	@<<GADExtractor>> PMID: 2611953 #En1: Viscum coloratum #En2: MEFV *KeyWords: measuring /***1
+HUANG-JING-YE	Gene_ID:2475	@<<GADExtractor>> PMID: 25045657 #En1: Vitex negundo #En2: mTOR *KeyWords: propose /***1
+PU(2)-TAO	Gene_ID:81502	@<<GADExtractor>> PMID: 25856320 #En1: Vitis vinifera #En2: spp *KeyWords: Quercus /@<<GADExtractor>> PMID: 25856320 #En1: Vitis vinifera #En2: spp *KeyWords: Quercus /@<<GADExtractor>> PMID: 25856320 #En1: Vitis vinifera #En2: spp *KeyWords: Quercus /@<<GADExtractor>> PMID: 25856320 #En1: Vitis vinifera #En2: spp *KeyWords: Quercus /@<<GADExtractor>> PMID: 25856320 #En1: Vitis vinifera #En2: spp *KeyWords: Quercus /@<<GADExtractor>> PMID: 25856320 #En1: Vitis vinifera #En2: spp *KeyWords: Quercus /***6
+PU(2)-TAO	Gene_ID:51428	@<<GADExtractor>> PMID: 29500540 #En1: Vitis vinifera #En2: ABS *KeyWords: null /***1
+PENG-QI-JU	Gene_ID:1111	@<<GADExtractor>> PMID: 24117075 #En1: Wedelia chinensis #En2: Chk1 *KeyWords: inhibits /***1
+SAN-XIAO-CAO	Gene_ID:4709	@<<GADExtractor>> PMID: 16032280 #En1: white clover #En2: B12 *KeyWords: had /***1
+SAN-XIAO-CAO	Gene_ID:7126	@<<GADExtractor>> PMID: 16032280 #En1: white clover #En2: B12 *KeyWords: had /***1
+HANG-SHAO	Gene_ID:160897	@<<GADExtractor>> PMID: 16704090 #En1: white peony root #En2: ITR *KeyWords: null /***1
+HANG-SHAO	Gene_ID:51364	@<<GADExtractor>> PMID: 16704090 #En1: white peony root #En2: FLU *KeyWords: null /***1
+HANG-SHAO	Gene_ID:2137	@<<GADExtractor>> PMID: 27521818 #En1: white peony root #En2: RPR *KeyWords: null /@<<GADExtractor>> PMID: 25151277 #En1: white peony root #En2: RPR *KeyWords: null /***2
+HANG-SHAO	Gene_ID:7249	@<<GADExtractor>> PMID: 31558860 #En1: white peony root #En2: NAFLD *KeyWords: null /***1
+HANG-SHAO	Gene_ID:1121	@<<GADExtractor>> PMID: 31558860 #En1: white peony root #En2: CHM *KeyWords: null /@<<GADExtractor>> PMID: 31558860 #En1: white peony root #En2: CHM *KeyWords: null /***2
+LIAO-GE-WANG-GEN	Gene_ID:1121	@<<GADExtractor>> PMID: 29691116 #En1: Wikstroemia indica #En2: CHM *KeyWords: null /***1
+DA-TOU-SUAN	Gene_ID:8740	@<<GADExtractor>> PMID: 27208363 #En1: wild-leek #En2: Light *KeyWords: null /@<<GADExtractor>> PMID: 27208363 #En1: wild-leek #En2: light *KeyWords: seedling /***2
+CUI-MIAN-SHUI-QIE	Gene_ID:3553	@<<GADExtractor>> PMID: 9324000 #En1: Withania somnifera #En2: IL-1 *KeyWords: inhibited /***1
+CUI-MIAN-SHUI-QIE	Gene_ID:3552	@<<GADExtractor>> PMID: 9324000 #En1: Withania somnifera #En2: IL-1 *KeyWords: inhibited /***1
+CUI-MIAN-SHUI-QIE	Gene_ID:27179	@<<GADExtractor>> PMID: 9324000 #En1: Withania somnifera #En2: IL-1 *KeyWords: inhibited /***1
+CUI-MIAN-SHUI-QIE	Gene_ID:7124	@<<GADExtractor>> PMID: 9324000 #En1: Withania somnifera #En2: TNF-alpha *KeyWords: inhibited /@<<GADExtractor>> PMID: 9324000 #En1: Withania somnifera #En2: TNF-alpha *KeyWords: treated /***2
+CUI-MIAN-SHUI-QIE	Gene_ID:25842	@<<GADExtractor>> PMID: 30444203 #En1: Withania somnifera #En2: CIA *KeyWords: roots /***1
+CANG-ER	Gene_ID:6774	@<<GADExtractor>> PMID: 26232627 #En1: Xanthium sibiricum #En2: signal transducer and activator of transcription 3 *KeyWords: inhibit /@<<GADExtractor>> PMID: 26232627 #En1: Xanthium sibiricum #En2: STAT3 *KeyWords: inhibit /***2
+WEN-GUAN-MU	Gene_ID:627	@<<GADExtractor>> PMID: 27412235 #En1: Xanthoceras sorbifolia #En2: BDNF *KeyWords: ameliorate /@<<GADExtractor>> PMID: 27412235 #En1: Xanthoceras sorbifolia #En2: BDNF *KeyWords: test /***2
+WEN-GUAN-MU	Gene_ID:759	@<<GADExtractor>> PMID: 27412235 #En1: Xanthoceras sorbifolia #En2: CA1 *KeyWords: performed /***1
+WEN-GUAN-MU	Gene_ID:1742	@<<GADExtractor>> PMID: 27412235 #En1: Xanthoceras sorbifolia #En2: PSD95 *KeyWords: test /***1
+HUANG-HUA-JIA-ZHU-TAO	Gene_ID:81502	@<<GADExtractor>> PMID: 28956681 #En1: Yellow Oleander #En2: spp *KeyWords: null /***1
+HUA-JIAO	Gene_ID:717	@<<GADExtractor>> PMID: 27628733 #En1: Zanthoxylum bungeanum #En2: CO2 *KeyWords: null /***1
+HUA-JIAO	Gene_ID:4311	@<<GADExtractor>> PMID: 27628733 #En1: Zanthoxylum bungeanum #En2: SFE *KeyWords: null /***1
+RU-DI-JIN-NIU	Gene_ID:8530	@<<GADExtractor>> PMID: 28336967 #En1: Zanthoxylum nitidum #En2: CMAP *KeyWords: nitidum /***1
+RU-DI-JIN-NIU	Gene_ID:5054	@<<GADExtractor>> PMID: 28785222 #En1: Zanthoxylum nitidum #En2: PAI-1 *KeyWords: null /***1
+RU-DI-JIN-NIU	Gene_ID:3586	@<<GADExtractor>> PMID: 31415918 #En1: Zanthoxylum nitidum #En2: IL-10 *KeyWords: enhanced /***1
+RU-DI-JIN-NIU	Gene_ID:3664	@<<GADExtractor>> PMID: 31415918 #En1: Zanthoxylum nitidum #En2: LPS *KeyWords: enhanced /***1
+ZHU-YE-JIAO	Gene_ID:7706	@<<GADExtractor>> PMID: 31240663 #En1: Zanthoxylum planispinum #En2: EFP *KeyWords: null /***1
+HUA-JIAO	Gene_ID:1994	@<<GADExtractor>> PMID: 1823995 #En1: Zanthoxylum schinifolium #En2: Hua *KeyWords: null /***1
+YE-JIANG	Gene_ID:2019	@<<GADExtractor>> PMID: 20645803 #En1: Zingiber cassumunar #En2: en-1 *KeyWords: null /@<<GADExtractor>> PMID: 20645803 #En1: Zingiber cassumunar #En2: en-1 *KeyWords: null /@<<GADExtractor>> PMID: 20645803 #En1: Zingiber cassumunar #En2: en-1 *KeyWords: null /@<<GADExtractor>> PMID: 20645803 #En1: Zingiber cassumunar #En2: en-1 *KeyWords: null /***4
+SHENG-JIANG	Gene_ID:4025	@<<GADExtractor>> PMID: 12731279 #En1: Zingiber Officinale #En2: LPO *KeyWords: null /***1
+SHENG-JIANG	Gene_ID:51761	@<<GADExtractor>> PMID: 30337932 #En1: Zingiber officinale #En2: mL-1 *KeyWords: promote /@<<GADExtractor>> PMID: 30337932 #En1: Zingiber officinale #En2: mL-1 *KeyWords: higher /***2
+SHENG-JIANG	Gene_ID:6517	@<<GADExtractor>> PMID: 22828920 #En1: Zingiber officinale #En2: GLUT4 *KeyWords: enhance /***1
+SHENG-JIANG	Gene_ID:5020	@<<GADExtractor>> PMID: 18338402 #En1: Zingiber officinale #En2: oxytocin *KeyWords: bioassayed /***1
+SHENG-JIANG	Gene_ID:1201	@<<GADExtractor>> PMID: 29423591 #En1: Zingiber officinale #En2: BTS *KeyWords: officinale /***1
+SHENG-JIANG	Gene_ID:137872	@<<GADExtractor>> PMID: 19459307 #En1: Zingiber officinale #En2: hot *KeyWords: null /@<<GADExtractor>> PMID: 26747020 #En1: Zingiber officinale #En2: hot *KeyWords: null /***2
+SHENG-JIANG	Gene_ID:185	@<<GADExtractor>> PMID: 23479389 #En1: Zingiber officinale #En2: angiotensin II type 1 receptor *KeyWords: identified /***1
+SHENG-JIANG	Gene_ID:2475	@<<GADExtractor>> PMID: 23768830 #En1: Zingiber officinale #En2: FRAP *KeyWords: null /@<<GADExtractor>> PMID: 23134460 #En1: Zingiber officinale #En2: FRAP *KeyWords: had /@<<GADExtractor>> PMID: 25371557 #En1: Zingiber officinale #En2: FRAP *KeyWords: had /@<<GADExtractor>> PMID: 25371557 #En1: Zingiber officinale #En2: FRAP *KeyWords: gave /***4
+SHENG-JIANG	Gene_ID:8030	@<<GADExtractor>> PMID: 23768830 #En1: Zingiber officinale #En2: TPC *KeyWords: null /@<<GADExtractor>> PMID: 23134460 #En1: Zingiber officinale #En2: TPC *KeyWords: had /***2
+SHENG-JIANG	Gene_ID:5250	@<<GADExtractor>> PMID: 25869517 #En1: Zingiber officinale #En2: PHC *KeyWords: null /***1
+SHENG-JIANG	Gene_ID:5542	@<<GADExtractor>> PMID: 17111709 #En1: Zingiber officinale #En2: PMS *KeyWords: null /***1
+SHENG-JIANG	Gene_ID:1636	@<<GADExtractor>> PMID: 20185303 #En1: Zingiber officinale #En2: angiotensin I-converting enzyme *KeyWords: inhibited /@<<GADExtractor>> PMID: 20185303 #En1: Zingiber officinale #En2: ACE *KeyWords: inhibited /***2
+SHENG-JIANG	Gene_ID:6717	@<<GADExtractor>> PMID: 31160545 #En1: Zingiber officinale #En2: Sri *KeyWords: null /***1
