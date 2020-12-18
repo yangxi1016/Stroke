@@ -1,6 +1,0 @@
-Entity1ID	Entity1	Entity2ID	Entity2	PMID:keyword
-CPM50	Jie-Du-Tang	Ingredient33	berberine	23628154:is
-CPM42	Huang-Lian-Jie-Du-Tang	Ingredient33	berberine	23628154:is
-CPM106	Oryzasativa	Ingredient114	Glycine	29085434:null
-CPM70	Sesamumindicum	Ingredient114	Glycine	29085434:null
-CPM69	Sesamum	Ingredient114	Glycine	29085434:null
